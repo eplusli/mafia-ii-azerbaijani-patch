@@ -1,0 +1,2866 @@
+﻿00_00_00_0000:
+00_00_00_0001:!"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~éÉ
+00_00_00_0002:!"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~éÉ
+00_00_00_0003:!"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~àâçéèêëîïôœùûÀÂÇÉÈÊËÎÏÔŒÙÛ
+00_00_00_0004:!"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~àèéìòùÀÈÉÌÒÙ
+00_00_00_0005:!"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~äöüÄÖÜßéÉ
+00_00_00_0006:!"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~áéíóúÁÉÍÓÚüÜñÑ¡¿
+00_00_00_0007:!"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~ĄąĘęÓóĆćŁłŃńŚśŹźŻżéÉ
+00_00_00_0008:!"#$%&'()*+,-./0123456789:;<=>?@[\]^_`{|}~АБВГДЕЁЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдеёжзийклмнопрстуфхцчшщъыьэюя
+00_00_00_0009:!"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~ěščřžýáíéóúůňďťĚŠČŘŽÝÁÍÉÓÚŮŇĎŤ
+00_00_00_0010:®
+00_50_00_0000:MG-42-dən istifadə et
+00_50_00_0001:Liftdən istifadə et
+00_50_00_0002:Lifti çağır
+00_50_00_0003:Qapını aç
+00_50_00_0004:Qapını bağla
+00_50_00_0006:Qapını təpiklə aç
+00_50_00_0007:Qapının kilidini aç
+00_50_00_0008:Qapını kilidlə
+00_50_00_0009:Min
+00_50_00_0010:Düş
+00_50_00_0011:Kapotu bağla
+00_50_00_0012:Baqajı bağla
+00_50_00_0013:Kapotu aç
+00_50_00_0014:Baqajı aç
+00_50_00_0015:Otur
+00_50_00_0016:Ayağa qalx
+00_50_00_0017:Maşına benzin vur
+00_50_00_0018:Maşını oğurla
+00_50_00_0019:Mühərriki təmir et
+00_50_00_0021:Mağazadakılara bax
+00_50_00_0022:Yemək al
+00_50_00_0023:Arxasınca get
+00_50_00_0024:Gözlə
+00_50_00_0025:Güclü zərbə vur
+00_50_00_0026:Teleportdan istifadə et
+00_50_00_0027:1 dollara hot-doq al
+00_50_00_0028:Kilidi açmaq üçün basılı saxla
+00_50_00_0029:Şüşəni sındır
+00_50_00_0030:Nərdivandan istifadə et
+00_50_00_0031:Qapının kilidini açmaq üçün bas
+00_50_00_0032:Salvatore-dən kömək istə
+00_50_00_0033:Cəsədi sürüklə
+00_50_00_0034:Cəsədi yerə qoy
+00_50_00_0035:Nərdivanı burax
+00_50_00_0036:Talonları götür
+00_50_00_0037:Radionu yandır
+00_50_00_0038:Radionu söndür
+00_50_00_0039:Musiqi avtomatından istifadə et
+00_50_00_0040:Kilid açan alət lazımdır
+00_50_00_0041:Pəncərəni aç
+00_50_00_0042:Maria Agnello ilə danış
+00_50_00_0043:Rəfə bax
+00_50_00_0044:Hot-doq ye
+00_50_00_0045:Hot-doq al
+00_50_00_0046:Qəzet al
+00_50_00_0047:Oyun avtomatı
+00_50_00_0048:Seyf açmağı öyrəndin.
+00_50_00_0049:Qaraj boşdur.
+00_50_00_0050:Bu maşın qaraja girə bilməz.
+00_50_00_0051:Qarajı aç
+00_50_00_0052:Maşını qarajda saxla
+00_50_00_0053:Maşını dəyişmək üçün basılı saxla
+00_50_00_0054:Pulun çatmır.
+00_50_00_0055:Qarajın çıxışı tutulub. Maşını çıxarmaq üçün yolu boşalt.
+00_50_00_0056:Pəncərəni bağla
+00_50_00_0057:Ayaqqabılarını təmizlətdir
+00_50_00_0058:Yükü sat
+00_50_00_0059:Düşmək üçün basılı saxla
+00_50_00_0060:%s oğurla
+00_50_00_0061:[QUESTION_ACTION] Qəbul et
+00_50_00_0062:[QUESTION_SELECT] Hərəkəti seç
+00_50_00_0100:Danış
+00_50_00_0101:Arxasınca getməyə başla
+00_50_00_0102:Arxasınca getməyi dayandır
+00_50_00_0103:Günahsız adamları öldürdün. Nüfuzun düşür!
+00_50_00_0104:Alış-veriş üçün AB düyməsinə bas
+00_50_00_0105:Joe-nun yanında yenə AB düyməsinə bas
+00_50_00_0106:Qəbul et
+00_50_00_0107:Şüşəkəsəni götür
+00_50_00_0108:Deşik aç
+00_50_00_0109:Giuseppe ilə danış
+00_50_00_0110:Henry ilə danış
+00_50_00_0200:Qəzeti götür
+00_50_00_0201:Hot-doqu götür
+00_50_00_0202:Qapını döy
+00_50_00_0203:Teleport
+00_50_00_0204:Seyfi aç
+00_50_00_0205:Açarı götür
+00_50_00_0206:Asma kilidi alətlə aç
+00_50_00_0207:Ovu başlat
+00_50_00_0208:Qaçışı başlat
+00_50_00_0209:Sendviçi ver
+00_50_00_0210:İşığı yandır
+00_50_00_0211:Paltarını dəyiş
+00_50_00_0212:Silahları götür
+00_50_00_0213:Kranı aç
+00_50_00_0214:Unitazın suyunu çək
+00_50_00_0215:Kassanı soy
+00_50_00_0216:Qapının zəngini çal
+00_50_00_0217:Telefon köşkündən istifadə et
+00_50_00_0218:Ventilyatoru yandır
+00_50_00_0219:Barı aç
+00_50_00_0220:Köməkçiləri yarat
+00_50_00_0221:Ölümsüzlüyü aç/bağla
+00_50_00_0222:Bir düşmən yarat
+00_50_00_0223:Aşıb keç
+00_50_00_0224:Onu səssizcə öldür
+00_50_00_0225:Mühafizəçi yarat
+00_50_00_0226:Pietro-nu çıxart
+00_50_00_0227:Tabureti götür
+00_50_00_0228:Kiçik əşyanı götür
+00_50_00_0229:Paltarları ver
+00_50_00_0230:Paltarları götür
+00_50_00_0231:Yatağa uzan
+00_50_00_0232:Telefondan istifadə et
+00_50_00_0233:Süpürgəni götür
+00_50_00_0234:Əl-üzünü yu
+00_50_00_0235:Yolpulunu ödə
+00_50_00_0236:Telefona cavab ver.
+00_50_00_0237:Öskür
+00_50_00_0238:Presdən istifadə et
+00_50_00_0239:Bombanı yerləşdir
+00_50_00_0240:Təmizlikçi ilə danış
+00_50_00_0241:Haqqı soruş
+00_50_00_0242:Elektrik qutusunu aç
+00_50_00_0243:Ananla danış
+00_50_00_0244:Francesca ilə danış
+00_50_00_0245:Yeşiyi qaldır
+00_50_00_0246:Yeşiyi yüklə
+00_50_00_0247:Kişi ilə danış
+00_50_00_0248:Paspasın altına bax
+00_50_00_0249:Poçt qutusuna bax
+00_50_00_0250:Qapının çərçivəsinə bax
+00_50_00_0251:Pəncərənin altlığına bax
+00_50_00_0252:Dağınıqlığı yığışdır
+00_50_00_0253:Məktubu göndər
+00_50_00_0254:Şüşəsiləni götür
+00_50_00_0255:Təmizlikçini lentlə bağla
+00_50_00_0256:Qutunu götür
+00_50_00_0257:Karton qutunu götür
+00_50_00_0258:Adamı aşağı sal
+00_50_00_0259:Fırçanı götür
+00_50_00_0260:Yatağın altında gizlən
+00_50_00_0261:Şkafda gizlən
+00_50_00_0262:Pərdələrin arxasında gizlən
+00_50_00_0263:Duş pərdəsinin arxasında gizlən
+00_50_00_0264:Döşəkağıları götür
+00_50_00_0265:Sərxoş oğlanla danış
+00_50_00_0266:Sərxoş qızla danış
+00_50_00_0267:Sərxoş oğlanla danış
+00_50_00_0268:Eric ilə danış
+00_50_00_0269:Derek ilə danış
+00_50_00_0270:Derek öldü.
+00_50_00_0271:Yaşlı qadınla danış
+00_50_00_0272:Kişi ilə danış
+00_50_00_0273:Mühərriki təmir et
+00_50_00_0274:Kürəkdən istifadə et
+00_50_00_0275:Yemək və ya içki götür
+00_50_00_0276:Çıxıntıya dırmaş
+00_50_00_0277:Telefon köşkündən istifadə et
+00_50_00_0278:Telefondan istifadə et
+00_50_00_0279:Telefona cavab ver
+00_50_00_0280:Yatağın altına bax
+00_50_00_0281:Tullanıb çıx
+00_50_00_0282:Seyfin açarını tapdın.
+00_50_00_0283:Radiostansiyanı dəyiş
+00_50_00_0284:Masanı axtar
+00_50_00_0285:Mühafizəçi ilə danış
+00_50_00_0286:Barı dağıtdın, indi aradan çıx!
+00_50_00_0287:Mallar məhv oldu, oradan çıx!
+00_50_00_0288:O, payını aldı. Buradan çıx!
+00_50_00_0289:Televizoru yandır
+00_50_00_0290:Televizoru söndür
+00_50_00_0291:Taksiyə min
+01_50_00_0292:Adamın üstünü axtar
+00_50_00_0293:Fəhlə ilə danış
+00_50_00_0294:Cənab Manara ilə danış
+00_50_00_0295:Jurnalı götür
+00_50_00_0296:Taksi çağır
+00_50_00_0297:Burada saxla
+00_50_00_0298:Qaza bas!
+00_50_00_0299:Yolu ötür
+00_50_00_0300:Burada gözlə
+00_50_00_0301:Evsiz adama bir dollar ver
+00_50_00_0302:Gedəcəyin yeri de
+00_50_00_0303:Lisa ilə danış
+00_50_00_0304:Masadakı açarı götür.
+00_50_00_0305:Mühafizəçi yaxınlaşır. Gizlənmək üçün [COVER] düyməsinə basıb sığınacağa keç.
+00_50_00_0306:Seyf birinci mərtəbədədir.
+00_50_00_0307:Zirehli maşını soy.
+00_50_00_0308:Qaç!
+00_50_00_0309:Paltarını dəyiş. Paltarlar şkafdadır.
+00_50_00_0310:Unitazın üstünə çıx
+00_50_00_0311:İdman zalından çıx
+00_50_00_0312:Desmond-dan pulu al
+00_50_00_0313:Flaminqolara bax
+00_50_00_0314:Joe-nu soruş
+00_50_00_0315:Posteri götür
+00_50_00_0316:Kartı götür
+00_50_00_0317:MG-42-ni burax
+00_50_00_0318:Kranı bağla
+00_50_00_0319:Ventilyatoru söndür
+00_50_00_0320:İşığı söndür
+00_50_00_0321:Maşın qarajının qapısını aç
+00_50_00_0322:Duşu aç
+00_50_00_0323:Duşu bağla
+00_50_00_0324:Piştaxtanın qapısını aç
+00_50_00_0325:Piştaxtanın qapısını bağla
+00_50_00_0326:Menyuya bax
+00_50_00_0327:Evi al
+00_50_00_0328:Şüşəni sındır
+00_50_00_0329:Sığınacaqdan çıx
+00_50_00_0330:Geri çəkil
+00_50_00_0331:Səssizcə öldür
+00_50_00_0332:Yaxından hücum et
+00_50_00_0333:Teleskopu çevir
+00_50_00_0334:Damı aç/bağla
+00_50_00_0335:Əlavə güllə götür
+00_50_00_0336:Evə zəng et
+00_50_00_0337:Zəng edən adamı çıxart
+00_50_00_0338:Evsiz adama bir dollar ver
+00_50_00_0339:Bütün sərnişinlər maşına sığmır.
+00_50_00_0340:Sendviçi ye
+00_50_00_0341:Darvazanı aç
+00_50_00_0342:Darvazanı bağla
+00_50_00_0343:Mike ilə danış
+00_50_00_0344:Carlo ilə danış
+00_50_00_0345:Kilidin dilini tərpət
+00_50_00_0346:Darvazanı təpiklə aç
+00_50_00_0347:Harry ilə danış
+00_50_00_0348:Sürət məhdudlaşdırıcısını söndür
+00_50_00_0349:Posterə bax
+00_50_00_0350:Zərbədən yayınmaq üçün basılı saxla
+00_50_00_0351:Sənədləri götür
+00_50_00_0352:Təbriklər!
+00_50_00_0353:Qeydiyyatdan keçmək üçün www.mafia2game.com/sweepstakes saytına gir.
+00_50_00_0354:Kod:
+00_50_00_0355:Mafia II demosunun uduş kampaniyası
+00_50_00_0356:Uduş kampaniyasına qatılmaq üçün demonu yenidən oyna və Empire Bay-də gizlədilmiş Mafia II posterini tap.
+00_50_00_0357:İştirak şərtləri və mükafatlar üçün www.mafia2game.com/sweepstakes saytına bax.
+00_50_00_0358:Uğurlar!
+00_52_00_0001:<color ="FFFFFF00">SAND ISLAND LİMANINDAN SOUTHPORT-A<br><size="0.015">Sand Island<br><size="0.015">Hunters<br><color ="FF008000"><size="0.015">Greenfield<br><size="0.015">Kingston<br><size="0.015">Dipton dəmiryol vağzalı<br><size="0.015">Little Italy<br><size="0.015">East Side<br><size="0.015">Uppertown avtobus dayanacağı<br><size="0.015">West Side bazarı
+00_52_00_0021:<color ="FFFFFF00">SOUTHPORT-DAN SAND ISLAND LİMANINA<br><size="0.015">Oysterbay<br><size="0.015">Chinatown<br><size="0.015">Şimali Millvile<br><color ="FF008000"><size="0.015">Little Italy şose çıxışı<br><size="0.015">Dipton dəmiryol vağzalı<br><size="0.015">Kingston<br><size="0.015">Greenfield
+00_52_00_0031:Maşını əzmək üçün yuxarıdakı idarəetmə panelindən istifadə et.
+00_52_00_0032:Metal qırıntısının pulunu almaq üçün Mike ilə danış.
+00_52_00_0033:Maşını Mike-a satmaq istəyirsənsə, onu qarajda saxla.
+00_52_00_0034:Maşının pulunu almaq üçün Mike ilə danış.
+00_52_00_0035:Maşını Derek-ə satmaq üçün kranın platformasında saxla.
+00_52_00_0036:Maşının pulunu almaq üçün Derek ilə danış.
+00_52_00_0037:Şkaf boşdur.
+00_52_00_0038:Soyuducu boşdur.
+00_52_00_0039:Növbəti tapşırığa başlamaq üçün telefonu götür.
+00_52_00_0040:Avtomobil emalatxanasına girmək üçün dayanıb [ACTION] düyməsinə bas.
+00_52_00_0041:Avtoyuyucuya girmək üçün dayanıb [ACTION] düyməsinə bas.
+00_52_00_0042:Benzin almaq üçün dayanıb [ACTION] düyməsinə bas.
+00_52_00_0043:Bu maşın həmin xidmətdən istifadə edə bilməz.
+00_52_00_0044:Yükü xəritədə işarələnmiş yerə çatdıra bilərsən.
+00_52_00_0045:Yanacaq satmaq üçün yanacaqdoldurma məntəqəsinin yanında saxlayıb siqnal ver.
+00_52_00_0046:Yük uğurla çatdırıldı.
+00_52_00_0047:Joe öldü.
+00_52_00_0048:Zəngi gözlə.
+00_52_00_0049:Səni burada tanıyan yoxdur. Bura yalnız üzvlər üçündür.
+00_52_00_0050:Lap avara kimi geyinmisən. Vangel's-dən özünə yaxşı paltar al.
+00_52_00_0051:Zəng çalanda içəri gir.
+00_52_00_0052:Rüşvət verməyə pulun çatmır. Qaç!
+00_52_00_0053:Dostların olduğu yerə girirsən.
+00_52_00_0054:Dostların olduğu yerdən çıxırsan.
+00_52_00_0055:Burada silah gəzdirmək olmaz.
+00_52_00_0056:Tapşırıq ərazisindən çıxırsan. 5 saniyəyə geri qayıt.
+00_52_00_0057:Tapşırıq ərazisindən çıxırsan. 4 saniyəyə geri qayıt.
+00_52_00_0058:Tapşırıq ərazisindən çıxırsan. 3 saniyəyə geri qayıt.
+00_52_00_0059:Tapşırıq ərazisindən çıxırsan. 2 saniyəyə geri qayıt.
+00_52_00_0060:Tapşırıq ərazisindən çıxırsan. 1 saniyəyə geri qayıt.
+00_52_00_0061:Səhnəni ötürmək üçün [ESCAPE] düyməsini basılı saxla.
+00_52_00_0062:Nişangahı gedəcəyin yerə aparıb [HIT_1] düyməsinə basaraq oranı seç.
+00_52_00_0063:Bu maşın ixrac üçün çox ucuzdur.
+00_52_00_0064:Bu maşında kifayət qədər oturacaq yoxdur.
+00_52_00_0065:Bu maşını presdə əzmək olmaz.
+00_52_00_0066:Bu maşını satmaq olmaz.
+00_52_00_0067:Sürət məhdudlaşdırıcısını söndürmək üçün [DRIVING_STYLE] düyməsinə bas.
+00_52_00_0068:Polisdən qurtulmadan emalatxanaya girə bilməzsən!
+00_52_00_0069:Bütün düşmənlərdən qurtulmadan emalatxanaya girə bilməzsən!
+00_52_00_0070:Yaxşı maşındır, amma ixrac üçün çox zədəlidir.
+00_52_00_0071:Yeni rəsm açıldı - əsas menyuya bax.
+00_52_00_0072:Presin mexanizmi ilişib. Girişin qabağını boşalt.
+00_52_00_0073:Xarab mühərriki təmir etmək üçün kapotun yanında [ACTION] düyməsinə bas.
+00_52_00_0074:Polisdən qurtul!
+00_52_00_0075:Qanqsterlər dalınca düşüb. Onlardan qurtul!
+00_52_00_0076:Qarajın qapısını açmaq üçün [HORN] düyməsi ilə siqnal ver.
+00_52_00_0077:Benzinin azalır. Ən yaxın yanacaqdoldurma məntəqəsini xəritədə tapa bilərsən.
+00_52_00_0078:Atış məşqi
+00_52_00_0079:Hərəkət edən hədəflərlə atış məşqi
+00_52_00_0080:Başından vurdun!
+00_52_00_0081:Asan
+00_52_00_0082:Orta
+00_52_00_0083:Çətin
+00_52_00_0084:Başından vurmağa çalış.
+00_52_00_0085:Bütün hədəfləri vurmağa çalış.
+00_52_00_0086:Təbriklər! Bütün hədəfləri vurdun.
+00_52_00_0087:Heyif. Bütün hədəfləri vura bilmədin.
+00_52_00_0088:Atış meydançasını təmir et
+00_52_00_0089:İndi yeni oyuna başlaya bilərsən.
+00_52_00_0090:Atış meydançası
+00_52_00_0091:Presdə maşın əzərək pul qazana bilərsən.
+00_52_00_0092:Qaç.
+00_52_00_0093:Axtarış plakatları şəhərin hər yerində gizlədilib.
+00_52_00_0094:Platforma həddindən artıq yüklənib.
+00_50_01_0000:Seç
+00_50_01_0002:Götür
+00_50_01_0003:Yerə qoymaq üçün BASILI SAXLA
+00_50_01_0004:Dəyiş
+00_50_01_0005:Ləğv et
+00_50_01_0006:%ls götür
+00_50_01_0007:%ls üçün güllə götür
+00_50_01_0008:Əşyaları götür
+00_50_01_0009:%s dəyiş
+00_50_01_0010:Götür
+00_50_01_0011:Sığınacağa keç
+00_50_02_0000:Qayka açarından istifadə et
+00_50_02_0001:Ləğv et
+00_50_02_0002:Güclü fənd üçün B + Y düymələrinə bas
+00_50_02_0003:Özünə gəlmək üçün B düyməsinə ardıcıl bas
+00_50_03_0000:Polis səni cərimələmək istəyir.
+00_50_03_0001:Polis səni həbs etmək istəyir.
+00_50_03_0002:Polis səni görən kimi atəş açacaq.
+00_50_03_0003:Polis silah icazəni yoxlamaq istəyir.
+00_50_03_0004:Polis sənədini yoxlamaq istəyir.
+00_50_03_0005:Polis dalaşdığını gördü.
+00_50_03_0006:Polis tədbirləri sərtləşdirdi!
+00_50_03_0007:Polis səni axtarır. Paltarını dəyiş.
+00_50_03_0008:Polis bu maşını axtarır.
+00_50_03_0009:Polis gücləndirilmiş iş rejimindədir.
+00_50_03_0010:Polis izini itirdi.
+00_50_03_0011:Polis səni tanıdı və həbs etməyə çalışacaq.
+00_50_03_0012:Dalınca gələn polis izini itirmək üzrədir. Onlardan qurtulmaq üçün gözə görünmə.
+00_50_03_0013:Bir müddət polisin gözü qabağında qalsan, səni tanıyacaq.
+00_50_03_0014:Polisə əlavə qüvvə gəldi. Ehtiyatlı ol!
+00_50_03_0015:Polis bu maşını axtarır. Ondan qurtul.
+00_50_04_0000:YÜNGÜL YUMRUQ ÜÇÜN [HIT_1] DÜYMƏSİNƏ BAS
+00_50_04_0001:ARDICIL YÜNGÜL YUMRUQLAR ÜÇÜN [HIT_1][HIT_1][HIT_1] DÜYMƏLƏRİNƏ BAS
+00_50_04_0002:SƏNDƏLƏYƏN RƏQİBƏ SƏRT FƏND İŞLƏTMƏK ÜÇÜN [HIT_1] DÜYMƏSİNƏ BAS
+00_50_04_0003:GÜCLÜ YUMRUQ ÜÇÜN [HIT_2] DÜYMƏSİNƏ BAS
+00_50_04_0004:ARDICIL GÜCLÜ YUMRUQLAR ÜÇÜN [HIT_2][HIT_2] DÜYMƏLƏRİNƏ BAS
+00_50_04_0005:ZƏRBƏDƏN YAYINMAQ ÜÇÜN [BLOCK] DÜYMƏSİNİ BASILI SAXLA
+00_50_04_0006:ZƏRBƏDƏN YAYINMAQ ÜÇÜN [BLOCK] DÜYMƏSİNİ BASILI SAXLA, SONRA ƏKS-HÜCUM ÜÇÜN [HIT_1] DÜYMƏSİNƏ BAS
+00_50_04_0007:RƏQİBİNİ TUTMAQ ÜÇÜN [HIT_2] DÜYMƏSİNƏ BAS
+00_50_04_0008:SON ZƏRBƏ ÜÇÜN [HIT_1][HIT_1][HIT_1] DÜYMƏLƏRİNƏ BAS
+00_50_04_0009:SON ZƏRBƏ FƏNDLƏRİNDƏN İSTİFADƏ ET
+00_50_04_0010:
+00_50_04_0011:Olmaz.
+00_53_01_0000:GÖTÜR
+00_53_01_0001:YERƏ QOY
+00_53_01_0002:YER YOXDUR
+00_53_01_0003:GÜLLƏ GÖTÜR
+00_53_01_0004:GÜLLƏ TAMDIR
+00_53_01_0005:%ls götürüldü
+00_53_01_0006:%ls gülləsi
+00_53_02_0001:Hörmət: %d/100
+00_53_02_0002:MƏQSƏD:
+00_53_02_0003:KİLİDİN DİLİ
+00_53_02_0004:İPUCU
+00_53_02_0005:POLİSİN FƏALLIĞI
+00_54_00_0001:%s oyuna qoşuldu!
+00_54_00_0002:Səbəb: İstifadəçi bağladı.
+00_54_00_0003:Səbəb: Server doludur.
+00_54_00_0004:Səbəb: Versiya uyğun deyil.
+00_54_00_0005:Səbəb: Şifrə səhvdir.
+00_54_00_0006:Səbəb: Serverlə əlaqə kəsildi.
+00_54_00_0007:Səbəb: Server bağlandı.
+00_54_00_0008:Səbəb: Gecikmə yüksəkdir.
+00_54_00_0009:Səbəb: Hərəkətsizlik.
+00_54_00_0010:Vaxtın bitdi.
+00_54_00_0011:Səbəb: Tapşırığın GUID-i səhvdir.
+00_54_00_0012:%s oyundan çıxdı! %s
+00_54_00_0013:!!! KOMANDA YOLDAŞINI ÖLDÜRDÜ !!! %s, %s adlı oyunçunu öldürdü!
+00_54_00_0014:%s, %s adlı oyunçunu öldürdü!
+00_54_00_0015:Düşmən
+00_54_00_0016:[ALL]
+00_54_00_0017:[TEAM]
+00_54_00_0018:[SYSTEM]
+00_53_10_0001:Dipton
+00_53_10_0002:Riverside
+00_53_10_0003:Kingston
+00_53_10_0004:Greenfield
+00_53_10_0005:Highbrook
+00_53_10_0006:Hillwood
+00_53_10_0007:Uptown
+00_53_10_0008:Little Italy
+00_53_10_0009:Şimali Millville
+00_53_10_0010:Hunters Point
+00_53_10_0011:Chinatown
+00_53_10_0012:West Side
+00_53_10_0013:East Side
+00_53_10_0014:Sand Island
+00_53_10_0015:Midtown
+00_53_10_0016:Oyster Bay
+00_53_10_0017:Cənubi Millville
+00_53_10_0018:Southport
+00_53_10_0019:Liman
+00_55_00_0002:.38 revolver
+00_55_00_0003:C96 tapança
+00_55_00_0004:1911 yarımavtomat
+00_55_00_0005:1911 xüsusi
+00_55_00_0006:Magnum
+00_55_00_0007:LTC
+00_55_00_0008:Ov tüfəngi
+00_55_00_0009:Grease Gun
+00_55_00_0010:MP40
+00_55_00_0011:Thompson 1928
+00_55_00_0012:Thompson M1A1
+00_55_00_0013:.38 avtomat
+00_55_00_0015:M1 Garand
+00_55_00_0016:Stielhandgranate 24
+00_55_00_0017:K98 tüfəng
+00_55_00_0018:K98 snayper tüfəngi
+00_55_00_0020:Mk.II əl qumbarası
+00_55_00_0021:Molotov kokteyli
+00_55_00_0022:Bıçaq
+00_55_00_0023:Kastet
+00_55_00_0024:Qayka açarı
+00_55_00_0025:Boru
+00_55_00_0026:Ət baltası
+00_55_00_0027:Lom
+00_55_00_0028:Dəyənək
+00_55_00_0029:Şüşə
+00_55_00_0031:Şüşəsilən
+00_55_00_0032:Beysbol dəyənəyi
+00_55_00_0038:Benzin bidonu
+00_55_00_0063:Qolf çantası
+00_55_00_0067:Cəsəd
+00_55_00_0083:Bomba
+00_55_00_0081:Pul
+00_55_00_0094:Süpürgə
+00_51_00_0001:Əsas tapşırıq: OV
+00_51_00_0002:Tapşırıq: QAÇIŞ
+00_51_00_0003:Joe və Marty ilə görüşmək üçün Qırmızı kilsəyə sür.
+00_51_00_0004:American Residence otelinə sür.
+00_51_01_0001:Qaçanı tut.
+00_51_01_0002:Ovçudan qaç.
+00_51_01_0011:Derek-in sənə işi var.
+00_51_01_0012:Mike-ın sənə işi var.
+00_51_01_0013:Charlie-nin sənə işi var.
+00_51_01_0014:Eddie-nin sənə işi var.
+00_51_01_0015:Qan davası - 1-ci səviyyə
+00_51_01_0016:Düşmən
+00_51_01_0017:Küçə yarışı - 1-ci səviyyə
+00_51_01_0018:Məhəllə dəliliyi
+00_51_01_0019:Ani tapşırıq var.
+00_51_01_0020:Ani tapşırıq tamamlandı.
+00_51_01_0021:Ani tapşırıq rədd edildi.
+00_51_01_0022:DAVAM EDİR
+00_51_01_0023:TAMAMLANDI
+00_51_01_0024:UĞURSUZ OLDU
+00_51_01_0025:Ovçu - 1-ci səviyyə
+00_51_01_0026:Ani tapşırıq uğursuz oldu.
+00_51_01_0027:Qaçaq - 1-ci səviyyə
+00_51_01_0028:Mağaza dağıtmaq - 1-ci səviyyə
+00_51_01_0029:Küçə davası - 1-ci səviyyə
+00_51_01_0030:Sui-qəsd - 1-ci səviyyə
+00_51_01_0031:Cangüdən - 1-ci səviyyə
+00_51_01_0032:Mağazanı dağıt.
+00_51_01_0033:Mağazanı soy.
+00_51_01_0034:Satıcını öldür.
+00_51_01_0035:Ərazini qoru.
+00_51_01_0036:Polis təqibi
+00_51_01_0037:Maşına qayıt.
+00_51_01_0038:Evə get.
+01_50_00_0027:Pietro-nu götür.
+00_56_00_0001:Doğma yurd
+00_56_00_0002:Doğma ev
+00_56_00_0003:Dövlət düşməni
+00_56_00_0004:Merfi qanunu
+00_56_00_0005:Mişar
+00_56_00_0006:Boşa getməyən vaxt
+00_56_00_0007:Francesco Potenza-nın əziz xatirəsinə
+00_56_00_0008:Vəhşi dəstə
+00_56_00_0009:Balls və Beans
+00_56_00_0010:Otaq xidməti
+00_56_00_0011:Bizim adamlardan biri
+00_56_00_0012:Dənizdən hədiyyə
+00_56_00_0013:Əjdahanın sonu
+00_56_00_0014:Cənnətə pilləkən
+00_56_00_0015:Çətinliklərdən ulduzlara
+00_56_00_0016:İkisi birində
+00_56_00_0017:Mafiya unutmur
+00_56_00_0018:Derek ilə haqq-hesab
+00_56_00_0100:Mafia II
+00_56_00_0101:Fəsil 1
+00_56_00_0102:Doğma yurd
+00_56_00_0103:Siciliya, iyul 1943
+00_56_00_0201:Fəsil 2
+00_56_00_0202:Doğma ev
+00_56_00_0203:2 il sonra - Empire Bay, 8 fevral 1945
+00_56_00_0204:Ertəsi gün
+00_56_00_0301:Fəsil 3
+00_56_00_0302:Dövlət düşməni
+00_56_00_0303:Joe-nun evi, 10 fevral 1945
+00_56_00_0401:Fəsil 4
+00_56_00_0402:Merfi qanunu
+00_56_00_0403:Little Italy, 11 fevral 1945
+00_56_00_0404:Altı saat sonra...
+00_56_00_0501:Fəsil 5
+00_56_00_0502:Mişar
+00_56_00_0503:Joe-nun evi, 20 fevral 1945
+00_56_00_0601:Fəsil 6
+00_56_00_0602:Boşa getməyən vaxt
+00_56_00_0603:Little Italy, 26 fevral 1945
+00_56_00_0604:Hartmann federal həbsxanası, 18 may 1945
+00_56_00_0610:3 gün sonra
+00_56_00_0615:2 gün sonra
+00_56_00_0620:Bir həftə sonra
+00_56_00_0701:Fəsil 7
+00_56_00_0702:Francesco Potenza-nın əziz xatirəsinə
+00_56_00_0703:Empire Bay, 10 aprel 1951
+00_56_00_0801:Fəsil 8
+00_56_00_0802:Vəhşi dəstə
+00_56_00_0803:Uptown, 11 aprel 1951
+00_56_00_0901:Fəsil 9
+00_56_00_0902:Balls və Beans
+00_56_00_0903:Uptown, 6 may 1951
+00_56_00_1001:Fəsil 10
+00_56_00_1002:Otaq xidməti
+00_56_00_1003:Scaletta villası, 15 iyun 1951
+00_56_00_1101:Fəsil 11
+00_56_00_1102:Bizim adamlardan biri
+00_56_00_1103:Scaletta villası, 27 iyul 1951
+00_56_00_1201:Fəsil 12
+00_56_00_1202:Dənizdən hədiyyə
+00_56_00_1203:Marty-nin evi, 22 sentyabr 1951
+00_56_00_1301:Fəsil 13
+00_56_00_1302:Əjdahanın sonu
+00_56_00_1303:Joe-nun evi, 24 sentyabr 1951
+00_56_00_1401:Fəsil 14
+00_56_00_1402:Cənnətə pilləkən
+00_56_00_1403:Oyster Bay, 25 sentyabr 1951
+00_56_00_1501:Fəsil 15
+00_56_00_1502:Çətinliklərdən ulduzlara
+00_56_00_1503:Oyster Bay, 26 sentyabr 1951
+00_56_00_1504:Son söz
+00_56_00_1505:Çoxdan vaxtı çatıb
+00_56_00_1506:18 oktyabr 1953
+00_56_00_1507:Son söz
+00_56_00_1508:Ömürlük dostlar
+00_56_00_1509:22 iyul 1955
+00_56_00_1510:Son söz
+00_56_00_1511:Ailə işi
+00_56_00_1512:18 yanvar 1954
+00_56_00_1513:Son
+00_56_01_0001:Giriş
+00_56_01_0002:Tapşırıq 1
+00_56_01_0003:Tapşırıq 2
+00_56_01_0004:Tapşırıq 3
+00_56_01_0005:Tapşırıq 4
+00_56_01_0006:Tapşırıq 5
+00_56_01_0007:Tapşırıq 6
+00_56_01_0008:Tapşırıq 7
+00_56_01_0009:Tapşırıq 8
+00_56_01_0010:Tapşırıq 9
+00_56_01_0011:Tapşırıq 10
+00_56_01_0012:Tapşırıq 11
+00_56_01_0013:Tapşırıq 12
+00_56_01_0014:Tapşırıq 13
+00_56_01_0015:Tapşırıq 14
+00_56_02_0001:Doğma yurd
+00_56_02_0002:Doğma ev
+00_56_02_0003:Dövlət düşməni
+00_56_02_0004:Merfi qanunu
+00_56_02_0005:Mişar
+00_56_02_0006:Boşa getməyən vaxt
+00_56_02_0007:Əziz xatirəsinə...
+00_56_02_0008:Vəhşi dəstə
+00_56_02_0009:Balls və Beans
+00_56_02_0010:Otaq xidməti
+00_56_02_0011:Bizim adamlardan biri
+00_56_02_0012:Dənizdən hədiyyə
+00_56_02_0013:Əjdahanın sonu
+00_56_02_0014:Cənnətə pilləkən
+00_56_02_0015:Çətinliklərdən ulduzlara
+00_56_02_0016:İkisi birində
+00_56_02_0017:Mafiya unutmur
+00_56_02_0018:Derek ilə haqq-hesab
+00_57_00_0001:Geyim mağazası
+00_57_00_0002:Empire yeməkxanası
+00_57_00_0003:Stansiya
+00_57_00_0004:Avtomobil emalatxanası
+00_57_00_0005:Silah mağazası
+00_57_00_0006:Harry
+00_57_00_0007:The Lone Star
+00_57_00_0008:Freddy-nin barı
+00_57_00_0009:Yeməkxana
+00_57_00_0010:Daşınmaz əmlak
+00_57_00_0011:The Mona Lisa
+00_57_00_0012:Avtoyuyucu
+00_57_00_0013:Yanacaqdoldurma məntəqəsi
+00_57_00_0014:Joe-nun evi
+00_57_00_0015:?? EV ??
+00_57_00_0016:Bukmeker
+00_57_00_0017:Hill of Tara
+00_57_00_0018:Əmlak agenti
+00_57_00_0019:Avtosalon
+00_57_00_0020:Ev
+00_57_00_0021:Val mağazası
+00_57_00_0022:Giuseppe
+00_57_00_0023:Bruski-nin maşın qəbiristanlığı
+00_57_00_0024:Məişət texnikası
+00_57_00_0025:Yarış zolağı
+00_57_00_0026:Vangel's
+00_57_00_0027:The Maltese Falcon
+00_57_00_0028:Ev
+00_57_00_0029:Ev
+00_57_00_0030:Ev
+00_57_00_0031:Ev
+00_57_00_0032:Ərzaq dükanı
+00_57_00_0033:Alberto Clemente
+00_57_00_0034:Misery Lane
+00_57_00_0035:Bruno-nun ofisi
+00_57_00_0036:Avtobus dayanacağı
+00_57_00_0037:Cənnət bağı
+00_57_00_0038:Tikinti sahəsi
+00_57_00_0039:Derek-in ofisi
+00_57_00_0040:Spirt zavodu
+00_57_00_0041:El Greco
+00_57_00_0042:Eric-in dostu
+00_57_00_0043:Ailə 1
+00_57_00_0044:Ailə 2
+00_57_00_0045:Tökmə zavodu
+00_57_00_0046:Alman ailəsi
+00_57_00_0047:Hillwood qoruğu
+00_57_00_0048:Otel
+00_57_00_0049:Charlie
+00_57_00_0050:Jerry Whitefield
+00_57_00_0051:Joan Burner
+00_57_00_0052:Leo Galante
+00_57_00_0053:Lincoln Park
+00_57_00_0054:West Side ticarət mərkəzi
+00_57_00_0055:Ana
+00_57_00_0056:Malikanə
+00_57_00_0057:Maria Agnello
+00_57_00_0058:O.P.A.
+00_57_00_0059:Rəsədxana
+00_57_00_0060:Sea Gift Fish Co.
+00_57_00_0061:Qəssabxana
+00_57_00_0062:Kiçik qaraj
+00_57_00_0063:Metro
+00_57_00_0064:Tommy Angelo
+00_57_00_0065:Tong qərargahı
+00_57_00_0066:Dəmiryol vağzalı
+00_57_00_0067:Anbar
+00_57_00_0068:Həyət
+00_57_00_0069:Crazy Horse Saloon
+00_57_00_0070:Telefon köşkü
+00_57_00_0071:Gizlənəcək yer
+00_57_00_0072:Oyunçunu göstər
+00_58_00_0001:Yatmaq istəyirsən?
+00_58_00_0002:İrəliləyişi yadda saxla
+00_58_00_0003:Yat
+00_58_00_0004:Heç nə
+00_58_00_0005:Nə istəyirsən?
+00_58_00_0006:İş barədə soruş
+00_58_00_0007:Maşını presə ver
+00_58_00_0008:Maşını ehtiyat hissəsi kimi sat
+00_58_00_0009:$%2 cərimə ödə
+00_58_00_0010:$%3 rüşvət ver
+00_58_00_0011:Ödəməkdən imtina et
+00_58_00_0012:$%3 rüşvət ödə
+00_58_00_0013:Başla
+00_58_00_0014:Ləğv et
+00_58_00_0015:SUİ-QƏSD
+00_58_00_0016:YARIŞ
+00_58_00_0017:MƏHƏLLƏ DƏLİLİYİ
+00_58_00_0018:Sola hərəkət et
+00_58_00_0019:Sağa hərəkət et
+00_58_00_0020:Çevir
+00_58_00_0021:Aşağı itələ
+00_58_00_0022:Maşını ixrac üçün sat.
+00_58_00_0023:Həbsə müqavimət göstər
+00_58_00_0024:$%1 pulun var. Nə etmək istəyirsən?
+00_58_00_0025:V.I.P. ovu
+00_58_00_0026:Üzr istə
+00_58_00_0027:YUMRUQ DAVASI
+00_58_00_0028:MAĞAZANI SOY
+00_58_00_0029:MAĞAZANI DAĞIT
+00_58_00_0030:SATICINI ÖLDÜR
+00_58_00_0031:POLİS TƏQİBİ
+00_58_00_0032:ƏRAZİNİ_QORU
+00_58_00_0033:1-ci mərtəbəyə get
+00_58_00_0034:2-ci mərtəbəyə get
+00_58_00_0035:3-cü mərtəbəyə get
+00_58_00_0036:4-cü mərtəbəyə get
+00_58_00_0037:Təslim ol
+00_58_00_0038:Həbs olundun
+20_58_00_0000:Nə edəcəksən?
+20_58_00_0001:Polisə rüşvət verməyə çalış
+20_58_00_0002:Silah icazəni göstər
+20_58_00_0003:Qaçmağa çalış
+00_59_00_0000:Davam etmək üçün START düyməsinə bas
+00_59_00_0001:Geri
+00_59_00_0002:Bəli
+00_59_00_0003:Xeyr
+00_59_00_0004:Çıx
+00_59_00_0005:Çıxış
+00_59_00_0006:Yarat
+00_59_00_0007:Dayandır
+00_59_00_0008:Ləğv et
+00_59_00_0009:Davam et
+00_59_00_0010:Nəzərə alma
+00_59_00_0011:Yenidən yoxla
+00_59_00_0012:Yenidən cəhd et
+00_59_00_0013:Oldu
+00_59_00_0014:Əvvəlki
+00_59_00_0015:Növbəti
+00_59_00_0016:Əvvəlki / Növbəti
+00_59_00_0017:Açıq
+00_59_00_0018:Bağlı
+00_59_00_0019:Bu oyunu oynamağa icazən yoxdur!
+00_59_00_0020:YOXLAMA UĞURSUZ OLDU - BU, OYUNUN İŞİNƏ MƏNFİ TƏSİR EDƏCƏK
+00_59_00_0021:Ötür
+00_59_00_0022:Yoxlanılır...
+00_59_00_0023:İstifadəçi qeydiyyatda deyil: identifikatorlarını almaq üçün 2Kczech-in təqdim etdiyi nüsxə qeydiyyatı alətindən istifadə et.
+00_59_00_0024:İdentifikator etibarsızdır: onu yeniləmək üçün 2Kczech-in təqdim etdiyi nüsxə qeydiyyatı alətindən istifadə et.
+00_59_00_0025:Nüsxəni qoruma xidmətlərinə qoşulmaq alınmadı: bağlantını yoxla. Hesabına daxil olmalı və onlayn xidmətlərə qoşulmalısan.
+00_59_00_0026:Xəta 0x%0x
+00_59_00_0027:Yadda saxla
+00_59_00_0028:Başla
+00_59_00_0029:Geri
+00_59_00_0030:Siyahı
+00_59_00_0031:Tanıtım demosunu açmaq üçün start düyməsinə bas
+00_59_00_0032:Gizli kod tapıldı
+00_59_00_0033:Uduş üçün qeydiyyatdan keçmək məqsədilə www.mafia2game.com saytına gir.<br> <br>Xüsusi ID: %ls
+00_59_00_0034:Bu demo oyunun son versiyasının
+00_59_00_0035:keyfiyyətini tam əks etdirmir
+00_59_00_0036:Demoya başla
+00_59_00_0037:Bas
+00_59_00_0038:oynamaq üçün
+00_59_00_0039:Bu mərhələ xüsusi olaraq demo üçün hazırlanıb və oyunun son versiyasında bu formada olmayacaq.
+00_59_01_0000:Hekayə
+00_59_01_0001:Fəsil seç
+00_59_01_0002:Ayarlar
+00_59_01_0003:Əlavələr
+00_59_01_0004:Yüklənən məzmun
+00_59_01_0005:Hekayəyə davam et
+00_59_01_0006:Yeni oyun
+00_59_01_0007:Sazlama
+00_59_01_0008:Fəsil seç
+00_59_01_0009:Seç
+00_59_01_0010:Hekayənin bölümləri
+00_59_01_0011:Azərbaycanca
+00_59_02_0000:Oyundan çıxılsın?
+00_59_02_0001:Tapşırıqdan çıxılsın?
+00_59_02_0002:Yadda saxlanmayan bütün irəliləyiş itəcək!
+00_59_02_0003:Oyundan çıxmaq istəyirsən? Yadda saxlanmayan bütün irəliləyiş itəcək!
+00_59_03_0000:Çətinlik
+00_59_03_0001:Asan
+00_59_03_0002:Orta
+00_59_03_0003:Çətin
+00_59_03_0004:Ekstremal
+00_59_03_0005:Asan
+00_59_03_0006:Bu seçim yeni başlayanlar və atış oyunlarını az oynayanlar üçün uyğundur.
+00_59_03_0007:Bu seçim döyüş oyunları ilə tanış olan əksər oyunçular üçün uyğundur.
+00_59_03_0008:Bu seçim çətinliyi sevən təcrübəli oyunçular üçün uyğundur.
+00_59_03_0009:Ekstremal səviyyəni seçməzdən əvvəl yaxşı düşün. Bu, hətta çox təcrübəli oyunçular üçün də çətindir.
+00_59_04_0000:Avtomobil ensiklopediyası
+00_59_04_0001:Ailə albomu
+00_59_04_0002:Kolleksiya əşyaları
+00_59_04_0003:Oyun statistikası
+00_59_04_0004:Oyunu hazırlayanlar
+00_59_04_0005:Oyunun hazırlanması
+00_59_04_0006:Rəsmlər
+00_59_05_0000:İdarəetmə
+00_59_05_0001:Oyun ayarları
+00_59_05_0002:Görüntü
+00_59_05_0003:Səs
+00_59_05_0004:Profil idarəetməsi
+00_59_05_0005:Slayd nümayişi
+00_59_05_0006:Bax
+00_59_06_0000:Oyuna davam et
+00_59_06_0001:Tapşırığı yenidən başlat
+00_59_06_0002:Hiylələr
+00_59_06_0003:OYUN DAYANDIRILIB
+00_59_07_0000:Tapşırıq yenidən başlasın?
+00_59_08_0000:Yüklənir
+00_59_08_0001:Start düyməsinə bas
+00_59_09_0000:XƏRİTƏ
+00_59_09_0001:İnterfeysi gizlət
+00_59_09_0002:İnterfeysi göstər
+00_59_09_0003:Oyuna davam et
+00_59_09_0004:İşarələdiyin yer
+00_59_09_0005:Xəritəni böyüt/kiçilt
+00_59_09_0006:Xəritəni hərəkət etdir
+00_59_09_0007:Silah seç
+00_59_09_0008:Yeri işarələ
+00_59_09_0009:Statistika
+00_59_09_0010:Hekayə
+00_59_09_0011:İşarəni sil
+00_59_09_0012:ƏLAVƏ XAL:
+00_59_09_0013:TAPŞIRIQ XALI:
+00_59_09_0014:Əlavə xal
+00_59_09_0015:Şəhər xalı
+00_59_09_0016:Hekayə xalı
+00_59_10_0000:İşlər
+00_59_10_0001:Bu işi aktiv et
+00_59_10_0002:TAPŞIRIQ %u - %ls
+00_59_10_0003:Davam edir
+00_59_10_0004:Vaxt bitdi
+00_59_10_0005:Bitdi
+00_59_10_0006:Tamamlanmayıb
+00_59_10_0007:Uğursuz oldu
+00_59_10_0008:Vaxt limiti: %d:%02d
+00_59_10_0009:Mükafat: $%d
+00_59_10_0010:Mükafat: %ls
+00_59_11_0000:TAPŞIRIĞIN HİSSƏLƏRİ
+00_59_12_0000:Maşın qarajdan çıxarıldı
+00_59_12_0001:İlkin maksimum güc:
+00_59_12_0002:Maksimum sürət:
+00_59_12_0003:Çəki:
+00_59_12_0004:Gedilən yol:
+00_59_12_0005:Xərclənən pul:
+00_59_12_0006:Tüninq səviyyəsi:
+00_59_12_0007:Hazırkı maksimum güc:
+00_59_12_0008:Çatılan ən yüksək sürət:
+00_59_12_0009:Vəziyyət:
+00_59_12_0010:Axtarışdadır
+00_59_12_0011:Maşını dəyiş
+00_59_12_0012:Maşını götür
+00_59_12_0013:Qarajdan çıx
+00_59_12_0014:yoxdur
+00_59_12_0015:mühərrik sazlanıb
+00_59_12_0016:şassi dəyişdirilib
+00_59_12_0017:kompressorludur
+00_59_12_0018:əla
+00_59_12_0019:cızılıb
+00_59_12_0020:az zədələnib
+00_59_12_0021:orta dərəcədə zədələnib
+00_59_12_0022:bərk əzilib
+00_59_12_0023:yararsızdır
+00_59_12_0024:Qaraj
+00_59_12_0025:Maşının adı
+00_59_12_0026:Axtarışdadır
+00_59_12_0027:Qarajın tutumu:
+00_59_12_0028:İndi xəritədən istifadə edə bilməzsən.
+00_59_12_0029:kW
+00_59_12_0030:bhp
+00_59_12_0031:km/h
+00_59_12_0032:mph
+00_59_12_0033:kg
+00_59_12_0034:lb.
+00_59_12_0035:km
+00_59_12_0036:mi.
+00_59_12_0037:hp
+00_59_13_0001:Nəticələr
+00_59_13_0002:Ən az:
+00_59_13_0003:Ən çox:
+00_59_13_0004:ORTA:
+00_59_13_0005:DƏRƏCƏ:
+00_59_13_0006:YEKUN:
+00_59_13_0007:QURULUŞ:
+00_59_13_0008:yenidən başlat
+00_59_13_0009:Performans testi
+00_59_13_0010:Testi bitirmək üçün ESC düyməsinə bas
+00_59_13_0011:FPS
+00_59_13_0012:Oyun ən yaxşı şəkildə işləyir.
+00_59_13_0013:Oyun görüntünü yaxşı göstərir.
+00_59_13_0014:Oyun ciddi problem olmadan işləyir.
+00_59_13_0015:Performans yaxşı deyil. Sistem ayarlarını dəyişib testi yenidən başlat.
+00_59_13_0016:Oyun yavaş işləyir. Daha rahat oynamaq üçün ayarları azalt.
+00_59_14_0000:Səs effektləri
+00_59_14_0001:Danışıq səsləri
+00_59_14_0002:Radio
+00_59_14_0003:Musiqi
+00_59_14_0004:Keyfiyyət
+00_59_14_0005:Normal
+00_59_14_0006:Yüksək
+00_59_15_0000:Maşının modeli
+00_59_15_0001:Rəngi dəyiş
+00_59_15_0002:Boya naxışını dəyiş
+00_59_15_0003:Sürətli yarış
+00_59_15_0004:İşarələrin izahını gizlət
+00_59_15_0005:İşarələrin izahını göstər
+00_59_15_0006:%d / %d
+00_59_15_0007:Hərfi dəyiş
+00_59_16_0000:Piyada hərəkət
+00_59_16_0001:Əlbəyaxa döyüş
+00_59_16_0002:Maşın sürmək
+00_59_16_0003:Yuxarı
+00_59_16_0004:Aşağı
+00_59_16_0005:Sol
+00_59_16_0006:Sağ
+00_59_16_0007:Sürətlə qaç
+00_59_16_0008:Yerimək/qaçmaq
+00_59_16_0009:Dırmaş
+00_59_16_0010:Səssiz hərəkət / Çöməlmək
+00_59_16_0011:Atəş aç
+00_59_16_0012:Yüngül zərbə
+00_59_16_0013:Güclü zərbə
+00_59_16_0014:Zərbədən yayın
+00_59_16_0015:Sataş
+00_59_16_0016:Sığınacaq
+00_59_16_0017:Kameranı mərkəzə / yana keçir
+00_59_16_0018:Nişan al
+00_59_16_0019:Hərəkət
+00_59_16_0020:Silahı doldur
+00_59_16_0021:X üzrə nişan
+00_59_16_0022:Y üzrə nişan
+00_59_16_0023:Əvvəlki silah
+00_59_16_0024:Növbəti silah
+00_59_16_0025:Silahı yığışdır
+00_59_16_0026:Yuxarıdakı silahı seç
+00_59_16_0027:Aşağıdakı silahı seç
+00_59_16_0028:Soldakı silahı seç
+00_59_16_0029:Sağdakı silahı seç
+00_59_16_0030:Taksi çağır
+00_59_16_0031:Silah seç
+00_59_16_0032:Şüşəni sındır
+00_59_16_0033:Maşına min / Maşından düş
+00_59_16_0034:Qaz ver
+00_59_16_0035:Əyləc / Geriyə sürmək
+00_59_16_0036:Maşını sola döndər
+00_59_16_0037:Maşını sağa döndər
+00_59_16_0038:Siqnal
+00_59_16_0039:Kameranı çevir
+00_59_16_0040:Oturacağı dəyiş
+00_59_16_0041:Radio
+00_59_16_0042:Əl əyləci
+00_59_16_0043:Maşına min
+00_59_16_0044:Maşından düş
+00_59_16_0045:Maşından atəş aç
+00_59_16_0046:Sürət məhdudlaşdırıcısını aç/bağla
+00_59_16_0047:Görünüşü dəyiş
+00_59_16_0048:Sükanı döndər
+00_59_16_0049:Arxaya bax
+00_59_16_0050:Növbəti radiostansiya
+00_59_16_0051:Əvvəlki radiostansiya
+00_59_16_0052:Oyunçunun hərəkəti
+00_59_16_0053:Kameranın hərəkəti
+00_59_16_0054:Əsas idarəetmə cihazı
+00_59_16_0056:Əsas idarəetmə cihazını tənzimlə
+00_59_16_0058:Klaviatura
+00_59_16_0059:Siçan
+00_59_16_0060:Oyun pultu
+00_59_16_0061:Sükan
+00_59_16_0062:İlkin ayarlara qaytar
+00_59_16_0063:Titrəmə
+00_59_16_0064:Taksi: yolu ötür
+00_59_16_0065:Taksi: gedəcəyin yeri seç
+00_59_16_0066:Taksi: sürəti artır
+00_59_16_0067:Taksi: saxla
+00_59_16_0068:Taksi: gözlə
+00_59_16_0069:Coystik
+00_59_17_0000:Hərəkət
+00_59_17_0001:Əsas düymə
+00_59_17_0002:Əlavə düymə
+00_59_17_0003:Menyu
+00_59_17_0004:Çıxış
+00_59_17_0005:Əşyalar / Hekayə ekranı
+00_59_17_0006:Məqsədlər
+00_59_17_0007:Xəritə
+00_59_17_0008:İdarəetməni dəyiş
+00_59_17_0009:Təyin etmək istədiyin düyməyə bas.
+00_59_17_0010:---
+00_59_17_0011:Naməlum düymə
+00_59_17_0012:Xəbərdarlıq
+00_59_17_0013:Dəyişikliklərin itməsinə razısan?
+00_59_17_0014:Dəyişiklikləri ilkin ayarlara qaytarmaq istəyirsən?
+00_59_17_0015:Yoxdur
+00_59_17_0016:İdarəetmə
+00_59_17_0017:Dəyiş
+00_59_17_0018:Bu ayarları qəbul edirsən?
+00_59_17_0019:İdarəetmə dəsti %d
+00_59_17_0020:İdarəetmə dəstini dəyiş
+00_59_17_0021:Əlavə idarəetmə ayarları
+00_59_17_0022:Normal
+00_59_17_0023:Tərsinə
+00_59_17_0024:Sükanın idarəetməsi
+00_59_17_0025:Sükanı tənzimlə
+00_59_17_0026:Sükan ayarlarına bax
+00_59_17_0027:Sükan cihazı
+00_59_17_0028:Sükan cihazını tənzimlə
+00_59_17_0029:Təyinatı sil
+00_59_17_0030:Klaviaturanı tənzimlə
+00_59_17_0031:Oyun pultunu tənzimlə
+00_59_18_0000:Sürətli döyüş
+00_59_18_0001:Sürətli yarış
+00_59_18_0002:Sərbəst gəzinti
+00_59_18_0003:Hekayə
+00_59_18_0004:<size="0.045">Bu hərəkət oyunu yenidən başladıb PlayStation®Store-u açacaq. Davam etmək istəyirsən?
+00_59_19_0000:Personajın adı
+00_59_19_0001:Paltarını dəyiş
+00_59_19_0002:Sürətli döyüş
+00_59_20_0000:Y oxu
+00_59_20_0001:Altyazılar
+00_59_20_0002:Ölçü vahidləri
+00_59_20_0003:Nişanalma köməyi
+00_59_20_0004:Parlaqlıq
+00_59_20_0005:Ekran filtri
+00_59_20_0006:Siçanın həssaslığı
+00_59_20_0007:Metrik
+00_59_20_0008:İngilis ölçü sistemi
+00_59_20_0009:Fon şəklini sıfırla
+00_59_20_0010:Sürmə rejimi
+00_59_20_0011:X oxu
+00_59_20_0012:Siçanla baxış
+00_59_20_0013:Həssaslıq
+00_59_20_0014:Nişan köməyi
+00_59_20_0015:Arkad
+00_59_20_0016:Normal
+00_59_20_0017:Simulyasiya
+00_59_20_0018:Altyazı dili
+00_59_20_0019:İpucu mətni
+00_59_20_0020:Dil
+00_59_20_0021:Dilini seç
+00_59_20_0022:Polski
+00_59_20_0023:Русский
+00_59_20_0024:Český
+00_59_21_0000:Oyun statistikası
+00_59_21_0001:Oyundakı irəliləyiş
+00_59_21_0002:Oynama vaxtı
+00_59_21_0003:Açılan nailiyyətlər
+00_59_21_0004:Açılan rəsmlər
+00_59_21_0005:Tapılan Playboy jurnalları
+00_59_21_0006:Tapılan axtarış plakatları
+00_59_21_0007:Piyada gedilən yol
+00_59_21_0008:Maşınla gedilən yol
+00_59_21_0009:Tamamlanan tapşırıqlar
+00_59_21_0010:Təkrar cəhdlər
+00_59_21_0011:Həbs olunma sayı
+00_59_21_0012:Ölmə sayı
+00_59_21_0013:İtirilən ümumi sağlamlıq
+00_59_21_0014:Hazırkı pul
+00_59_21_0015:Qazanılan ümumi pul
+00_59_21_0016:Xərclənən ümumi pul
+00_59_21_0017:Öldürülənlərin ümumi sayı
+00_59_21_0019:Öldürülən düşmənlər
+00_59_21_0020:Öldürülən mülki şəxslər
+00_59_21_0021:Ən çox işlədilən silah
+00_59_21_0022:Atılan güllələr
+00_59_21_0023:Atış dəqiqliyi
+00_59_21_0024:Başdan vurularaq öldürülənlər
+00_59_21_0025:Silahla öldürülənlər
+00_59_21_0026:Əlbəyaxa döyüşdə öldürülənlər
+00_59_21_0027:Maşınla öldürülənlər
+00_59_21_0028:Səssizcə öldürülənlər
+00_59_21_0029:Sığınacaqda keçən vaxt
+00_59_21_0030:Ən çox sürülən maşın
+00_59_21_0031:Sürülən maşınlar
+00_59_21_0032:Məhv edilən maşınlar
+00_59_21_0033:Oğurlanan maşınlar
+00_59_21_0034:Ən yüksək sürət
+00_59_21_0035:Polis təqibində keçən vaxt
+00_59_21_0036:İçilən spirtli içkilər
+00_59_21_0037:Uğurla açılan kilidlər
+00_59_21_0038:Uğursuz kilid açma cəhdləri
+00_59_21_0039:Kilid açmağa sərf edilən ümumi vaxt
+00_59_21_0040:mil
+00_59_21_0041:km
+00_59_21_0042:saat
+00_59_21_0043:Kuboklar
+00_59_21_0044:Sərrast atıcı
+00_59_21_0045:Dəqiq nişançı
+00_59_21_0046:Dələduz
+00_59_21_0047:Oğru
+00_59_21_0048:Seyf açan
+00_59_21_0049:Ev oğrusu
+00_59_21_0050:Kilid ustası
+00_59_21_0051:Jimmy-nin qisası
+00_59_21_0052:Məlumat
+00_59_21_0053:Hekayə
+00_59_21_0054:Məlumat
+00_59_21_0055:Joe-nun macəraları
+00_59_21_0056:Playboy yazılarına sərf edilən vaxt
+00_59_21_0057:Jimmy-nin hekayəsinin əvvəli
+00_59_22_0000:Avtomobil emalatxanası
+00_59_22_0001:Silah
+00_59_22_0002:Güllə
+00_59_22_0003:Silah seç
+00_59_22_0004:Mağazadan çıx
+00_59_22_0005:Silah al
+00_59_23_0000:Əşyalar
+00_59_23_0001:Hörmət:
+00_59_23_0002:Silahlar
+00_59_23_0003:Yemək və içkilər
+00_59_23_0004:Əşyalar
+00_59_23_0005:Məqsədlər
+00_59_23_0006:XƏRİTƏ
+00_59_23_0007:Qısa məlumat
+00_59_23_0008:Gündəlik
+00_59_23_0009:Vəziyyət
+00_59_23_0010:Dialoq
+00_59_23_0011:Kursoru hərəkət etdir
+00_59_23_0012:Böyüt/kiçilt
+00_59_23_0013:Əsas tapşırıq
+00_59_23_0014:Pivəxana
+00_59_23_0015:Geyim mağazası
+00_59_23_0016:Silah mağazası
+00_59_23_0017:Harry-nin silah mağazası
+00_59_23_0018:Giuseppe-nin mağazası
+00_59_23_0019:Aktiv iş yoxdur
+00_59_23_0020:Bar
+00_59_24_0000:Profili dəyiş
+00_59_24_0001:Yeni profil
+00_59_24_0002:Profili sil
+00_59_24_0003:Profil:
+00_59_24_0004:Yeni profil yarat
+00_59_25_0000:Boya məntəqəsi
+00_59_25_0001:Rənglərə bax
+00_59_25_0002:Çıx
+00_59_25_0003:Qəbul et
+00_59_25_0004:Tətbiq et
+00_59_26_0000:Görüntü rejimi
+00_59_26_0001:Çox aşağı
+00_59_26_0002:Aşağı
+00_59_26_0003:Orta
+00_59_26_0004:Yüksək
+00_59_26_0005:Çox yüksək
+00_59_26_0006:Tam ekran
+00_59_26_0007:Kənarları hamarlama
+00_59_26_0008:Anizotrop süzgəc
+00_59_26_0009:Kölgə keyfiyyəti
+00_59_26_0010:Ətraf kölgələnməsi
+00_59_26_0011:Obyektlərin detallılığı
+00_59_26_0012:Ümumi ayarlar
+00_59_26_0013:Ən uyğun
+00_59_26_0014:Fərdi
+00_59_26_0015:Şaquli sinxronizasiya
+00_59_26_0016:APEX PhysX
+00_59_27_0000:Pulun çatmır.
+00_59_27_0001:Zəng edəcəyin nömrə yoxdur.
+00_59_27_0002:Zəngin qiyməti: $%d.%02d
+00_59_27_0003:$%1 pulun var. Zəng edilsin?
+00_59_27_0004:Telefon köşkü
+00_59_27_0005:Ev telefonu
+00_59_28_0000:ESC
+00_59_28_0001:1
+00_59_28_0002:2
+00_59_28_0003:3
+00_59_28_0004:4
+00_59_28_0005:5
+00_59_28_0006:6
+00_59_28_0007:7
+00_59_28_0008:8
+00_59_28_0009:9
+00_59_28_0010:0
+00_59_28_0011:-
+00_59_28_0012:=
+00_59_28_0013:BACKSPACE
+00_59_28_0014:TAB
+00_59_28_0015:Q
+00_59_28_0016:W
+00_59_28_0017:E
+00_59_28_0018:R
+00_59_28_0019:T
+00_59_28_0020:Y
+00_59_28_0021:U
+00_59_28_0022:I
+00_59_28_0023:O
+00_59_28_0024:P
+00_59_28_0025:[
+00_59_28_0026:]
+00_59_28_0027:ENTER
+00_59_28_0028:SOL CTRL
+00_59_28_0029:A
+00_59_28_0030:S
+00_59_28_0031:D
+00_59_28_0032:F
+00_59_28_0033:G
+00_59_28_0034:H
+00_59_28_0035:J
+00_59_28_0036:K
+00_59_28_0037:L
+00_59_28_0038:;
+00_59_28_0039:'
+00_59_28_0040:`
+00_59_28_0041:SOL SHIFT
+00_59_28_0042:\
+00_59_28_0043:Z
+00_59_28_0044:X
+00_59_28_0045:C
+00_59_28_0046:V
+00_59_28_0047:B
+00_59_28_0048:N
+00_59_28_0049:M
+00_59_28_0050:,
+00_59_28_0051:.
+00_59_28_0052:/
+00_59_28_0053:SAĞ SHIFT
+00_59_28_0054:*
+00_59_28_0055:SOL ALT
+00_59_28_0056:BOŞLUQ
+00_59_28_0057:CAPS LOCK
+00_59_28_0058:F1
+00_59_28_0059:F2
+00_59_28_0060:F3
+00_59_28_0061:F4
+00_59_28_0062:F5
+00_59_28_0063:F6
+00_59_28_0064:F7
+00_59_28_0065:F8
+00_59_28_0066:F9
+00_59_28_0067:F10
+00_59_28_0068:NUM LOCK
+00_59_28_0069:SCROLL LOCK
+00_59_28_0070:RƏQƏM BLOKU 7
+00_59_28_0071:RƏQƏM BLOKU 8
+00_59_28_0072:RƏQƏM BLOKU 9
+00_59_28_0073:RƏQƏM BLOKU -
+00_59_28_0074:RƏQƏM BLOKU 4
+00_59_28_0075:RƏQƏM BLOKU 5
+00_59_28_0076:RƏQƏM BLOKU 6
+00_59_28_0077:RƏQƏM BLOKU +
+00_59_28_0078:RƏQƏM BLOKU 1
+00_59_28_0079:RƏQƏM BLOKU 2
+00_59_28_0080:RƏQƏM BLOKU 3
+00_59_28_0081:RƏQƏM BLOKU 0
+00_59_28_0082:RƏQƏM BLOKU ,
+00_59_28_0083:\
+00_59_28_0084:F11
+00_59_28_0085:F12
+00_59_28_0086:F13
+00_59_28_0087:F14
+00_59_28_0088:F15
+00_59_28_0089:SAĞ ALT
+00_59_28_0090:PAUSE
+00_59_28_0091:HOME
+00_59_28_0092:YUXARI
+00_59_28_0093:PAGE UP
+00_59_28_0094:SOL
+00_59_28_0095:SAĞ
+00_59_28_0096:END
+00_59_28_0097:AŞAĞI
+00_59_28_0098:PAGE DOWN
+00_59_28_0099:INSERT
+00_59_28_0100:DELETE
+00_59_28_0101:RƏQƏM BLOKU ENTER
+00_59_28_0102:SAĞ CTRL
+00_59_28_0103:PRINT SCREEN
+00_59_28_0104:SOL WIN
+00_59_28_0105:SAĞ WIN
+00_59_28_0106:WIN MENYUSU
+00_59_28_0107:RƏQƏM BLOKU /
+00_59_28_0200:NAMƏLUM DÜYMƏ
+00_59_29_0000:SİÇANIN SOL DÜYMƏSİ
+00_59_29_0001:SİÇANIN SAĞ DÜYMƏSİ
+00_59_29_0002:SİÇANIN ORTA DÜYMƏSİ
+00_59_29_0003:SİÇAN ÇARXI YUXARI
+00_59_29_0004:SİÇAN ÇARXI AŞAĞI
+00_59_29_0005:SİÇANIN NÖVBƏTİ DÜYMƏSİ
+00_59_29_0006:SİÇANIN ƏVVƏLKİ DÜYMƏSİ
+00_59_29_0007:
+00_59_29_0008:
+00_59_29_0009:
+00_59_29_0010:START
+00_59_29_0011:BACK
+00_59_29_0012:Bas
+00_59_29_0013:Bas
+00_59_29_0014:LB
+00_59_29_0015:RB
+00_59_29_0016:A
+00_59_29_0017:B
+00_59_29_0018:X
+00_59_29_0019:Y
+00_59_29_0020:İstiqamət düyməsi (YUXARI)
+00_59_29_0021:İstiqamət düyməsi (AŞAĞI)
+00_59_29_0022:İstiqamət düyməsi (SOL)
+00_59_29_0023:İstiqamət düyməsi (SAĞ)
+00_59_29_0024:Sol çubuq (X oxu)
+00_59_29_0025:Sol çubuq (Y oxu)
+00_59_29_0026:LT
+00_59_29_0027:Sağ çubuq (X oxu)
+00_59_29_0028:Sağ çubuq (Y oxu)
+00_59_29_0029:RT
+00_59_29_0030:U OXU
+00_59_29_0031:V OXU
+00_59_29_0032:START düyməsi
+00_59_29_0033:SELECT düyməsi
+00_59_29_0034:L3 düyməsi
+00_59_29_0035:R3 düyməsi
+00_59_29_0036:L1 düyməsi
+00_59_29_0037:R1 düyməsi
+00_59_29_0038:X düyməsi
+00_59_29_0039:Dairə düyməsi
+00_59_29_0040:Kvadrat düyməsi
+00_59_29_0041:Üçbucaq düyməsi
+00_59_29_0042:yuxarı düyməsi
+00_59_29_0043:aşağı düyməsi
+00_59_29_0044:sol düyməsi
+00_59_29_0045:sağ düyməsi
+00_59_29_0046:sol çubuq (X oxu)
+00_59_29_0047:sol çubuq (Y oxu)
+00_59_29_0048:L2 düyməsi
+00_59_29_0049:sağ çubuq (X oxu)
+00_59_29_0050:sağ çubuq (Y oxu)
+00_59_29_0051:R2 düyməsi
+00_59_30_0001:İrəliləyişini yadda saxlamaq üçün oyun profili yaratmalısan. Oyun yeni profil faylı yaradacaq.
+00_59_30_0002:İstifadəçi profili yarat
+00_59_30_0003:Adını yaz:
+00_59_30_0004:Oyunçu1
+00_59_30_0005:Bu ad artıq istifadə olunur.
+00_59_30_0006:Yaddaş qurğusunda saxlama faylı yaratmaq üçün yer çatmır. Xbox Dashboard vasitəsilə yer boşalt və ya yadda saxlamadan davam et. Davam etsən, oyunu yadda saxlaya və saxlama faylı tələb edən imkanlardan istifadə edə bilməyəcəksən.
+00_59_30_0007:Profil məlumatları yaradıla bilmədi. Yenidən yadda saxlamaq üçün YENİDƏN YOXLA, oyundan çıxmaq üçün ÇIX seç.
+00_59_30_0008:Profili dəyiş
+00_59_30_0009:Yükləmək alınmadı. Yenidən yükləmək üçün YENİDƏN YOXLA, oyundan çıxmaq üçün ÇIX seç.
+00_59_30_0010:İrəliləyişi yadda saxlamaq üçün yaddaş qurğusunda yer çatmır. Yer boşaldıb yenidən cəhd et.
+00_59_30_0011:Yadda saxlamaq alınmadı. Yenidən yadda saxlamaq üçün YENİDƏN YOXLA, oyundan çıxmaq üçün ÇIX seç.
+00_59_30_0012:Oyunda avtomatik yadda saxlama var. Bu işarəni görəndə və ya disk işığı yanıb-sönəndə məlumatlar yadda saxlanılır. Bu vaxt cihazı söndürmə!
+00_59_30_0013:Hazırda oyunçu profilinə daxil olmamısan. Davam etsən, oyunu yadda saxlaya və oyunçu profili tələb edən imkanlardan istifadə edə bilməyəcəksən. Xbox Guide düyməsi ilə hesabına daxil ol və ya yeni oyunçu profili yarat.
+00_59_30_0014:Yaddaş qurğusu çıxarılıb. Onu yenidən qoşub Yenidən yoxla seç və ya yadda saxlamadan davam et. Davam etsən, oyunu yadda saxlaya və saxlama faylı tələb edən imkanlardan istifadə edə bilməyəcəksən.
+00_59_30_0015:Yaddaş qurğusu çıxarılıb. Onu yenidən qoşub Yenidən yoxla seç və ya yükləmədən davam et. Davam etsən, oyunu yadda saxlaya və saxlama faylı tələb edən imkanlardan istifadə edə bilməyəcəksən.
+00_59_30_0016:Saxlama faylın zədələnmiş görünür və yüklənə bilmir. Onun üzərinə yazmaq istəyirsən?
+00_59_30_0017:Əvvəlki məlumatlar itəcək. Əvvəlki saxlama faylının üzərinə yazılsın?
+00_59_30_0018:Yükləmək alınmadı. Yenidən yükləmək üçün YENİDƏN YOXLA, yükləmədən davam etmək üçün LƏĞV ET seç.
+00_59_30_0019:Saxlanmış məlumatları yükləmədən oyuna başlamağı seçdin. İrəliləyişini yadda saxlaya bilməyəcəksən. Davam etmək istəyirsən?
+00_59_30_0020:Yükləmək alınmadı. Bu saxlama faylını başqa istifadəçi yaradıb və ondan istifadə etmək olmaz. Faylı sil və ya yükləmədən davam et. Davam etsən, oyunu yadda saxlaya və saxlama faylı tələb edən imkanlardan istifadə edə bilməyəcəksən.
+00_59_30_0021:Yadda saxlamaq alınmadı. Yenidən yadda saxlamaq üçün YENİDƏN YOXLA, saxlama faylı yaratmadan davam etmək üçün LƏĞV ET seç.
+00_59_30_0022:Yadda saxlamadan oyuna başlamağı seçdin. İrəliləyişini yadda saxlaya bilməyəcəksən. Davam etmək istəyirsən?
+00_59_30_0023:Yaddaş qurğusunda saxlama faylı yaratmaq üçün yer çatmır. Xbox Dashboard vasitəsilə yer boşalt və ya yadda saxlamadan davam et. Davam etsən, oyunu yadda saxlaya və saxlama faylı tələb edən imkanlardan istifadə edə bilməyəcəksən.
+00_59_30_0025:Yaddaş qurğusunda saxlama faylını yeniləmək üçün yer çatmır. Xbox Dashboard vasitəsilə yer boşalt və ya yadda saxlamadan davam et. Davam etsən, oyunu yadda saxlaya və saxlama faylı tələb edən imkanlardan istifadə edə bilməyəcəksən.
+00_59_30_0026:Diskdə kifayət qədər boş yer yoxdur. Oyundan çıxıb yer boşalt və ya yadda saxlamadan davam et. Davam etsən, oyunu yadda saxlaya və saxlama faylı tələb edən imkanlardan istifadə edə bilməyəcəksən.
+00_59_30_0027:Xəbərdarlıq
+00_59_30_0028:Yüklənir...
+00_59_30_0029:Yadda saxlanılır...
+00_59_30_0030:Məzmun yadda saxlanılır. Konsolu söndürmə.
+00_59_30_0031:Yeni saxlama faylı
+00_59_30_0032:Yükləmədən davam et
+00_59_30_0033:Yadda saxlamadan davam et
+00_59_30_0034:Saxlama faylını sil
+00_59_30_0035:Oyunçu profilinin vəziyyəti dəyişdi. Başlanğıc ekranına qayıdacaqsan.
+00_59_30_0036:Yükləmək alınmadı. Yenidən yükləmək üçün YENİDƏN YOXLA, menyuya qayıtmaq üçün LƏĞV ET seç.
+00_59_30_0037:Profili sil
+00_59_30_0038:Yadda saxlamadan davam etməyi seçdin. İrəliləyişini yadda saxlaya bilməyəcəksən. Davam etmək istəyirsən?
+00_59_30_0039:Yadda saxlanılır...
+00_59_30_0040:Profili sil
+00_59_30_0041:Əminsən? Yadda saxlanmış irəliləyiş itəcək.
+00_59_30_0042:Bu işarə məlumatların yadda saxlandığını göstərir. Onu görəndə konsolu söndürmə!
+00_59_30_0043:Yadda saxlama işarəsi
+00_59_30_0044:Əvvəl tamamladığın tapşırığı yükləsən, hazırkı tapşırıqda irəliləyişin silinəcək və seçdiyin tapşırığın əvvəlindən başlayacaqsan. Əvvəlki tapşırığı yükləmək istəyirsən?
+00_59_30_0045:Hesaba daxil ol
+00_59_30_0046:Seçilmiş profil istifadə olunur. Başqa profil seç və ya yeni profil yaradıb yenidən cəhd et.
+00_59_30_0047:Əsas oyun pultunun bağlantısı kəsilib. Davam etmək üçün onu yenidən qoş.
+00_59_30_0048:Hazırda oyunçu profilinə daxil olmamısan. Davam etsən, oyunu yadda saxlaya və oyunçu profili tələb edən imkanlardan istifadə edə bilməyəcəksən. Hesabına daxil ol və ya Guide vasitəsilə yeni oyunçu profili yarat.
+00_59_30_0049:Yükləmək alınmadı. Yenidən yükləmək üçün YENİDƏN YOXLA, yükləmədən davam etmək üçün LƏĞV ET seç.
+00_59_30_0050:Saxlanmış məlumatları yükləmədən oyuna başlamağı seçdin. İrəliləyişini yadda saxlaya bilməyəcəksən. Davam etmək istəyirsən?
+00_59_30_0051:Yaddaş qurğusu seçməmisən. İrəliləyişi yadda saxlamaq üçün yaddaş qurğusu seçməlisən. Yenidən cəhd etmək üçün YENİDƏN YOXLA, yadda saxlamadan davam etmək üçün DAVAM ET seç.
+00_59_30_0052:Oyunçu profilinin vəziyyəti dəyişdi. Başlanğıc ekranına qayıtmaq istəyirsən? İrəliləyişin itəcək.
+00_59_30_0053:Hesaba giriş vəziyyəti dəyişdi. Başlanğıc ekranına qayıdırsan.
+00_59_30_0054:Xbox 360 pultunun bağlantısı kəsilib. Davam etmək üçün onu yenidən qoş.
+00_59_30_0055:Simsiz pultun bağlantısı kəsilib. Davam etmək üçün onu yenidən qoş.
+00_59_30_0056:Yadda saxlamaq alınmadı. Yenidən yadda saxlamaq üçün YENİDƏN YOXLA seç və ya yadda saxlamadan davam et.
+00_59_30_0057:Yadda saxlamaq alınmadı. Yaddaş qurğusu çıxarılıb. Yenidən yadda saxlamaq üçün YENİDƏN YOXLA seç və ya yadda saxlamadan davam et.
+00_59_30_0058:Yükləmək alınmadı. Yaddaş qurğusu çıxarılıb. Yenidən yükləmək üçün YENİDƏN YOXLA, menyuya qayıtmaq üçün LƏĞV ET seç.
+00_59_30_0059:Yükləmək alınmadı. Yaddaş qurğusu çıxarılıb. Yenidən yükləmək üçün YENİDƏN YOXLA, yükləmədən davam etmək üçün LƏĞV ET seç.
+00_59_30_0060:Yadda saxlamaq alınmadı. Yaddaş qurğusu çıxarılıb. Yenidən yadda saxlamaq üçün YENİDƏN YOXLA, saxlama faylı yaratmadan davam etmək üçün LƏĞV ET seç.
+00_59_30_0061:Xbox 360 pultu yenidən qoşuldu.
+00_59_30_0062:Simsiz pult yenidən qoşuldu.
+00_59_30_0063:Tapşırıq sazlama menyusundan yüklənəndə yadda saxlamaq və yükləmək mümkün deyil.
+00_59_30_0064:Məzmun yadda saxlanılır. PS3™ sistemini söndürmə.
+00_59_30_0065:Saxlama faylı
+00_59_30_0066:Profil və nəzarət nöqtəsi məlumatları
+00_59_30_0067:Bu işarə görünəndə oyun məlumatları yadda saxlayır. Konsolu söndürmə!
+00_59_30_0068:Yükləmək alınmadı. Bu saxlama faylından istifadə etmək üçün oyunu ən son versiyaya yeniləməlisən.
+00_59_30_0069:Saxlama faylının üzərinə yazmaq istəyirsən? Hazırkı irəliləyişin itəcək və oyuna əvvəldən başlayacaqsan!
+00_59_30_0070:Yükləmək alınmadı. Menyuya qayıtmaq üçün LƏĞV ET seç.
+00_59_31_0000:Oyun bitdi
+00_59_31_0001:Öldürüldün
+00_59_31_0002:Tapşırığı vaxtında bitirə bilmədin
+00_59_31_0003:Tapşırığı bitirə bilmədin
+00_59_32_0000:Hekayə məlumatları keşə yazılır
+00_59_32_0001:Bu mətn hekayənin SDS faylı yüklənəndə görünəcək.
+00_59_33_0000:Parlaqlığı tənzimlə
+00_59_33_0001:Parlaqlıq
+00_59_33_0002:Loqo güclə görünənə qədər parlaqlığı tənzimlə.
+00_59_34_0000:Oyun məlumatları HDD-yə uğurla quraşdırıldı
+00_59_34_0001:Oyun məlumatlarını quraşdırmaq alınmadı.
+00_59_34_0002:HDD-də kifayət qədər boş yer yoxdur. Ən azı %d MB əlavə yer lazımdır. Oyundan çıxıb lazımi qədər yer boşaldın.
+00_59_34_0003:Oyun məlumatlarını yoxlamaq alınmadı. Oyun məlumatlarını HDD-dən silib oyunu yenidən başladın.
+00_59_34_0004:Məlumat
+00_59_34_0005:Xəta
+00_59_35_0000:Radio sönülüdür
+00_59_35_0001:Empire Central
+00_59_35_0002:Empire Classic
+00_59_35_0003:Delta Radio
+00_59_36_2002:Demo Playmate - %d / %d<br>Əsas oyunda toplamaq üçün 50 ədəd var
+00_59_36_3000:Playmate şəkilləri 
+00_59_36_3001:Axtarış elanları
+00_59_36_3002:
+00_59_36_4000:Rəsmlər
+00_59_36_4001:Afişalar
+00_59_36_4002:Pinup şəkilləri
+00_59_40_0000:Kubok məlumatları zədələnib. Oyundan çıxıb yenidən başladın.
+00_59_41_0001:Asan
+00_59_41_0002:Orta
+00_59_41_0003:Çətin
+00_59_41_0004:Ümumi
+00_59_41_0005:Dostlar
+00_59_41_0006:Xalım
+00_59_41_0007:Oyunçu kartı
+00_59_41_0008:YER
+00_59_41_0009:OYUNÇU ADI
+00_59_41_0010:ÇƏTİNLİK
+00_59_41_0011:XAL
+00_59_41_0012:İSTİFADƏÇİ ADI
+00_59_41_0013:Xbox LIVE ilə bağlantı kəsildi. Xbox LIVE-a yenidən qoşulub bir də cəhd edin.
+00_59_41_0014:Xbox LIVE gözlənilir. Gözləyin...
+00_59_41_0015:Oyunçu kartını göstərmək alınmadı. Xbox LIVE ilə bağlantı kəsildi. Xbox LIVE-a yenidən qoşulub bir də cəhd edin.
+00_59_41_0016:Sıralamanı yükləmək alınmadı.
+00_59_41_0026:Həftə
+00_59_41_0027:Bu xal cədvəlində başqa oyunçu yoxdur.
+00_59_41_0028:Bu xal cədvəlində hələ heç kim yer almayıb.
+00_59_41_0029:Bu xal cədvəlində hələ yer almamısınız.
+00_59_41_0030:Dostlarınız bu xal cədvəlində hələ yer almayıblar.
+00_59_41_0031:Xal cədvəlləri
+00_59_41_0032:Jimmy's Vendetta xal cədvəlləri
+00_59_41_0033:Steam gözlənilir. Gözləyin...
+00_59_41_0034:İşlənir. Gözləyin...
+00_59_41_0035:Steam ilə bağlantı kəsildi. Steam-ə yenidən qoşulub bir də cəhd edin.
+00_59_41_0036:<size="0.045">PlayStation®Network ilə bağlantı kəsildi. PlayStation®Network-ə yenidən qoşulub bir də cəhd edin.
+00_59_41_0037:Xal cədvəllərinə baxmaq üçün Steam hesabınıza daxil olmalısınız.
+00_59_41_0038:Xal cədvəllərinə baxmaq üçün Xbox LIVE hesabınıza daxil olmalısınız.
+00_59_41_0039:<size="0.045">Xal cədvəllərinə baxmaq üçün PlayStation®Network hesabınıza daxil olmalısınız.
+00_59_41_0040:Keçən həftənin qalibi:
+00_59_41_0041:oyunçu
+00_59_41_0042:İstifadəçi profili
+00_59_41_0043:Tapşırıqlar - asan
+00_59_41_0044:Tapşırıqlar - orta
+00_59_41_0045:Tapşırıqlar - çətin
+00_59_41_0046:Tapşırıqlar - ümumi
+00_59_41_0047:%d oyunçu
+00_59_42_0001:Yüklənən əlavələr
+00_59_42_0002:Bu gün LIVE Marketplace-də yeni heç nə yoxdur, ya da yüklənən əlavələrin axtarışını ləğv etmisiniz.
+00_59_42_0003:Al
+00_59_42_0004:Yüklə
+00_59_42_0005:Davam etmək üçün istənilən düyməni basın.
+00_59_42_0006:Bu ad başqa istifadəçi tərəfindən tutulub. Başqa ad seçin.
+00_59_42_0007:Yüklənən əlavələr yoxlanılır...
+00_59_42_0008:Ekstremal çətinliyi seçmək üçün əvvəlcə oyunu bir dəfə bitirməlisiniz.
+00_59_42_0009:Bu ayarı tətbiq etmək istəyirsiniz?
+00_59_42_0010:Bəzi idarəetmə əmrlərinə eyni düymə təyin edilib. Oyuna qayıtmazdan əvvəl onlara ayrı-ayrı düymələr təyin etməlisiniz.
+00_59_42_0011:Yüklənən əlavələr axtarılır...
+00_59_42_0012:Onlayn mağazanı aç
+00_59_42_0013:Bu əlavəni yüklə
+00_59_42_0014:Oynamağa hazırdır
+00_59_42_0015:Məlumat
+00_59_42_0016:Hazırkı oyunçu profilində Xbox LIVE aktiv deyil.
+00_59_42_0017:Xbox LIVE Marketplace-ə qoşulmaqda problem var. Bağlantınızı yoxlayıb sonra yenidən cəhd edin.
+00_59_42_0018:<size="0.045">Bu gün PlayStation®Store-da yeni heç nə yoxdur, ya da yüklənən əlavələrin axtarışını ləğv etmisiniz.
+00_59_42_0019:<size="0.045">Hazırkı profildə PlayStation®Network aktiv deyil.
+00_59_42_0020:<size="0.045">PlayStation®Store-a qoşulmaqda problem var. Bağlantınızı yoxlayıb sonra yenidən cəhd edin.
+00_59_42_0021:Yüklənən əlavələri axtararkən xəta baş verdi. Sonra yenidən cəhd edin.
+00_59_42_0022:Onlayn mağazanı aç
+00_59_42_0023:Xbox LIVE Marketplace-i aç
+00_59_42_0024:<size="0.045">PlayStation®Store-u aç
+00_59_42_0025:Gözləyin
+00_59_42_0026:Yenilə
+00_59_42_0027:Xbox LIVE Marketplace-ə daxil olmaq üçün Xbox LIVE aktiv olan oyunçu profilinə daxil olmalısınız.
+00_59_42_0028:LIVE Marketplace-ə qoşulmaqda problem var. Bağlantınızı yoxlayıb sonra yenidən cəhd edin.
+00_59_42_0029:Yüklənən əlavələr menyusuna daxil olmaq üçün LIVE aktiv olan oyunçu profilinə daxil olmalısınız.
+00_59_42_0030:Quraşdırılmış əlavələri yoxlayarkən lisenziya problemi yarandı. Əlavələri yenidən quraşdırmaq problemi həll edə bilər.
+00_59_42_0031:Quraşdırılmış əlavələri yoxlayarkən problem yarandı. Quraşdırılmış əlavələr zədələnib. Əlavələri yenidən quraşdırmaq problemi həll edə bilər.
+00_59_42_0032:Quraşdırılmış əlavələri yükləyərkən problem yarandı. Quraşdırılmış əlavələr zədələnib. Əlavələri yenidən quraşdırmaq problemi həll edə bilər.
+00_59_42_0033:"%s" əlavəsini yükləməkdə problem var. Ondan istifadə etmək üçün yenidən quraşdırmağa çalışın.
+00_59_42_0034:Yüklənən əlavələr menyusuna daxil olmaq üçün LIVE aktiv olan oyunçu profilinə daxil olmalısınız.
+00_59_42_0035:LIVE Marketplace-ə qoşulmaqda problem var. Bağlantınızı yoxlayıb yenidən cəhd edin. İndi yenidən cəhd etmək istəyirsiniz?
+00_59_42_0036:Xbox LIVE hesabınıza daxil olmamısınız. Xbox Guide vasitəsilə Xbox LIVE-a daxil ola bilərsiniz.
+00_59_42_0037:Yüklənən əlavələr menyusuna daxil olmaq üçün Xbox LIVE aktiv olan oyunçu profilinə daxil olmalısınız.
+00_59_42_0038:Xbox LIVE Marketplace-ə qoşulmaqda problem var. Bağlantınızı yoxlayıb yenidən cəhd edin. İndi yenidən cəhd etmək istəyirsiniz?
+00_59_42_0039:Bu gün Xbox LIVE Marketplace-də yeni heç nə yoxdur, ya da yüklənən əlavələrin axtarışını ləğv etmisiniz.
+00_59_42_0040:<size="0.045">Yüklənən əlavələr menyusuna daxil olmaq üçün PlayStation®Network hesabınıza daxil olmalısınız.
+00_59_42_0041:LIVE Marketplace-ə daxil olmaq üçün LIVE aktiv olan oyunçu profilinə daxil olmalısınız.
+00_59_42_0042:LIVE aktiv olan oyunçu profilinə daxil olmamısınız. Guide vasitəsilə Games for Windows - LIVE-a daxil ola bilərsiniz.
+00_59_42_0043:LIVE hesabınıza daxil olmamısınız. Guide vasitəsilə Games for Windows - LIVE-a daxil ola bilərsiniz.
+00_59_42_0044:Xbox LIVE aktiv olan oyunçu profilinə daxil olmamısınız. Xbox Guide vasitəsilə Xbox LIVE-a daxil ola bilərsiniz.
+00_59_42_0045:<size="0.045">PlayStation®Store-a daxil olmaq üçün PlayStation®Network hesabınıza daxil olmalısınız.
+00_59_42_0046:<size="0.045">PlayStation®Store-a giriş icazəsi verməmisiniz. 
+00_59_42_0047:<size="0.045">PlayStation®Network hesabınıza daxil olmamısınız. XMB™ menyusu vasitəsilə PlayStation®Network-ə daxil ola bilərsiniz.
+00_59_42_0048:<size="0.045">PlayStation®Store-a qoşulmaqda problem var. Bağlantınızı yoxlayıb yenidən cəhd edin. İndi yenidən cəhd etmək istəyirsiniz?
+00_59_42_0049:Bu gün Xbox LIVE Marketplace-də yeni heç nə yoxdur, ya da yüklənən əlavələrin axtarışını ləğv etmisiniz. Yüklənən əlavələri indi yenidən axtarmaq istəyirsiniz?
+00_59_42_0050:Bu gün LIVE Marketplace-də yeni heç nə yoxdur, ya da yüklənən əlavələrin axtarışını ləğv etmisiniz. Yüklənən əlavələri indi yenidən axtarmaq istəyirsiniz?
+00_59_42_0051:<size="0.045">Bu gün PlayStation®Store-da yeni heç nə yoxdur, ya da yüklənən əlavələrin axtarışını ləğv etmisiniz. Yüklənən əlavələri indi yenidən axtarmaq istəyirsiniz?
+00_59_42_0052:"%S" əlavəsinin düzgün işləməsi üçün oyunun ən yeni versiyası lazımdır. Oyunun son yeniləməsini quraşdırın.
+00_59_42_0053:"%s" DLC-si üçün son yamaq lazımdır. Son yamağı quraşdırın.
+00_59_42_0054:Yükləmək alınmadı. Oyun (%S) əlavəsi ilə yadda saxlanıb, amma bu əlavə yoxdur. Oyunu yükləmək üçün əlavəni yenidən quraşdırın.
+00_59_42_0055:Hələ düymə təyin edilməmiş bir əməl var. Çıxmazdan əvvəl ona bir düymə təyin edin.
+00_59_42_0056:Bu seçim oyundakı ipucu və məsləhətləri söndürür. Təlim və tapşırıq göstərişlərinə təsir etmir.
+00_59_42_0057:"%S" DLC-si quraşdırılıb, amma satın alınmayıb. Ondan istifadə etmək üçün bu DLC-ni alın.
+00_59_42_0058:Yeni APEX PhysX ayarını tətbiq etmək üçün oyunu yenidən başlatmalısınız.
+00_59_42_0059:Yüklənən əlavəniz yoxdur.
+00_59_42_0060:APEX PhysX-i başlatmaq alınmadı. Bu funksiya işləməyəcək.
+00_59_42_0061:Yükləmək alınmadı. Oyun (%s) əlavəsi ilə yadda saxlanıb, amma bu əlavə yoxdur. Oyunu yükləmək üçün əlavəni yenidən quraşdırın.
+00_59_42_0062:(%s) əlavəsi üçün vacib yeniləmə var. Əlavəni yenidən yükləməlisiniz.
+00_59_42_0063:(%S) əlavəsini aktivləşdirmək üçün oyun yenidən başladılmalıdır. Oyunu indi yenidən başlatmaq istəyirsiniz?
+00_59_42_0064:Hazırda yüklənən əlavənin olduğu yaddaş qurğusunu çıxardınız. Əsas menyuya qaytarılacaqsınız. Oyun zamanı yaddaş qurğusunu çıxarmayın.
+00_59_43_0001:Videonu keç
+00_59_43_0002:Bu videonu keçə və ya izləməyə davam edə bilərsiniz.
+00_59_44_0001:Getməli olduğunuz yer radarda göstərilir.
+00_59_45_0001:<size="0.045">Valideyn nəzarəti məhdudiyyətlərinə görə PlayStation®Network hesabınızda onlayn xidmət söndürülüb.
+00_62_00_0001:Geri
+00_62_00_0002:Keçmiş
+00_62_00_0003:Müsahibə
+00_62_00_0004:Gələcək
+00_62_00_0005:Fon şəkli
+00_62_00_0006:Fon şəkilləri
+00_62_01_0001:Ailə albomu
+00_62_01_0002:Mafiya albomu
+00_62_01_0003:Şəhər albomu
+00_62_01_0004:Siciliya albomu
+00_62_01_0005:Həbsxana albomu
+00_62_02_0001:Vito Scaletta
+00_62_02_0002:Joe Barbaro
+00_62_02_0003:Henry Tomasino
+00_62_02_0004:Scaletta xanım
+00_62_02_0005:Scaletta bəy
+00_62_02_0006:Francesca Scaletta
+00_62_02_0007:Eric
+00_62_02_0008:Marty
+00_62_03_0001:Vito Scaletta uşaq vaxtı Siciliyadan Amerikaya gəlib və Empire Bay-in italyan məhəlləsində yoxsulluğu öz gözləri ilə görüb. Atasının özünü işləyə-işləyə vaxtından əvvəl qəbirə apardığını görən Vito tezliklə başa düşüb ki, qanuna uyğun həyat ona görə deyil. Küçələrdə böyüyərkən yekədanışan, davakar Joe Barbaro ilə tanış olub. Joe sonradan onun ən yaxın dostuna çevrilib. Vito ilə Joe biri ağlı, o biri gücü ilə yüzlərlə xırda cinayət törədiblər. Məhəllənin varlı qanqsterlərinə baxıb rahat həyat arzulayıblar. İndi böyüyən Vito nəyin bahasına olursa olsun, həyatda bir yerə çatmaq istəyir.
+00_62_03_0002:Joe Barbaro peşəkar cinayətkar və Vito Scaletta-nın uşaqlıq dostudur. Sözünü əsirgəməyən, nə edəcəyi bilinməyən Joe heç nədən problem çıxarmağı bacarır. Uşaq vaxtı məhəllədə hamını qorxudurdu. Özündən balaca Vito onun dəstəsinə girmək üçün döyüşməyi təklif edəndə tanış olublar. Sonrakı 10 ildə yaxşı komanda olublar: xırda cinayətlərdən kef çəkərkən soyuqqanlı Vito çılğın Joe-nu cilovlayıb. İndi Joe içki, sürətli maşınlar və yüngül əxlaqlı qadınlarla kef içində yaşayır. Cinayət aləmində yüksəlmək bu həvəslərini doyurmağın onun üçün ən yaxşı yoludur.
+00_62_03_0003:Siciliyalı mafiozun oğlu Henry Tomasino 1931-ci ildə Mussolini-nin Siciliya mafiyasına qarşı təqiblərindən qaçmaq üçün atası tərəfindən Amerikaya göndərilib. Empire Bay-ə gələndə ailə dostu, amansız mafiya başçısı Alberto Clemente onu himayəsinə götürüb. İndi Clemente ailəsinin tamhüquqlu üzvüdür, sadiq döyüşçü və hörmət qazanan muzdlu qatil kimi tanınır. Henry qapalı adamdır, dostu azdır. Onu hərəkətə gətirən tək şey qürurudur.
+00_62_03_0004:Vito-nun anası Maria Scaletta ağır günlər görüb. Əri Antonio və iki uşağı ilə daha yaxşı həyat üçün Amerikaya gəlib. Amma Amerika ona yoxsulluq və əziyyətdən başqa az şey verib. İllərlə ağır iş və içkinin ərinin iradəsini sındırmasını, oğlunun isə xırda cinayətlərə qurşanmasını izləyib. Çox dindar olan Maria inanır ki, Allah ailəsini xilas edib Vito-nu düzgün yola qaytaracaq. Antonio-nun ölümündən sonra dul qalan Maria hələ də qızı Francesca ilə ailənin kiçik mənzilində yaşayır.
+00_62_03_0005:Antonio Scaletta 1920-ci ildə Siciliyanın balaca San Martino kəndində Maria ilə evlənib. Bir il sonra qızları Francesca, ardınca da Vito doğulub. 1932-ci ildə Antonio ailəsi ilə uzun yol qət edib Amerikaya gəlib. Demək olar pulsuz və ingiliscə bilmədən Empire Bay-ə çatan Antonio həmkarlar ittifaqının başçısı Derek Pappalardo-nun verdiyi işi və evi qəbul edib. Ağır işlə həddindən artıq yüksək kirayə haqqı arasında sıxışıb qalan Antonio arzuları puç olduqca içkiyə qurşanıb və ailəsindən uzaqlaşıb. 1943-cü ildə, görünür sərxoş halda, Southport limanında suya yıxılıb boğulub.
+00_62_03_0006:Francesca Scaletta Vito-nun böyük bacısıdır. Utancaq, sakit qızdır, orta məktəbi əla qiymətlərlə bitirib və on altı yaşından kilsənin gənclər klubunu idarə edir. Uşaq vaxtı Vito-nu yerli küçə dəstələrindən uzaq tutmağa çalışırdı: ev işlərini görəndə və kilsəyə gedəndə ona konfet verirdi. İndi böyüyüblər və onun əlindən yalnız dua etmək gəlir. Vito-nun "Frankie" çağırdığı Francesca anası ilə yaşayır, Trago Oil Co.-da mühasib işləyərək hər ikisini dolandırır.
+00_62_03_0007:Eric Reilly 1918-ci ildə Empire Bay-də irlandiyalı mühacir ailəsində doğulub. Millville-də böyüyüb, atası ilə birlikdə Trago Oil-in yük maşınlarına qulluq edib. 1936-cı ildə Trago-nun avtomobil parkı rəhbərinin qızı Sara Collins ilə evlənib. Toydan sonra Eric evdə az görünürdü. Cinayətkar dostları ilə içib gecəyarı evə gəlir, tez-tez arvadını təhqir edir və döyürdü. İki əzablı ildən sonra Sara onu tərk edib. Eric az sonra işini də itirib. İndi arabir barda işləyib marixuana satmaqla pul qazanır.
+00_62_03_0008:Martin Santorelli 1933-cü ildə Empire Bay-də doğulub. Atası Midtown-dakı böyük kinoteatrda kinomexanik işlədiyinə görə Marty uşaq vaxtı çox film, xüsusən də qanqster filmləri izləyib. Mafiyaya qoşulmağı arzulayıb və yeniyetmə olanda uşaqlıq qonşusu və nümunə götürdüyü Joe Barbaro kimi Freddy's Bar-a gedib-gəlməyə başlayıb. İndi Joe-nun xırda işlərini görür: xəbər çatdırır, uduşlarını yığır və maşınını cilalayır. Bəzi işlərə onu da aparması üçün Joe-nun başını aparır. Joe isə Marty-ni kiçik qardaşı kimi görür və ciddi işlərə qarışmaq üçün həddən artıq sadəlövh sayır.
+00_62_04_0001:Eddie Scarpa
+00_62_04_0002:Luca Gurino
+00_62_04_0003:Derek Pappalardo
+00_62_04_0004:Carlo Falcone
+00_62_04_0005:Alberto Clemente
+00_62_04_0006:Frank Vinci
+00_62_04_0007:Leo Galante
+00_62_04_0008:Stephen Coyne
+00_62_04_0009:Brian O'Neill
+00_62_04_0010:Wong bəy
+00_62_04_0011:Antonio Balsamo
+00_62_04_0012:Greaser
+00_62_05_0001:Empire Bay-in ən təhlükəli adamlarından olan Eddie Scarpa üzü gülən bir sosiopatdır. Vaxtilə Moretti ailəsinin muzdlu qatili olub, indi isə Maltese Falcon restoranından Carlo Falcone-nin bir çox qanunsuz işini idarə edir. 1908-ci ildə Tamborra-da doğulan Eddie erkən yaşda cinayət aləminə qoşulub. Carlo ilə içki qadağası vaxtı Empire Bay-ə içki qaçaqmalçılığı edərkən tanış olub. Carlo Moretti cinayət ailəsinin başına keçəndə - ailə indi Falcone adlanır - Eddie-ni mükafatlandırmaq üçün onu Cathouse-un sahibi edib. Hələ də yaxın dostdurlar, amma Carlo gizlində Eddie-nin gizlədə bilmədiyi içki düşkünlüyünə görə onu başağrısı sayır.
+00_62_05_0002:Luca Gurino Clemente ailəsinin kaposudur. Özündən əvvəlki kaponu Culver bəndinin bünövrəsinə diri-diri basdırdıqdan sonra bu vəzifəyə yüksəlib. Həmişə səliqəli geyinən Luca kobudluğunu kübar davranışla gizlətməyə çalışır, amma savadsızlığı yenə üzə çıxır. İçki qadağası dövründə Clemente-nin içki qaçaqmalçılığına qoşulub. Sonra ailənin daha qaranlıq işlərini Clemente qəssabxanasında görüb və amansızlığı sayəsində yüksəlib.
+00_62_05_0003:Federico "Kök Derek" Pappalardo Vinci ailəsinin kaposu və liman işçiləri həmkarlar ittifaqının yerli rəhbəridir. 1916-cı ildə tətili pozan fəhlə kimi limanda işləməyə başlayıb. Liman qaçaqmalçılığına qarışması onu Vinci cinayət ailəsi ilə tanış edib. Mənimsəməyə görə iki il həbsdə yatdıqdan sonra 1930-cu illərin əvvəlində Empire Bay-də Vinci-Moretti müharibəsində mühüm rol oynayıb və indiki vəzifəsi ilə mükafatlandırılıb. Sonra Frank Vinci-nin xaç qızı ilə evlənərək daha da nüfuz qazanıb. Derek kobud, zorakı və acgözdür - bu işi üçün lap yerinə düşən xüsusiyyətlərdir.
+00_62_05_0004:Carlo Falcone 1913-cü ildə Amerikaya gəlib və tezliklə Moretti ailəsinə qoşulub. İçki qadağası vaxtı Eddie Scarpa ilə Kanadadan içki gətirərək ailənin qaçaqmalçılıq işini idarə edib. 1933-cü ildə Frank Vinci ilə gizlicə razılaşıb Tomaso Moretti-ni öldürtdürüb, Vinci-Moretti müharibəsinə son qoyub və Moretti ailəsini özü ələ keçirib. Bacarıqlı strateq və yenilik tərəfdarı olan Carlo Siciliya mafiyasının adətlərinə vaxt ayırmır. Mafiyanın içki qadağası sayəsində varlandığını və sülhü qorumaq üçün buna bənzər gəlir mənbəyinə ehtiyacı olduğunu anlayır.
+00_62_05_0005:Alberto Clemente Clemente cinayət ailəsinin başçısıdır. 1920-ci ildə əmisi Silvio üçün Palermo-da bir polis kapitanını öldürəndən sonra Empire Bay-ə qaçıb. Əmisinin cinayət aləmindəki əlaqələri sayəsində içki qadağası dövründə içki qaçaqmalçılığından böyük pul qazanıb. 1929-cu ildə Komissiya ona öz ailəsini qurmağa icazə verib. Güclü olsa da, digər ailələr Clemente-nin dəstəsini hələ də ikinci dərəcəli sayır. Bunun əsas səbəbi Clemente-nin hətta mafiyanın ölçülərinə görə də fırıldaq dolu iş üsullarıdır.
+00_62_05_0006:Frank Vinci uzun illərdir Vinci ailəsinə başçılıq edir. Yaxın dostu Leo Galante ilə 1908-ci ildə Empire Bay-ə gəlib və italyan mühacirlərdən tezliklə xərac yığmağa başlayıb. Sonrakı on ildə şəhərə onun dəstəsi hökm edib. Frank gizli işləyir, siyasətçilər və polislə yaxın əlaqələri var. 1930-cu illərin əvvəlində içki qadağasından gələn pul kəsiləndə Vinci və Moretti ailələri arasındakı gərginlik böyük müharibəyə çevrilib. Bu savaş Vinci-nin cinayət aləmindəki birinciliyinə son qoyub. Buna baxmayaraq, o, ənənəvi mafiya qaydalarını, xüsusən də narkotiklə bağlı qaydaları qətiyyətlə müdafiə edir.
+00_62_05_0007:Leo Galante Frank Vinci-nin məsləhətçisi və Empire Bay tarixində ən uğurlu cinayət təşkilatının qurucusudur. 1908-ci ildə gəlib Vinci ailəsini birlikdə qurublar: Leo plan qurub, Frank isə güc tətbiq edib. 1920-ci illərin əvvəlində Southport limanını ələ keçiriblər və bu, içki qadağası dövründə qaçaqmalçılığı asanlaşdırıb. Leo idmanı, xüsusən boksu və at yarışlarını çox sevir. İyirmi il şəhərin ən böyük mərc şəbəkəsini idarə edib. 1943-cü ildə döyüşlərin nəticələrini qabaqcadan düzəltdiyinə görə həbs olunub və beş il cəza alıb.
+00_62_05_0008:Stephen Coyne Vinci ailəsinin güc tətbiq edən adamıdır. Steve Birkland kəndlərində böyüyüb, on altı yaşında şəhərə köçüb. Döyməyə görə saxlanılarkən Empire Bay polisinin bir əməkdaşını ağır döyüb və on il cəza alıb, bunun beş ilini yatıb. Həbsdə olarkən başqa məhbus Derek Pappalardo-nun güc işlərini görməyə başlayıb. Bu əlaqə azadlıqda da davam edir. Hollandiya və İrlandiya köklərinə görə Steve heç vaxt ailənin tamhüquqlu üzvü ola bilməz. Amma rəqib başçı Tomaso Morretti-ni öldürüb Empire Bay-də mafiya müharibəsinə son qoyandan sonra ailənin ən etibarlı adamına çevrilib. 
+00_62_05_0009:Dipton və Kingston Empire Bay-in ən köhnə rayonlarındandır. Buralara nəzarət edən O'Neill dəstəsinin də uzun keçmişi var. Brian O'Neill vaxtilə güclü olan Empire Bay irland mafiyasının başçısı Jimmy O'Neill-in nəvəsidir. O'Neill nəsli şəhərə ilk dəfə 1800-cü illərin əvvəlində yerləşib. Brian-ın öz başıpozuq əlaltı dəstəsi var və onları düşünülməmiş, zorakı cinayətlərə göndərir. Vitrin sındırıb oğurluq etmək, ev yarmaq, adam soymaq və silahlı qarət Brian-ın sevdiyi işlərdir. Kobud gücü və az ağlı ilə bir gecə əyləncəyə və şəhərin çoxsaylı fahişələrinə pul çıxara bildiyi hər işə girişir.
+00_62_05_0010:Wong bəy Empire Bay-in Triada cinayət təşkilatında güc tətbiq edən adamlardandır. Chinatown-dakı Red Dragon restoranından işləyir. Gənc Zhe Yun Wong Amerikaya tiryək qaçaqmalçılığı edən gəmidə məcburi işçi kimi gəlib. Gəmi Cape Peak limanına çatanda qaçıb və şərqə, Empire Bay-ə yollanıb. Pulu yox idi, ingiliscə də bilmirdi, buna görə Triadanın xidmətinə düşüb. Tiryəkxanaları qorumaqla yavaş-yavaş yüksəlib, sonda qaçaqmalçılıq əməliyyatını planlaşdırmağa başlayıb. Bir tiryək partiyasını oğurladığına görə əmisi oğlunu öldürüb, sədaqətini sübut edərək indiki vəzifəsini qazanıb.
+00_62_05_0011:Antonio “Tony Balls” Balsamo Falcone cinayət ailəsinin yaşa dolmuş döyüşçüsüdür. Tony iyirmi ildən çoxdur bu ailəyə işləyir. Vaxtilə Tomaso Moretti-nin şəxsi sürücüsü olub və 1933-cü ildə Moretti-ni öldürən avtomobil bombasından ağır yaralanıb. O vaxtdan əsasən Falcone ailəsinin xərac toplama işlərini görüb. Son tapşırığı ailənin mühasibi Harvey “Beans” Epstein-i və onun bildiyi sirləri qorumaqdır.
+00_62_05_0012:Greaser adlanan küçə avaraları Amerikada ilk dəfə 1950-ci illərin əvvəlində peyda olublar. Adlarını yağlayıb arxaya daradıqları saçlarından alıblar. Motosiklet, gücləndirilmiş maşınlar və rok-n-roll onların maraq dairəsidir. Üsyankar, başağrısı olan bu gənclər rok-n-roll nəslinin daha kobud tərəfidir: yaxşı təşkilatlanmayıblar, amma sərt və dikbaşdırlar. Empire Bay-də onlara keçmiş ABŞ ordusu tank mexaniki Billy "Bones" Barnes başçılıq edir. Millville-in qarajlarında və boş ərazilərində yığışıb maşın yarışı keçirir, içki içir və əylənirlər.
+00_62_06_0001:Mike Bruski
+00_62_06_0002:Carlos Lopez
+00_62_06_0003:Harry
+00_62_06_0004:Bruno
+00_62_06_0005:El Greco
+00_62_06_0006:Giuseppe
+00_62_06_0007:Freddy Macchione
+00_62_06_0008:Jack Olivero
+00_62_06_0009:Sidney Pen
+00_62_07_0001:Mike Bruski Riverside-dakı metal tullantıları meydançasını idarə edir. Kənardan mexanik kimi görünsə də, peşəkar cinayətkardır. İyirmi yaşlarında Lost Heaven-də bank qarətlərinə qarışdığına görə iki dəfə qısa müddət həbsdə yatıb. İkinci cəzasından sonra Empire Bay-ə köçüb və gizlətdiyi pulla tullantı meydançası açıb. Mike müxtəlif fırıldaqlar işlədir: oğurluq maşın hissələri alıb-satır, oğurluq malı pula çevirir və mafiyaya cinayət sübutlarını öz meydançasında yox etməyə imkan verir. 
+00_62_07_0002:Carlos "Charlie" Lopez Empire Bay-də bir neçə kuzov təmiri emalatxanasının sahibidir. Kubada doğulub, 1922-ci ildə ingiliscəni güclə danışa-danışa iş tapmaq ümidi ilə Amerikaya gəlib. Cənub ştatlarında fermadan fermaya keçərək işləyib, axırda kənd təsərrüfatı maşınlarını təmir etməyi öyrənib. 1930-cu ilə qədər Empire Bay-ə köçüb öz qarajını açmağa yetəcək pul yığıb. Böyük böhran dövründə oğurluq maşınları "qanuniləşdirməklə" işini böyüdüb. Bu maşınların çoxunu Vinci kaposu Derek Pappalardo xaricə satıb. Emalatxanalarından halal pul qazansa da, Charlie mafiyaya bu xidmətləri göstərməyə davam edir.
+00_62_07_0003:Nathaniel Harold "Harry" Marsden III Kingston-dakı zirzəmi mağazasından qara bazarda hərbi silah-sursat satan silah həvəskarıdır. ABŞ ordusunda altı il xidmət edib və İkinci Dünya müharibəsində Fransada döyüşüb. Normandiyada gecə fahişəxanaya gedərkən hasardan dırmaşıb keçəndə budaq sol gözünə batıb və buna görə ordudan tərxis olunub. Empire Bay-ə qayıdandan sonra ordudakı tanışları vasitəsilə artıq qalmış silah-sursat əldə etməyə başlayıb. Hərb tarixi oxumaqdan və başqa veteranlarla içki içməkdən vaxt tapanda şəhərin müxtəlif cinayətkar qruplarını silahla təmin edir.
+00_62_07_0004:Bruno Levine Southport-dakı balaca ofisdən işləyən, mafiyanın arxa durduğu sələmçidir. Empire Bay-dəki sələmçi şəbəkəsinin başında durur və Komissiyanın rəsmi icazəsi ilə işləyir. Mafiyanın pulunu xırda sələmçilərə, cinayətkarlara və iş adamlarına çox yüksək faizlə borc verir. Arxasında da mafiyanın gücü dayanır. Ədaləti yalnız bütün borclularla eyni cür davranmağındadır. Verdiyi sözə hərfən əməl edir, qarşı tərəfdən də eynisini gözləyir. Bruno-ya borcunu vaxtında qaytarmayanlar haqqında çox hekayə dolaşır.
+00_62_07_0005:Andreas "El Greco" Karafantis xaricdə yaşayan yunan həkimdir. Empire Bay-in mafiya ailələrinə gizli tibbi yardım göstərir. Londonda tibb oxuyub, əvvəlcə Yunanıstan səfirliyində həkim işləyib. 1927-ci ildə Empire Bay-dəki ABŞ səfirinin ofisinə köçürülüb. Üç il sonra səfirin arvadı ilə münasibətinə görə işdən çıxarılıb və özəl həkimliyə başlayıb. Empire Bay-də Vinci-Moretti müharibəsi zamanı bir neçə qanqsterin həyatını xilas etdiyinə görə yaxşı pul alandan sonra cinayət aləminə xidmət göstərməyə başlayıb.
+00_62_07_0006:Giuseppe Palminteri İtaliyanın ən bacarıqlı saxtakarı və seyf açanı sayılırdı. Həm cinayət aləmində, həm də polis arasında məşhur idi. Tez-tez birbaşa Siciliya mafiyasına işləyirdi. 1917-ci ildə Alberto Clemente-nin əmisi Silvio da daxil olmaqla on üç məşhur qanqsteri Palermo həbsxanasından qaçırmağa kömək etmişdi. Mussolini hakimiyyətə gələndə Giuseppe Empire Bay-ə köçüb və burada da mafiya ailələrinə qanunsuz xidmətlər göstərməyə başlayıb. İndi işdən əl çəkib. Bilinən ailəsi olmayan, mehriban bir qocadır və yalnız sənəti üçün yaşayır.
+00_62_07_0007:Freddy Macchione Little Italy-dəki Freddy's-in barmeni və sahibidir. İçki qadağası dövründə Freddy's gizli bar idi. Alberto Clemente-nin qaçaqmal yolu ilə gətirdiyi içkiləri müştərilərə satır və onun dəstəsinin himayəsində işləyirdi. Qadağadan sonra Clemente Freddy-nin qumar borclarından istifadə edərək bara şərik olub, təmirə pul qoyub və məkanı bar-restoran kimi yenidən açıb. İndi Freddy's-də Clemente ailəsinin gündəlik işləri görülür, xəracdan gələn pulları da burada yuyulur.
+00_62_07_0008:Jack Olivero Empire Bay-in daha səviyyəli restoranlarından və Falcone ailəsinin iş mərkəzi olan Maltese Falcon-da barmendir. İçki qadağası vaxtı Eddie Scarpa üçün Tamborra-dan içki daşıyıb. 1928-ci ildə qaçaqmalçılığa görə həbs olunanda polisə məlumat verməkdən imtina edib və cəzasını çəkib. Azadlığa çıxanda Eddie ilə Carlo onu indiki işi ilə mükafatlandırıblar. İndi Jack Falcon-da bar arxasında işləməkdən razıdır və hər gün gəlib-gedən mafiozlara, pula və qaçaq mala göz yumur.
+00_62_07_0009:Empire Bay-in cinayət aləmində daha çox “Kök Adam” kimi tanınan Sidney Pen fırıldaqçı iş adamı və Alberto Clemente-nin keçmiş ortağıdır. 1920-ci illərin sonunda Clemente Pen-in Empire Bay Cab Co. şirkətindən pay alıb və içki qaçaqmalçılığından gələn pulları orada yumağa başlayıb. 1939-cu ildə Pen Sand Island-da içki zavodu açıb Clemente-yə pay verməkdən imtina edəndə araları dəyib. Pen əlindəki ifşaedici sübutların onu qoruyacağını düşünürdü. Adamları Clemente-nin göndərdiyi iki qatili öldürəndən sonra Pen şəxsi mühafizəsini gücləndirib.
+00_62_15_0001:Gələcəklə bağlı xəbərdarlıq
+00_62_15_0002:Gələcək hələ bilinmir!
+00_65_00_0000:Fəsil %d: %ls<br>%ls
+00_65_00_0001:Yer: %ls<br>%ls
+00_65_00_0002:%ls açıldı.
+00_65_00_0003:Fəsil 8: %ls<br>%ls
+00_65_00_0004:Pinup şəkillərini açmaq üçün oyunu çətin səviyyədə oynamalısınız.
+00_65_01_0008:Rəsm %d
+00_65_01_0009:Afişa %d
+00_65_01_0010:Playmate %d
+00_65_01_0011:Pinup %d
+00_65_01_0012:Axtarış elanı %d
+00_65_01_0013:Fon şəkli %d
+00_61_00_0000:Oyundakı səslərin səviyyəsini tənzimlə
+00_61_00_0001:Oyundakı danışıq səslərinin səviyyəsini tənzimlə
+00_61_00_0002:İstədiyiniz səs keyfiyyətini seçin
+00_61_00_0003:Oyundakı musiqinin səviyyəsini tənzimlə
+00_61_01_0000:Parlaqlığı tənzimlə
+00_61_01_0001:Teksturaların keyfiyyətini seçin
+00_61_01_0002:Kölgələrin keyfiyyətini seçin
+00_61_02_0000:Altyazıların göstərilməsi
+00_61_02_0001:Oyundakı spidometrin ölçü vahidlərini dəyişir
+00_61_02_0002:Oyunun çətinliyini dəyişir
+00_61_02_0003:Əsas menyunun fonunu ilkin vəziyyətinə qaytarır 
+00_61_02_0004:Parlaqlığı tənzimlə
+00_61_03_0000:Oyunu əvvəldən başladır
+00_61_03_0001:Oyunu son yadda saxlanmış yerdən davam etdirir
+00_61_03_0002:Artıq oynadığınız fəsilləri yenidən oynayın
+00_61_03_0003:Yüklədiyiniz əlavələri seçib oynayın
+00_61_03_0004:İdarəetmə, oyun, səs və görüntü ayarlarını dəyişin
+00_61_03_0005:Oyunda toplanan əşyalara və başqa şeylərə baxın...
+00_61_03_0006:Oyundan çıxıb Windows-a qayıt
+00_61_04_0000:Döyüş oyunlarına çox alışmamış oyunçular üçün asan və bağışlayıcı oyun
+00_61_04_0001:Çətinliklə hekayə arasında yaxşı tarazlıq
+00_61_04_0002:Çətinlikləri aşıb qalib gəlməyi sevən təcrübəli oyunçular üçün
+00_61_04_0003:Özünü qanqster sayırsan? Bunu bir yoxla. Çox çətindir.
+00_61_05_0000:Sürətli döyüş başladır
+00_61_05_0001:Seçilmiş maşınla yarış başladır
+00_61_05_0002:Yüklənən əlavənin sərbəst gəzinti rejimini başladır
+00_61_05_0003:Yüklədiyiniz əlavə bölümləri seçib oynayın
+00_61_06_0001:İdarəetmə cihazlarını seçib ayarlarını dəyişin
+00_61_06_0002:Altyazıları, çətinliyi və digər ayarları dəyişin...
+00_61_06_0003:Səs ayarlarını dəyişin
+00_61_06_0004:Görüntü ayarlarını dəyişin
+00_61_07_0000:Nişanalma köməkçisinin idarəsi
+00_61_07_0001:Y oxunu tərsinə çevir
+00_61_07_0002:Kamera idarəsinin həssaslığı
+00_61_07_0003:Əsas idarəetmə cihazını seçin
+00_61_07_0004:İkinci idarəetmə cihazını seçin
+00_61_07_0005:Əsas idarəetmə cihazının düymə sxemini göstər
+00_61_07_0006:İkinci idarəetmə cihazının düymə sxemini göstər
+00_61_07_0007:İstədiyiniz idarəetmə sxemini seçin
+00_61_08_0000:TODO
+00_61_16_0003:İrəli 
+00_61_16_0004:Geri 
+00_61_16_0005:Sola yana addımla 
+00_61_16_0006:Sağa yana addımla
+00_61_16_0007:Sürətlə qaçmaq üçün ardıcıl basın
+00_61_16_0008:Yeriməni açıb-söndür
+00_61_16_0009:Əşyaların üstünə dırmaşmaq
+00_61_16_0010:Gizli hərəkəti açıb-söndür
+00_61_16_0011:Əldəki silahla atəş aç 
+00_61_16_0012:Əlbəyaxa döyüşdə yüngül zərbə 
+00_61_16_0013:Əlbəyaxa döyüşdə güclü zərbə 
+00_61_16_0014:Əlbəyaxa döyüşdə zərbədən yayın 
+00_61_16_0015:hit1 + hit2 basın, ayrıca təyin etmək olmur
+00_61_16_0016:Sığınacağa keçməyi açıb-söndür 
+00_61_16_0017:Kameranı bir çiyindən o birinə keçir
+00_61_16_0018:Görüntünü yaxınlaşdır
+00_61_16_0019:Əməl düyməsi
+00_61_16_0020:Əldəki silahı yenidən doldur 
+00_61_16_0021:Kameranın X oxu üzrə idarəsi, dəyişmək olmur
+00_61_16_0022:Kameranın Y oxu üzrə idarəsi, dəyişmək olmur
+00_61_16_0023:Əvvəlki silahı seç
+00_61_16_0024:Növbəti silahı seç
+00_61_16_0025:Silahı yığışdır
+00_61_16_0026:Silah seçimi - yuxarı
+00_61_16_0027:Silah seçimi - aşağı
+00_61_16_0028:Silah seçimi - sol
+00_61_16_0029:Silah seçimi - sağ
+00_61_16_0030:Taksi çağır 
+00_61_16_0031:Sürətlə qaçmaq üçün basılı saxlayın
+00_61_16_0034:Qaz ver 
+00_61_16_0035:Əyləci bas 
+00_61_16_0036:Maşını sola döndər
+00_61_16_0037:Maşını sağa döndər
+00_61_16_0038:Siqnal ver 
+00_61_16_0039:Maşında kameranı hərəkət etdir 
+00_61_16_0040:Maşında oturacağı dəyiş
+00_61_16_0041:Radio stansiyasını dəyiş 
+00_61_16_0042:Əl əyləcini çək 
+00_61_16_0043:Maşına min 
+00_61_16_0044:Maşından düş 
+00_61_16_0045:Maşından əldəki silahla atəş aç
+00_61_16_0046:Sürmə tərzini normal/aqressiv arasında dəyiş
+00_61_16_0047:Maşında kameranı dəyiş 
+00_61_17_0003:Oyun menyusunu aç 
+00_61_17_0004:Açıq oyun menyusunu bağla 
+00_61_17_0005:Hekayə ekranını aç 
+00_61_17_0006:Tapşırıq ekranını aç 
+00_61_17_0007:Xəritəni aç 
+00_61_17_0008:Siçanın həssaslığını tənzimləmək üçün sürüşdürmə çubuğu
+00_61_18_0000:Qamma tənzimləməsi haqqında ipucu
+00_60_00_0000:Walter Military
+00_60_00_0001:Moscardo AS37
+00_60_00_0002:Mannschaftstransportwagen
+00_60_00_0003:Wespe
+00_60_00_0004:Sherman M4A1
+00_60_00_0005:Siciliya arabası
+00_60_00_0006:Shubert Pickup
+00_60_00_0007:GAI 353 Military Truck
+00_60_00_0008:Shubert Truck
+00_60_00_0009:Shubert Truck Covered
+00_60_00_0010:Shubert Truck Flatbed
+00_60_00_0011:Shubert Truck
+00_60_00_0012:Smith V8
+00_60_00_0013:Culver Empire
+00_60_00_0014:Culver Empire Police Special
+00_60_00_0015:Walter Coupe
+00_60_00_0016:Jefferson Provincial
+00_60_00_0017:Shubert 38
+00_60_00_0018:Shubert 38 Taxi
+00_60_00_0019:Shubert 38 Panel Truck
+00_60_00_0020:Shubert Hearse
+00_60_00_0021:Lassiter Series 69
+00_60_00_0022:Parry Bus
+00_60_00_0023:Parry Bus Prison
+00_60_00_0024:Potomac Indian
+00_60_00_0025:Berkley Kingfisher
+00_60_00_0026:Smith Deluxe Station Wagon
+00_60_00_0027:Smith Mainline
+00_60_00_0028:Walter Utility
+00_60_00_0029:Smith 34 Hot Rod
+00_60_00_0030:Walter Hot Rod
+00_60_00_0031:Shubert Frigate
+00_60_00_0032:Smith Custom 200
+00_60_00_0033:Smith Custom 200 Police Special
+00_60_00_0034:Shubert Armored Van
+00_60_00_0035:Quicksilver Windsor
+00_60_00_0036:Quicksilver Windsor Taxi
+00_60_00_0037:Lassiter Series 75 Hollywood
+00_60_00_0038:Ascot Bailey
+00_60_00_0039:Houston Wasp
+00_60_00_0040:Shubert Beverly
+00_60_00_0041:Walker Rocket
+00_60_00_0042:Hank B
+00_60_00_0043:Jefferson Futura
+00_60_00_0044:Smith Thunderbolt
+00_60_00_0045:ISW 508
+00_60_00_0046:Delizia Grandeamerica
+00_60_00_0047:Shubert Pickup Hot Rod
+00_60_00_0048:Hank B Fuel Tank
+00_60_00_0049:Shubert Snow Plow
+00_60_00_0050:Süd maşını
+00_60_00_0051:Smith Truck
+00_60_00_0052:Smith Coupe
+00_60_00_0053:Shubert Series AB
+00_60_00_0054:Cossack
+00_60_00_0055:Chaffeque XT
+00_60_00_0056:Waybar Hot Rod
+00_60_00_0057:Roller GL300
+00_60_00_0058:Potomac Elysium
+00_60_00_0059:Yükqaldıran
+00_63_00_0000:Polisə $%2 rüşvət ver
+00_63_00_0001:Empire Bay polisindəki tanışına zəng et. Münasib qiymətə axtarışı dayandıra bilər.
+00_64_01_0001:Freddy's restoran və barı
+00_64_01_0002:Giuseppe-nin alət mağazası
+00_64_01_0003:Harry-nin silah mağazası
+00_64_01_0004:Stella's yeməkxanası
+00_64_01_0005:Joe-nun mənzili
+00_64_01_0006:The Maltese Falcon
+00_64_01_0007:Dipton Apparel
+00_64_01_0008:Mənzil
+00_64_01_0009:Mənzil
+00_64_01_0010:Mənzil
+00_64_01_0011:Sand Island ərzaq mağazası
+00_64_01_0012:Empire yeməkxanası
+00_64_01_0013:Trago yanacaqdoldurma məntəqəsi
+00_64_01_0014:McClusky and Sons
+00_64_01_0015:Hill of Tara
+00_64_01_0016:The Lone Star
+00_64_01_0017:The Mona Lisa
+00_64_01_0018:The Dragstrip
+00_64_01_0019:Vangel's
+00_64_01_0020:Richard Beck Realty
+00_64_01_0021:Charlie-nin avtotəmiri
+00_64_02_0001:Old Empirical pivəsi
+00_64_02_0002:Viski
+00_64_02_0003:Brendi
+00_64_02_0004:Stoltz pivəsi
+00_64_02_0005:Master pivəsi
+00_64_02_0006:Şərab
+00_64_02_0007:Qəhvə
+00_64_02_0008:Hot-doq
+00_64_02_0009:Sendviç
+00_64_02_0010:Giros
+00_64_02_0011:Swift Cola
+00_64_02_0012:Stoltz pivəsi
+00_64_02_0014:Hamburger
+00_64_02_0015:Sifarişlə tikilmiş kostyum və palto
+00_64_02_0016:Gündəlik kostyum və plaş
+00_64_02_0017:Sifarişlə tikilmiş kostyum
+00_64_02_0018:Gündəlik kostyum
+00_64_02_0019:Dəri gödəkçə
+00_64_02_0020:Köynək
+00_64_02_0021:Yüklənən əlavə: Vegas Pack
+00_64_02_0022:Yüklənən əlavə: Vegas Pack
+00_64_02_0023:Yüklənən əlavə: Greaser Pack
+00_64_02_0024:Yüklənən əlavə: Renegade Pack
+00_64_02_0025:Yüklənən əlavə: Renegade Pack
+00_64_02_0026:Yüklənən əlavə: Made Man
+00_64_02_0027:Yüklənən əlavə: Made Man
+00_64_02_0028:Yüklənən əlavə: War Hero Pack
+00_64_02_0029:Yüklənən əlavə: War Hero Pack
+00_64_02_0030:Yüklənən əlavə: Greaser Pack
+00_64_02_0031:
+00_64_02_0032:Bir stəkan kola
+00_64_02_0033:Ərzaq talonlarını sat
+00_64_02_0034:Maşına yanacaq doldur
+00_64_02_0035:Maşına yanacaq doldur
+00_64_02_0036:Benzin kanistri
+00_64_02_0037:Maşını yudurt
+00_64_02_0038:Hunters Point-də mənzil
+00_64_02_0039:Oyster Bay-də mənzil
+00_64_02_0040:Uptown-da birmərtəbəli ev
+00_64_02_0041:Greenfield-də ev
+00_64_02_0042:Hillwood-da malikanə
+00_64_02_0043:Maşını təmir et
+00_64_02_0044:Diskləri dəyiş
+00_64_02_0045:Əsas tüninq
+00_64_02_0046:İdman tüninqi
+00_64_02_0047:Kompressor
+00_64_02_0048:Yenidən boya
+00_64_02_0049:Xüsusi naxışlı boya
+00_64_02_0050:Nömrəni dəyiş
+00_64_02_0051:Buz ağı
+00_64_02_0052:Ayran rəngi
+00_64_02_0053:Bulud bozusu
+00_64_02_0054:Daş bozusu
+00_64_02_0055:Maqnoliya
+00_64_02_0056:Sarı
+00_64_02_0057:Qızılgül rəngi
+00_64_02_0058:Bordo
+00_64_02_0059:Torpaq qəhvəyisi
+00_64_02_0060:Meşə yaşılı
+00_64_02_0061:Gümüşü
+00_64_02_0062:Razyana rəngi
+00_64_02_0063:Zümrüd
+00_64_02_0064:Şotlandiya dumanı
+00_64_02_0065:Tünd göy-yaşıl
+00_64_02_0066:Scaledo qarası
+00_64_02_0067:Xaki
+00_64_02_0068:Schmittou qəhvəyisi
+00_64_02_0069:İndiqo gecəsi
+00_64_02_0070:Səma mavisi
+00_64_02_0071:Solğun üz
+00_64_02_0072:Parlaq qızılı
+00_64_02_0073:Pralin
+00_64_02_0074:Nanə yaşılı
+00_64_02_0075:Nefrit yaşılı
+00_64_02_0076:Laym yaşılı
+00_64_02_0077:Söyüd yaşılı
+00_64_02_0078:Zanda mavisi
+00_64_02_0079:High Sierra
+00_64_02_0080:Pambıq şəkər çəhrayısı
+00_64_02_0081:Fuksiya çəhrayısı
+00_64_02_0082:Denby çəhrayısı
+00_64_02_0083:Tünd qızılı
+00_64_02_0084:Yanıq qəhvəyi
+00_64_02_0085:Maun rəngi
+00_64_02_0086:Doyğun bej
+00_64_02_0087:Albalı qırmızısı
+00_64_02_0088:Şirin şokolad
+00_64_02_0089:Dəniz köpüyü
+00_64_02_0090:Qara qarağat
+00_64_02_0091:Dunniel Spinner
+00_64_02_0092:Dunniel Black Rook
+00_64_02_0093:Speedstone Alpha
+00_64_02_0094:Speedstone Beta
+00_64_02_0095:Speedstone Top Speed
+00_64_02_0096:Galahad Tiara
+00_64_02_0097:Galahad Silver Band
+00_64_02_0098:Speedstone Diabolica
+00_64_02_0099:Galahad Coronet
+00_64_02_0100:Galahad Gold Crown
+00_64_02_0101:Paytone Mistyhawk
+00_64_02_0102:Qıfılaçanlar
+00_64_02_0103:Yaxalıq və manjetlər
+00_64_02_0104:Yağlı ildırım
+00_64_02_0105:Elektrik flaminqosu
+00_64_02_0106:Meşə yanğını
+00_64_02_0107:Gecə alovu
+00_64_02_0108:Cəhənnəm alovu
+00_64_02_0109:Le Mans 5
+00_64_02_0110:Yarış komandası 127
+00_64_02_0111:Empire qızğınlığı
+00_64_02_0112:Nömrə nişanı
+00_64_02_0113:
+00_64_02_0114:
+00_64_02_0115:Little Italy-də mənzil
+00_64_02_0116:Speedstone Pacific
+00_64_02_0200:Vegas Pack
+00_64_02_0201:Greaser Pack
+00_64_02_0202:Renegade Pack
+00_64_02_0203:Made Man
+00_64_02_0204:War Hero Pack
+00_64_02_0205:Jimmy's Vendetta
+00_64_02_0206:Joe's Adventures
+00_64_02_0207:Jimmy's Story Prequel
+00_64_03_0001:.45 patronları
+00_64_03_0002:12 kalibr patronları
+00_64_03_0003:.357 patronları
+00_64_03_0004:.38 patronları
+00_64_03_0005:8 mm patronları
+00_64_03_0006:.30 patronları
+00_64_03_0007:9 mm patronları
+00_64_03_0008:.38 Special patronları
+00_64_04_0001:Bir pint pivə
+00_64_04_0002:Bir qədəh brendi
+00_64_04_0003:Bir qurtum şotland viskisi
+00_64_04_0004:Bir şüşə lager pivəsi
+00_64_04_0005:Bir şüşə pivə
+00_64_04_0006:Keyfiyyətli köhnə şərab
+00_64_04_0007:Bir fincan isti qəhvə
+00_64_04_0008:Adamı razı salmaq üçün əlverişli vasitə
+00_64_04_0009:Yarıavtomatik tapança
+00_64_04_0010:Zərbəsi ağırdır
+00_64_04_0011:Əldəqayırma yandırıcı
+00_64_04_0012:Silah gəzdirmə icazəsi
+00_64_04_0013:Qəssabın ən yaxın dostu
+00_64_04_0014:Daha çox Tommy Gun adı ilə tanınır
+00_64_04_0015:Özünü şanslı hiss edirsən?
+00_64_04_0016:Alman yarıavtomatik tapançası
+00_64_04_0017:Qəlpəli qumbara
+00_64_04_0018:İtaliya ordusunun istifadə etdiyi avtomat
+00_64_04_0019:Pompalı ov tüfəngi
+00_64_04_0020:Atəş rejimi seçilən Amerika döyüş tüfəngi
+00_64_04_0021:Sürgülü tüfəng
+00_64_04_0022:Piyadalara verilən yarıavtomatik tüfəng
+00_64_04_0023:Almaniyada hazırlanmış avtomat
+00_64_04_0024:Amerika istehsalı .45 kalibrli avtomat
+00_64_04_0025:Kolbasalı qəlyanaltı
+00_64_04_0026:Klassik vetçina və pendir 
+00_64_04_0027:Şirəli kabab
+00_64_04_0028:Bir şüşə kola
+00_64_04_0029:Bir şüşə soyuq pivə
+00_64_04_0030:Dadlı burger
+00_64_04_0031:Bahalı kostyum və palto
+00_64_04_0032:Gündəlik kostyum və plaş
+00_64_04_0033:Bahalı kostyum və şlyapa
+00_64_04_0034:Gündəlik kostyum və şlyapa
+00_64_04_0035:Dəri gödəkçə və köynək
+00_64_04_0036:Köynək və şalvar
+00_64_04_0037:Uzun yaxalı kostyum və gün eynəyi
+00_64_04_0038:Dəbli kovboy kostyumu və şlyapa
+00_64_04_0039:Bayker geyimi
+00_64_04_0040:Məktəbli geyimi
+00_64_04_0041:Qırmızı gödəkçə və köynək
+00_64_04_0042:Smokinq və kəpənək qalstuk
+00_64_04_0043:Kostyum və eynək
+00_64_04_0044:Döyüş forması
+00_64_04_0045:Hərbi gündəlik forma
+00_64_04_0046:Yarış kombinezonu
+00_64_04_0047:
+00_64_04_0048:Bir pint buz kimi Swift
+00_64_04_0049:Müəyyən ərzaq paylarını almaq üçün talon
+00_64_04_0050:TRAGO benzini
+00_64_04_0051:TRAGO benzini
+00_64_04_0052:Bir kanistr benzin
+00_64_04_0053:Maşını yudurtmaq üçün içəridən keçin
+00_64_04_0054:Rəqiblərinə də bir şans ver.
+00_64_04_0055:Budaq yon, alma soy - və daha nələr!
+00_64_04_0056:Asan gizlədilən tapança
+00_64_04_0057:Hunters Point-də kiçik mənzil
+00_64_04_0058:Oyster Bay-də daha böyük mənzil
+00_64_04_0059:Uptown-da daha böyük mənzil
+00_64_04_0060:Greenfield-də rahat ev
+00_64_04_0061:Hillwood-da dəbdəbəli malikanə
+00_64_04_0062:Maşınını təzə kimi et
+00_64_04_0063:Yeni disklər seç
+00_64_04_0064:Polisdən daha asan qaçmaq üçün mühərrikin gücünü artır
+00_64_04_0065:Daha yaxşı idarəetmə hər təqibdə sənə üstünlük verəcək
+00_64_04_0066:Mühərrikdən maksimum güc almaq üçün kompressor quraşdır
+00_64_04_0067:Maşını axtarışdan çıxarmaq üçün rəngini dəyiş
+00_64_04_0068:Özünəməxsus naxışla yenidən boya
+00_64_04_0069:Maşını axtarışdan çıxarmaq lazımdırsa, nömrəni dəyiş
+00_64_04_0070:Bütün müasir rənglər - sadəcə bəyəndiyini seç
+00_64_04_0071:Bütün müasir rənglər - sadəcə bəyəndiyini seç
+00_64_04_0072:Bütün müasir rənglər - sadəcə bəyəndiyini seç
+00_64_04_0073:Bütün müasir rənglər - sadəcə bəyəndiyini seç
+00_64_04_0074:Bütün müasir rənglər - sadəcə bəyəndiyini seç
+00_64_04_0075:Bütün müasir rənglər - sadəcə bəyəndiyini seç
+00_64_04_0076:Bütün müasir rənglər - sadəcə bəyəndiyini seç
+00_64_04_0077:Bütün müasir rənglər - sadəcə bəyəndiyini seç
+00_64_04_0078:Bütün müasir rənglər - sadəcə bəyəndiyini seç
+00_64_04_0079:Bütün müasir rənglər - sadəcə bəyəndiyini seç
+00_64_04_0080:Bütün müasir rənglər - sadəcə bəyəndiyini seç
+00_64_04_0081:Bütün müasir rənglər - sadəcə bəyəndiyini seç
+00_64_04_0082:Bütün müasir rənglər - sadəcə bəyəndiyini seç
+00_64_04_0083:Bütün müasir rənglər - sadəcə bəyəndiyini seç
+00_64_04_0084:Bütün müasir rənglər - sadəcə bəyəndiyini seç
+00_64_04_0085:Bütün müasir rənglər - sadəcə bəyəndiyini seç
+00_64_04_0086:Bütün müasir rənglər - sadəcə bəyəndiyini seç
+00_64_04_0087:Bütün müasir rənglər - sadəcə bəyəndiyini seç
+00_64_04_0088:Bütün müasir rənglər - sadəcə bəyəndiyini seç
+00_64_04_0089:Bütün müasir rənglər - sadəcə bəyəndiyini seç
+00_64_04_0090:Bütün müasir rənglər - sadəcə bəyəndiyini seç
+00_64_04_0091:Bütün müasir rənglər - sadəcə bəyəndiyini seç
+00_64_04_0092:Bütün müasir rənglər - sadəcə bəyəndiyini seç
+00_64_04_0093:Bütün müasir rənglər - sadəcə bəyəndiyini seç
+00_64_04_0094:Bütün müasir rənglər - sadəcə bəyəndiyini seç
+00_64_04_0095:Bütün müasir rənglər - sadəcə bəyəndiyini seç
+00_64_04_0096:Bütün müasir rənglər - sadəcə bəyəndiyini seç
+00_64_04_0097:Bütün müasir rənglər - sadəcə bəyəndiyini seç
+00_64_04_0098:Bütün müasir rənglər - sadəcə bəyəndiyini seç
+00_64_04_0099:Bütün müasir rənglər - sadəcə bəyəndiyini seç
+00_64_04_0100:Bütün müasir rənglər - sadəcə bəyəndiyini seç
+00_64_04_0101:Bütün müasir rənglər - sadəcə bəyəndiyini seç
+00_64_04_0102:Bütün müasir rənglər - sadəcə bəyəndiyini seç
+00_64_04_0103:Bütün müasir rənglər - sadəcə bəyəndiyini seç
+00_64_04_0104:Bütün müasir rənglər - sadəcə bəyəndiyini seç
+00_64_04_0105:Bütün müasir rənglər - sadəcə bəyəndiyini seç
+00_64_04_0106:Bütün müasir rənglər - sadəcə bəyəndiyini seç
+00_64_04_0107:Bütün müasir rənglər - sadəcə bəyəndiyini seç
+00_64_04_0108:Bütün müasir rənglər - sadəcə bəyəndiyini seç
+00_64_04_0109:Bütün müasir rənglər - sadəcə bəyəndiyini seç
+00_64_04_0110:Zavod istehsalı
+00_64_04_0111:Zavod istehsalı
+00_64_04_0112:Xrom
+00_64_04_0113:Xrom
+00_64_04_0114:Xrom
+00_64_04_0115:Xrom
+00_64_04_0116:Xrom
+00_64_04_0117:Xüsusi yüngül lehimli disklər
+00_64_04_0118:Xüsusi yüngül lehimli disklər
+00_64_04_0119:Xüsusi yüngül lehimli disklər
+00_64_04_0120:Xüsusi yüngül lehimli disklər
+00_64_04_0121:Qıfıl açıb içəri girmək üçün vacib alət
+00_64_04_0122:Adi naxış
+00_64_04_0123:Xüsusi naxış
+00_64_04_0124:Xüsusi naxış
+00_64_04_0125:Xüsusi naxış
+00_64_04_0126:Xüsusi naxış
+00_64_04_0127:Xüsusi naxış
+00_64_04_0128:Xüsusi naxış
+00_64_04_0129:Xüsusi naxış
+00_64_04_0130:Xüsusi naxış
+00_64_04_0131:Maşını axtarışdan çıxarmaq üçün nömrəni dəyiş
+00_64_04_0132:
+00_64_04_0133:
+00_64_04_0134:Little Italy-də klassik mənzil
+00_64_04_0135:Xüsusi yüngül lehimli disklər
+00_64_05_0001:1911 Special patronları
+00_64_05_0003:Thompson patronları
+00_64_05_0004:Magnum patronları
+00_64_05_0005:C96 patronları
+00_64_05_0006:.38 SMG patronları
+00_64_05_0007:Ov tüfəngi patronları
+00_64_05_0009:K98 patronları
+00_64_05_0010:Garand patronları
+00_64_05_0011:MP40 patronları
+00_64_05_0012:Grease Gun patronları
+00_64_05_0013:.38 revolver patronları
+00_64_05_0014:1911 patronları
+00_64_06_0001:Kofein həddini aşmısınız
+00_64_06_0002:Həddindən çox içmisiniz
+00_64_06_0003:Artıq həddindən çox yemisiniz
+00_64_06_0004:Əlavə əşya yoxdur
+00_64_06_0005:Bu əşya artıq sizdə var
+00_64_06_0006:Doludur
+00_64_06_0007:Silah icazəsi lazımdır
+00_64_06_0008:Geyim AXTARILIR
+00_64_06_0009:Rəng AXTARILIR
+00_64_06_0010:Əşya qalmayıb
+00_64_06_0011:Əşya deaktivdir
+00_64_06_0012:Yanacaq çəni doludur
+00_64_06_0013:Maşın təmizdir
+00_64_06_0014:Sağlamlığınız tamdır
+00_64_06_0015:Hazırkı geyim
+00_64_06_0016:Maşınınız tam təkmilləşdirilib
+00_64_06_0017:Hazırkı disklər
+00_64_06_0018:Hazırkı rəng
+00_64_06_0019:Nömrə AXTARILIR
+00_64_06_0020:Hazırkı naxış
+00_64_06_0021:Maşın təmir olunmalıdır
+00_64_06_0025:Maşın təmir edildi
+00_64_06_0026:Boya AXTARILIR
+00_64_06_0027:Hazırkı nömrə
+00_64_06_0028:Qurtarıb
+00_64_06_0029:Patron yeriniz doludur
+00_64_07_0001:İçkilərə bax
+00_64_07_0002:Bax
+00_64_07_0003:Geyimlərə bax
+00_64_07_0004:Evlərə bax
+00_64_07_0005:Əsas rəngi seç
+00_64_07_0006:İkinci rəngi seç
+00_64_07_0007:Rəngi dəyiş
+00_64_07_0008:Diskləri dəyiş
+00_64_07_0009:Zövqünə uyğunlaşdır
+00_64_07_0010:Bax
+00_64_07_0011:Mağazaya bax
+00_64_08_0001:İçkini al
+00_64_08_0002:Geyim al
+00_64_08_0003:Benzin al
+00_64_08_0004:Ərzaq talonlarını sat
+00_64_08_0005:Benzin kanistri al
+00_64_08_0006:Maşını yudurt
+00_64_08_0007:Ev al
+00_64_08_0008:Al
+00_64_08_0009:Maşını təmir et
+00_64_08_0010:Rəngi təsdiqlə
+00_64_08_0011:Mühərriki təkmilləşdir
+00_64_08_0012:Yeməyi götür
+00_64_08_0013:Silahı götür
+00_64_08_0014:Geyimi götür
+00_64_08_0015:İçkini götür
+00_64_08_0016:Disk al
+00_64_08_0017:Boya naxışını dəyiş
+00_64_08_0018:Nömrəni dəyiş
+00_64_08_0019:Nömrə al
+00_64_08_0020:Qıfılaçan al
+00_64_09_0001:Patron al
+00_64_10_0001:Çıx
+00_66_00_0001:
+00_66_00_0002:
+00_66_00_0003:
+00_66_00_0004:
+00_66_00_0005:
+00_66_00_0006:
+00_66_00_0007:
+00_66_00_0008:
+00_66_00_0009:
+00_66_00_0010:
+00_66_00_0011:
+00_66_00_0012:
+00_66_00_0013:
+00_66_00_0014:
+00_66_00_0015:
+00_66_00_0016:
+00_66_00_0017:
+00_66_00_0018:
+00_66_00_0019:
+00_66_00_0020:
+00_66_00_0021:
+00_66_00_0022:
+00_66_00_0023:
+00_66_00_0024:
+00_66_00_0025:
+00_66_00_0026:
+00_66_00_0027:
+00_66_00_0028:
+00_66_00_0029:
+00_66_00_0030:
+00_66_00_0031:
+00_66_00_0032:
+00_66_00_0033:
+00_66_00_0034:
+00_66_00_0035:
+00_66_00_0036:
+00_66_00_0037:
+00_66_00_0038:
+00_66_00_0039:
+00_66_00_0040:
+00_67_00_0001:Prezident
+00_67_00_0002:Əməliyyatlar üzrə baş direktor
+00_67_00_0003:Məhsul hazırlığı üzrə vitse-prezident
+00_67_00_0004:Hazırlama rəhbəri
+00_67_00_0005:Məhsul hazırlığı əməliyyatlarının rəhbəri
+00_67_00_0006:Prodüser
+00_67_00_0007:Marketinq üzrə baş vitse-prezident
+00_67_00_0008:Marketinq üzrə vitse-prezident
+00_67_00_0009:Marketinq rəhbəri
+00_67_00_0010:Planlaşdırma və təhlil rəhbəri
+00_67_00_0011:Baş video montajçısı
+00_67_00_0012:Tərəfdaş marketinqi üzrə baş menecer
+00_67_00_0013:Media mütəxəssisi
+00_67_00_0014:Yaradıcı xidmətlər üzrə bədii rəhbər
+00_67_00_0015:Veb rəhbəri
+00_67_00_0016:Veb dizayneri
+00_67_00_0017:İcma meneceri
+00_67_00_0018:İstehsal rəhbəri
+00_67_00_0019:İstehsal meneceri
+00_67_00_0020:Əməliyyatlar rəhbəri
+00_67_00_0021:Satış və lisenziyalaşdırma üzrə vitse-prezident
+00_67_00_0022:Strateji satış və lisenziyalaşdırma meneceri
+00_67_00_0023:Keyfiyyətə nəzarət üzrə vitse-prezident
+00_67_00_0024:Test meneceri
+00_67_00_0025:Baş testçi
+00_67_00_0026:Keyfiyyətə nəzarət komandası
+00_67_00_0027:Uyğunluğa nəzarət meneceri
+00_67_00_0028:Uyğunluq üzrə baş testçi
+00_67_00_0029:Uyğunluğa nəzarət komandası
+00_67_00_0030:Yekun nüsxə laboratoriyasının texniki
+00_67_00_0031:Baş menecer
+00_67_00_0032:Beynəlxalq marketinq üzrə vitse-prezident
+00_67_00_0033:Beynəlxalq ictimaiyyətlə əlaqələr rəhbəri
+00_67_00_0034:2K International-a və regional marketinq və ictimaiyyətlə əlaqələr komandalarına təşəkkürlər
+00_67_00_0035:Lokallaşdırma meneceri
+00_67_00_0036:Lokallaşdırma menecerinin köməkçisi
+00_67_00_0037:Kənar lokallaşdırma komandaları
+00_67_00_0038:Lokallaşdırma alətləri və dəstəyi XLOC, Inc. tərəfindən təmin edilib
+00_67_00_0039:Keyfiyyətə nəzarət meneceri
+00_67_00_0040:Funksionallıq testləri üzrə nəzarətçilər
+00_67_00_0041:Lokallaşdırma testləri üzrə nəzarətçilər
+00_67_00_0042:Yekun nüsxə mühəndisi
+00_67_00_0043:Keyfiyyətə nəzarət layihəsinin rəhbəri
+00_67_00_0044:Keyfiyyətə nəzarət texnikləri
+00_67_00_0045:Lokallaşdırma testləri layihəsinin rəhbəri
+00_67_00_0046:Lokallaşdırma testləri üzrə texniklər
+00_67_00_0047:2K nəşriyyatı
+00_67_00_0048:2K Games keyfiyyətə nəzarət
+00_67_00_0049:2K International
+00_67_00_0050:2K International keyfiyyətə nəzarət
+00_68_00_0001:TƏHQİR EDƏN KİŞİ
+00_68_00_0002:TƏYYARƏDƏKİ KİŞİ 1
+00_68_00_0003:TƏYYARƏDƏKİ KİŞİ 2
+00_68_00_0004:ALBERTO CLEMENTE
+00_68_00_0005:NÖKƏR ALEX
+00_68_00_0006:ANGELO
+00_68_00_0007:MÜBAHİSƏ EDƏN KİŞİ 1
+00_68_00_0008:MÜBAHİSƏ EDƏN KİŞİ 2
+00_68_00_0009:MÜBAHİSƏ EDƏN QADIN 1
+00_68_00_0010:MÜBAHİSƏ EDƏN QADIN 2
+00_68_00_0011:BARDAKI KİŞİ 1
+00_68_00_0012:BARDAKI KİŞİ 2
+00_68_00_0013:BAR SAHİBİ
+00_68_00_0014:DÖYÜLMÜŞ QANQSTER
+00_68_00_0015:DÖYÜLMÜŞ KİŞİ
+00_68_00_0016:ŞANTAJ EDİLƏN KİŞİ
+00_68_00_0017:İŞIQLAR SÖNƏNDƏKİ KİŞİ 1
+00_68_00_0018:İŞIQLAR SÖNƏNDƏKİ KİŞİ 2
+00_68_00_0019:İŞIQLAR SÖNƏNDƏKİ KİŞİ 3
+00_68_00_0020:İŞIQLAR SÖNƏNDƏKİ QADIN 1
+00_68_00_0021:QARAKÖYNƏKLİ 1
+00_68_00_0022:QARAKÖYNƏKLİ 2
+00_68_00_0023:QARAKÖYNƏKLİ ZABİT
+00_68_00_0024:BOBBY (GREASER)
+00_68_00_0025:BOMBERS DƏSTƏSİNİN ÜZVÜ 1
+00_68_00_0026:BOMBERS DƏSTƏSİNİN ÜZVÜ 2
+00_68_00_0027:BOMBERS DƏSTƏSİNİN ÜZVÜ 3
+00_68_00_0028:BONES
+00_68_00_0029:DAVAKAR 1
+00_68_00_0030:DAVAKAR 2
+00_68_00_0031:BRIAN O'NEILL
+00_68_00_0032:FAHİŞƏXANADA SATAŞAN ADAM 1
+00_68_00_0033:FAHİŞƏXANADA SATAŞAN ADAM 2
+00_68_00_0034:FAHİŞƏXANA FAHİŞƏSİ 3
+00_68_00_0035:FAHİŞƏXANA FAHİŞƏSİ 4
+00_68_00_0036:BRUNO
+00_68_00_0037:QƏSSAB 1
+00_68_00_0038:QƏSSAB 2
+00_68_00_0039:MAŞIN KEŞİKÇİSİ 1
+00_68_00_0040:MAŞIN KEŞİKÇİSİ 2
+00_68_00_0041:CARLO FALCONE
+00_68_00_0042:CARMINE
+00_68_00_0043:CHARLIE
+00_68_00_0044:BACADAKI KİŞİ
+00_68_00_0045:ÇİNLİ QANQSTER 1
+00_68_00_0046:ÇİNLİ QANQSTER 2
+00_68_00_0047:ÇİNLİ MƏHBUS
+00_68_00_0048:CHRISTINA CLEMENTE
+00_68_00_0049:SİQARET ALICISI 1
+00_68_00_0050:SİQARET ALICISI 2
+00_68_00_0051:SİQARET ALICISI 3
+00_68_00_0052:XADİMƏ
+00_68_00_0053:CLEMENTE QANQSTERİ 1
+00_68_00_0054:CLEMENTE QANQSTERİ 2
+00_68_00_0055:CLEMENTE QANQSTERİ 3
+00_68_00_0056:CLEMENTE QANQSTERİ 4
+00_68_00_0057:CLEMENTE QANQSTERİ 5
+00_68_00_0058:MƏSLƏHƏTÇİ
+00_68_00_0059:İNŞAAT FƏHLƏSİ 1
+00_68_00_0060:İNŞAAT FƏHLƏSİ 2
+00_68_00_0061:İNŞAAT FƏHLƏSİ 3
+00_68_00_0062:ONBAŞI
+00_68_00_0063:BORC YIĞAN
+00_68_00_0064:DEREK
+00_68_00_0065:XƏFİYYƏ
+00_68_00_0066:DINO
+00_68_00_0067:İÇKİ ZAVODUNUN FƏHLƏSİ 1
+00_68_00_0068:İÇKİ ZAVODUNUN FƏHLƏSİ 2
+00_68_00_0069:İÇKİ ZAVODUNUN FƏHLƏSİ 3
+00_68_00_0070:İÇKİ ZAVODUNUN FƏHLƏSİ 4
+00_68_00_0071:İÇKİ ZAVODUNUN FƏHLƏSİ 5
+00_68_00_0072:DJ DELTA
+00_68_00_0073:DJ ECNR
+00_68_00_0074:DJ CLASSIC
+00_68_00_0075:LİMAN FƏHLƏSİ 1
+00_68_00_0076:LİMAN FƏHLƏSİ 10
+00_68_00_0077:LİMAN FƏHLƏSİ 11
+00_68_00_0078:LİMAN FƏHLƏSİ 12
+00_68_00_0079:LİMAN FƏHLƏSİ 13
+00_68_00_0080:LİMAN FƏHLƏSİ 14
+00_68_00_0081:LİMAN FƏHLƏSİ 15
+00_68_00_0082:LİMAN FƏHLƏSİ 16
+00_68_00_0083:LİMAN FƏHLƏSİ 2
+00_68_00_0084:LİMAN FƏHLƏSİ 3
+00_68_00_0085:LİMAN FƏHLƏSİ 4
+00_68_00_0086:LİMAN FƏHLƏSİ 5
+00_68_00_0087:LİMAN FƏHLƏSİ 6
+00_68_00_0088:LİMAN FƏHLƏSİ 7
+00_68_00_0089:LİMAN FƏHLƏSİ 8
+00_68_00_0090:LİMAN FƏHLƏSİ 9
+00_68_00_0091:DON CALO
+00_68_00_0092:EDDIE SCARPA
+00_68_00_0093:EL GRECO
+00_68_00_0094:EMPIRE ARMS BARMENİ
+00_68_00_0095:EMPIRE ARMS FAHİŞƏSİ
+00_68_00_0096:EMPIRE ARMS-DAKI QADIN 1
+00_68_00_0097:ERIC
+00_68_00_0098:FALCONE QANQSTERİ 1
+00_68_00_0099:FALCONE QANQSTERİ 2
+00_68_00_0100:FALCONE QANQSTERİ 3
+00_68_00_0101:FALCONE QANQSTERİ 4
+00_68_00_0102:FALCONE QANQSTERİ 5
+00_68_00_0103:FALCONE QANQSTERİ 6
+00_68_00_0104:FASTFUDDAKI KİŞİ
+00_68_00_0105:FASTFUD SATICISI 3
+00_68_00_0106:KÖK ADAM
+00_68_00_0107:KÖK ADAMIN QANQSTERİ 1
+00_68_00_0108:KÖK ADAMIN QANQSTERİ 2
+00_68_00_0109:KÖK ADAMIN QANQSTERİ 3
+00_68_00_0110:FEDERAL AGENT
+00_68_00_0111:DİKBAŞ FAHİŞƏ
+00_68_00_0112:YEMƏK SATICISI 1
+00_68_00_0113:YEMƏK SATICISI 2
+00_68_00_0114:FRANCESCA
+00_68_00_0115:FRANK VINCI
+00_68_00_0116:GALANTE-NİN CANGÜDƏNİ 2
+00_68_00_0117:GALANTE-NİN CANGÜDƏNİ 3
+00_68_00_0118:GIUSEPPE
+00_68_00_0119:KÖMƏKSEVƏR KİŞİ 1
+00_68_00_0120:KÖMƏKSEVƏR QADIN 1
+00_68_00_0121:GREASER 1
+00_68_00_0122:GREASER 2
+00_68_00_0123:GREASER 3
+00_68_00_0124:GREASER 4
+00_68_00_0125:GREASER 5
+00_68_00_0126:GREASER 6
+00_68_00_0127:GREASER 7
+00_68_00_0128:GREASER 8
+00_68_00_0129:GREASER-İN ANASI
+00_68_00_0130:HARRY
+00_68_00_0131:HARRY-NİN QANQSTERİ 1
+00_68_00_0132:HARRY-NİN QANQSTERİ 2
+00_68_00_0133:HARVEY BEANS
+00_68_00_0134:HENRY
+00_68_00_0135:MUZDLU QATİL
+00_68_00_0136:İSTİ QƏHVƏLİ FAHİŞƏ
+00_68_00_0137:OTEL İŞÇİSİ 1
+00_68_00_0138:OTEL İŞÇİSİ 2
+00_68_00_0139:OTEL İŞÇİSİ 3
+00_68_00_0140:OTEL İŞÇİSİ 4
+00_68_00_0141:OTEL İŞÇİSİ 5
+00_68_00_0142:OTEL İŞÇİSİ 6
+00_68_00_0143:OTEL İŞÇİSİ 7
+00_68_00_0144:HUBERT
+00_68_00_0145:İRLAND QANQSTER 1
+00_68_00_0146:İRLAND QANQSTER 2
+00_68_00_0147:ISAAC
+00_68_00_0148:JACK
+00_68_00_0149:YƏHUDİ QANQSTER 1
+00_68_00_0150:YƏHUDİ QANQSTER 2
+00_68_00_0151:JOE
+00_68_00_0152:JOE-NUN QONŞUSU
+00_68_00_0153:JOLANDA
+00_68_00_0154:HAKİM
+00_68_00_0155:KINGFISHER-DƏKİ KİŞİ 1
+00_68_00_0156:KINGFISHER-DƏKİ KİŞİ 2
+00_68_00_0157:CAMAŞIRXANA MÜDİRİ
+00_68_00_0158:LEO GALANTE
+00_68_00_0159:LEON
+00_68_00_0160:LISA
+00_68_00_0161:LOWELL LEWELLYN
+00_68_00_0162:LUCA
+00_68_00_0163:LUIGI
+00_68_00_0164:TİCARƏT MƏRKƏZİNİN KEŞİKÇİSİ
+00_68_00_0165:MALTESE FALCON-DAKI ADAMLAR
+00_68_00_0166:ANA
+00_68_00_0167:KİŞİ 1
+00_68_00_0168:MARCO
+00_68_00_0169:MARIA
+00_68_00_0170:MARIA AGNELLO
+00_68_00_0171:MARIE
+00_68_00_0172:MARTY
+00_68_00_0173:MASKALI SOYĞUNÇU 1
+00_68_00_0174:MASKALI SOYĞUNÇU 2
+00_68_00_0175:MEXANİK 1
+00_68_00_0176:MEXANİK 2
+00_68_00_0177:MEYER LANSKY
+00_68_00_0178:MICKEY DESMOND
+00_68_00_0179:MIKE BRUSKI
+00_68_00_0180:CHU BƏY
+00_68_00_0181:DALLOWAY BƏY
+00_68_00_0182:MANARA BƏY
+00_68_00_0183:WONG BƏY
+00_68_00_0184:PACELLI XANIM
+00_68_00_0185:QƏZET SATICISI
+00_68_00_0186:O.P.A. KEŞİKÇİSİ 1
+00_68_00_0187:O.P.A. KEŞİKÇİSİ 2
+00_68_00_0188:TİRYƏKXANA İŞÇİSİ 1
+00_68_00_0189:TİRYƏKXANA İŞÇİSİ 2
+00_68_00_0190:TİRYƏKXANA İŞÇİSİ 3
+00_68_00_0191:TİRYƏKXANA İŞÇİSİ 4
+00_68_00_0192:TİRYƏKXANA İŞÇİSİ 5
+00_68_00_0193:PARKER
+00_68_00_0194:ƏYLƏNCƏDƏKİ QIZ 1
+00_68_00_0195:ƏYLƏNCƏDƏKİ QIZ 2
+00_68_00_0196:ƏYLƏNCƏDƏKİ QIZ 3
+00_68_00_0197:ƏYLƏNCƏDƏKİ QIZ 4
+00_68_00_0198:ƏYLƏNCƏDƏKİ OĞLAN 1
+00_68_00_0199:ƏYLƏNCƏDƏKİ OĞLAN 2
+00_68_00_0200:ƏYLƏNCƏDƏKİ OĞLAN 3
+00_68_00_0201:ƏYLƏNCƏDƏKİ OĞLAN 4
+00_68_00_0202:ƏYLƏNCƏDƏKİ OĞLAN 5
+00_68_00_0203:PEPÉ
+00_68_00_0204:PETE
+00_68_00_0205:SAXTA POLİS 1
+00_68_00_0206:SAXTA POLİS 2
+00_68_00_0207:PIERRE GOBBI
+00_68_00_0208:PIETRO
+00_68_00_0209:POLİS DİSPEÇERİ
+00_68_00_0210:POLİS 1
+00_68_00_0211:POLİS 2
+00_68_00_0212:POLİS 3
+00_68_00_0213:LİMAN BRİQADİRİ
+00_68_00_0214:HƏBSXANADAKI ADAMLAR
+00_68_00_0215:HƏBSXANA KEŞİKÇİSİ 1
+00_68_00_0216:HƏBSXANA KEŞİKÇİSİ 2
+00_68_00_0217:MƏHBUS 1
+00_68_00_0218:MƏHBUS 2
+00_68_00_0219:MƏHBUS 3
+00_68_00_0220:MƏHBUS 4
+00_68_00_0221:MƏHBUS 5
+00_68_00_0222:FAHİŞƏ 1
+00_68_00_0223:ƏL ÇANTALI QADIN
+00_68_00_0224:TƏCAVÜZKAR MƏHBUS 1
+00_68_00_0225:RATMAN PƏRƏSTİŞKARI 1
+00_68_00_0226:RATMAN PƏRƏSTİŞKARI 2
+00_68_00_0227:RATMAN PƏRƏSTİŞKARI 3
+00_68_00_0228:RATMOBILE KEŞİKÇİSİ
+00_68_00_0229:MÜQAVİMƏT DÖYÜŞÇÜSÜ 1
+00_68_00_0230:RICHARD BECK
+00_68_00_0231:SALVATORE
+00_68_00_0232:ALÇAQBOY GREASER
+00_68_00_0233:SİCİLİYALI ADAMLAR
+00_68_00_0234:SİCİLİYALI KİŞİ 1
+00_68_00_0235:SİCİLİYALI KİŞİ 2
+00_68_00_0236:SİCİLİYALI KİŞİ 3
+00_68_00_0237:SİCİLİYALI ƏSGƏR 1
+00_68_00_0238:SİCİLİYALI ƏSGƏR 2
+00_68_00_0239:SİCİLİYALI QADIN 1
+00_68_00_0240:SİCİLİYALI QADIN 2
+00_68_00_0241:QƏSSABXANADAKI AVARA
+00_68_00_0242:STEVE
+00_68_00_0243:SUSAN
+00_68_00_0244:TAKSİ SÜRÜCÜSÜ 1
+00_68_00_0245:TAKSİ SÜRÜCÜSÜ 2
+00_68_00_0246:TERRY STONE
+00_68_00_0247:TOMMY
+00_68_00_0248:TOMMY ANGELO
+00_68_00_0249:TONY BALLS
+00_68_00_0250:YÜK MAŞINI SÜRÜCÜSÜ
+00_68_00_0251:VINCI QANQSTERİ 1
+00_68_00_0252:VINCI QANQSTERİ 10
+00_68_00_0253:VINCI QANQSTERİ 11
+00_68_00_0254:VINCI QANQSTERİ 12
+00_68_00_0255:VINCI QANQSTERİ 13
+00_68_00_0256:VINCI QANQSTERİ 14
+00_68_00_0257:VINCI QANQSTERİ 15
+00_68_00_0258:VINCI QANQSTERİ 16
+00_68_00_0259:VINCI QANQSTERİ 2
+00_68_00_0260:VINCI QANQSTERİ 3
+00_68_00_0261:VINCI QANQSTERİ 4
+00_68_00_0262:VINCI QANQSTERİ 5
+00_68_00_0263:VINCI QANQSTERİ 6
+00_68_00_0264:VINCI QANQSTERİ 7
+00_68_00_0265:VINCI QANQSTERİ 8
+00_68_00_0266:VINCI QANQSTERİ 9
+00_68_00_0267:VITO
+00_68_00_0268:OFİSİANT (FREDDY'S)
+00_68_00_0269:WILLIAMS
+00_68_00_0270:PƏNCƏRƏ SİLƏN
+00_70_00_0100:Döyüşdə itkin
+00_70_00_0101:Təcili Siciliya dərsi
+00_70_00_0102:Gizlənqaç
+00_70_00_0103:Şərəfli adam 
+00_70_00_0104:Vəzifə çağırır
+00_70_00_0105:Kömək/Vəzifə çağırır v2 (hamının birlikdə getdiyi alternativ)
+00_70_00_0106:Ölüm dəstəsi
+00_70_00_0107:Xalqın gücü
+00_70_00_0108:Köhnə vətən
+00_70_00_0200:Yenidən Bay-də
+00_70_00_0201:Anasının balası
+00_70_00_0202:Yenidən öz aramızda
+00_70_00_0203:Ailə görüşü 
+00_70_00_0204:Tullantı meydançasının iti
+00_70_00_0205:İlk addımlar
+00_70_00_0206:Walter və mən
+00_70_00_0207:Daha bir tanışlıq
+00_70_00_0208:İş alətləri
+00_70_00_0209:Öz maşınım
+00_70_00_0210:Yarış və zəng
+00_70_00_0211:İşçi axtarılır
+00_70_00_0212:Halal zəhmət
+00_70_00_0213:Çirkli iş
+00_70_00_0214:İttifaqın payı
+00_70_00_0215:Evə doğru
+00_70_00_0216:Doğma ev
+00_70_00_0300:Mülki həyat
+00_70_00_0301:Freddy's üçün heç vaxt tez deyil
+00_70_00_0302:Henry ilə görüş
+00_70_00_0303:Taksi sürücüsü
+00_70_00_0304:İçəri girmək
+00_70_00_0305:Talon toplamaq
+00_70_00_0306:Binada oğru var!
+00_70_00_0307:Talon yığan
+00_70_00_0308:Bir ovuc talon
+00_70_00_0309:Ərzaq yarışı
+00_70_00_0310:Əla görülmüş iş
+00_70_00_0311:Gecə alış-verişi
+00_70_00_0312:Lassiter üçün asan pul
+00_70_00_0313:Baqajdakı yük
+00_70_00_0314:Baqajdakı yük
+00_70_00_0315:Polis qətli
+00_70_00_0316:Divan vaxtı
+00_70_00_0317:Dövlətin düşməni
+00_70_00_0400:Silahlı və təhlükəli
+00_70_00_0401:Öldürmək icazəsi
+00_70_00_0402:Sam əmi üçün bir iş
+00_70_00_0403:Dəqiq mühəndislik
+00_70_00_0404:Silah gəzdirmə icazəsi
+00_70_00_0405:Silah gəzdirmə icazəsi
+00_70_00_0406:Sən hazır olan kimi
+00_70_00_0407:Sən hazır olan kimi
+00_70_00_0408:Telefon xidməti
+00_70_00_0409:Uğur üçün geyin
+00_70_00_0410:Gecə alış-verişi
+00_70_00_0411:Qaranlıqda tək deyilik
+00_70_00_0412:Rəqiblər gəlib
+00_70_00_0413:İrland daşı ilə divar arasında
+00_70_00_0414:İrland şansı
+00_70_00_0415:Murphy qanunu
+00_70_00_0500:Erkən oyanan
+00_70_00_0501:Qız dərdi
+00_70_00_0502:Xanımla necə davranmalı
+00_70_00_0503:Mafiya üçün iş
+00_70_00_0504:Mafiya üçün iş
+00_70_00_0505:Tənbəl Steve
+00_70_00_0506:Oğruların şərəfi olmaz
+00_70_00_0507:Derek-in tapşırığı
+00_70_00_0508:Əsl işə qayıdırıq
+00_70_00_0509:Bir gözü yaşlı
+00_70_00_0510:Atəş xətti
+00_70_00_0511:Kök adamı öldür!
+00_70_00_0512:İçki zavodu
+00_70_00_0513:Təcili çıxış
+00_70_00_0514:Təcili yardım sürücüsü
+00_70_00_0515:Böyük uduş
+00_70_00_0516:Qaytarılan borc
+00_70_00_0517:Mişar
+00_70_00_0600:Təzə ət
+00_70_00_0601:Tələyə düşmüş
+00_70_00_0602:SOS
+00_70_00_0603:Soyuq görüş
+00_70_00_0604:Təcridxana
+00_70_00_0605:Bir zərrə ümid
+00_70_00_0606:Yeni şeylər öyrənirik
+00_70_00_0607:Bunlar kunq-fu bilir
+00_70_00_0608:Peşəkar boksçu
+00_70_00_0609:Təmizlik növbəsi
+00_70_00_0610:Yaxşı çapıqdır
+00_70_00_0611:Lap dibdə
+00_70_00_0612:Qanmazlara dərs
+00_70_00_0613:Boşa getməyən vaxt
+00_70_00_0700:Azadlığın dadı
+00_70_00_0701:Yenidən iş başında
+00_70_00_0702:Alver və bazarlıq
+00_70_00_0703:Liman qaçaqaçı
+00_70_00_0704:İştah açırıq
+00_70_00_0705:Günorta çağı soyğun
+00_70_00_0706:Öz evim
+00_70_00_0707:Təcridxanadan çıxış
+00_70_00_0708:Yazıq Francesca
+00_70_00_0709:Köhnə dost Leo
+00_70_00_0710:Duel silahları
+00_70_00_0711:Köhnə qalıqlar
+00_70_00_0712:Həbsxana həyətinin qaydaları
+00_70_00_0713:Sənə yaraşır
+00_70_00_0714:Sənə yaraşır
+00_70_00_0715:Halal zəhmət?
+00_70_00_0716:Joe-nun böyük sürprizi
+00_70_00_0717:Cənnət bağı
+00_70_00_0718:Sərxoş yumruqlar
+00_70_00_0719:Həddi aşmaq
+00_70_00_0720:Baqajda biabırçılıq
+00_70_00_0721:Qəbirqazan
+00_70_00_0722:Rahat yat
+00_70_00_0723:İşıqlar sönsün
+00_70_00_0724:Francesco Potenza-nın əziz xatirəsinə
+00_70_00_0800:Halım yaxşı deyil
+00_70_00_0801:Siqaret bolluğu
+00_70_00_0802:Qırmızı, ağ və mavi
+00_70_00_0803:Barbaro tütün şirkəti
+00_70_00_0804:Tüstüyə qarışdı
+00_70_00_0805:İzin dalınca
+00_70_00_0806:Crazy Horse barı 
+00_70_00_0807:Crazy Horse-da çılğın gecələr
+00_70_00_0808:Çağırılmamış qonaqlar
+00_70_00_0809:Atəş açmaq yoxdur
+00_70_00_0810:Silahla yaşayan...
+00_70_00_0811:Tez qazanılan iki min dollar
+00_70_00_0812:Müharibə qəniməti
+00_70_00_0813:Qisas
+00_70_00_0814:Pislərə rahatlıq yoxdur
+00_70_00_0815:Qanunsuz işlər
+00_70_00_0816:Sığorta satıcısı
+00_70_00_0817:Daha bəs deyil?
+00_70_00_0818:Bura mənim ərazimdir
+00_70_00_0819:Ağrılı xatırlatma
+00_70_00_0820:Daha bəs deyil?
+00_70_00_0821:Rahat bir gecə yuxusu
+00_70_00_0822:Vəhşilər
+00_70_00_0823:Vəhşilər
+00_70_00_0824:Vəhşilər
+00_70_00_0825:Vəhşilər
+00_70_00_0900:İstirahət günü
+00_70_00_0901:Riskli iş
+00_70_00_0902:Polad cəsarət
+00_70_00_0903:Pul adamını ələ keçirmək
+00_70_00_0904:O maşının dalınca!
+00_70_00_0905:Qəssabxana dərdi
+00_70_00_0906:Kanalizasiya siçovulu
+00_70_00_0907:Kanalizasiya siçovulu və ət sousu
+00_70_00_0908:Balls ilə Beans-i xilas edirik
+00_70_00_0909:Tıxanmış
+00_70_00_0910:Qoxuların ən betəri
+00_70_00_0911:Sıç, yuyun, üzünü qırx
+00_70_00_0912:Balls və Beans
+00_70_00_1000:Yaxşı günlər
+00_70_00_1001:Clemente bəyə çatdırılma
+00_70_00_1002:Əsas plan
+00_70_00_1003:Təmizləyirik
+00_70_00_1004:Az toz, çox partlayış
+00_70_00_1005:Kənardan aşağı
+00_70_00_1006:Damdakı atışma
+00_70_00_1007:Şanslı köpəkoğlu
+00_70_00_1008:Dəhlizlərdə qaçaqaç
+00_70_00_1009:Oyun ciddiləşir
+00_70_00_1010:Yolun sonudur, Clemente bəy
+00_70_00_1011:Kirayəlik seyf açan
+00_70_00_1012:Zirehi yarmaq
+00_70_00_1013:Seyf açanların da yuxuya ehtiyacı var
+00_70_00_1014:Sərxoş və davakar
+00_70_00_1015:Ay Joe
+00_70_00_1016:Otaq xidməti
+00_70_00_1100:Gözlənilməz zərbə
+00_70_00_1101:Sədaqət
+00_70_00_1102:Gizlənqaç
+00_70_00_1103:Az qalmışdı
+00_70_00_1104:Yaxşı gündə, pis gündə
+00_70_00_1105:Borcunu verməyən
+00_70_00_1106:İndi özünü yaxşı apar...
+00_70_00_1107:Alovlanan ev
+00_70_00_1108:Soyuqda qaldıq
+00_70_00_1109:İrlanda bir dərs
+00_70_00_1110:Qisas şirindir
+00_70_00_1111:Əvvəlcə ailə
+00_70_00_1112:Əlvida, köhnə dost
+00_70_00_1113:Möhkəm bir içki lazımdır
+00_70_00_1114:Yaxşı gündə, pis gündə
+00_70_00_1115:Borcunu verməyən
+00_70_00_1116:İndi özünü yaxşı apar...
+00_70_00_1117:Alovlanan ev
+00_70_00_1118:Soyuqda qaldıq
+00_70_00_1119:İrlanda bir dərs
+00_70_00_1120:Qisas şirindir
+00_70_00_1121:Öz adamımız
+00_70_00_1200:Henry-nin böyük qazancı
+00_70_00_1201:Təhlükəli mal
+00_70_00_1202:Bir ehtiyatlı sürücü
+00_70_00_1203:Henry-nin böyük qazancı
+00_70_00_1204:Çarəsiz vaxtlar, çarəsiz tədbirlər
+00_70_00_1205:Borc içində
+00_70_00_1206:Qanun adına, dayan!
+00_70_00_1207:Polislə oğru
+00_70_00_1208:Yük maşını təqibi
+00_70_00_1209:Haqq-hesabı çürütmək
+00_70_00_1210:Dənizdən hədiyyə
+00_70_00_1300:Boynumuza qədər poxun içindəyik
+00_70_00_1301:Ər üçün iş
+00_70_00_1302:Qızğın təkərlər
+00_70_00_1303:Var gücünlə qaç
+00_70_00_1304:Parkda görüş
+00_70_00_1305:Çop-suey
+00_70_00_1306:Wong bəyə çatdırılma
+00_70_00_1307:Təmirə görə erkən bağlanıb
+00_70_00_1308:O seyfi açın!
+00_70_00_1309:Gərək yataqdan qalxmayaydım...
+00_70_00_1310:Polislər dalımızdadır
+00_70_00_1311:Əjdahanın çıxışı
+00_70_00_1400:Harry-yə kömək
+00_70_00_1401:Joe ilə vaxt keçiririk
+00_70_00_1402:Ailə işi
+00_70_00_1403:Salieri bəy salam göndərir
+00_70_00_1404:Köhnə dosta kömək
+00_70_00_1405:Silah qaçaqmalçılığı
+00_70_00_1406:Silah qaçaqmalçılığı
+00_70_00_1407:Pulu götür, qaç
+00_70_00_1408:Pulu götür, qaç
+00_70_00_1409:Hər şeyi açıb demək
+00_70_00_1410:Hər şeyi açıb demək
+00_70_00_1411:Derek üçün işləyirik
+00_70_00_1412:Atanın adı ilə
+00_70_00_1413:Sələmçinin borcunu ödəmək
+00_70_00_1414:Sələmçinin borcunu ödəmək
+00_70_00_1415:Döyüşdə itkin
+00_70_00_1416:Joe Barbaro itkin düşüb
+00_70_00_1417:Tikintidə
+00_70_00_1418:Ümid edirəm, gecikməmişəm...
+00_70_00_1419:Döz, dostum
+00_70_00_1420:Rədd olaq buradan!
+00_70_00_1421:Ələ keçdik!
+00_70_00_1422:Rədd olaq buradan!
+00_70_00_1423:Pulu götür, gedək!
+00_70_00_1424:Həkim!
+00_70_00_1425:Sələmçinin borcunu ödəmək
+00_70_00_1426:İlahi, qoy dincəlim
+00_70_00_1427:Cənnətə pilləkən
+00_70_00_1428:Cənnətə pilləkən
+00_70_00_1500:Yenə başladıq
+00_70_00_1501:Şanslı kimdir?
+00_70_00_1502:Ailədə qalsın
+00_70_00_1503:Vinci üçün son oyun
+00_70_00_1504:Yalnız biri qala bilər
+00_70_00_1505:Daha yaxşı təklifi seçmək
+00_70_00_1506:Planetariuma səfər
+00_70_00_1507:Məni Aya apar
+00_70_00_1508:Bu gecə göydə daha bir ulduz
+00_70_00_1509:İkiqat bəla
+00_70_00_1510:Son yaxındır
+00_70_00_1511:İkiqat bəla
+00_70_00_1512:Planetariuma səfər
+00_70_00_1513:Məni Aya apar
+00_70_00_1514:Qisas vaxtıdır
+00_70_00_1515:Qisas vaxtıdır
+00_70_00_1516:Qisas vaxtıdır
+00_70_00_1517:Çıxış yolu yoxdur?
+00_70_00_1518:Çıxış yolu yoxdur?
+00_70_00_1519:Çıxış yolu yoxdur?
+00_70_00_1520:Qoy Allah hökm versin
+00_70_00_1521:Son yaxındır
+00_70_00_1522:Qoy Allah hökm versin
+00_70_00_1523:Əlvida, Carlo
+00_70_00_1524:Əlvida, Carlo
+00_70_00_1525:Daha yaxşı təklifi seçmək
+00_70_00_1526:Planetariuma səfər
+00_70_00_1527:Məni Aya apar
+00_70_00_1528:Bu gecə göydə daha bir ulduz
+00_70_00_1529:Ailədə qalsın
+00_70_00_1530:Gəldim, gördüm, Vinci
+00_70_00_1531:Yalnız biri qala bilər
+00_70_00_1532:Çətinliklərdən ulduzlara
+00_70_00_1533:Çətinliklərdən ulduzlara
+00_70_00_1534:Çətinliklərdən ulduzlara
+00_70_00_1535:Çətinliklərdən ulduzlara
+00_70_00_1536:Çətinliklərdən ulduzlara
+00_70_00_1537:Çətinliklərdən ulduzlara
+00_71_00_0001:1-ci fəsli oynayır: Köhnə vətən
+00_71_00_0002:2-ci fəsli oynayır: Doğma ev
+00_71_00_0003:3-cü fəsli oynayır: Dövlətin düşməni 
+00_71_00_0004:4-cü fəsli oynayır: Murphy qanunu
+00_71_00_0005:5-ci fəsli oynayır: Mişar 
+00_71_00_0006:6-cı fəsli oynayır: Boşa getməyən vaxt
+00_71_00_0007:7-ci fəsli oynayır: Francesco Potenza-nın əziz xatirəsinə 
+00_71_00_0008:8-ci fəsli oynayır: Vəhşilər 
+00_71_00_0009:9-cu fəsli oynayır: Balls və Beans 
+00_71_00_0010:10-cu fəsli oynayır: Otaq xidməti 
+00_71_00_0011:11-ci fəsli oynayır: Öz adamımız 
+00_71_00_0012:12-ci fəsli oynayır: Dənizdən hədiyyə 
+00_71_00_0013:13-cü fəsli oynayır: Əjdahanın çıxışı 
+00_71_00_0014:14-cü fəsli oynayır: Cənnətə pilləkən 
+00_71_00_0015:15-ci fəsli oynayır: Çətinliklərdən ulduzlara 
+00_71_00_0016:Əsas menyu
+00_71_00_0017:Oyunda gözləyir
+00_71_00_0018:Oyun dayandırılıb
+00_71_00_0019:Şəhərdə gəzir
+00_71_00_0020:Polisdən qaçır
+00_71_00_0021:Silah alır
+00_71_00_0022:Geyim alır
+00_71_00_0023:Avadanlıq alır
+00_71_00_0024:Ev alır
+00_71_00_0025:Maşın alır
+00_71_00_0026:Məişət texnikası alır
+00_71_00_0027:Yemək alır
+00_71_00_0028:Maşın təmir edir
+00_71_00_0029:İt yarışına mərc edir
+00_71_00_0030:Jimmy's Vendetta oynayır
+00_71_00_0031:Joe's Adventures oynayır
+00_71_00_0032:Ailə albomuna baxır
+00_72_00_0000:5
+00_72_00_0001:
+00_72_00_0002:Greenfield Kingston stadionunun arxasında, körfəzin sahilində yerləşən rahat yaşayış məhəlləsidir. 1930-cu illərin sonunda salınmış bu yer şəhərdən kənara köçmək istəyən bir çox gənc ailənin ilk seçimi olur.
+00_72_00_0003:Kingston Empire Bay-in irland icmasının mərkəzidir. Vaxtilə şəhərin tikiş sənayesi burada yerləşirdi. On doqquzuncu əsrin sonlarında Amerikaya köçən bir çox irland ailə məhz Kingston-da məskunlaşıb.
+00_72_00_0004:Empire Bay tarix boyu ABŞ-a gələn mühacirlərin əsas giriş qapılarından biri olub. Şəhərə gələn müxtəlif mühacir dalğalarının ətrafında bir çox məhəllə yaranıb.
+00_72_00_0005:Empire Bay 1547-ci ildə italyan səyyah Giulio Contadino tərəfindən salınıb. Əvvəlcə onun doğma şəhəri Romanın şərəfinə Porto Romano adlanıb.
+00_72_00_0006:Şəhərə Empire Bay adını 1694-cü ildə onun ilk ingilis qubernatoru Sir John Stanmore verib. O, koloniyanı düz 45 il idarə edib.
+00_72_00_0007:Empire Bay Cannons şəhərin beysbol komandasıdır. 1903-cü ildə qurulan komanda iyirmi il sonra Kingston stadionuna köçüb. Hər il 2 milyondan çox Cannons azarkeşi bu stadiona gəlir.
+00_72_00_0008:Yarandığı ilk 50 ildə Empire Bay Culver çayının mənsəbində sadə bir ticarət məntəqəsi idi. On yeddinci əsrdə Hollandiya hakimiyyəti dövründə kiçik qəsəbədən böyük şəhərə çevrilib.
+00_72_00_0009:İstiqlal müharibəsində ingilislər minlərlə amerikalı hərbi əsiri Empire Bay-də həbsxana gəmilərində saxlayırdılar. Şərait o qədər pis idi ki, burada xəstəlikdən ölənlərin sayı müharibənin döyüşlərində ölənlərdən çox olub.
+00_72_00_0010:Lincoln Park-ın salınmasına 1867-ci ildə başlanıb. Sevilən prezidentin xatirəsinə adlandırılan bu böyük yaşıllıq sürətlə böyüyən şəhərdə sakinlər üçün rahat bir yer saxlamaq istəyən şəhər planlaşdırıcılarının təşəbbüsü idi.
+00_72_00_0011:Empire Bay Diner-in məşhur Bay Decker sendviçi indi dünyada təxminən 50 min otel və restoranda verilir. Onu Ernie Sands 1918-ci ildə Birinci Dünya müharibəsinin sonunu qeyd edən nahardan qalan ərzaqlarla ilk dəfə hazırlayıb.
+00_72_00_0012:İrland parça istehsalçısı John Dipton ilk Dipton Apparel geyim mağazasını təxminən 1850-ci ildə Kingston-da açıb. Sonradan mağaza keyfiyyəti və münasib qiymətləri ilə ad çıxarıb, ABŞ-ın bütün böyük şəhərlərində filialları açılıb.
+00_72_00_0013:Southport-dakı Empire Arms oteli kino ulduzlarının, iri iş adamlarının və siyasətçilərin qatıldığı dəbdəbəli balları ilə məşhur idi. 1942-ci ildə tamamilə yanıb. İndi dünyanı heyrətləndirəcək milyon dollarlıq layihə kimi yenidən tikilir.
+00_72_00_0014:Məşhur Grand Upper Bridge Culver çayının üstündən keçib Uptown və Hunters rayonlarını birləşdirir. 1894-cü ildə tikilib bitəndə dünyanın ən uzun asma körpüsü idi və on il bu adı qoruyub.
+00_72_00_0015:Empire Bay-in arxasındakı təpələrdə nəhəng Culver bəndi ucalır. 1933-cü ildə tikilib bitəndə dünyanın ən böyük su elektrik stansiyası idi. Hələ də Bay State ərazisində 20 mindən çox evi elektriklə təmin edir.
+00_72_00_0016:Empire Bay ABŞ-ın şərq sahilinin əsas sənaye mərkəzlərindəndir. Swift Cola, Trago Oil və Big Break Tobacco kimi məşhur şirkətlərin baş ofisləri buradadır. Məhsullarını dünyaya göndərmək üçün şəhərin limanlarından istifadə edirlər.
+00_72_00_0017:Empire Bay-in əhalisi əsrin əvvəlindəki 3 milyondan 1940-cı ildə 7 milyondan çoxa çatıb.
+00_72_00_0018:Məşhur avstriyalı mağaza sahibi Josef Vangel İkinci Dünya müharibəsi başlayanda ölkəsindən Empire Bay-ə qaçıb. Midtown-dakı yeni univermağı xüsusən keyfiyyətli dərziliyi ilə tanınır.
+00_72_00_0019:Empire Bay-in Chinatown-u Qərb yarımkürəsində çinlilərin ən sıx yaşadığı yerdir. İlk gələnlər 1700-cü illərin ortalarında tacirlər və dənizçilər olub. Əhali əsasən iyirminci əsrdə kəskin artıb: tikiş, camaşırxana və restoran işi minlərlə adamı materik Çindən buraya köçməyə cəlb edib.
+00_72_00_0020:Bombers dəstəsi şəhərin cənub-qərbindəki Sand Island və Hunters yoxsul məhəllələrinin küçələrinə nəzarət edir.
+00_72_00_0021:
+00_72_01_0001:
+00_72_01_0002:Omerta mafiya üzvlərinin təşkilata qoşulanda qorumağa and içdiyi susmaq qaydasıdır. Hakimiyyətə məlumat verərək Omerta-nı pozanları mafiyanın rəhbərliyi ölümə məhkum edir.
+00_72_01_0003:"Mafiya" sözü Siciliya dilindən təxminən "özünü göstərmək" və ya "cəsarət" kimi tərcümə olunur. Təşkilata bu adı mətbuat verib. Mafiozların öz dəstələrinin quruluşunu və vəzifə pillələrini adlandırmaq üçün müxtəlif sözləri var.
+00_72_01_0004:Vinci ailəsinin başçısı Frank Vinci-dir. Frank köhnə qaydalara möhkəm bağlıdır, tikinti və qumar işlərində payı var. Southport liman fəhlələrinin ittifaqına da nəzarət edir. Bu nüfuzundan istifadə edib onun fəhlələri ilə işləyən ticarət gəmilərindən pul qoparır. Limana nəzarət şəhərə qara bazar malı keçirməyini də asanlaşdırır.
+00_72_01_0005:Falcone cinayət ailəsinə Carlo Falcone başçılıq edir. Amansız yenilikçi olan Carlo düşünür ki, Amerika mafiyası Siciliya adətlərindən uzaqlaşmalıdır. Carlo və köməkçisi Eddie Scarpa Empire Bay-in ən təhlükəli adamlarından ikisidir.
+00_72_01_0006:Clemente ailəsinə Alberto Clemente başçılıq edir. Little Italy-də Freddy's Bar-ı, Riverside-da qəssabxananı və şəhərdə müxtəlif xırda qanunsuz işləri idarə edir. Clemente xəsis və hiyləgərdir. Digər ailələr onun təşkilatını ikinci dərəcəli sayır.
+00_72_01_0007:Konsilyeri başçının məsləhətçisidir. Bu vəzifə xüsusilə etibar edilən bir adama verilir. O, başqa ailələrlə mübahisələri həll edir, məsləhət verir və işlərin qanuni tərəfini idarə edir. 
+00_72_01_0008:Amerika mafiyasına üzv olmaq üçün kişinin Siciliya və ya İtaliya kökləri olmalıdır. İtalyan olmayanlar tez-tez mafiya ilə işləsələr də, təşkilatın özünə heç vaxt üzv ola bilmirlər.
+00_72_01_0009:Kişi tamhüquqlu üzv, yəni "made man" olandan sonra ailə başçısının əvvəlcədən icazəsi olmadan başqa üzvlər onu öldürə bilməz. 
+00_72_01_0010:"Pentito" polisə məlumat verməyə başlayan mafioza deyilir. 1930-cu illərin sonunda Tommy Angelo Lost Heaven-də Salieri ailəsini ifşa edərək məşhurlaşıb. Bununla həm hüquq-mühafizə orqanlarına, həm də Amerika ictimaiyyətinə mafiyanın içəridən necə işlədiyini göstərib.
+00_72_01_0011:Şəhərin qərbindəki Mona Lisa barı mafiya başçısı Frank Vinci-yə məxsusdur. O, başqa qanunsuz işlərindən gələn pulları burada yuyur. Frank barı mərhum arvadının şərəfinə adlandırıb.
+00_72_01_0012:Falcone cinayət ailəsi Maltese Falcon restoranından işləyir. Restoran adını Carlo Falcone-nin detektiv romanlara sevgisindən alıb. Falcone-nin köməkçisi Eddie Scarpa restoranın gündəlik işlərini idarə edir, vaxtının çoxunu barda keçirir.
+00_72_01_0013:Komissiya Amerika mafiyasının rəhbər orqanıdır. Böyük ailələrin başçılarından ibarət olan Komissiya ailələr arasında müharibənin qarşısını almaq üçün mafiyanın işlərinə nəzarət edir.
+00_72_01_0014:Amerika mafiyası içki qadağası dövründə içki qaçaqmalçılığından böyük sərvət toplayıb. 1933-cü ildə qadağa götürüləndən sonra gəlirlər azalıb, mafiya ailələri arasında gərginlik isə artıb.
+00_72_01_0015:Empire Bay-in cinayət aləminə üç ailə - Vinci, Falcone və Clemente dəstələri - hökm edir.
+00_72_01_0016:Luca Gurino Alberto Clemente-nin kaposudur. Little Italy-dəki Freddy's Bar-dan işləyir. Luca qəddar sadistdir və zorakılığı ilə Empire Bay-in fahişələri arasında pis ad çıxarıb.
+00_72_01_0017:Frank Vinci və yaxın adamı Leo Galante Empire Bay-ə ilk dəfə 1908-ci ildə Siciliyadan gəliblər. Frank güc, Leo isə ağıl tərəfini üzərinə götürərək şəhər tarixinin ən uğurlu cinayət təşkilatını birlikdə qurublar.
+00_72_01_0018:
+00_72_02_0001:Tommy Angelo-nun ifadəsi, Ennio Salieri-nin məhkəməsi, 1938
+00_72_02_0002:Qurban olmaq istəmədiyim üçün cinayətkar oldum.
+00_72_02_0003:Lost Heaven təpədən-dırnağa çürüyüb. Hətta polis və siyasətçilər də Salieri bəyə, ya da onun adamlarına borcludurlar. Şübhəsiz ki, Amerikanın başqa şəhərlərindəki, hətta xaricdəki dəstələr arasında daha geniş əlaqə şəbəkəsi də var.
+00_72_02_0004:Mən əlli il əvvəl Palermo-nun limon bağlarından gətirilən və zərrə qədər dəyişməyən bir həyat tərzindən danışıram - özünü şərəfli sayan, qanundan üstün işləyən bir cəmiyyətdən.
+00_72_02_0005:Ən azı on beş dəfə qətl əmrini Ennio Salieri-nin şəxsən verdiyinə şahid olmuşam. Bağban gül yatağından alaq otunu necə yolursa, o da işçilərinin və müştərilərinin ölümünü eləcə əmr edir.
+00_72_02_0006:Həmişə elə işləyirdik ki, yuxarıdakılar hər şeyi dana bilsinlər. Başçı əmri aşağı pillələrə ötürürdü və hər pillə cinayətdən özünü uzaq tuturdu. Mənimlə Paulie kimi axmaqlar riskə gedirdik, yuxarıdakılar isə evlərində rahat və təhlükəsiz otururdular.
+00_72_02_0007:İçki qaçaqmalçılığı çox pul gətirirdi, amma iş bununla bitmirdi. Salieri-nin icazəsi ilə işləyib ona pay verən oğraşlar, sələmçilər, saxtakarlar və qaçaqmalçılar tanıyırdım.
+00_72_02_0008:Bu dəstələrdən birinin üzvüsənsə, həyatın zorakılıq üstündə qurulur və çox güman, zorakılıqla da bitir. Bu işi seçənlərin çox azı öz əcəli ilə ölür.
+00_72_02_0009:Ennio Salieri insanların əllərində olanı itirmək qorxusundan istifadə edir. Beləcə, vəd etdiyi himayəyə görə ona boyun əyirlər.
+00_72_02_0010:Mənim kimi adi adam şəhərin ən güclü adamını öldürə bilirdisə, onun bütün o gücü nəyə yarayırdı? Mənə elə gəlirdi ki, adam nə qədər güclü olsa da, həmişə ondan güclüsü çıxıb qanadını qıra bilər.
+00_72_02_0011:Mafiyaya işləyəndə rastlaşdığın adamlar sənə hörmət edir. Hamı bilir ki, onlara kömək də edə bilərsən, həyatlarını məhv də. Seçim sənindir.
+00_72_02_0012:Çoxu bu işə güc qazanmaq həvəsi ilə girir. Öz qaydalarından başqa heç kimin qaydası vecinə deyil. 
+00_72_02_0013:İçki qadağası vaxtı baş verənlərə baxın: Siciliyadan gələn bir ovuc kasıb, savadsız mühacir burada, Amerikada bütün qanunlardan, məhkəmələrdən və polislərdən güclü oldu. Buna çatmaq asan iş deyildi.
+00_72_02_0014:Bilirsiniz, dünyanı kağız üzərində yazılmış qanunlar idarə etmir. Adamlar idarə edir - bəzisi qanuna uyğun, bəzisi yox. Hər kəsin dünyası onun özündən, onu necə qurmağından asılıdır.
+00_72_02_0015:Oğrular arasında şərəf deyilən şey yoxdur. Bu adamlar sədaqət andı içirlər, amma başçıları üçün həmin andlar sadəcə qətl əmri verməyin və qisası haqlı çıxarmağın yoludur.
+00_72_02_0016:
+00_72_03_0001:
+00_72_03_0002:Vito-nun sürdüyü maşın polis tərəfindən axtarılırsa, radarın üstündə nömrə nişanı görəcəksiniz. Maşını axtarışdan çıxarmaq üçün emalatxanada nömrəsini və ya rəngini dəyişin.
+00_72_03_0003:Polisdə Vito-nun təsviri varsa, radarın üstündə üz şəkli işarəsi görəcəksiniz. Axtarışda olduğunuz müddətdə polis sizi tanıyıb təqib edəcək. Axtarışdan çıxmaq üçün polisə rüşvət verə və ya geyiminizi dəyişə bilərsiniz.
+00_72_03_0004:Telefon köşklərindən zəng edib rüşvət verərək axtarışdan çıxa bilərsiniz. Polisin gözü qarşısında telefon köşkündən istifadə etmək olmur, ona görə əvvəlcə onları itirməlisiniz.
+00_72_03_0005:Sürətlə qaçarkən Vito hasar, maşın və yeşik kimi maneələrin üstündən də aşa bilər. Maneələri aşmaq qanqster və polisdən qaçmağın yaxşı yoludur.
+00_72_03_0006:Şəhər sakinləri ağır cinayət törətsəniz, sizi polisə xəbər verəcəklər. Polisin təsvirinizi alması üçün cinayəti öz gözü ilə görməsi lazım deyil.
+00_72_03_0007:Sürət cəriməsindən yayınmaq üçün maşının sürət məhdudlaşdırıcısından istifadə edin. Şəhərdə ehtiyatla sürmək həm polisdən, həm də sevimli maşınlarınız üçün böyük təmir xərclərindən uzaq qalmağın yaxşı yoludur.
+00_72_03_0008:Maşın qıfıllarını açmaq artıq diqqət çəkməməyin yaxşı yoludur. Artıq sizi təqib edirlərsə, şüşəni sındırmaq daha yaxşı seçim ola bilər.
+00_72_03_0009:Çarəsiz qalmısınızsa, mağaza soymaq tez pul və pulsuz mal qazanmağın yoludur. Amma bununla polisin diqqətini çəkəcəyiniz də dəqiqdir.
+00_72_03_0010:İctimai yerdə silah göstərmək qanunsuzdur. Küçədə gəzərkən silahları gizli saxlayın, yalnız istifadə edəcəksinizsə çıxarın.
+00_72_03_0011:Pul qazanmaq üçün Mike Bruski-nin tullantı meydançasındakı The Beast presində maşınları əzin. Derek Pappalardo da Cənubi Amerikaya göndərmək üçün 1950-ci illərin dəbdəbəli maşın modellərini alır.
+00_72_03_0012:Sevdiyiniz maşınları qarajda saxlayıb kolleksiya yığın. Həmişə ən sürətli maşınları sürmək üçün onları təkmilləşdirin. Sadəcə emalatxanadan sonra maşınları qaraja qoymağı unutmayın.
+00_72_03_0013:Vito-nun sağlamlığı zamanla bərpa olur. Amma çox zərər aldıqda bərpa oluna bilən sağlamlıq həddi azalır. Yemək və ya içmək sağlamlıq zolağını yenidən tam doldurur.
+00_72_03_0014:Empire Bay polisi ilə hesablaşmaq lazımdır. Kiçik qayda pozuntularına görə polisə rüşvət verməli olsanız, üstünüzdə pul olsun.
+00_72_03_0015:Empire Bay-də üç radio stansiyası var. Central ən yeni pop hitlərini çalır, Classic köhnə mahnıları sevənlər üçündür, Delta isə ritm-end-blüz məkanıdır.
+00_72_03_0016:Oyunda irəlilədikcə personajların ilkin eskizləri açılır. Dövrün ab-havasını verən bu maraqlı şəkillərə Rəsmlər menyusunda baxın.
+00_72_03_0017:Xəritə ekranında yol nişanı qoyaraq getmək istədiyiniz yeri asan tapın. Şəhərdə yolunuzu tapmağa kömək etmək üçün nişan radarda göstərilir.
+00_72_03_0018:Playboy jurnallarını tapıb gözəl qızların şəkillərindən kolleksiya yığın. Onları tapmaq üçün binaların içini axtarın, sonra Toplanan əşyalar menyusunda baxın.
+00_72_03_0019:Polislər və polis maşınları radarda mavi işarələrlə göstərilir. Polisdən yayınmağa çalışanda onların yerini diqqətlə izləyin.
+00_72_03_0020:Axtarışda olan cinayətkarların elanlarını toplamaq üçün şəhərin divarlarını və dar küçələrini yoxlayın. Bu təhlükəli cinayətkarların şəkillərinə Toplanan əşyalar menyusunda baxın.
+00_72_03_0021:Radarın solundakı yanıb-sönən mavi zolaq polisin şübhə səviyyəsini göstərir. Ona diqqət yetirin. Tam dolanda polis artıq dalınızdadır!
+00_72_03_0022:Düşmən qanqsterlər Empire Bay-in küçələrində gəzirlər. Onlara hücum etsəniz, başqa dəstə üzvləri də döyüşə qoşulacaq.
+00_72_03_0023:Maşınları zövqünüzə uyğunlaşdırmaq və gücləndirmək üçün emalatxanalara baş çəkin. Təkmilləşdirilmiş maşınlarla polisdən qaçmaq daha asandır.
+00_72_03_0024:Şəhərdə polisin gözünə görünməmək üçün sığınacaqlardan istifadə edin.
+00_72_03_0025:Axtarışda olan maşın siz onu axtarışdan çıxarana qədər elə qalacaq. Nömrəni dəyişmək adətən polisə rüşvət verməkdən ucuz başa gəlir.
+00_72_03_0026:Empire Bay polisi sürət həddinə əməl etməyinizi gözləyir. Təhlükəsiz sürmək üçün sürət məhdudlaşdırıcısından istifadə edin. Polis sürətə görə cərimə yazmaq istəsə, kənara çəkilib ödəyə və ya qaçmağa çalışaraq daha ciddi təqibə səbəb ola bilərsiniz.
+00_72_03_0027:Maşın çox zədələnsə, xarab olacaq. Vito kapotu açıb xarab mühərriki düzəldə bilər, amma tam təmir yalnız emalatxanada mümkündür.
+00_72_03_0028:Maşının təkərləri güllələnsə, onu idarə etmək çətinləşər. Yanacaq çəninə atəş açsanız, maşın partlayar.
+00_72_03_0029:Atışmada sağ qalmaq üçün sığınacağa keçmək vacibdir. Demək olar, hər möhkəm əşyanın arxasında gizlənmək olur. Sığınacağın kənarından nişan alıb atəş açmaq üçün yaxınlaşdırma funksiyasından istifadə edin.
+00_72_03_0030:Maşının yanacaq çəninə atəş açsanız, maşın partlayar.
+00_72_03_0031:Silah mağazasında silah çıxarmamağa diqqət edin. Mağaza sahibi adətən silahlı olur.
+00_72_03_0032:Polis sizi təqib edirsə, qısa yollara və dar küçələrə baxın.
+00_72_03_0033:Nə qədər çox cinayət törətsəniz, şəhər küçələrində bir o qədər çox polis olacaq.
+00_72_03_0034:Sürətlə gedərkən polisdən daha yaxşı yayınmaq üçün radarda yaxınlıqdakı polisləri yoxlayın. 
+00_72_03_0035:Yüksək sürətdə kəskin dönmək üçün əl əyləcindən istifadə edin.
+00_72_03_0036:Yumruq davasında rəqibin zərbələrindən yayınmağı unutmayın. Ona çox yaxın dayansanız, müdafiəyə qapanacaq. Düşmən daim zərbələrinizdən yayınırsa, bir az geri çəkilin.
+00_72_03_0037:Qışda ehtiyatla sürün. Buzlu yolda təkərlər daha asan sürüşür.
+00_72_03_0038:Diqqət çəkməmək istəyirsinizsə, çömələrək düşmənlərin arxasına yaxınlaşıb onları səssiz öldürün.
+00_72_03_0039:Axtarışda olanda şəhərdə sizi görən hər polis təqibə başlayacaq.
+00_72_03_0040:Mafiyanın idarə etdiyi mağaza və barlar kimi bəzi yerlər dost məkanlar sayılır. Vito bu yerlərə zərər vermək istəməz, ona görə burada silah işlətməyə icazə verilmir.
+00_72_03_0041:Daha az hədəf olmaq üçün silahı sığınacağın arxasında doldurun. Maşınlar da daxil olmaqla sığınacaq kimi görünən demək olar hər əşyadan istifadə edə bilərsiniz. Atışma vaxtı açıqda dayanmaq morqa birtərəfli bilet almaq kimidir.
+00_72_03_0042:
+00_72_04_0001:Tommy Angelo-nun ifadəsi, Ennio Salieri-nin məhkəməsi, 1938
+00_72_04_0002:
+00_72_04_0003:Çox şey istəyən adam hər şeyini itirmək riski ilə üzləşir. Əlbəttə, həyatdan çox az şey istəyən adamın da əlinə heç nə keçməyə bilər.
+00_72_04_0004:Qurban olmaq istəmədiyim üçün cinayətkar oldum.
+00_72_04_0005:

@@ -1,0 +1,14 @@
+﻿309031770:n_Nə olsun?
+309031780:n_O olsun ki, üstümə güllə yağmayanda, ya meyit yığışdırmayanda günüm daha yaxşı keçir.
+309031790:n_Bəzi gecələr qadınlar, poker olur, bəzilərində meyiti ətçəkəndən keçirməlisən. Neyləyək.
+309031800:n_Ölməməyə çalışacağam. Edəcəyim budur.
+309031810:n_Yaxşı, yaxşı, bəsdir artıq.
+309031820:n_Carlo Falcone'nin yerində işləyən o adamı tanıyırsan?
+309031830:n_Hansı adamı? Çoxdandır ora getmirəm.
+309031840:n_Sələmçilərlə başı bəlaya girəni, indi bir əlində cəmi iki barmağı qalıb. Adı nə idi...
+309031850:n_Mickey the Lobster'ı deyirsən?
+309031860:n_Yox, yox, adı... Mickey... Mickey the Crab.
+309031870:n_Hə, Mickey the Lobster, Mickey the Crab, eyni adamdır.
+309031880:n_Ah. Hə, məntiqlidir. Hə, deməli Mickey the Crab. Düşünürdüm... səncə hansı əliylə otuzbir çəkir?
+309031890:n_Nə? Bu nə sikilmiş sualdır?
+309031905:n_Hansısa... şikəstin otuzbir çəkməyi barədə? Sən xəstəsən, bilirsən? Sadəcə... sus, bu gün bir də mənimlə danışma. Ay Allah.

@@ -1,0 +1,86 @@
+﻿1512000031:Salam, uşaqlar.
+1512000030:Salam, Vito. Müdir səni görmək istəyir.
+1512000040:Yaxşı. Mən də onu görmək istəyirəm.
+1512000050:Təkcə, ee... Bir şey var, Vito... Silahını almalıyam.
+1512000061:Ah, bu silahı deyirsən!
+1512000060:Hə, yaxşı, buyur.
+1512000070:Ay lənət...
+1505002010:Gör kim gəlib...
+1505002020:Göndərdikləri budur? Bu təhqirdir.
+1505002030:Sənə nə dedilər, Vito? Məni aradan götür, hamısı bağışlanacaq? Etdiklərindən sonra səni eləcə buraxacaqlarını düşünürsən?
+1505002040:Amma sənin kimi axmaqlar heç vaxt işin bütövünü görmür...
+1505002050:Dostun Joe isə anlayır, elə deyil, Joe?
+1505002060:Bu nə sikimdir?
+1505002070:Vito, dəli olmusan?
+1505002071:Eyni sualı sənə verə bilərəm.
+1505002080:Sədaqət qəribə şeydir, hə, Vito?
+1505002090:Bu işdə dostluq deyilən şey yoxdur. Həbsdə sikini soranda köhnə dostun Leo bunu öyrətmədi?
+1505002100:Hahaha... Sən sadəcə piyadasan, Vito. Həmişə elə olmusan. Bunu nə vaxt anlayacaqsan?
+1505002110:Joe - sadəcə mənə inanmalısan.
+1505002120:Elə bilirsən federallar, ya Komissiyadakı o yorğun qoca əclaflar vecimədir?
+1505002130:Səndən istifadə edirlər, Vito... Clemente kimi. Mənim kimi. O satqın əclaf Henry kimi.
+1505002140:O zibilə zamin oldun, evimə gətirdin.
+1505002150:İndi də, axmaq əclaf, bunun bədəlini ödəyəcəksən.
+1505002160:İndi, Joe.
+1505002170:Nə gözləyirsən?
+1505002180:Hey. Tətiyi çəkəcəksənsə, çək daha.
+1505002190:Vito...
+1505002200:Bu sik yalayanı vuraq. Üç deyəndə.
+1505002210:Bir...
+1505002220:Nə danışdığımızı unutma, Joe! Hamısını atacaqsan!? Elə!
+1505002230:İki...
+1505002240:İNDİ!
+1505002300:Bir şey bilirsən, Carlo? Son on ildə ancaq adam öldürmüşəm.
+1505002310:Ölkəm üçün öldürmüşəm...
+1505002320:Uf!
+1505002330:Ailəm üçün öldürmüşəm...
+1505002340:Uf!
+1505002350:Yoluma çıxan hər kəsi öldürmüşəm.
+1505002360:Uf!
+1505002390:Lənətə gəlmiş piyada...
+1505002391:Sikim... səni...
+1505002400:Amma bu... Bu özüm üçündür.
+1505002401:Lənətə gəlmiş əclaf...
+1505002402:Yaxşı. Bitdi.
+2000000000:n_
+1511000010:Bu nədir axı?
+1511000020:Hər şey yaxşıdır, Joe.
+1511000030:Bitdi?
+1511000031:Həll etdin?
+1511000032:Bitdi.
+1511000040:Yaxşı onda. Deyəsən, bayram etmək lazımdır. Gəlin, gedək fahişəxanaya.
+1511000050:Mənə xoşdur.
+1511000060:Mənimlə gəl, Vito. Danışmalı olduğumuz başqa şeylər də var.
+1511000070:Yaxşı, orada görüşərik.
+1511000080:Hey, hey! Nə baş verir axı? Joe-nu hara aparırlar?
+1511000081:Hey, hey... Bu nə sikimdir?
+1511000082:Hey, hey... Hara sikdirib gedirlər?
+1511000083:O maşın hara gedir, Leo?
+1511000084:Hey, nə sikim... O maşının hara getdiyini deyəcəksən, Leo?
+1511000085:Hey, hey... Burada nə baş verir?
+1511000086:Hey, bu nə sikimdir? Elə bilirdim razılaşmışıq!
+1511000087:Hey, hey... O maşın hara gedir? Elə bilirdim razılaşmışıq!
+1511000090:Bağışla, oğlum. Joe razılaşmamıza daxil deyildi.
+1511000100:Frank ancaq səninlə danışmaq istəyirdi. Bağışla, oğlum, sadəcə işdir.
+1511000110:Səninlə danışmaq istədiyim də elə budur. Razılaşmamız yalnız sənə aid idi. Joe cənab Chu ilə görüşəcək. Sülhün qiyməti bu idi. Bağışla, oğlum.
+1511000120:Bağışla, oğlum. Frank ancaq səninlə danışmaq istəyirdi. Bu iş barədə sənə heç nə öyrətməmişəm?
+1511000130:Frank ancaq səninlə danışmaq istəyir. Eləmə, oğlum. Bu iş barədə sənə heç nə öyrətməmişəm?
+1511000140:Bağışla, oğlum. Joe razılaşmamıza daxil deyildi. Onu son gəzintiyə aparırlar. Bu iş barədə sənə heç nə öyrətməmişəm?
+1511000141:Bağışla, oğlum. Razılaşmamız yalnız sənə aid idi.
+1511000150:Onu son gəzintiyə aparırlar, əlimizdən də heç nə gəlmir. İşlər belə gedir. Düşünürdüm, indiyə qədər anlamısan.
+1511000160:Səninlə danışmaq istədiyim də elə budur. Çin məhəlləsində etdiklərinizə görə kimsə cavab verməli idi. İşlər belə gedir.
+1511000170:Frank-la sənin gələcəyindən danışmaq istəyirik, Vito. Dostun Joe burada yoxdur. Razılaşma beləydi - sən mənə kömək etdin, mən də sənə. Dostun öz sülhünü özü tapmalıdır.
+1511000180:Qəribədir, köhnə vətəndə bizim kimilərə Şərəfli Adamlar deyirlər. Bizim dünyamızda şərəf yoxdur, Vito. Təşkilatlarımızı qarşılıqlı maraq üzərində qurmuşuq - birlikdə işləyəndə hamımız daha tez varlanırıq. Amma bu dəyişən kimi hər kəs öz başının çarəsinə baxır.
+1511000190:Frank hər şeyi silib sənə təzə başlanğıc verməyə hazırdır. Dostlarınla etdiklərindən sonra sağ qalmağın böyük bəxtdir.
+1511000200:Dostun Joe ilə lazımınca maraqlanarıq. Gəl sənin sonrakı həyatından danışaq, Vito. Bu işdə ağıllı adam uzağa gedə bilər, yetər ki, bunun işimiz, dolanışıq yolumuz olduğunu unutmasın. Buna boşuna "Həyat" demirlər. Bir girdinsə, ancaq tabutda çıxacaqsan.
+1511000210:Düzünü deyim, oğlum, bu qədər yaşadığına təəccüb edirəm.
+15_11_00_0071:Yaxşı. Bu böyük sirr nədir?
+15_11_00_0072:Yaxşı, istədiyini etdim, indi necə?
+15_11_00_0073:Yaxşı, indi necə?
+15_11_00_0074:Yaxşı, sonra nə olacaq?
+15_11_00_0220:(boğulur)
+15_11_00_0221:Hey, uşaqlar, hara gedirsiniz? Fahişəxana o biri... Ay sikim!
+15_11_00_0222:Elə bilirdik qaydaları poza bilərik... Öz qaydalarımızı qura bilərik. Amma ancaq qarışıqlıq yaratdıq.
+15_11_00_0223:O da yavaş-yavaş hamımızı uddu.
+15_11_00_0224:Geri yol da yox idi.
+15_11_00_0999:n_ mafiozlara cənnət yoxdur...

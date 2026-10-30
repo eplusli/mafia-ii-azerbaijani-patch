@@ -1,0 +1,444 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xml>
+	<ResourceInfo>
+		<CustomDebugInfo/>
+		<TypeName>MemFile</TypeName>
+		<SourceDataDescription>/tables/Speech/Script_08_The_Wild_Ones02_subtitles.bin</SourceDataDescription>
+		<SlotRamRequired __type='Int'>2064</SlotRamRequired>
+		<SlotVramRequired __type='Int'>0</SlotVramRequired>
+		<OtherRamRequired __type='Int'>0</OtherRamRequired>
+		<OtherVramRequired __type='Int'>0</OtherVramRequired>
+	</ResourceInfo>
+	<ResourceInfo>
+		<CustomDebugInfo/>
+		<TypeName>FxAnimSet</TypeName>
+		<SourceDataDescription>not available</SourceDataDescription>
+		<SlotRamRequired __type='Int'>0</SlotRamRequired>
+		<SlotVramRequired __type='Int'>0</SlotVramRequired>
+		<OtherRamRequired __type='Int'>90476</OtherRamRequired>
+		<OtherVramRequired __type='Int'>0</OtherVramRequired>
+	</ResourceInfo>
+	<ResourceInfo>
+		<CustomDebugInfo/>
+		<TypeName>Sound</TypeName>
+		<SourceDataDescription>Dabing/Script/08/02/08_99_04_0140</SourceDataDescription>
+		<SlotRamRequired __type='Int'>43</SlotRamRequired>
+		<SlotVramRequired __type='Int'>4608</SlotVramRequired>
+		<OtherRamRequired __type='Int'>0</OtherRamRequired>
+		<OtherVramRequired __type='Int'>0</OtherVramRequired>
+	</ResourceInfo>
+	<ResourceInfo>
+		<CustomDebugInfo/>
+		<TypeName>Sound</TypeName>
+		<SourceDataDescription>Dabing/Script/08/02/08_99_04_0150</SourceDataDescription>
+		<SlotRamRequired __type='Int'>40</SlotRamRequired>
+		<SlotVramRequired __type='Int'>39136</SlotVramRequired>
+		<OtherRamRequired __type='Int'>0</OtherRamRequired>
+		<OtherVramRequired __type='Int'>0</OtherVramRequired>
+	</ResourceInfo>
+	<ResourceInfo>
+		<CustomDebugInfo/>
+		<TypeName>Sound</TypeName>
+		<SourceDataDescription>Dabing/Script/08/02/08_99_04_0160</SourceDataDescription>
+		<SlotRamRequired __type='Int'>40</SlotRamRequired>
+		<SlotVramRequired __type='Int'>16672</SlotVramRequired>
+		<OtherRamRequired __type='Int'>0</OtherRamRequired>
+		<OtherVramRequired __type='Int'>0</OtherVramRequired>
+	</ResourceInfo>
+	<ResourceInfo>
+		<CustomDebugInfo/>
+		<TypeName>Sound</TypeName>
+		<SourceDataDescription>Dabing/Script/08/02/08_99_04_0170</SourceDataDescription>
+		<SlotRamRequired __type='Int'>40</SlotRamRequired>
+		<SlotVramRequired __type='Int'>11808</SlotVramRequired>
+		<OtherRamRequired __type='Int'>0</OtherRamRequired>
+		<OtherVramRequired __type='Int'>0</OtherVramRequired>
+	</ResourceInfo>
+	<ResourceInfo>
+		<CustomDebugInfo/>
+		<TypeName>Sound</TypeName>
+		<SourceDataDescription>Dabing/Script/08/02/08_99_04_0180</SourceDataDescription>
+		<SlotRamRequired __type='Int'>40</SlotRamRequired>
+		<SlotVramRequired __type='Int'>9888</SlotVramRequired>
+		<OtherRamRequired __type='Int'>0</OtherRamRequired>
+		<OtherVramRequired __type='Int'>0</OtherVramRequired>
+	</ResourceInfo>
+	<ResourceInfo>
+		<CustomDebugInfo/>
+		<TypeName>Sound</TypeName>
+		<SourceDataDescription>Dabing/Script/08/02/08_99_04_0200</SourceDataDescription>
+		<SlotRamRequired __type='Int'>40</SlotRamRequired>
+		<SlotVramRequired __type='Int'>29184</SlotVramRequired>
+		<OtherRamRequired __type='Int'>0</OtherRamRequired>
+		<OtherVramRequired __type='Int'>0</OtherVramRequired>
+	</ResourceInfo>
+	<ResourceInfo>
+		<CustomDebugInfo/>
+		<TypeName>Sound</TypeName>
+		<SourceDataDescription>Dabing/Script/08/02/08_99_04_0220</SourceDataDescription>
+		<SlotRamRequired __type='Int'>40</SlotRamRequired>
+		<SlotVramRequired __type='Int'>16480</SlotVramRequired>
+		<OtherRamRequired __type='Int'>0</OtherRamRequired>
+		<OtherVramRequired __type='Int'>0</OtherVramRequired>
+	</ResourceInfo>
+	<ResourceInfo>
+		<CustomDebugInfo/>
+		<TypeName>Sound</TypeName>
+		<SourceDataDescription>Dabing/Script/08/02/08_99_04_0240</SourceDataDescription>
+		<SlotRamRequired __type='Int'>40</SlotRamRequired>
+		<SlotVramRequired __type='Int'>18176</SlotVramRequired>
+		<OtherRamRequired __type='Int'>0</OtherRamRequired>
+		<OtherVramRequired __type='Int'>0</OtherVramRequired>
+	</ResourceInfo>
+	<ResourceInfo>
+		<CustomDebugInfo/>
+		<TypeName>Sound</TypeName>
+		<SourceDataDescription>Dabing/Script/08/02/08_99_04_0260</SourceDataDescription>
+		<SlotRamRequired __type='Int'>40</SlotRamRequired>
+		<SlotVramRequired __type='Int'>12224</SlotVramRequired>
+		<OtherRamRequired __type='Int'>0</OtherRamRequired>
+		<OtherVramRequired __type='Int'>0</OtherVramRequired>
+	</ResourceInfo>
+	<ResourceInfo>
+		<CustomDebugInfo/>
+		<TypeName>Sound</TypeName>
+		<SourceDataDescription>Dabing/Script/08/02/08_99_04_0270</SourceDataDescription>
+		<SlotRamRequired __type='Int'>40</SlotRamRequired>
+		<SlotVramRequired __type='Int'>10944</SlotVramRequired>
+		<OtherRamRequired __type='Int'>0</OtherRamRequired>
+		<OtherVramRequired __type='Int'>0</OtherVramRequired>
+	</ResourceInfo>
+	<ResourceInfo>
+		<CustomDebugInfo/>
+		<TypeName>Sound</TypeName>
+		<SourceDataDescription>Dabing/Script/08/02/08_99_04_0280</SourceDataDescription>
+		<SlotRamRequired __type='Int'>40</SlotRamRequired>
+		<SlotVramRequired __type='Int'>11808</SlotVramRequired>
+		<OtherRamRequired __type='Int'>0</OtherRamRequired>
+		<OtherVramRequired __type='Int'>0</OtherVramRequired>
+	</ResourceInfo>
+	<ResourceInfo>
+		<CustomDebugInfo/>
+		<TypeName>Sound</TypeName>
+		<SourceDataDescription>Dabing/Script/08/02/08_99_04_0290</SourceDataDescription>
+		<SlotRamRequired __type='Int'>40</SlotRamRequired>
+		<SlotVramRequired __type='Int'>10304</SlotVramRequired>
+		<OtherRamRequired __type='Int'>0</OtherRamRequired>
+		<OtherVramRequired __type='Int'>0</OtherVramRequired>
+	</ResourceInfo>
+	<ResourceInfo>
+		<CustomDebugInfo/>
+		<TypeName>Sound</TypeName>
+		<SourceDataDescription>Dabing/Script/08/02/08_99_04_0300</SourceDataDescription>
+		<SlotRamRequired __type='Int'>40</SlotRamRequired>
+		<SlotVramRequired __type='Int'>13280</SlotVramRequired>
+		<OtherRamRequired __type='Int'>0</OtherRamRequired>
+		<OtherVramRequired __type='Int'>0</OtherVramRequired>
+	</ResourceInfo>
+	<ResourceInfo>
+		<CustomDebugInfo/>
+		<TypeName>Sound</TypeName>
+		<SourceDataDescription>Dabing/Script/08/02/08_99_04_0310</SourceDataDescription>
+		<SlotRamRequired __type='Int'>40</SlotRamRequired>
+		<SlotVramRequired __type='Int'>11392</SlotVramRequired>
+		<OtherRamRequired __type='Int'>0</OtherRamRequired>
+		<OtherVramRequired __type='Int'>0</OtherVramRequired>
+	</ResourceInfo>
+	<ResourceInfo>
+		<CustomDebugInfo/>
+		<TypeName>Sound</TypeName>
+		<SourceDataDescription>Dabing/Script/08/02/08_99_04_0320</SourceDataDescription>
+		<SlotRamRequired __type='Int'>40</SlotRamRequired>
+		<SlotVramRequired __type='Int'>16896</SlotVramRequired>
+		<OtherRamRequired __type='Int'>0</OtherRamRequired>
+		<OtherVramRequired __type='Int'>0</OtherVramRequired>
+	</ResourceInfo>
+	<ResourceInfo>
+		<CustomDebugInfo/>
+		<TypeName>Sound</TypeName>
+		<SourceDataDescription>Dabing/Script/08/02/08_99_04_0330</SourceDataDescription>
+		<SlotRamRequired __type='Int'>40</SlotRamRequired>
+		<SlotVramRequired __type='Int'>17088</SlotVramRequired>
+		<OtherRamRequired __type='Int'>0</OtherRamRequired>
+		<OtherVramRequired __type='Int'>0</OtherVramRequired>
+	</ResourceInfo>
+	<ResourceInfo>
+		<CustomDebugInfo/>
+		<TypeName>Sound</TypeName>
+		<SourceDataDescription>Dabing/Script/08/02/08_99_04_0340</SourceDataDescription>
+		<SlotRamRequired __type='Int'>40</SlotRamRequired>
+		<SlotVramRequired __type='Int'>15616</SlotVramRequired>
+		<OtherRamRequired __type='Int'>0</OtherRamRequired>
+		<OtherVramRequired __type='Int'>0</OtherVramRequired>
+	</ResourceInfo>
+	<ResourceInfo>
+		<CustomDebugInfo/>
+		<TypeName>Sound</TypeName>
+		<SourceDataDescription>Dabing/Script/08/02/08_99_04_0350</SourceDataDescription>
+		<SlotRamRequired __type='Int'>40</SlotRamRequired>
+		<SlotVramRequired __type='Int'>17728</SlotVramRequired>
+		<OtherRamRequired __type='Int'>0</OtherRamRequired>
+		<OtherVramRequired __type='Int'>0</OtherVramRequired>
+	</ResourceInfo>
+	<ResourceInfo>
+		<CustomDebugInfo/>
+		<TypeName>Sound</TypeName>
+		<SourceDataDescription>Dabing/Script/08/02/08_99_04_0360</SourceDataDescription>
+		<SlotRamRequired __type='Int'>40</SlotRamRequired>
+		<SlotVramRequired __type='Int'>12864</SlotVramRequired>
+		<OtherRamRequired __type='Int'>0</OtherRamRequired>
+		<OtherVramRequired __type='Int'>0</OtherVramRequired>
+	</ResourceInfo>
+	<ResourceInfo>
+		<CustomDebugInfo/>
+		<TypeName>Sound</TypeName>
+		<SourceDataDescription>Dabing/Script/08/02/08_99_04_0370</SourceDataDescription>
+		<SlotRamRequired __type='Int'>40</SlotRamRequired>
+		<SlotVramRequired __type='Int'>18784</SlotVramRequired>
+		<OtherRamRequired __type='Int'>0</OtherRamRequired>
+		<OtherVramRequired __type='Int'>0</OtherVramRequired>
+	</ResourceInfo>
+	<ResourceInfo>
+		<CustomDebugInfo/>
+		<TypeName>Sound</TypeName>
+		<SourceDataDescription>Dabing/Script/08/02/08_99_04_0380</SourceDataDescription>
+		<SlotRamRequired __type='Int'>40</SlotRamRequired>
+		<SlotVramRequired __type='Int'>14560</SlotVramRequired>
+		<OtherRamRequired __type='Int'>0</OtherRamRequired>
+		<OtherVramRequired __type='Int'>0</OtherVramRequired>
+	</ResourceInfo>
+	<ResourceInfo>
+		<CustomDebugInfo/>
+		<TypeName>Sound</TypeName>
+		<SourceDataDescription>Dabing/Script/08/02/08_99_04_0381</SourceDataDescription>
+		<SlotRamRequired __type='Int'>40</SlotRamRequired>
+		<SlotVramRequired __type='Int'>4384</SlotVramRequired>
+		<OtherRamRequired __type='Int'>0</OtherRamRequired>
+		<OtherVramRequired __type='Int'>0</OtherVramRequired>
+	</ResourceInfo>
+	<ResourceInfo>
+		<CustomDebugInfo/>
+		<TypeName>Sound</TypeName>
+		<SourceDataDescription>Dabing/Script/08/02/08_99_04_0382</SourceDataDescription>
+		<SlotRamRequired __type='Int'>40</SlotRamRequired>
+		<SlotVramRequired __type='Int'>4608</SlotVramRequired>
+		<OtherRamRequired __type='Int'>0</OtherRamRequired>
+		<OtherVramRequired __type='Int'>0</OtherVramRequired>
+	</ResourceInfo>
+	<ResourceInfo>
+		<CustomDebugInfo/>
+		<TypeName>Sound</TypeName>
+		<SourceDataDescription>Dabing/Script/08/02/08_99_04_0390</SourceDataDescription>
+		<SlotRamRequired __type='Int'>40</SlotRamRequired>
+		<SlotVramRequired __type='Int'>5216</SlotVramRequired>
+		<OtherRamRequired __type='Int'>0</OtherRamRequired>
+		<OtherVramRequired __type='Int'>0</OtherVramRequired>
+	</ResourceInfo>
+	<ResourceInfo>
+		<CustomDebugInfo/>
+		<TypeName>Sound</TypeName>
+		<SourceDataDescription>Dabing/Script/08/02/08_99_04_0400</SourceDataDescription>
+		<SlotRamRequired __type='Int'>40</SlotRamRequired>
+		<SlotVramRequired __type='Int'>3104</SlotVramRequired>
+		<OtherRamRequired __type='Int'>0</OtherRamRequired>
+		<OtherVramRequired __type='Int'>0</OtherVramRequired>
+	</ResourceInfo>
+	<ResourceInfo>
+		<CustomDebugInfo/>
+		<TypeName>Sound</TypeName>
+		<SourceDataDescription>Dabing/Script/08/02/08_99_04_0410</SourceDataDescription>
+		<SlotRamRequired __type='Int'>40</SlotRamRequired>
+		<SlotVramRequired __type='Int'>37024</SlotVramRequired>
+		<OtherRamRequired __type='Int'>0</OtherRamRequired>
+		<OtherVramRequired __type='Int'>0</OtherVramRequired>
+	</ResourceInfo>
+	<ResourceInfo>
+		<CustomDebugInfo/>
+		<TypeName>Sound</TypeName>
+		<SourceDataDescription>Dabing/Script/08/02/08_99_04_0411</SourceDataDescription>
+		<SlotRamRequired __type='Int'>40</SlotRamRequired>
+		<SlotVramRequired __type='Int'>10528</SlotVramRequired>
+		<OtherRamRequired __type='Int'>0</OtherRamRequired>
+		<OtherVramRequired __type='Int'>0</OtherVramRequired>
+	</ResourceInfo>
+	<ResourceInfo>
+		<CustomDebugInfo/>
+		<TypeName>Sound</TypeName>
+		<SourceDataDescription>Dabing/Script/08/02/08_99_04_0412</SourceDataDescription>
+		<SlotRamRequired __type='Int'>40</SlotRamRequired>
+		<SlotVramRequired __type='Int'>15616</SlotVramRequired>
+		<OtherRamRequired __type='Int'>0</OtherRamRequired>
+		<OtherVramRequired __type='Int'>0</OtherVramRequired>
+	</ResourceInfo>
+	<ResourceInfo>
+		<CustomDebugInfo/>
+		<TypeName>Sound</TypeName>
+		<SourceDataDescription>Dabing/Script/08/02/08_99_04_0413</SourceDataDescription>
+		<SlotRamRequired __type='Int'>40</SlotRamRequired>
+		<SlotVramRequired __type='Int'>7136</SlotVramRequired>
+		<OtherRamRequired __type='Int'>0</OtherRamRequired>
+		<OtherVramRequired __type='Int'>0</OtherVramRequired>
+	</ResourceInfo>
+	<ResourceInfo>
+		<CustomDebugInfo/>
+		<TypeName>Sound</TypeName>
+		<SourceDataDescription>Dabing/Script/08/02/08_99_04_0414</SourceDataDescription>
+		<SlotRamRequired __type='Int'>40</SlotRamRequired>
+		<SlotVramRequired __type='Int'>9472</SlotVramRequired>
+		<OtherRamRequired __type='Int'>0</OtherRamRequired>
+		<OtherVramRequired __type='Int'>0</OtherVramRequired>
+	</ResourceInfo>
+	<ResourceInfo>
+		<CustomDebugInfo/>
+		<TypeName>Sound</TypeName>
+		<SourceDataDescription>Dabing/Script/08/02/08_99_04_0415</SourceDataDescription>
+		<SlotRamRequired __type='Int'>40</SlotRamRequired>
+		<SlotVramRequired __type='Int'>11808</SlotVramRequired>
+		<OtherRamRequired __type='Int'>0</OtherRamRequired>
+		<OtherVramRequired __type='Int'>0</OtherVramRequired>
+	</ResourceInfo>
+	<ResourceInfo>
+		<CustomDebugInfo/>
+		<TypeName>Sound</TypeName>
+		<SourceDataDescription>Dabing/Script/08/02/08_99_04_0420</SourceDataDescription>
+		<SlotRamRequired __type='Int'>40</SlotRamRequired>
+		<SlotVramRequired __type='Int'>8416</SlotVramRequired>
+		<OtherRamRequired __type='Int'>0</OtherRamRequired>
+		<OtherVramRequired __type='Int'>0</OtherVramRequired>
+	</ResourceInfo>
+	<ResourceInfo>
+		<CustomDebugInfo/>
+		<TypeName>Sound</TypeName>
+		<SourceDataDescription>Dabing/Script/08/02/08_99_04_0421</SourceDataDescription>
+		<SlotRamRequired __type='Int'>40</SlotRamRequired>
+		<SlotVramRequired __type='Int'>23456</SlotVramRequired>
+		<OtherRamRequired __type='Int'>0</OtherRamRequired>
+		<OtherVramRequired __type='Int'>0</OtherVramRequired>
+	</ResourceInfo>
+	<ResourceInfo>
+		<CustomDebugInfo/>
+		<TypeName>Sound</TypeName>
+		<SourceDataDescription>Dabing/Script/08/02/08_99_04_0422</SourceDataDescription>
+		<SlotRamRequired __type='Int'>40</SlotRamRequired>
+		<SlotVramRequired __type='Int'>29600</SlotVramRequired>
+		<OtherRamRequired __type='Int'>0</OtherRamRequired>
+		<OtherVramRequired __type='Int'>0</OtherVramRequired>
+	</ResourceInfo>
+	<ResourceInfo>
+		<CustomDebugInfo/>
+		<TypeName>Sound</TypeName>
+		<SourceDataDescription>Dabing/Script/08/02/08_99_04_0423</SourceDataDescription>
+		<SlotRamRequired __type='Int'>40</SlotRamRequired>
+		<SlotVramRequired __type='Int'>27072</SlotVramRequired>
+		<OtherRamRequired __type='Int'>0</OtherRamRequired>
+		<OtherVramRequired __type='Int'>0</OtherVramRequired>
+	</ResourceInfo>
+	<ResourceInfo>
+		<CustomDebugInfo/>
+		<TypeName>Sound</TypeName>
+		<SourceDataDescription>Dabing/Script/08/02/08_99_04_0424</SourceDataDescription>
+		<SlotRamRequired __type='Int'>40</SlotRamRequired>
+		<SlotVramRequired __type='Int'>27712</SlotVramRequired>
+		<OtherRamRequired __type='Int'>0</OtherRamRequired>
+		<OtherVramRequired __type='Int'>0</OtherVramRequired>
+	</ResourceInfo>
+	<ResourceInfo>
+		<CustomDebugInfo/>
+		<TypeName>Sound</TypeName>
+		<SourceDataDescription>Dabing/Script/08/02/08_99_04_0425</SourceDataDescription>
+		<SlotRamRequired __type='Int'>40</SlotRamRequired>
+		<SlotVramRequired __type='Int'>31104</SlotVramRequired>
+		<OtherRamRequired __type='Int'>0</OtherRamRequired>
+		<OtherVramRequired __type='Int'>0</OtherVramRequired>
+	</ResourceInfo>
+	<ResourceInfo>
+		<CustomDebugInfo/>
+		<TypeName>Sound</TypeName>
+		<SourceDataDescription>Dabing/Script/08/02/08_99_04_0426</SourceDataDescription>
+		<SlotRamRequired __type='Int'>40</SlotRamRequired>
+		<SlotVramRequired __type='Int'>31104</SlotVramRequired>
+		<OtherRamRequired __type='Int'>0</OtherRamRequired>
+		<OtherVramRequired __type='Int'>0</OtherVramRequired>
+	</ResourceInfo>
+	<ResourceInfo>
+		<CustomDebugInfo/>
+		<TypeName>Sound</TypeName>
+		<SourceDataDescription>Dabing/Script/08/02/08_99_04_0502</SourceDataDescription>
+		<SlotRamRequired __type='Int'>40</SlotRamRequired>
+		<SlotVramRequired __type='Int'>21984</SlotVramRequired>
+		<OtherRamRequired __type='Int'>0</OtherRamRequired>
+		<OtherVramRequired __type='Int'>0</OtherVramRequired>
+	</ResourceInfo>
+	<ResourceInfo>
+		<CustomDebugInfo/>
+		<TypeName>Sound</TypeName>
+		<SourceDataDescription>Dabing/Script/08/02/08_99_04_0503</SourceDataDescription>
+		<SlotRamRequired __type='Int'>40</SlotRamRequired>
+		<SlotVramRequired __type='Int'>13088</SlotVramRequired>
+		<OtherRamRequired __type='Int'>0</OtherRamRequired>
+		<OtherVramRequired __type='Int'>0</OtherVramRequired>
+	</ResourceInfo>
+	<ResourceInfo>
+		<CustomDebugInfo/>
+		<TypeName>Sound</TypeName>
+		<SourceDataDescription>Dabing/Script/08/02/08_99_04_0504</SourceDataDescription>
+		<SlotRamRequired __type='Int'>40</SlotRamRequired>
+		<SlotVramRequired __type='Int'>71360</SlotVramRequired>
+		<OtherRamRequired __type='Int'>0</OtherRamRequired>
+		<OtherVramRequired __type='Int'>0</OtherVramRequired>
+	</ResourceInfo>
+	<ResourceInfo>
+		<CustomDebugInfo/>
+		<TypeName>Sound</TypeName>
+		<SourceDataDescription>Dabing/Script/08/02/08_99_04_0505</SourceDataDescription>
+		<SlotRamRequired __type='Int'>40</SlotRamRequired>
+		<SlotVramRequired __type='Int'>20704</SlotVramRequired>
+		<OtherRamRequired __type='Int'>0</OtherRamRequired>
+		<OtherVramRequired __type='Int'>0</OtherVramRequired>
+	</ResourceInfo>
+	<ResourceInfo>
+		<CustomDebugInfo/>
+		<TypeName>Sound</TypeName>
+		<SourceDataDescription>Dabing/Script/08/02/08_99_04_0506</SourceDataDescription>
+		<SlotRamRequired __type='Int'>40</SlotRamRequired>
+		<SlotVramRequired __type='Int'>42752</SlotVramRequired>
+		<OtherRamRequired __type='Int'>0</OtherRamRequired>
+		<OtherVramRequired __type='Int'>0</OtherVramRequired>
+	</ResourceInfo>
+	<ResourceInfo>
+		<CustomDebugInfo/>
+		<TypeName>Sound</TypeName>
+		<SourceDataDescription>Dabing/Script/08/02/08_99_04_0507</SourceDataDescription>
+		<SlotRamRequired __type='Int'>40</SlotRamRequired>
+		<SlotVramRequired __type='Int'>52288</SlotVramRequired>
+		<OtherRamRequired __type='Int'>0</OtherRamRequired>
+		<OtherVramRequired __type='Int'>0</OtherVramRequired>
+	</ResourceInfo>
+	<ResourceInfo>
+		<CustomDebugInfo/>
+		<TypeName>Sound</TypeName>
+		<SourceDataDescription>Dabing/Script/08/02/08_99_04_0508</SourceDataDescription>
+		<SlotRamRequired __type='Int'>40</SlotRamRequired>
+		<SlotVramRequired __type='Int'>65664</SlotVramRequired>
+		<OtherRamRequired __type='Int'>0</OtherRamRequired>
+		<OtherVramRequired __type='Int'>0</OtherVramRequired>
+	</ResourceInfo>
+	<ResourceInfo>
+		<CustomDebugInfo/>
+		<TypeName>Sound</TypeName>
+		<SourceDataDescription>Dabing/Script/08/02/08_99_04_0509</SourceDataDescription>
+		<SlotRamRequired __type='Int'>40</SlotRamRequired>
+		<SlotVramRequired __type='Int'>19648</SlotVramRequired>
+		<OtherRamRequired __type='Int'>0</OtherRamRequired>
+		<OtherVramRequired __type='Int'>0</OtherVramRequired>
+	</ResourceInfo>
+	<ResourceInfo>
+		<CustomDebugInfo/>
+		<TypeName>Speech</TypeName>
+		<SourceDataDescription>not available</SourceDataDescription>
+		<SlotRamRequired __type='Int'>3855</SlotRamRequired>
+		<SlotVramRequired __type='Int'>0</SlotVramRequired>
+		<OtherRamRequired __type='Int'>0</OtherRamRequired>
+		<OtherVramRequired __type='Int'>0</OtherVramRequired>
+	</ResourceInfo>
+</xml>

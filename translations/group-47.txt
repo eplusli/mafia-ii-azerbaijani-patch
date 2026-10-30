@@ -1,0 +1,3 @@
+﻿302040411:Bu, Joe'nun yatağıdır. Mən divanda yatıram.
+302040412:Mətbəxdəki divanda yatıram. Mətbəxdə niyə divan var, heç bir fikrim yoxdur.
+302040413:O tayda olanda Joe üçün darıxırdım, amma o qədər də yox.

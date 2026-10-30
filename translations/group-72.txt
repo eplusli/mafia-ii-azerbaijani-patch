@@ -1,0 +1,34 @@
+﻿306080610:n_Bax belə, Vito, bu cür edərlər!
+306080620:n_Hahahahahaaaa, həmişəki kimi iş üstə uzanıb!
+306080630:Haha, indi o qədər qorxulu deyilsən, hə!
+306080640:Əla işdir, oğlum, əla işdir.
+306080650:Al payını, Vito. Haqq etdin.
+306080660:n_Gördün onu! Deyəsən, bu axmağı öldürəcəyəm!
+306080670:n_Necəydi?! Sənə bundan yenə verəcəyəm.
+306080680:n_Vay! Bundan sonra ağ oğlana təzə diş lazım olacaq.
+306080690:n_Oooh! Lap yaxşı ağ oğlanı əzdin.
+306080700:n_Əsl kişisən, qardaşım!
+306080710:n_O dizləri əsən anasını sikdiyimə bax!
+306080720:n_Lənət, bax ona... Axmağa yazığım gəlir!
+306080730:n_Hə! Belə edərlər, qardaşım!
+306080740:n_Lənət. Deyəsən, ağ oğlanı öldürəcək.
+306080750:n_Özünü topla, Vito!
+306080760:n_Narahat olma, Vito, hər şey istədiyin kimidir!
+306080770:n_Hadi, Vito, o nə idi axı?!
+306080780:n_Hadi, Vito, bu avaraları yerlərinə oturt!
+306080790:n_İlahi, onu orada əzişdirirlər, hə?
+306080800:n_Ah, İlahi - bir-iki belə zərbə də olsa, dəsmalı atmalı olacağıq.
+306080810:n_Hadi, Vito, daha yaxşı olmalısan!
+306080820:n_Bəxtdən dəydi. Hadi, Vito! Yıx onu.
+306080830:n_Balaca ağ oğlanınız yıxılacaq!
+306080840:n_Bilirsiniz nə var, bu italyana tək pis olmuram, axmağa yazığım gəlir!
+306080850:n_Ümid edirəm, küftələr, uduzmağa hazırsınız!
+306080860:n_Oh, bu oğlanın udmaq şansı bir qaradərinin prezident olması qədərdir.
+306080870:n_Bu balaca Rocky Marciano götü özünü şikəst edəcək.
+306080880:n_O yağlı anasını sikdiyimə yumruq tutdurmaq çətin olacaq. Hahaaa!
+306080890:n_Hey, udsa da, uduzsa da, yəqin bu avaranın ömründə gördüyü ən ağır iş olacaq.
+306080900:n_Nə yaxşı gəldiniz, uşaqlar. Nədir, bunu qaradərililərin vaxtına salmışıq?
+306080910:n_Ümid edirəm, adamınız sizin boş danışdığınız qədər yaxşı vuruşur.
+306080920:n_İndi yekə danışırsınız, hə, gözləyin adamınız yerə sərilsin.
+306080930:n_Həmişəki kimi, hürürsünüz, dişləmirsiniz, hə, uşaqlar?
+306080940:n_Hey, ağzını yummağın üçün neçə dilim qarpız lazımdır?

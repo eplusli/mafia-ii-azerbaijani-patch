@@ -1,0 +1,33 @@
+﻿302011000:Evə getməliyəm. Anamla Francesca'nı çoxdandır görmürəm.
+302011010:Əvvəl evə gedim, sonra gəzərəm.
+302011020:Şəhəri gəzməyə sonra çox vaxt olar.
+302011500:n_Hə, yaponlar Pearl Harbor'a hücum edəndə də hamı belə deyirdi. Axırını da gördük.
+302011510:n_O, Havay idi, ay axmaq. Yaponiyadan çox uzağıq. Gözünü aç, bayraqdakı ulduzları və zolaqları görmürsən?
+302011520:n_Hə, hə, indi görürəm. Gözlərin yaxşı görür!
+302011525:n_Kəs səsini, Donny!
+302011530:n_ ...həmişə məni aldadırsan. Hələ də o qancıqla görüşürsən, bilirəm! Onda nə görmüsən axı?! Bacın qədər çirkindir!
+302011540:n_ İndi mənim üstümə qışqırma!
+302011550:n_ Sənə nifrət edirəm!
+302011560:n_ O güldan anamın idi!
+302011800:Hə, müharibə sənin günahın deyil, Vito. Kim bilir? Bəlkə müharibə bitəndə yenə açdım.
+302011820:Onda uğurlar.
+302011830:Sağ ol, bala.
+302011840:n_
+302011850:n_ Lənətəgəlmiş baca!
+302011860:n_
+302012000:Bax budur... Empire Bay. Düzünü de. Darıxmışdın?
+302012010:Ayı meşədə sıçır? Bu yerin mənə bir xeyri dəyməyib, amma hər yer səngərdən yaxşıdır. Bu nə zibil havadır?
+302012020:Deyirlər, tarixdə ən soyuq qışdır. Qəzetlər yazır, həftələrlə belə qalacaq. Amma narahat olma, bir içki səni tez isidər. Nə vaxtdan bir yerdə içmirik, Vito? İki il?
+302012030:Az qala üç. Tony Sachelli'nin qonaqlığında, hə?
+302012040:Yox, Vito. Axırıncı dəfə atanın dəfnindən sonra, sən getməmiş içmişdik. Yadına sal.
+302012050:Beş dəqiqə keçməmiş artıq avara atamdan danışırıq. Mövzunu dəyişə bilərik?
+302012060:Yaxşı, dostum, bağışla, oldu.
+302012070:Hə, hara gedirik?
+302012080:Fikirləşirdim, köhnə günlərin xatirinə Freddy'nin yerinə gedək.
+302012090:Hələ də o xarabaya gedirsən?
+302012100:İndi sahibi dəyişib. Görəsən oranı. İndi tamam başqa müştərilər gəlir. Görərsən.
+302012110:Elə? Bu təzə müştərilərin sürdüyün maşınla əlaqəsi var?
+302012120:Deyək ki, sən gedəndən bəri bir neçə fürsət yaranıb. Nə gözləyirdin, sən gedəndən düz yola gələcəkdim?
+302012130:Əlbəttə yox. Amma mən burada olmayanda səni bəlalardan qurtaran da yox idi, qayıdanda həbsdə olacağını düşünürdüm.
+302012140:Dəlisən, nədir? Mənlik deyil, rəis. Ona düşməyəcək qədər ağıllıyam.
+302012150:Ya da götündə nal var, bəxtin gətirir.

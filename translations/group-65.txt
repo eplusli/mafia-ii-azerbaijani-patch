@@ -1,0 +1,39 @@
+﻿305500010:Axmaq arvad! Az qala məni öldürmüşdün!
+305500020:Amma mən...
+305500030:Oradakı Joe'nun qızı deyil? Yəni qızlarından biri...
+305500040:Sürə bilmirsənsə, evində otur!
+305500050:Sikilmiş maşınıma bax!
+305500060:Bunun pulunu verəcəksən!
+305500080:Əl çək məndən!
+305500090:Bunun pulunu verməyincə heç yerə gedə bilməzsən!
+305500100:Kömək edin! Bir nəfər! Bu dəlidir!
+305500110:Dəlini sənə göstərərəm, ay qancıq!
+305500120:Maşınımı əzdin, mən də səninkini əzəcəyəm!
+305500130:Ah! Bu necədir, hə?! Ah!
+305500140:Axmaq arvad! Qayıt bura görüm!
+305500150:Dayan!
+305500160:Axmaq fahişə!
+305500170:Siktir!
+305500180:Dostum. Bəsdir.
+305500190:Sən kimsən belə?
+305500200:Qadınla belə danışmağını eşitmək istəməyən biri. Yaxşısı, ağzını bağla, kefim yaxşı ikən çıx get, hə?
+305500210:Nədir, sevgilindir? O pulunu verməyəcəksə, sən verəcəksən!
+305500250:Uf!.. Alçaq.
+305500260:Bir söz də desən, təzə dişlərə ehtiyacın olacaq. İndi siktir buradan!
+305500270:Mən...
+305500280:O da bir söz idi...
+305500290:Sağ ol, yaraşıqlı. Sənə borcluyam. Mənim evimə bir... dilim piroq yeməyə gəlmək istərsən?
+305500300:Sağ ol, amma... bax, doğrudan getməliyəm.
+305500310:Mmmm, xoşuna gələcək, söz verirəm. İndi getməliyəm. Görüşərik!
+305500320:Ahhhh... Yaxşı, Freddy'nin yerinə getməliyəm.
+305010200:Əvvəl pulemyotu götürməliyəm. 
+305010110:n_Nə istəyirsən?
+305010120:n_Şey... Henry Tomasino məni sifariş etdiyi şeyləri götürməyə göndərib.
+305010130:n_Yaxşı, gəl içəri.
+305040021:Nədir, nəsə unutmusan? Nə lazım olsa, yəqin məndə var.
+305040022:Pulemyot bəs eləmir? Hahaha! Başqa nə lazımdır?
+305040023:Ehtiyat silah necə? Anam həmişə deyərdi, atəş gücü heç vaxt artıq olmaz. Hahahaha.
+305040024:Başqa nəsə lazımdır, Vito?
+305040025:Silah yeşikdədir, bir neçə min güllə də həyətdəki furqondadır. Götür, hamısının pulu ödənilib.
+305040026:Furqonu götürməliyəm.
+305040027:Bunu bütün şəhər boyu əldə daşıyan deyiləm.

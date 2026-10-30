@@ -1,0 +1,10 @@
+﻿308120010:Lənət, Eddie üçün iki mini haradan tapacağıq?
+308120020:Belə maşının neçəyə olduğunu bilirsən?
+308120030:Nə? Niyə...
+308120040:Lənət, Vito, dahisən! Bunlar ucuz deyil, hə? Əminəm, Derek buna ən azı min verər.
+308120050:Yaxşı, bunu Derek'in yanına sürəcəyəm. Falcon'da görüşərik.
+308120140:Yaxşı plandır. Barda görüşərik.
+308120150:n_Lənət, indi pulu tapmağa başqa yol axtarmalıyam.
+308120160:n_O zibili götürən deyiləm. Limanımdan çıxart bunu, yaxşı?
+308120170:n_Yaxşı... indi qayıdıram.
+308120180:n_Sağ ol.

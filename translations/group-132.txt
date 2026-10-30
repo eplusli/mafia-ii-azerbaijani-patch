@@ -1,0 +1,29 @@
+﻿310031100:n_Burada darıxmaqdan partlayıram. Bu lənətə gəlmiş iş nə vaxt başlayacaq?
+310031110:n_Müdir nə vaxt istəsə. Haradan bilim, lənət olsun?
+310031120:n_Hey. Sakit ol. Səninlə danışmırdım.
+310031130:n_Düz mənə baxıb axmaq sual verirsən. Cavab verməyim?!
+310031140:n_Ritorik sual idi, sik sifət.
+310031150:n_Bu nə sikim deməkdir?
+310031160:n_Yəni cavab verməməlisən, qanmaz. "Haradan bilim?" deyəndə sənə cavab verdim? Yox. Çünki o, ritorik sual idi.
+310031170:n_Nə istəyirsən de, çoxbilmiş. Mənə sual versən, cavab verəcəyəm.
+310031180:n_İsa Məsih, lənət olsun...
+310031190:n_Uşaqlar, xahiş edirəm. Hadi, hə? Bu söhbəti dinləməkdən burada ağlım azalır.
+310031200:n_Sənə nə olub?
+310031210:n_Luca ilə olanlar. Məni narahat edir.
+310031220:n_Nə demək istəyirsən?
+310031230:n_Ah... Ətçəkəndən keçiriblər onu... Belə ölmək olmaz! Seçə bilsəydin, necə ölmək istəyərdin?
+310031240:n_Yuxuda. Yatağa girim, vəssalam.
+310031250:n_Eh, pis deyil.
+310031260:n_Mən qırx il sonra iyirmi yaşlı sevgilimlə bacısını sikəndə ürək tutmasından ölmək istəyirəm. Bəs sən?
+310031270:n_Mən? Bilmirəm... Amma bunu deyim - gurultuyla getmək istəyirəm!
+310042141:n_Bir adam bara girir, görür balaca biri piano çalır, hə. Boyu bir futdur, pianonu əla çalır. Barmendən soruşur: "Bunu haradan tapmısan? Möcüzədir!" Barmen deyir: "Sehrli sikkəm var. Bir arzunu yerinə yetirir. Nə istəsən." Adam deyir: "Doğrudan?" Barmen: "Hə, amma bir az səhv eşidir." Adam: "Niyə?" Barmen: "Səncə, mən on iki düymlük pianist istəmişdim, yoxsa penis?"
+310042142:n_Yaxşıdır! Gülməkdən altımı isladıram!
+310042143:n_Hahaha. Hehehe. Hə, hehe.
+310042144:n_Tutdun? Pianist, yəni cazzone!
+310042145:n_Hahaha. Hey, hadi, müdir. Birini də danış.
+310042151:n_Haha, hey, müdir - gərək komediyaçı olaydın!
+310042152:n_Yaxşı, yaxşı, birini də, birini də, sonra bəsdir.
+310042154:O Clemente-dir! Elə indi öldürə bilərik! Silahımız olsaydı...
+310042155:Hə, iki saniyəyə də ölərdik. Sadəcə sakit ol, plana əməl elə.
+310042161:n_Yaxşı, bir adam küçəylə gedir, hə? Bir fahişəyə rast gəlir... Qadın deyir: "Hey, şirinim, nə lazımdır, nə istəyirsən, ağlına nə gəlirsə - iyirmi dollara edərəm. Amma istədiyini cəmi üç sözlə deməlisən." Dayan, üç söz, yaxşı, kişi düşünür. Deyir: "Tapdım." Qadın deyir: "Yaxşı, körpəm, nə istəyirsən? Lap qızışmışam." İyirmi dolları verib deyir: "Evimi rənglə, görüm." Heee, hahaha... İyirmi dollara, hə? Ucuzluqdur. Kim olursan ol...
+310042162:n_Hey, birini də bilirəm, birini də. Nəyə deyirlər...? Yaxşı, birini də. İki gözü də göyərmiş arvada nə deyərsən? Heç nə - artıq iki dəfə demisən. Hahahaha...

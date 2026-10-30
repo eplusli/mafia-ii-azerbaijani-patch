@@ -1,0 +1,13 @@
+﻿311010000:Bu kimdir axı?
+311010001:Vay, lənət...
+311010004:Yəqin bilirsən, Clemente də, o biriləri də ölüb. Qulaq as, Vito, bilirəm ki, bunda Falcone-nin əli var. Qorxuram, ailədən qalanları da aradan götürmək istəsin.
+311010006:Bunun mənə nə dəxli var?
+311010007:Hə... Bax, sənin həbsə düşməyin... Clemente-nin sənə etdiklərinə görə pis oldum... Amma layiq olduğunu aldı, elə deyil? O qoca əclaf vecimə də deyil. Açığı, Falcone üçün də eyni qaydada işləyərdim...
+311010008:Demək istəyirsən, bizə qoşulmaq istəyirsən?
+311010009:Hə, sən də onun üçün işlədiyinə görə düşündüm ki, bəlkə... Mənim haqqımda yaxşı bir söz deyə bilərsən?
+311010013:Hə, əlbəttə. Mən və Joe sənə zamin durarıq.
+311010014:Bir azdan Maltese Falcon-a gəl. Əvvəl Eddie ilə danışaq.
+311010015:Sağ ol, Vito. Sənə borcluyam.
+311010020:Salam, Vito, çoxdandır görüşmürük.
+311010030:Hə. Çoxdandır. Nə istəyirsən, Henry?
+311010040:Bir içki. Mənim maşınımla gedək.

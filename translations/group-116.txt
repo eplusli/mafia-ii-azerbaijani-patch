@@ -1,0 +1,12 @@
+﻿309031535:n_Onu vuraq, boss?
+309031540:n_Yox, əvvəl Sammy kefini çəksin.
+309031550:n_Hadi, boynunu qır, Sammy!
+309030758:Hə, sizi necə tutdular?
+309030759:Beans'in evində bizi gözləyirdilər. Yəqin bir müddətdir izləyirmişlər.
+309030760:Luca sizdən nə öyrənmək istəyirdi?
+309030761:Heç nə. Deyək ki... ailə sirridir.
+309030762:İndi bircə o balaca alçağı öldürməyə fikirləşək.
+309030763:İncimə, Vito... Amma peyin kimi iyləndiyini bilirsən, hə?
+309030764:Doğrudan? Fikir verməmişdim... Sevin ki, əvvəl çimməkdənsə sənin götünü qurtarmağa gəldim!
+309030765:Nədir, naşükürəm dedim? Ətçəkənə atılmaqdansa peyin iyi verən adamın məni qurtarmağına hər gün razıyam...
+309030766:Hə, hə, dəyməz... indi gəl, gedək.

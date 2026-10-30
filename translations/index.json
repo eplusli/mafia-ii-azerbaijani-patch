@@ -1,0 +1,2774 @@
+[
+  {
+    "group": 0,
+    "file": "group-0.txt",
+    "sourceName": "/tables/Speech/Script_09_Balls05_subtitles.bin",
+    "sourceArchives": [
+      {
+        "file": "city\\shexterier.sds",
+        "ri": 222
+      },
+      {
+        "file": "script_sounds\\m09_sounds_5.sds",
+        "ri": 0
+      }
+    ],
+    "excluded": false
+  },
+  {
+    "group": 1,
+    "file": "group-1.txt",
+    "sourceName": "/tables/Speech/Script_01_Sicily_fmv_subtitles.bin",
+    "sourceArchives": [
+      {
+        "file": "fmv\\fmv0107_d.sds",
+        "ri": 0
+      },
+      {
+        "file": "fmv\\fmv0108_d.sds",
+        "ri": 0
+      }
+    ],
+    "excluded": false
+  },
+  {
+    "group": 2,
+    "file": "group-2.txt",
+    "sourceName": "/tables/Speech/Script_02_Home_fmv_subtitles.bin",
+    "sourceArchives": [
+      {
+        "file": "fmv\\fmv0201b_d.sds",
+        "ri": 0
+      },
+      {
+        "file": "fmv\\fmv0202b_d.sds",
+        "ri": 0
+      },
+      {
+        "file": "fmv\\fmv0202c_d.sds",
+        "ri": 0
+      },
+      {
+        "file": "fmv\\fmv0202d_d.sds",
+        "ri": 0
+      },
+      {
+        "file": "fmv\\fmv0202_d.sds",
+        "ri": 0
+      },
+      {
+        "file": "fmv\\fmv0203_d.sds",
+        "ri": 0
+      },
+      {
+        "file": "fmv\\fmv0204_d.sds",
+        "ri": 0
+      },
+      {
+        "file": "fmv\\fmv0205a_d.sds",
+        "ri": 0
+      },
+      {
+        "file": "fmv\\fmv0205b_d.sds",
+        "ri": 0
+      },
+      {
+        "file": "fmv\\fmv0205_d.sds",
+        "ri": 0
+      },
+      {
+        "file": "fmv\\fmv0206_d.sds",
+        "ri": 0
+      },
+      {
+        "file": "fmv\\fmv0207b_d.sds",
+        "ri": 0
+      },
+      {
+        "file": "fmv\\fmv0211_d.sds",
+        "ri": 0
+      },
+      {
+        "file": "fmv\\fmv0212a_d.sds",
+        "ri": 0
+      },
+      {
+        "file": "fmv\\fmv0212b_d.sds",
+        "ri": 0
+      },
+      {
+        "file": "fmv\\fmv0213a_d.sds",
+        "ri": 0
+      },
+      {
+        "file": "fmv\\fmv0355_d.sds",
+        "ri": 0
+      },
+      {
+        "file": "missionscript\\m02_main.sds",
+        "ri": 6
+      }
+    ],
+    "excluded": false
+  },
+  {
+    "group": 3,
+    "file": "group-3.txt",
+    "sourceName": "/tables/Speech/Script_03_Enemy_fmv_subtitles.bin",
+    "sourceArchives": [
+      {
+        "file": "fmv\\fmv0302_d.sds",
+        "ri": 0
+      },
+      {
+        "file": "fmv\\fmv0304a_d.sds",
+        "ri": 0
+      },
+      {
+        "file": "fmv\\fmv0304b_d.sds",
+        "ri": 0
+      },
+      {
+        "file": "fmv\\fmv0350_d.sds",
+        "ri": 0
+      },
+      {
+        "file": "shops\\maria_agnelo.sds",
+        "ri": 64
+      }
+    ],
+    "excluded": false
+  },
+  {
+    "group": 4,
+    "file": "group-4.txt",
+    "sourceName": "/tables/Speech/Script_03_Enemy05_subtitles.bin",
+    "sourceArchives": [
+      {
+        "file": "fmv\\fmv03_finish.sds",
+        "ri": 5
+      },
+      {
+        "file": "script_sounds\\m03_sounds_5.sds",
+        "ri": 0
+      }
+    ],
+    "excluded": false
+  },
+  {
+    "group": 5,
+    "file": "group-5.txt",
+    "sourceName": "/tables/Speech/Script_04_Murphys_Law_fmv_subtitles.bin",
+    "sourceArchives": [
+      {
+        "file": "fmv\\fmv0401_d.sds",
+        "ri": 0
+      },
+      {
+        "file": "fmv\\fmv0402_d.sds",
+        "ri": 0
+      },
+      {
+        "file": "fmv\\fmv0404_d.sds",
+        "ri": 0
+      },
+      {
+        "file": "fmv\\fmv0405_d.sds",
+        "ri": 0
+      },
+      {
+        "file": "script_sounds\\m04_sounds_1.sds",
+        "ri": 1
+      },
+      {
+        "file": "script_sounds\\m04_sounds_2.sds",
+        "ri": 1
+      },
+      {
+        "file": "script_sounds\\m04_sounds_3.sds",
+        "ri": 1
+      }
+    ],
+    "excluded": false
+  },
+  {
+    "group": 6,
+    "file": "group-6.txt",
+    "sourceName": "/tables/Speech/Script_05_The_Buzzsaw_fmv_subtitles.bin",
+    "sourceArchives": [
+      {
+        "file": "fmv\\fmv0501_d.sds",
+        "ri": 0
+      },
+      {
+        "file": "fmv\\fmv0502_d.sds",
+        "ri": 0
+      },
+      {
+        "file": "fmv\\fmv0503_d.sds",
+        "ri": 0
+      },
+      {
+        "file": "fmv\\fmv0505_d.sds",
+        "ri": 0
+      },
+      {
+        "file": "fmv\\fmv0506a_d.sds",
+        "ri": 0
+      },
+      {
+        "file": "fmv\\fmv0506c_d.sds",
+        "ri": 0
+      },
+      {
+        "file": "fmv\\fmv0506_d.sds",
+        "ri": 0
+      },
+      {
+        "file": "fmv\\fmv0507_d.sds",
+        "ri": 0
+      },
+      {
+        "file": "fmv\\fmv0508_d.sds",
+        "ri": 0
+      },
+      {
+        "file": "fmv\\sqgc0900b_d.sds",
+        "ri": 0
+      },
+      {
+        "file": "script_sounds\\m05_sounds_6.sds",
+        "ri": 1
+      }
+    ],
+    "excluded": false
+  },
+  {
+    "group": 7,
+    "file": "group-7.txt",
+    "sourceName": "/tables/Speech/Script_06_The_Slammer_fmv_subtitles.bin",
+    "sourceArchives": [
+      {
+        "file": "fmv\\fmv0602_d.sds",
+        "ri": 0
+      },
+      {
+        "file": "fmv\\fmv0603_d.sds",
+        "ri": 0
+      },
+      {
+        "file": "fmv\\fmv0604d_d.sds",
+        "ri": 0
+      },
+      {
+        "file": "fmv\\fmv0604_d.sds",
+        "ri": 0
+      },
+      {
+        "file": "fmv\\fmv0605_d.sds",
+        "ri": 0
+      },
+      {
+        "file": "fmv\\fmv0606_d.sds",
+        "ri": 0
+      },
+      {
+        "file": "fmv\\fmv0607_d.sds",
+        "ri": 0
+      },
+      {
+        "file": "fmv\\fmv0608_d.sds",
+        "ri": 0
+      },
+      {
+        "file": "fmv\\fmv0609_d.sds",
+        "ri": 0
+      },
+      {
+        "file": "fmv\\fmv0610_d.sds",
+        "ri": 0
+      },
+      {
+        "file": "fmv\\fmv0611_d.sds",
+        "ri": 0
+      },
+      {
+        "file": "fmv\\fmv0612_d.sds",
+        "ri": 0
+      },
+      {
+        "file": "fmv\\fmv0613_d.sds",
+        "ri": 0
+      },
+      {
+        "file": "fmv\\fmv0625_d.sds",
+        "ri": 0
+      },
+      {
+        "file": "fmv\\scr_prison_enter_d.sds",
+        "ri": 0
+      },
+      {
+        "file": "script_sounds\\m06_sounds_1.sds",
+        "ri": 1
+      }
+    ],
+    "excluded": false
+  },
+  {
+    "group": 8,
+    "file": "group-8.txt",
+    "sourceName": "/tables/Speech/Script_07_ILM_fmv_subtitles.bin",
+    "sourceArchives": [
+      {
+        "file": "fmv\\fmv0700b_d.sds",
+        "ri": 0
+      },
+      {
+        "file": "fmv\\fmv0701_d.sds",
+        "ri": 0
+      },
+      {
+        "file": "fmv\\fmv0703_d.sds",
+        "ri": 0
+      },
+      {
+        "file": "fmv\\fmv0705_d.sds",
+        "ri": 0
+      },
+      {
+        "file": "fmv\\fmv0706_d.sds",
+        "ri": 0
+      },
+      {
+        "file": "script_sounds\\m07_sounds_10.sds",
+        "ri": 1
+      },
+      {
+        "file": "script_sounds\\m07_sounds_32.sds",
+        "ri": 1
+      }
+    ],
+    "excluded": false
+  },
+  {
+    "group": 9,
+    "file": "group-9.txt",
+    "sourceName": "/tables/Speech/Script_08_Demo_fmv_subtitles.bin",
+    "sourceArchives": [
+      {
+        "file": "fmv\\fmv0707_d.sds",
+        "ri": 0
+      },
+      {
+        "file": "fmv\\fmv0801a_d.sds",
+        "ri": 0
+      }
+    ],
+    "excluded": false
+  },
+  {
+    "group": 10,
+    "file": "group-10.txt",
+    "sourceName": "/tables/Speech/Script_08_The_Wild_Ones_fmv_subtitles.bin",
+    "sourceArchives": [
+      {
+        "file": "fmv\\fmv0801_d.sds",
+        "ri": 0
+      },
+      {
+        "file": "fmv\\fmv0802_d.sds",
+        "ri": 0
+      },
+      {
+        "file": "fmv\\fmv0803_d.sds",
+        "ri": 0
+      },
+      {
+        "file": "fmv\\fmv0804_d.sds",
+        "ri": 0
+      },
+      {
+        "file": "fmv\\fmv0805_d.sds",
+        "ri": 0
+      },
+      {
+        "file": "fmv\\fmv0808_d.sds",
+        "ri": 0
+      },
+      {
+        "file": "fmv\\fmv0850_d.sds",
+        "ri": 0
+      },
+      {
+        "file": "fmv\\fmv0855_d.sds",
+        "ri": 0
+      }
+    ],
+    "excluded": false
+  },
+  {
+    "group": 11,
+    "file": "group-11.txt",
+    "sourceName": "/tables/Speech/Script_09_Balls_fmv_subtitles.bin",
+    "sourceArchives": [
+      {
+        "file": "fmv\\fmv0901_d.sds",
+        "ri": 0
+      },
+      {
+        "file": "fmv\\fmv0902a_d.sds",
+        "ri": 0
+      },
+      {
+        "file": "fmv\\fmv0902b_d.sds",
+        "ri": 0
+      },
+      {
+        "file": "fmv\\fmv0903_d.sds",
+        "ri": 0
+      },
+      {
+        "file": "fmv\\fmv0904_d.sds",
+        "ri": 0
+      },
+      {
+        "file": "fmv\\fmv0905a_d.sds",
+        "ri": 0
+      },
+      {
+        "file": "fmv\\fmv0905b_d.sds",
+        "ri": 0
+      },
+      {
+        "file": "fmv\\fmv0950_d.sds",
+        "ri": 0
+      },
+      {
+        "file": "script_sounds\\m09_sounds_8.sds",
+        "ri": 1
+      }
+    ],
+    "excluded": false
+  },
+  {
+    "group": 12,
+    "file": "group-12.txt",
+    "sourceName": "/tables/Speech/Script_10_Room_Service_fmv_subtitles.bin",
+    "sourceArchives": [
+      {
+        "file": "fmv\\fmv1001_d.sds",
+        "ri": 0
+      },
+      {
+        "file": "fmv\\fmv1002b_d.sds",
+        "ri": 0
+      },
+      {
+        "file": "fmv\\fmv1002_d.sds",
+        "ri": 0
+      },
+      {
+        "file": "fmv\\fmv1003_d.sds",
+        "ri": 0
+      },
+      {
+        "file": "fmv\\fmv1005_d.sds",
+        "ri": 0
+      },
+      {
+        "file": "fmv\\fmv1006_d.sds",
+        "ri": 0
+      },
+      {
+        "file": "fmv\\fmv1007_d.sds",
+        "ri": 0
+      },
+      {
+        "file": "fmv\\fmv1008_d.sds",
+        "ri": 0
+      },
+      {
+        "file": "fmv\\fmv1009_d.sds",
+        "ri": 0
+      },
+      {
+        "file": "fmv\\fmv1010_d.sds",
+        "ri": 0
+      },
+      {
+        "file": "fmv\\fmv1011sq_d.sds",
+        "ri": 0
+      },
+      {
+        "file": "fmv\\fmv1012_d.sds",
+        "ri": 0
+      },
+      {
+        "file": "fmv\\scr1001.sds",
+        "ri": 21
+      },
+      {
+        "file": "fmv\\scr1002.sds",
+        "ri": 11
+      },
+      {
+        "file": "fmv\\scr1002b.sds",
+        "ri": 7
+      },
+      {
+        "file": "fmv\\scr1004.sds",
+        "ri": 8
+      },
+      {
+        "file": "script_sounds\\m10_sounds_17.sds",
+        "ri": 1
+      },
+      {
+        "file": "script_sounds\\m10_sounds_19.sds",
+        "ri": 1
+      }
+    ],
+    "excluded": false
+  },
+  {
+    "group": 13,
+    "file": "group-13.txt",
+    "sourceName": "/tables/Speech/Script_11_A_Friend_fmv_subtitles.bin",
+    "sourceArchives": [
+      {
+        "file": "fmv\\fmv1103_d.sds",
+        "ri": 0
+      },
+      {
+        "file": "fmv\\fmv1104_d.sds",
+        "ri": 0
+      },
+      {
+        "file": "fmv\\fmv1106_d.sds",
+        "ri": 0
+      },
+      {
+        "file": "fmv\\fmv1107_d.sds",
+        "ri": 0
+      },
+      {
+        "file": "fmv\\fmv1108_d.sds",
+        "ri": 0
+      },
+      {
+        "file": "fmv\\fmv1109_d.sds",
+        "ri": 0
+      },
+      {
+        "file": "fmv\\fmv1110_d.sds",
+        "ri": 0
+      },
+      {
+        "file": "fmv\\fmv1111_d.sds",
+        "ri": 0
+      },
+      {
+        "file": "fmv\\fmv1112_d.sds",
+        "ri": 0
+      },
+      {
+        "file": "fmv\\fmv1150_d.sds",
+        "ri": 0
+      },
+      {
+        "file": "script\\m11_part1.sds",
+        "ri": 14
+      }
+    ],
+    "excluded": false
+  },
+  {
+    "group": 14,
+    "file": "group-14.txt",
+    "sourceName": "/tables/Speech/Script_12_Sea_Gift_fmv_subtitles.bin",
+    "sourceArchives": [
+      {
+        "file": "fmv\\fmv1201_d.sds",
+        "ri": 0
+      },
+      {
+        "file": "fmv\\fmv1202_d.sds",
+        "ri": 0
+      },
+      {
+        "file": "fmv\\fmv1203b_d.sds",
+        "ri": 0
+      },
+      {
+        "file": "fmv\\fmv1203_d.sds",
+        "ri": 0
+      },
+      {
+        "file": "script_sounds\\m12_sounds_6.sds",
+        "ri": 1
+      }
+    ],
+    "excluded": false
+  },
+  {
+    "group": 15,
+    "file": "group-15.txt",
+    "sourceName": "/tables/Speech/Script_13_Exit_fmv_subtitles.bin",
+    "sourceArchives": [
+      {
+        "file": "fmv\\fmv1300_d.sds",
+        "ri": 0
+      },
+      {
+        "file": "fmv\\fmv1301_d.sds",
+        "ri": 0
+      },
+      {
+        "file": "fmv\\fmv1302_d.sds",
+        "ri": 0
+      },
+      {
+        "file": "fmv\\fmv1303_d.sds",
+        "ri": 0
+      },
+      {
+        "file": "fmv\\fmv1304_d.sds",
+        "ri": 0
+      },
+      {
+        "file": "fmv\\fmv1305_d.sds",
+        "ri": 0
+      },
+      {
+        "file": "fmv\\fmv1306_d.sds",
+        "ri": 0
+      }
+    ],
+    "excluded": false
+  },
+  {
+    "group": 16,
+    "file": "group-16.txt",
+    "sourceName": "/tables/Speech/Script_14_Stairway_fmv_subtitles.bin",
+    "sourceArchives": [
+      {
+        "file": "fmv\\fmv1401_d.sds",
+        "ri": 0
+      },
+      {
+        "file": "fmv\\fmv1402_d.sds",
+        "ri": 0
+      },
+      {
+        "file": "fmv\\fmv1405_d.sds",
+        "ri": 0
+      },
+      {
+        "file": "fmv\\fmv1406_d.sds",
+        "ri": 0
+      },
+      {
+        "file": "fmv\\fmv1413_d.sds",
+        "ri": 0
+      },
+      {
+        "file": "fmv\\fmv1414_d.sds",
+        "ri": 0
+      },
+      {
+        "file": "fmv\\fmv1415_d.sds",
+        "ri": 0
+      },
+      {
+        "file": "fmv\\fmv1420_d.sds",
+        "ri": 0
+      },
+      {
+        "file": "fmv\\fmv1450_d.sds",
+        "ri": 0
+      },
+      {
+        "file": "fmv\\fmv1455_d.sds",
+        "ri": 0
+      },
+      {
+        "file": "fmv\\fmv1502_d.sds",
+        "ri": 0
+      }
+    ],
+    "excluded": false
+  },
+  {
+    "group": 17,
+    "file": "group-17.txt",
+    "sourceName": "/tables/Speech/Script_15_Mansion_fmv_subtitles.bin",
+    "sourceArchives": [
+      {
+        "file": "fmv\\fmv1501_d.sds",
+        "ri": 0
+      },
+      {
+        "file": "fmv\\fmv1504_d.sds",
+        "ri": 0
+      }
+    ],
+    "excluded": false
+  },
+  {
+    "group": 18,
+    "file": "group-18.txt",
+    "sourceName": "/tables/Speech/Script_15_Planetarium_fmv_subtitles.bin",
+    "sourceArchives": [
+      {
+        "file": "fmv\\fmv1505_d.sds",
+        "ri": 0
+      },
+      {
+        "file": "fmv\\fmv1511_d.sds",
+        "ri": 0
+      },
+      {
+        "file": "fmv\\fmv1512_d.sds",
+        "ri": 0
+      },
+      {
+        "file": "fmv\\fmv1513_d.sds",
+        "ri": 0
+      }
+    ],
+    "excluded": false
+  },
+  {
+    "group": 19,
+    "file": "group-19.txt",
+    "sourceName": "/tables/Speech/Script_09_GCDemo_fmv_subtitles.bin",
+    "sourceArchives": [
+      {
+        "file": "fmv\\sqgc0900a.sds",
+        "ri": 17
+      },
+      {
+        "file": "fmv\\sqgc0900b.sds",
+        "ri": 11
+      },
+      {
+        "file": "fmv\\sqgc0901.sds",
+        "ri": 21
+      },
+      {
+        "file": "fmv\\sqgc0903.sds",
+        "ri": 14
+      }
+    ],
+    "excluded": false
+  },
+  {
+    "group": 21,
+    "file": "group-21.txt",
+    "sourceName": "/tables/TextDatabase_M2.dat",
+    "sourceArchives": [
+      {
+        "file": "missionscript\\game_director.sds",
+        "ri": 4
+      },
+      {
+        "file": "script\\demo05.sds",
+        "ri": 5
+      }
+    ],
+    "excluded": false
+  },
+  {
+    "group": 22,
+    "file": "group-22.txt",
+    "sourceName": "/tables/Speech/Script_00_Prologue_fmv_subtitles.bin",
+    "sourceArchives": [
+      {
+        "file": "missionscript\\m01main.sds",
+        "ri": 4
+      },
+      {
+        "file": "missionscript\\m02_main.sds",
+        "ri": 5
+      }
+    ],
+    "excluded": false
+  },
+  {
+    "group": 23,
+    "file": "group-23.txt",
+    "sourceName": "/tables/Speech/Script_05_The_Buzzsaw_fmv_subtitlesDEM.bin",
+    "sourceArchives": [
+      {
+        "file": "script\\demo05.sds",
+        "ri": 4
+      }
+    ],
+    "excluded": false
+  },
+  {
+    "group": 25,
+    "file": "group-25.txt",
+    "sourceName": "/tables/Speech/Script_02_Home91_subtitles.bin",
+    "sourceArchives": [
+      {
+        "file": "script\\m02_hunt_lane_police_man.sds",
+        "ri": 0
+      }
+    ],
+    "excluded": false
+  },
+  {
+    "group": 26,
+    "file": "group-26.txt",
+    "sourceName": "/tables/Speech/Script_02_Home11_subtitles.bin",
+    "sourceArchives": [
+      {
+        "file": "script\\m02_street_life_hchar.sds",
+        "ri": 5
+      }
+    ],
+    "excluded": false
+  },
+  {
+    "group": 27,
+    "file": "group-27.txt",
+    "sourceName": "/tables/Speech/Script_06_The_Slammer22_subtitles.bin",
+    "sourceArchives": [
+      {
+        "file": "script\\m06_sounds_yard.sds",
+        "ri": 57
+      }
+    ],
+    "excluded": false
+  },
+  {
+    "group": 28,
+    "file": "group-28.txt",
+    "sourceName": "/tables/Speech/Script_14_Stairway12_subtitles.bin",
+    "sourceArchives": [
+      {
+        "file": "script\\m14_ml_anims.sds",
+        "ri": 18
+      }
+    ],
+    "excluded": false
+  },
+  {
+    "group": 29,
+    "file": "group-29.txt",
+    "sourceName": "/tables/Speech/Script_14_Stairway22_subtitles.bin",
+    "sourceArchives": [
+      {
+        "file": "script\\m14_ml_anims2.sds",
+        "ri": 22
+      }
+    ],
+    "excluded": false
+  },
+  {
+    "group": 30,
+    "file": "group-30.txt",
+    "sourceName": "/tables/Speech/Script_14_Stairway14_subtitles.bin",
+    "sourceArchives": [
+      {
+        "file": "script\\m14_sounds_14.sds",
+        "ri": 0
+      }
+    ],
+    "excluded": false
+  },
+  {
+    "group": 31,
+    "file": "group-31.txt",
+    "sourceName": "/tables/Speech/Script_05_The_Buzzsawdemo_subtitles.bin",
+    "sourceArchives": [
+      {
+        "file": "script\\__demo_people_in_shop_slot.sds",
+        "ri": 2
+      }
+    ],
+    "excluded": false
+  },
+  {
+    "group": 32,
+    "file": "group-32.txt",
+    "sourceName": "/tables/Speech/Script_01_Sicily03_subtitles.bin",
+    "sourceArchives": [
+      {
+        "file": "script_sounds\\m01_sounds_3.sds",
+        "ri": 0
+      }
+    ],
+    "excluded": false
+  },
+  {
+    "group": 33,
+    "file": "group-33.txt",
+    "sourceName": "/tables/Speech/Script_01_Sicily04_subtitles.bin",
+    "sourceArchives": [
+      {
+        "file": "script_sounds\\m01_sounds_4.sds",
+        "ri": 0
+      }
+    ],
+    "excluded": false
+  },
+  {
+    "group": 34,
+    "file": "group-34.txt",
+    "sourceName": "/tables/Speech/Script_01_Sicily05_subtitles.bin",
+    "sourceArchives": [
+      {
+        "file": "script_sounds\\m01_sounds_5.sds",
+        "ri": 0
+      }
+    ],
+    "excluded": false
+  },
+  {
+    "group": 35,
+    "file": "group-35.txt",
+    "sourceName": "/tables/Speech/Script_02_Home0_subtitles.bin",
+    "sourceArchives": [
+      {
+        "file": "script_sounds\\m02_sounds_0.sds",
+        "ri": 0
+      }
+    ],
+    "excluded": false
+  },
+  {
+    "group": 36,
+    "file": "group-36.txt",
+    "sourceName": "/tables/Speech/Script_02_Home01_subtitles.bin",
+    "sourceArchives": [
+      {
+        "file": "script_sounds\\m02_sounds_0_policechar.sds",
+        "ri": 0
+      }
+    ],
+    "excluded": false
+  },
+  {
+    "group": 37,
+    "file": "group-37.txt",
+    "sourceName": "/tables/Speech/Script_02_Home1_subtitles.bin",
+    "sourceArchives": [
+      {
+        "file": "script_sounds\\m02_sounds_1.sds",
+        "ri": 0
+      }
+    ],
+    "excluded": false
+  },
+  {
+    "group": 38,
+    "file": "group-38.txt",
+    "sourceName": "/tables/Speech/Script_02_Home12_subtitles.bin",
+    "sourceArchives": [
+      {
+        "file": "script_sounds\\m02_sounds_1_lowchar.sds",
+        "ri": 0
+      }
+    ],
+    "excluded": false
+  },
+  {
+    "group": 39,
+    "file": "group-39.txt",
+    "sourceName": "/tables/Speech/Script_02_Home2_subtitles.bin",
+    "sourceArchives": [
+      {
+        "file": "script_sounds\\m02_sounds_2.sds",
+        "ri": 0
+      }
+    ],
+    "excluded": false
+  },
+  {
+    "group": 40,
+    "file": "group-40.txt",
+    "sourceName": "/tables/Speech/Script_02_Home3_subtitles.bin",
+    "sourceArchives": [
+      {
+        "file": "script_sounds\\m02_sounds_3.sds",
+        "ri": 0
+      }
+    ],
+    "excluded": false
+  },
+  {
+    "group": 41,
+    "file": "group-41.txt",
+    "sourceName": "/tables/Speech/Script_02_Home4_subtitles.bin",
+    "sourceArchives": [
+      {
+        "file": "script_sounds\\m02_sounds_4.sds",
+        "ri": 0
+      }
+    ],
+    "excluded": false
+  },
+  {
+    "group": 42,
+    "file": "group-42.txt",
+    "sourceName": "/tables/Speech/Script_02_Home41_subtitles.bin",
+    "sourceArchives": [
+      {
+        "file": "script_sounds\\m02_sounds_4_policechar.sds",
+        "ri": 0
+      }
+    ],
+    "excluded": false
+  },
+  {
+    "group": 43,
+    "file": "group-43.txt",
+    "sourceName": "/tables/Speech/Script_02_Home5_subtitles.bin",
+    "sourceArchives": [
+      {
+        "file": "script_sounds\\m02_sounds_5.sds",
+        "ri": 0
+      }
+    ],
+    "excluded": false
+  },
+  {
+    "group": 44,
+    "file": "group-44.txt",
+    "sourceName": "/tables/Speech/Script_02_Home51_subtitles.bin",
+    "sourceArchives": [
+      {
+        "file": "script_sounds\\m02_sounds_5_policechar.sds",
+        "ri": 0
+      }
+    ],
+    "excluded": false
+  },
+  {
+    "group": 45,
+    "file": "group-45.txt",
+    "sourceName": "/tables/Speech/Script_02_Home6_subtitles.bin",
+    "sourceArchives": [
+      {
+        "file": "script_sounds\\m02_sounds_6.sds",
+        "ri": 0
+      }
+    ],
+    "excluded": false
+  },
+  {
+    "group": 46,
+    "file": "group-46.txt",
+    "sourceName": "/tables/Speech/Script_02_Home7_subtitles.bin",
+    "sourceArchives": [
+      {
+        "file": "script_sounds\\m02_sounds_7.sds",
+        "ri": 0
+      }
+    ],
+    "excluded": false
+  },
+  {
+    "group": 47,
+    "file": "group-47.txt",
+    "sourceName": "/tables/Speech/Script_02_Home71_subtitles.bin",
+    "sourceArchives": [
+      {
+        "file": "script_sounds\\m02_sounds_71.sds",
+        "ri": 0
+      }
+    ],
+    "excluded": false
+  },
+  {
+    "group": 48,
+    "file": "group-48.txt",
+    "sourceName": "/tables/Speech/Script_02_Home8_subtitles.bin",
+    "sourceArchives": [
+      {
+        "file": "script_sounds\\m02_sounds_8.sds",
+        "ri": 0
+      }
+    ],
+    "excluded": false
+  },
+  {
+    "group": 49,
+    "file": "group-49.txt",
+    "sourceName": "/tables/Speech/Script_02_Home9_subtitles.bin",
+    "sourceArchives": [
+      {
+        "file": "script_sounds\\m02_sounds_9.sds",
+        "ri": 0
+      }
+    ],
+    "excluded": false
+  },
+  {
+    "group": 50,
+    "file": "group-50.txt",
+    "sourceName": "/tables/Speech/Script_02_Home30_subtitles.bin",
+    "sourceArchives": [
+      {
+        "file": "script_sounds\\m02_sq_barber_sounds.sds",
+        "ri": 1
+      }
+    ],
+    "excluded": false
+  },
+  {
+    "group": 51,
+    "file": "group-51.txt",
+    "sourceName": "/tables/Speech/Script_02_Home301_subtitles.bin",
+    "sourceArchives": [
+      {
+        "file": "script_sounds\\m02_sq_barber_sounds_2.sds",
+        "ri": 14
+      }
+    ],
+    "excluded": false
+  },
+  {
+    "group": 52,
+    "file": "group-52.txt",
+    "sourceName": "/tables/Speech/Script_02_Home20_subtitles.bin",
+    "sourceArchives": [
+      {
+        "file": "script_sounds\\m02_sq_derek_sounds.sds",
+        "ri": 0
+      }
+    ],
+    "excluded": false
+  },
+  {
+    "group": 53,
+    "file": "group-53.txt",
+    "sourceName": "/tables/Speech/Script_03_Enemy01_subtitles.bin",
+    "sourceArchives": [
+      {
+        "file": "script_sounds\\m03_sounds_1.sds",
+        "ri": 7
+      }
+    ],
+    "excluded": false
+  },
+  {
+    "group": 54,
+    "file": "group-54.txt",
+    "sourceName": "/tables/Speech/Script_03_Enemy12_subtitles.bin",
+    "sourceArchives": [
+      {
+        "file": "script_sounds\\m03_sounds_12.sds",
+        "ri": 0
+      }
+    ],
+    "excluded": false
+  },
+  {
+    "group": 55,
+    "file": "group-55.txt",
+    "sourceName": "/tables/Speech/Script_03_Enemy02_subtitles.bin",
+    "sourceArchives": [
+      {
+        "file": "script_sounds\\m03_sounds_2.sds",
+        "ri": 0
+      },
+      {
+        "file": "script_sounds\\m08_sounds_80.sds",
+        "ri": 0
+      },
+      {
+        "file": "script_sounds\\m08_sounds_9.sds",
+        "ri": 0
+      },
+      {
+        "file": "script_sounds\\m09_sounds_1_sq.sds",
+        "ri": 0
+      },
+      {
+        "file": "script_sounds\\m09_sounds_2_sq.sds",
+        "ri": 0
+      },
+      {
+        "file": "script_sounds\\m10_sounds_30.sds",
+        "ri": 0
+      },
+      {
+        "file": "script_sounds\\m10_sounds_31.sds",
+        "ri": 0
+      },
+      {
+        "file": "script_sounds\\m14_sounds_4.sds",
+        "ri": 0
+      },
+      {
+        "file": "script_sounds\\m14_sounds_5.sds",
+        "ri": 0
+      },
+      {
+        "file": "script_sounds\\m14_sounds_6.sds",
+        "ri": 0
+      },
+      {
+        "file": "script_sounds\\m14_sounds_7.sds",
+        "ri": 0
+      }
+    ],
+    "excluded": false
+  },
+  {
+    "group": 56,
+    "file": "group-56.txt",
+    "sourceName": "/tables/Speech/Script_03_Enemy03_subtitles.bin",
+    "sourceArchives": [
+      {
+        "file": "script_sounds\\m03_sounds_3.sds",
+        "ri": 0
+      }
+    ],
+    "excluded": false
+  },
+  {
+    "group": 57,
+    "file": "group-57.txt",
+    "sourceName": "/tables/Speech/Script_03_Enemy04_subtitles.bin",
+    "sourceArchives": [
+      {
+        "file": "script_sounds\\m03_sounds_4.sds",
+        "ri": 0
+      }
+    ],
+    "excluded": false
+  },
+  {
+    "group": 58,
+    "file": "group-58.txt",
+    "sourceName": "/tables/Speech/Script_03_Enemy06_subtitles.bin",
+    "sourceArchives": [
+      {
+        "file": "script_sounds\\m03_sounds_6.sds",
+        "ri": 0
+      }
+    ],
+    "excluded": false
+  },
+  {
+    "group": 59,
+    "file": "group-59.txt",
+    "sourceName": "/tables/Speech/Script_03_Enemy08_subtitles.bin",
+    "sourceArchives": [
+      {
+        "file": "script_sounds\\m03_sounds_8.sds",
+        "ri": 0
+      }
+    ],
+    "excluded": false
+  },
+  {
+    "group": 60,
+    "file": "group-60.txt",
+    "sourceName": "/tables/Speech/Script_03_Enemy09_subtitles.bin",
+    "sourceArchives": [
+      {
+        "file": "script_sounds\\m03_sounds_9.sds",
+        "ri": 0
+      }
+    ],
+    "excluded": false
+  },
+  {
+    "group": 61,
+    "file": "group-61.txt",
+    "sourceName": "/tables/Speech/Script_04_Murphys_Law1_subtitles.bin",
+    "sourceArchives": [
+      {
+        "file": "script_sounds\\m04_sounds_1.sds",
+        "ri": 0
+      }
+    ],
+    "excluded": false
+  },
+  {
+    "group": 62,
+    "file": "group-62.txt",
+    "sourceName": "/tables/Speech/Script_04_Murphys_Law2_subtitles.bin",
+    "sourceArchives": [
+      {
+        "file": "script_sounds\\m04_sounds_2.sds",
+        "ri": 0
+      }
+    ],
+    "excluded": false
+  },
+  {
+    "group": 63,
+    "file": "group-63.txt",
+    "sourceName": "/tables/Speech/Script_04_Murphys_Law3_subtitles.bin",
+    "sourceArchives": [
+      {
+        "file": "script_sounds\\m04_sounds_3.sds",
+        "ri": 0
+      }
+    ],
+    "excluded": false
+  },
+  {
+    "group": 64,
+    "file": "group-64.txt",
+    "sourceName": "/tables/Speech/Script_05_The_Buzzsaw05_subtitles.bin",
+    "sourceArchives": [
+      {
+        "file": "script_sounds\\m05_sounds_05.sds",
+        "ri": 0
+      }
+    ],
+    "excluded": false
+  },
+  {
+    "group": 65,
+    "file": "group-65.txt",
+    "sourceName": "/tables/Speech/Script_05_The_Buzzsaw01_subtitles.bin",
+    "sourceArchives": [
+      {
+        "file": "script_sounds\\m05_sounds_1.sds",
+        "ri": 0
+      }
+    ],
+    "excluded": false
+  },
+  {
+    "group": 66,
+    "file": "group-66.txt",
+    "sourceName": "/tables/Speech/Script_05_The_Buzzsaw02_subtitles.bin",
+    "sourceArchives": [
+      {
+        "file": "script_sounds\\m05_sounds_2.sds",
+        "ri": 0
+      }
+    ],
+    "excluded": false
+  },
+  {
+    "group": 67,
+    "file": "group-67.txt",
+    "sourceName": "/tables/Speech/Script_05_The_Buzzsaw03_subtitles.bin",
+    "sourceArchives": [
+      {
+        "file": "script_sounds\\m05_sounds_3.sds",
+        "ri": 0
+      }
+    ],
+    "excluded": false
+  },
+  {
+    "group": 68,
+    "file": "group-68.txt",
+    "sourceName": "/tables/Speech/Script_05_The_Buzzsaw04_subtitles.bin",
+    "sourceArchives": [
+      {
+        "file": "script_sounds\\m05_sounds_4.sds",
+        "ri": 0
+      }
+    ],
+    "excluded": false
+  },
+  {
+    "group": 69,
+    "file": "group-69.txt",
+    "sourceName": "/tables/Speech/Script_05_The_Buzzsaw06_subtitles.bin",
+    "sourceArchives": [
+      {
+        "file": "script_sounds\\m05_sounds_6.sds",
+        "ri": 0
+      }
+    ],
+    "excluded": false
+  },
+  {
+    "group": 70,
+    "file": "group-70.txt",
+    "sourceName": "/tables/Speech/Script_05_The_Buzzsaw60_subtitles.bin",
+    "sourceArchives": [
+      {
+        "file": "script_sounds\\m05_sounds_60.sds",
+        "ri": 0
+      }
+    ],
+    "excluded": false
+  },
+  {
+    "group": 71,
+    "file": "group-71.txt",
+    "sourceName": "/tables/Speech/Script_06_The_Slammer01_subtitles.bin",
+    "sourceArchives": [
+      {
+        "file": "script_sounds\\m06_sounds_1.sds",
+        "ri": 0
+      }
+    ],
+    "excluded": false
+  },
+  {
+    "group": 72,
+    "file": "group-72.txt",
+    "sourceName": "/tables/Speech/Script_06_The_Slammer10_subtitles.bin",
+    "sourceArchives": [
+      {
+        "file": "script_sounds\\m06_sounds_10.sds",
+        "ri": 0
+      }
+    ],
+    "excluded": false
+  },
+  {
+    "group": 73,
+    "file": "group-73.txt",
+    "sourceName": "/tables/Speech/Script_06_The_Slammer01b_subtitles.bin",
+    "sourceArchives": [
+      {
+        "file": "script_sounds\\m06_sounds_1b.sds",
+        "ri": 0
+      }
+    ],
+    "excluded": false
+  },
+  {
+    "group": 74,
+    "file": "group-74.txt",
+    "sourceName": "/tables/Speech/Script_06_The_Slammer02_subtitles.bin",
+    "sourceArchives": [
+      {
+        "file": "script_sounds\\m06_sounds_2.sds",
+        "ri": 0
+      }
+    ],
+    "excluded": false
+  },
+  {
+    "group": 75,
+    "file": "group-75.txt",
+    "sourceName": "/tables/Speech/Script_06_The_Slammer02b_subtitles.bin",
+    "sourceArchives": [
+      {
+        "file": "script_sounds\\m06_sounds_2b.sds",
+        "ri": 0
+      }
+    ],
+    "excluded": false
+  },
+  {
+    "group": 76,
+    "file": "group-76.txt",
+    "sourceName": "/tables/Speech/Script_06_The_Slammer03_subtitles.bin",
+    "sourceArchives": [
+      {
+        "file": "script_sounds\\m06_sounds_3.sds",
+        "ri": 0
+      }
+    ],
+    "excluded": false
+  },
+  {
+    "group": 77,
+    "file": "group-77.txt",
+    "sourceName": "/tables/Speech/Script_06_The_Slammer04_subtitles.bin",
+    "sourceArchives": [
+      {
+        "file": "script_sounds\\m06_sounds_4.sds",
+        "ri": 0
+      }
+    ],
+    "excluded": false
+  },
+  {
+    "group": 78,
+    "file": "group-78.txt",
+    "sourceName": "/tables/Speech/Script_06_The_Slammer04b_subtitles.bin",
+    "sourceArchives": [
+      {
+        "file": "script_sounds\\m06_sounds_4b.sds",
+        "ri": 0
+      }
+    ],
+    "excluded": false
+  },
+  {
+    "group": 79,
+    "file": "group-79.txt",
+    "sourceName": "/tables/Speech/Script_06_The_Slammer05_subtitles.bin",
+    "sourceArchives": [
+      {
+        "file": "script_sounds\\m06_sounds_5.sds",
+        "ri": 0
+      }
+    ],
+    "excluded": false
+  },
+  {
+    "group": 80,
+    "file": "group-80.txt",
+    "sourceName": "/tables/Speech/Script_06_The_Slammer06_subtitles.bin",
+    "sourceArchives": [
+      {
+        "file": "script_sounds\\m06_sounds_6.sds",
+        "ri": 0
+      }
+    ],
+    "excluded": false
+  },
+  {
+    "group": 81,
+    "file": "group-81.txt",
+    "sourceName": "/tables/Speech/Script_06_The_Slammer07_subtitles.bin",
+    "sourceArchives": [
+      {
+        "file": "script_sounds\\m06_sounds_7.sds",
+        "ri": 0
+      }
+    ],
+    "excluded": false
+  },
+  {
+    "group": 82,
+    "file": "group-82.txt",
+    "sourceName": "/tables/Speech/Script_06_The_Slammer07b_subtitles.bin",
+    "sourceArchives": [
+      {
+        "file": "script_sounds\\m06_sounds_7b.sds",
+        "ri": 0
+      }
+    ],
+    "excluded": false
+  },
+  {
+    "group": 83,
+    "file": "group-83.txt",
+    "sourceName": "/tables/Speech/Script_06_The_Slammer08_subtitles.bin",
+    "sourceArchives": [
+      {
+        "file": "script_sounds\\m06_sounds_8.sds",
+        "ri": 0
+      }
+    ],
+    "excluded": false
+  },
+  {
+    "group": 84,
+    "file": "group-84.txt",
+    "sourceName": "/tables/Speech/Script_06_The_Slammer09_subtitles.bin",
+    "sourceArchives": [
+      {
+        "file": "script_sounds\\m06_sounds_9.sds",
+        "ri": 0
+      }
+    ],
+    "excluded": false
+  },
+  {
+    "group": 85,
+    "file": "group-85.txt",
+    "sourceName": "/tables/Speech/Script_07_ILM01_subtitles.bin",
+    "sourceArchives": [
+      {
+        "file": "script_sounds\\m07_sounds_1.sds",
+        "ri": 0
+      }
+    ],
+    "excluded": false
+  },
+  {
+    "group": 86,
+    "file": "group-86.txt",
+    "sourceName": "/tables/Speech/Script_07_ILM10_subtitles.bin",
+    "sourceArchives": [
+      {
+        "file": "script_sounds\\m07_sounds_10.sds",
+        "ri": 0
+      }
+    ],
+    "excluded": false
+  },
+  {
+    "group": 87,
+    "file": "group-87.txt",
+    "sourceName": "/tables/Speech/Script_07_ILM02_subtitles.bin",
+    "sourceArchives": [
+      {
+        "file": "script_sounds\\m07_sounds_2.sds",
+        "ri": 0
+      }
+    ],
+    "excluded": false
+  },
+  {
+    "group": 88,
+    "file": "group-88.txt",
+    "sourceName": "/tables/Speech/Script_07_ILM03_subtitles.bin",
+    "sourceArchives": [
+      {
+        "file": "script_sounds\\m07_sounds_3.sds",
+        "ri": 0
+      }
+    ],
+    "excluded": false
+  },
+  {
+    "group": 89,
+    "file": "group-89.txt",
+    "sourceName": "/tables/Speech/Script_07_ILM031_subtitles.bin",
+    "sourceArchives": [
+      {
+        "file": "script_sounds\\m07_sounds_31.sds",
+        "ri": 0
+      }
+    ],
+    "excluded": false
+  },
+  {
+    "group": 90,
+    "file": "group-90.txt",
+    "sourceName": "/tables/Speech/Script_07_ILM032_subtitles.bin",
+    "sourceArchives": [
+      {
+        "file": "script_sounds\\m07_sounds_32.sds",
+        "ri": 0
+      }
+    ],
+    "excluded": false
+  },
+  {
+    "group": 91,
+    "file": "group-91.txt",
+    "sourceName": "/tables/Speech/Script_07_ILM04_subtitles.bin",
+    "sourceArchives": [
+      {
+        "file": "script_sounds\\m07_sounds_4.sds",
+        "ri": 0
+      }
+    ],
+    "excluded": false
+  },
+  {
+    "group": 92,
+    "file": "group-92.txt",
+    "sourceName": "/tables/Speech/Script_07_ILM05_subtitles.bin",
+    "sourceArchives": [
+      {
+        "file": "script_sounds\\m07_sounds_5.sds",
+        "ri": 0
+      }
+    ],
+    "excluded": false
+  },
+  {
+    "group": 93,
+    "file": "group-93.txt",
+    "sourceName": "/tables/Speech/Script_07_ILM06_subtitles.bin",
+    "sourceArchives": [
+      {
+        "file": "script_sounds\\m07_sounds_6.sds",
+        "ri": 0
+      }
+    ],
+    "excluded": false
+  },
+  {
+    "group": 94,
+    "file": "group-94.txt",
+    "sourceName": "/tables/Speech/Script_07_ILM07_subtitles.bin",
+    "sourceArchives": [
+      {
+        "file": "script_sounds\\m07_sounds_7.sds",
+        "ri": 0
+      }
+    ],
+    "excluded": false
+  },
+  {
+    "group": 95,
+    "file": "group-95.txt",
+    "sourceName": "/tables/Speech/Script_07_ILM08_subtitles.bin",
+    "sourceArchives": [
+      {
+        "file": "script_sounds\\m07_sounds_8.sds",
+        "ri": 0
+      }
+    ],
+    "excluded": false
+  },
+  {
+    "group": 96,
+    "file": "group-96.txt",
+    "sourceName": "/tables/Speech/Script_07_ILM081_subtitles.bin",
+    "sourceArchives": [
+      {
+        "file": "script_sounds\\m07_sounds_81.sds",
+        "ri": 0
+      }
+    ],
+    "excluded": false
+  },
+  {
+    "group": 97,
+    "file": "group-97.txt",
+    "sourceName": "/tables/Speech/Script_07_ILM09_subtitles.bin",
+    "sourceArchives": [
+      {
+        "file": "script_sounds\\m07_sounds_9.sds",
+        "ri": 0
+      }
+    ],
+    "excluded": false
+  },
+  {
+    "group": 98,
+    "file": "group-98.txt",
+    "sourceName": "/tables/Speech/Script_08_The_Wild_Ones01_subtitles.bin",
+    "sourceArchives": [
+      {
+        "file": "script_sounds\\m08_sounds_1.sds",
+        "ri": 0
+      }
+    ],
+    "excluded": false
+  },
+  {
+    "group": 99,
+    "file": "group-99.txt",
+    "sourceName": "/tables/Speech/Script_08_The_Wild_Ones10_subtitles.bin",
+    "sourceArchives": [
+      {
+        "file": "script_sounds\\m08_sounds_10.sds",
+        "ri": 0
+      }
+    ],
+    "excluded": false
+  },
+  {
+    "group": 100,
+    "file": "group-100.txt",
+    "sourceName": "/tables/Speech/Script_08_The_Wild_Ones02_subtitles.bin",
+    "sourceArchives": [
+      {
+        "file": "script_sounds\\m08_sounds_2.sds",
+        "ri": 0
+      }
+    ],
+    "excluded": false
+  },
+  {
+    "group": 101,
+    "file": "group-101.txt",
+    "sourceName": "/tables/Speech/Script_08_The_Wild_Ones03_subtitles.bin",
+    "sourceArchives": [
+      {
+        "file": "script_sounds\\m08_sounds_3.sds",
+        "ri": 0
+      }
+    ],
+    "excluded": false
+  },
+  {
+    "group": 102,
+    "file": "group-102.txt",
+    "sourceName": "/tables/Speech/Script_08_The_Wild_Ones04_subtitles.bin",
+    "sourceArchives": [
+      {
+        "file": "script_sounds\\m08_sounds_4.sds",
+        "ri": 0
+      }
+    ],
+    "excluded": false
+  },
+  {
+    "group": 103,
+    "file": "group-103.txt",
+    "sourceName": "/tables/Speech/Script_08_The_Wild_Ones05_subtitles.bin",
+    "sourceArchives": [
+      {
+        "file": "script_sounds\\m08_sounds_5.sds",
+        "ri": 0
+      }
+    ],
+    "excluded": false
+  },
+  {
+    "group": 104,
+    "file": "group-104.txt",
+    "sourceName": "/tables/Speech/Script_08_The_Wild_Ones06_subtitles.bin",
+    "sourceArchives": [
+      {
+        "file": "script_sounds\\m08_sounds_6.sds",
+        "ri": 0
+      }
+    ],
+    "excluded": false
+  },
+  {
+    "group": 105,
+    "file": "group-105.txt",
+    "sourceName": "/tables/Speech/Script_08_The_Wild_Ones07_subtitles.bin",
+    "sourceArchives": [
+      {
+        "file": "script_sounds\\m08_sounds_7.sds",
+        "ri": 0
+      }
+    ],
+    "excluded": false
+  },
+  {
+    "group": 106,
+    "file": "group-106.txt",
+    "sourceName": "/tables/Speech/Script_08_The_Wild_Ones08_subtitles.bin",
+    "sourceArchives": [
+      {
+        "file": "script_sounds\\m08_sounds_8.sds",
+        "ri": 0
+      }
+    ],
+    "excluded": false
+  },
+  {
+    "group": 107,
+    "file": "group-107.txt",
+    "sourceName": "/tables/Speech/Script_08_The_Wild_Ones81_subtitles.bin",
+    "sourceArchives": [
+      {
+        "file": "script_sounds\\m08_sounds_81.sds",
+        "ri": 0
+      }
+    ],
+    "excluded": false
+  },
+  {
+    "group": 108,
+    "file": "group-108.txt",
+    "sourceName": "/tables/Speech/Script_08_The_Wild_Ones82_subtitles.bin",
+    "sourceArchives": [
+      {
+        "file": "script_sounds\\m08_sounds_82.sds",
+        "ri": 0
+      }
+    ],
+    "excluded": false
+  },
+  {
+    "group": 109,
+    "file": "group-109.txt",
+    "sourceName": "/tables/Speech/Script_08_The_Wild_Ones90_subtitles.bin",
+    "sourceArchives": [
+      {
+        "file": "script_sounds\\m08_sounds_90.sds",
+        "ri": 0
+      }
+    ],
+    "excluded": false
+  },
+  {
+    "group": 110,
+    "file": "group-110.txt",
+    "sourceName": "/tables/Speech/Script_08_The_Wild_Ones91_subtitles.bin",
+    "sourceArchives": [
+      {
+        "file": "script_sounds\\m08_sounds_91.sds",
+        "ri": 0
+      }
+    ],
+    "excluded": false
+  },
+  {
+    "group": 111,
+    "file": "group-111.txt",
+    "sourceName": "/tables/Speech/Script_09_GCDemo23_subtitles.bin",
+    "sourceArchives": [
+      {
+        "file": "script_sounds\\m09sq_shock_sounds_1.sds",
+        "ri": 0
+      }
+    ],
+    "excluded": false
+  },
+  {
+    "group": 112,
+    "file": "group-112.txt",
+    "sourceName": "/tables/Speech/Script_09_Balls09_subtitles.bin",
+    "sourceArchives": [
+      {
+        "file": "script_sounds\\m09_sounds_09.sds",
+        "ri": 0
+      }
+    ],
+    "excluded": false
+  },
+  {
+    "group": 113,
+    "file": "group-113.txt",
+    "sourceName": "/tables/Speech/Script_09_Balls01_subtitles.bin",
+    "sourceArchives": [
+      {
+        "file": "script_sounds\\m09_sounds_1.sds",
+        "ri": 5
+      }
+    ],
+    "excluded": false
+  },
+  {
+    "group": 114,
+    "file": "group-114.txt",
+    "sourceName": "/tables/Speech/Script_09_Balls10_subtitles.bin",
+    "sourceArchives": [
+      {
+        "file": "script_sounds\\m09_sounds_10.sds",
+        "ri": 0
+      }
+    ],
+    "excluded": false
+  },
+  {
+    "group": 115,
+    "file": "group-115.txt",
+    "sourceName": "/tables/Speech/Script_09_Balls11_subtitles.bin",
+    "sourceArchives": [
+      {
+        "file": "script_sounds\\m09_sounds_11.sds",
+        "ri": 0
+      }
+    ],
+    "excluded": false
+  },
+  {
+    "group": 116,
+    "file": "group-116.txt",
+    "sourceName": "/tables/Speech/Script_09_Balls26_subtitles.bin",
+    "sourceArchives": [
+      {
+        "file": "script_sounds\\m09_sounds_12.sds",
+        "ri": 0
+      }
+    ],
+    "excluded": false
+  },
+  {
+    "group": 117,
+    "file": "group-117.txt",
+    "sourceName": "/tables/Speech/Script_09_Balls13_subtitles.bin",
+    "sourceArchives": [
+      {
+        "file": "script_sounds\\m09_sounds_13.sds",
+        "ri": 0
+      }
+    ],
+    "excluded": false
+  },
+  {
+    "group": 118,
+    "file": "group-118.txt",
+    "sourceName": "/tables/Speech/Script_09_Balls14_subtitles.bin",
+    "sourceArchives": [
+      {
+        "file": "script_sounds\\m09_sounds_14.sds",
+        "ri": 0
+      }
+    ],
+    "excluded": false
+  },
+  {
+    "group": 119,
+    "file": "group-119.txt",
+    "sourceName": "/tables/Speech/Script_09_Balls15_subtitles.bin",
+    "sourceArchives": [
+      {
+        "file": "script_sounds\\m09_sounds_15.sds",
+        "ri": 0
+      }
+    ],
+    "excluded": false
+  },
+  {
+    "group": 120,
+    "file": "group-120.txt",
+    "sourceName": "/tables/Speech/Script_09_Balls27_subtitles.bin",
+    "sourceArchives": [
+      {
+        "file": "script_sounds\\m09_sounds_16.sds",
+        "ri": 0
+      }
+    ],
+    "excluded": false
+  },
+  {
+    "group": 121,
+    "file": "group-121.txt",
+    "sourceName": "/tables/Speech/Script_09_Balls02_subtitles.bin",
+    "sourceArchives": [
+      {
+        "file": "script_sounds\\m09_sounds_2.sds",
+        "ri": 0
+      }
+    ],
+    "excluded": false
+  },
+  {
+    "group": 122,
+    "file": "group-122.txt",
+    "sourceName": "/tables/Speech/Script_09_Balls03_subtitles.bin",
+    "sourceArchives": [
+      {
+        "file": "script_sounds\\m09_sounds_3.sds",
+        "ri": 0
+      }
+    ],
+    "excluded": false
+  },
+  {
+    "group": 123,
+    "file": "group-123.txt",
+    "sourceName": "/tables/Speech/Script_09_Balls04_subtitles.bin",
+    "sourceArchives": [
+      {
+        "file": "script_sounds\\m09_sounds_4.sds",
+        "ri": 0
+      }
+    ],
+    "excluded": false
+  },
+  {
+    "group": 124,
+    "file": "group-124.txt",
+    "sourceName": "/tables/Speech/Script_09_Balls06_subtitles.bin",
+    "sourceArchives": [
+      {
+        "file": "script_sounds\\m09_sounds_6.sds",
+        "ri": 0
+      }
+    ],
+    "excluded": false
+  },
+  {
+    "group": 125,
+    "file": "group-125.txt",
+    "sourceName": "/tables/Speech/Script_09_Balls07_subtitles.bin",
+    "sourceArchives": [
+      {
+        "file": "script_sounds\\m09_sounds_7.sds",
+        "ri": 0
+      }
+    ],
+    "excluded": false
+  },
+  {
+    "group": 126,
+    "file": "group-126.txt",
+    "sourceName": "/tables/Speech/Script_09_Balls08_subtitles.bin",
+    "sourceArchives": [
+      {
+        "file": "script_sounds\\m09_sounds_8.sds",
+        "ri": 0
+      }
+    ],
+    "excluded": false
+  },
+  {
+    "group": 127,
+    "file": "group-127.txt",
+    "sourceName": "/tables/Speech/Script_10_Room_Service01_subtitles.bin",
+    "sourceArchives": [
+      {
+        "file": "script_sounds\\m10_sounds_1.sds",
+        "ri": 0
+      }
+    ],
+    "excluded": false
+  },
+  {
+    "group": 128,
+    "file": "group-128.txt",
+    "sourceName": "/tables/Speech/Script_10_Room_Service10_subtitles.bin",
+    "sourceArchives": [
+      {
+        "file": "script_sounds\\m10_sounds_10.sds",
+        "ri": 0
+      }
+    ],
+    "excluded": false
+  },
+  {
+    "group": 129,
+    "file": "group-129.txt",
+    "sourceName": "/tables/Speech/Script_10_Room_Service11_subtitles.bin",
+    "sourceArchives": [
+      {
+        "file": "script_sounds\\m10_sounds_11.sds",
+        "ri": 0
+      }
+    ],
+    "excluded": false
+  },
+  {
+    "group": 130,
+    "file": "group-130.txt",
+    "sourceName": "/tables/Speech/Script_10_Room_Service12_subtitles.bin",
+    "sourceArchives": [
+      {
+        "file": "script_sounds\\m10_sounds_12.sds",
+        "ri": 0
+      }
+    ],
+    "excluded": false
+  },
+  {
+    "group": 131,
+    "file": "group-131.txt",
+    "sourceName": "/tables/Speech/Script_10_Room_Service13_subtitles.bin",
+    "sourceArchives": [
+      {
+        "file": "script_sounds\\m10_sounds_13.sds",
+        "ri": 0
+      }
+    ],
+    "excluded": false
+  },
+  {
+    "group": 132,
+    "file": "group-132.txt",
+    "sourceName": "/tables/Speech/Script_10_Room_Service14_subtitles.bin",
+    "sourceArchives": [
+      {
+        "file": "script_sounds\\m10_sounds_14.sds",
+        "ri": 0
+      }
+    ],
+    "excluded": false
+  },
+  {
+    "group": 133,
+    "file": "group-133.txt",
+    "sourceName": "/tables/Speech/Script_10_Room_Service15_subtitles.bin",
+    "sourceArchives": [
+      {
+        "file": "script_sounds\\m10_sounds_15.sds",
+        "ri": 0
+      }
+    ],
+    "excluded": false
+  },
+  {
+    "group": 134,
+    "file": "group-134.txt",
+    "sourceName": "/tables/Speech/Script_10_Room_Service16_subtitles.bin",
+    "sourceArchives": [
+      {
+        "file": "script_sounds\\m10_sounds_16.sds",
+        "ri": 0
+      }
+    ],
+    "excluded": false
+  },
+  {
+    "group": 135,
+    "file": "group-135.txt",
+    "sourceName": "/tables/Speech/Script_10_Room_Service17_subtitles.bin",
+    "sourceArchives": [
+      {
+        "file": "script_sounds\\m10_sounds_17.sds",
+        "ri": 0
+      }
+    ],
+    "excluded": false
+  },
+  {
+    "group": 136,
+    "file": "group-136.txt",
+    "sourceName": "/tables/Speech/Script_10_Room_Service18_subtitles.bin",
+    "sourceArchives": [
+      {
+        "file": "script_sounds\\m10_sounds_18.sds",
+        "ri": 0
+      }
+    ],
+    "excluded": false
+  },
+  {
+    "group": 137,
+    "file": "group-137.txt",
+    "sourceName": "/tables/Speech/Script_10_Room_Service19_subtitles.bin",
+    "sourceArchives": [
+      {
+        "file": "script_sounds\\m10_sounds_19.sds",
+        "ri": 0
+      }
+    ],
+    "excluded": false
+  },
+  {
+    "group": 138,
+    "file": "group-138.txt",
+    "sourceName": "/tables/Speech/Script_10_Room_Service02_subtitles.bin",
+    "sourceArchives": [
+      {
+        "file": "script_sounds\\m10_sounds_2.sds",
+        "ri": 0
+      }
+    ],
+    "excluded": false
+  },
+  {
+    "group": 139,
+    "file": "group-139.txt",
+    "sourceName": "/tables/Speech/Script_10_Room_Service03_subtitles.bin",
+    "sourceArchives": [
+      {
+        "file": "script_sounds\\m10_sounds_3.sds",
+        "ri": 0
+      }
+    ],
+    "excluded": false
+  },
+  {
+    "group": 140,
+    "file": "group-140.txt",
+    "sourceName": "/tables/Speech/Script_10_Room_Service32_subtitles.bin",
+    "sourceArchives": [
+      {
+        "file": "script_sounds\\m10_sounds_32.sds",
+        "ri": 0
+      }
+    ],
+    "excluded": false
+  },
+  {
+    "group": 141,
+    "file": "group-141.txt",
+    "sourceName": "/tables/Speech/Script_10_Room_Service33_subtitles.bin",
+    "sourceArchives": [
+      {
+        "file": "script_sounds\\m10_sounds_33.sds",
+        "ri": 0
+      }
+    ],
+    "excluded": false
+  },
+  {
+    "group": 142,
+    "file": "group-142.txt",
+    "sourceName": "/tables/Speech/Script_10_Room_Service34_subtitles.bin",
+    "sourceArchives": [
+      {
+        "file": "script_sounds\\m10_sounds_34.sds",
+        "ri": 0
+      }
+    ],
+    "excluded": false
+  },
+  {
+    "group": 143,
+    "file": "group-143.txt",
+    "sourceName": "/tables/Speech/Script_10_Room_Service04_subtitles.bin",
+    "sourceArchives": [
+      {
+        "file": "script_sounds\\m10_sounds_4.sds",
+        "ri": 0
+      }
+    ],
+    "excluded": false
+  },
+  {
+    "group": 144,
+    "file": "group-144.txt",
+    "sourceName": "/tables/Speech/Script_10_Room_Service40_subtitles.bin",
+    "sourceArchives": [
+      {
+        "file": "script_sounds\\m10_sounds_40.sds",
+        "ri": 0
+      }
+    ],
+    "excluded": false
+  },
+  {
+    "group": 145,
+    "file": "group-145.txt",
+    "sourceName": "/tables/Speech/Script_10_Room_Service41_subtitles.bin",
+    "sourceArchives": [
+      {
+        "file": "script_sounds\\m10_sounds_41.sds",
+        "ri": 0
+      }
+    ],
+    "excluded": false
+  },
+  {
+    "group": 146,
+    "file": "group-146.txt",
+    "sourceName": "/tables/Speech/Script_10_Room_Service05_subtitles.bin",
+    "sourceArchives": [
+      {
+        "file": "script_sounds\\m10_sounds_5.sds",
+        "ri": 0
+      }
+    ],
+    "excluded": false
+  },
+  {
+    "group": 147,
+    "file": "group-147.txt",
+    "sourceName": "/tables/Speech/Script_10_Room_Service06_subtitles.bin",
+    "sourceArchives": [
+      {
+        "file": "script_sounds\\m10_sounds_6.sds",
+        "ri": 0
+      }
+    ],
+    "excluded": false
+  },
+  {
+    "group": 148,
+    "file": "group-148.txt",
+    "sourceName": "/tables/Speech/Script_10_Room_Service07_subtitles.bin",
+    "sourceArchives": [
+      {
+        "file": "script_sounds\\m10_sounds_7.sds",
+        "ri": 0
+      }
+    ],
+    "excluded": false
+  },
+  {
+    "group": 149,
+    "file": "group-149.txt",
+    "sourceName": "/tables/Speech/Script_10_Room_Service08_subtitles.bin",
+    "sourceArchives": [
+      {
+        "file": "script_sounds\\m10_sounds_8.sds",
+        "ri": 0
+      }
+    ],
+    "excluded": false
+  },
+  {
+    "group": 150,
+    "file": "group-150.txt",
+    "sourceName": "/tables/Speech/Script_10_Room_Service09_subtitles.bin",
+    "sourceArchives": [
+      {
+        "file": "script_sounds\\m10_sounds_9.sds",
+        "ri": 0
+      }
+    ],
+    "excluded": false
+  },
+  {
+    "group": 151,
+    "file": "group-151.txt",
+    "sourceName": "/tables/Speech/Script_11_A_Friend10_subtitles.bin",
+    "sourceArchives": [
+      {
+        "file": "script_sounds\\m11_sounds10.sds",
+        "ri": 0
+      }
+    ],
+    "excluded": false
+  },
+  {
+    "group": 152,
+    "file": "group-152.txt",
+    "sourceName": "/tables/Speech/Script_11_A_Friend04_subtitles.bin",
+    "sourceArchives": [
+      {
+        "file": "script_sounds\\m11_sounds_04.sds",
+        "ri": 0
+      }
+    ],
+    "excluded": false
+  },
+  {
+    "group": 153,
+    "file": "group-153.txt",
+    "sourceName": "/tables/Speech/Script_11_A_Friend05_subtitles.bin",
+    "sourceArchives": [
+      {
+        "file": "script_sounds\\m11_sounds_05.sds",
+        "ri": 0
+      }
+    ],
+    "excluded": false
+  },
+  {
+    "group": 154,
+    "file": "group-154.txt",
+    "sourceName": "/tables/Speech/Script_11_A_Friend06_subtitles.bin",
+    "sourceArchives": [
+      {
+        "file": "script_sounds\\m11_sounds_06.sds",
+        "ri": 0
+      }
+    ],
+    "excluded": false
+  },
+  {
+    "group": 155,
+    "file": "group-155.txt",
+    "sourceName": "/tables/Speech/Script_11_A_Friend07_subtitles.bin",
+    "sourceArchives": [
+      {
+        "file": "script_sounds\\m11_sounds_07.sds",
+        "ri": 0
+      }
+    ],
+    "excluded": false
+  },
+  {
+    "group": 156,
+    "file": "group-156.txt",
+    "sourceName": "/tables/Speech/Script_11_A_Friend08_subtitles.bin",
+    "sourceArchives": [
+      {
+        "file": "script_sounds\\m11_sounds_08.sds",
+        "ri": 0
+      }
+    ],
+    "excluded": false
+  },
+  {
+    "group": 157,
+    "file": "group-157.txt",
+    "sourceName": "/tables/Speech/Script_11_A_Friend09_subtitles.bin",
+    "sourceArchives": [
+      {
+        "file": "script_sounds\\m11_sounds_09.sds",
+        "ri": 0
+      }
+    ],
+    "excluded": false
+  },
+  {
+    "group": 158,
+    "file": "group-158.txt",
+    "sourceName": "/tables/Speech/Script_11_A_Friend01_subtitles.bin",
+    "sourceArchives": [
+      {
+        "file": "script_sounds\\m11_sounds_1.sds",
+        "ri": 0
+      }
+    ],
+    "excluded": false
+  },
+  {
+    "group": 159,
+    "file": "group-159.txt",
+    "sourceName": "/tables/Speech/Script_11_A_Friend02_subtitles.bin",
+    "sourceArchives": [
+      {
+        "file": "script_sounds\\m11_sounds_2.sds",
+        "ri": 0
+      }
+    ],
+    "excluded": false
+  },
+  {
+    "group": 160,
+    "file": "group-160.txt",
+    "sourceName": "/tables/Speech/Script_11_A_Friend03_subtitles.bin",
+    "sourceArchives": [
+      {
+        "file": "script_sounds\\m11_sounds_3.sds",
+        "ri": 0
+      }
+    ],
+    "excluded": false
+  },
+  {
+    "group": 161,
+    "file": "group-161.txt",
+    "sourceName": "/tables/Speech/Script_12_Sea_Gift01_subtitles.bin",
+    "sourceArchives": [
+      {
+        "file": "script_sounds\\m12_sounds_1.sds",
+        "ri": 0
+      }
+    ],
+    "excluded": false
+  },
+  {
+    "group": 162,
+    "file": "group-162.txt",
+    "sourceName": "/tables/Speech/Script_12_Sea_Gift02_subtitles.bin",
+    "sourceArchives": [
+      {
+        "file": "script_sounds\\m12_sounds_2.sds",
+        "ri": 0
+      }
+    ],
+    "excluded": false
+  },
+  {
+    "group": 163,
+    "file": "group-163.txt",
+    "sourceName": "/tables/Speech/Script_12_Sea_Gift03_subtitles.bin",
+    "sourceArchives": [
+      {
+        "file": "script_sounds\\m12_sounds_3.sds",
+        "ri": 0
+      }
+    ],
+    "excluded": false
+  },
+  {
+    "group": 164,
+    "file": "group-164.txt",
+    "sourceName": "/tables/Speech/Script_12_Sea_Gift04_subtitles.bin",
+    "sourceArchives": [
+      {
+        "file": "script_sounds\\m12_sounds_4.sds",
+        "ri": 0
+      }
+    ],
+    "excluded": false
+  },
+  {
+    "group": 165,
+    "file": "group-165.txt",
+    "sourceName": "/tables/Speech/Script_12_Sea_Gift05_subtitles.bin",
+    "sourceArchives": [
+      {
+        "file": "script_sounds\\m12_sounds_5.sds",
+        "ri": 0
+      }
+    ],
+    "excluded": false
+  },
+  {
+    "group": 166,
+    "file": "group-166.txt",
+    "sourceName": "/tables/Speech/Script_12_Sea_Gift06_subtitles.bin",
+    "sourceArchives": [
+      {
+        "file": "script_sounds\\m12_sounds_6.sds",
+        "ri": 0
+      }
+    ],
+    "excluded": false
+  },
+  {
+    "group": 167,
+    "file": "group-167.txt",
+    "sourceName": "/tables/Speech/Script_13_Exit01_subtitles.bin",
+    "sourceArchives": [
+      {
+        "file": "script_sounds\\m13_sounds_1.sds",
+        "ri": 0
+      }
+    ],
+    "excluded": false
+  },
+  {
+    "group": 168,
+    "file": "group-168.txt",
+    "sourceName": "/tables/Speech/Script_13_Exit02_subtitles.bin",
+    "sourceArchives": [
+      {
+        "file": "script_sounds\\m13_sounds_2.sds",
+        "ri": 0
+      }
+    ],
+    "excluded": false
+  },
+  {
+    "group": 169,
+    "file": "group-169.txt",
+    "sourceName": "/tables/Speech/Script_13_Exit03_subtitles.bin",
+    "sourceArchives": [
+      {
+        "file": "script_sounds\\m13_sounds_3.sds",
+        "ri": 0
+      }
+    ],
+    "excluded": false
+  },
+  {
+    "group": 170,
+    "file": "group-170.txt",
+    "sourceName": "/tables/Speech/Script_13_Exit04_subtitles.bin",
+    "sourceArchives": [
+      {
+        "file": "script_sounds\\m13_sounds_4.sds",
+        "ri": 0
+      }
+    ],
+    "excluded": false
+  },
+  {
+    "group": 171,
+    "file": "group-171.txt",
+    "sourceName": "/tables/Speech/Script_13_Exit05_subtitles.bin",
+    "sourceArchives": [
+      {
+        "file": "script_sounds\\m13_sounds_5.sds",
+        "ri": 0
+      }
+    ],
+    "excluded": false
+  },
+  {
+    "group": 172,
+    "file": "group-172.txt",
+    "sourceName": "/tables/Speech/Script_13_Exit06_subtitles.bin",
+    "sourceArchives": [
+      {
+        "file": "script_sounds\\m13_sounds_6.sds",
+        "ri": 0
+      }
+    ],
+    "excluded": false
+  },
+  {
+    "group": 173,
+    "file": "group-173.txt",
+    "sourceName": "/tables/Speech/Script_14_Stairway08_subtitles.bin",
+    "sourceArchives": [
+      {
+        "file": "script_sounds\\m14sq_killderek_sounds.sds",
+        "ri": 0
+      }
+    ],
+    "excluded": false
+  },
+  {
+    "group": 174,
+    "file": "group-174.txt",
+    "sourceName": "/tables/Speech/Script_14_Stairway09_subtitles.bin",
+    "sourceArchives": [
+      {
+        "file": "script_sounds\\m14sq_killderek_sounds2.sds",
+        "ri": 0
+      }
+    ],
+    "excluded": false
+  },
+  {
+    "group": 175,
+    "file": "group-175.txt",
+    "sourceName": "/tables/Speech/Script_14_Stairway01_subtitles.bin",
+    "sourceArchives": [
+      {
+        "file": "script_sounds\\m14_sounds_1.sds",
+        "ri": 0
+      }
+    ],
+    "excluded": false
+  },
+  {
+    "group": 176,
+    "file": "group-176.txt",
+    "sourceName": "/tables/Speech/Script_14_Stairway10_subtitles.bin",
+    "sourceArchives": [
+      {
+        "file": "script_sounds\\m14_sounds_10.sds",
+        "ri": 0
+      }
+    ],
+    "excluded": false
+  },
+  {
+    "group": 177,
+    "file": "group-177.txt",
+    "sourceName": "/tables/Speech/Script_14_Stairway11_subtitles.bin",
+    "sourceArchives": [
+      {
+        "file": "script_sounds\\m14_sounds_11.sds",
+        "ri": 0
+      }
+    ],
+    "excluded": false
+  },
+  {
+    "group": 178,
+    "file": "group-178.txt",
+    "sourceName": "/tables/Speech/Script_14_Stairway13_subtitles.bin",
+    "sourceArchives": [
+      {
+        "file": "script_sounds\\m14_sounds_13.sds",
+        "ri": 0
+      }
+    ],
+    "excluded": false
+  },
+  {
+    "group": 179,
+    "file": "group-179.txt",
+    "sourceName": "/tables/Speech/Script_14_Stairway16_subtitles.bin",
+    "sourceArchives": [
+      {
+        "file": "script_sounds\\m14_sounds_16.sds",
+        "ri": 0
+      }
+    ],
+    "excluded": false
+  },
+  {
+    "group": 180,
+    "file": "group-180.txt",
+    "sourceName": "/tables/Speech/Script_14_Stairway02_subtitles.bin",
+    "sourceArchives": [
+      {
+        "file": "script_sounds\\m14_sounds_2.sds",
+        "ri": 0
+      }
+    ],
+    "excluded": false
+  },
+  {
+    "group": 181,
+    "file": "group-181.txt",
+    "sourceName": "/tables/Speech/Script_14_Stairway03_subtitles.bin",
+    "sourceArchives": [
+      {
+        "file": "script_sounds\\m14_sounds_3.sds",
+        "ri": 0
+      }
+    ],
+    "excluded": false
+  },
+  {
+    "group": 182,
+    "file": "group-182.txt",
+    "sourceName": "/tables/Speech/Script_15_Planetarium01_subtitles.bin",
+    "sourceArchives": [
+      {
+        "file": "script_sounds\\m15_sounds_1.sds",
+        "ri": 0
+      }
+    ],
+    "excluded": false
+  },
+  {
+    "group": 183,
+    "file": "group-183.txt",
+    "sourceName": "/tables/Speech/Script_15_Planetarium02_subtitles.bin",
+    "sourceArchives": [
+      {
+        "file": "script_sounds\\m15_sounds_2.sds",
+        "ri": 0
+      }
+    ],
+    "excluded": false
+  },
+  {
+    "group": 184,
+    "file": "group-184.txt",
+    "sourceName": "/tables/TextDatabase.dat",
+    "sourceArchives": [
+      {
+        "file": "text\\text_credits.sds",
+        "ri": 1
+      },
+      {
+        "file": "text\\text_default.sds",
+        "ri": 1
+      }
+    ],
+    "excluded": false
+  }
+]

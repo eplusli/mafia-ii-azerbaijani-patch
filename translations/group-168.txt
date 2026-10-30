@@ -1,0 +1,36 @@
+﻿313020010:Adamı öldürməyin bu qədər yolu var... Bir zəhrimar güllə də bəs edərdi.
+313020011:Bu əclafların başı xarabdır, Vito... Öləcəklər. Hamısı.
+313020012:Yəni... Niyə belə edəsən... Özü də parkın ortasında...
+313020013:Dedim axı, xəstədirlər. Onları doğrayıb çin yeməyinə çevirəcəyəm.
+313020014:Ey, bir şeyi də deyim, onların nə qədər olduğunu heç bilmirik.
+313020015:Hə, fərqi də yoxdur.
+313020016:Ey, Henry ölüb. İstəyirsən, bizi də öldürsünlər? Bunu ağılla etməliyik, Joe.
+313020017:Necə etdiyimizin fərqi yoxdur. Təki axırda hamısı ölmüş olsun!
+313020018:Yaxşı, qulaq as, yəqin ki, ikidən çoxdurlar.
+313020019:Olsun da? Nə qədər çox olsalar, bir o qədər yaxşı!
+313020020:Biz isə iki nəfərik. Yoxsa istəyirsən, Carlo-ya zəng vurub necə zibilə düşdüyümüzü deyək, bura bir neçə adam göndərməsini istəyək...
+313020021:Yaxşı, yaxşı, başa düşdüm.
+313020022:Onda söz ver, həmişəki kimi içəri girən kimi atəş açmayacaqsan. Bunu ağılla etməliyik. Oldu?
+313020023:Çox yaxınlaşma. Bu əclafı izləyək ki, bütün yuvalarını yandırıb kül edə bilək.
+313030010:O balaca sarı daşşaqlarını qoparacağam!
+313030020:Ey, sakit ol. Əvvəl hara getdiyini öyrənməliyik.
+313030030:Qaza bas, Vito! Qaçır!
+313030040:Qaçmasına imkan vermə!
+313030050:Vito, tərpən, onu itirəcəyik!
+313030060:Qaza bas, yoxsa itirəcəyik!
+313030070:Yaxın qal, yoxsa qaçacaq.
+313030080:Aralı qal, yoxsa bizi görəcək!
+313030090:Yavaşıt, Vito, çox yaxınıq!
+313030100:Bizi görəcək, bir az yavaşıt!
+313030110:Ehtiyatlı ol, Vito, bizi görməsin!
+313030120:Yavaşıt, Vito, çox yaxınlaşırsan!
+313030130:Bacardığımı edirəm!
+313030140:Bu adam lap çin... Boş ver.
+313030150:Bilirəm, bilirəm, mən də görürəm onu.
+313030160:Siktir! Lənət olsun, Vito! İtirdik onu!
+313030170:Siktir, bizi gördü! Dedim axı.
+313030180:O əclafı elə indi vurmaq istəyərdim...
+313030190:Yaxşı, hələ də bizi görməyib...
+313030200:Əla, Vito. Bu göt bizi birbaşa onların yanına aparacaq.
+313030210:Yaxşı, təki onu itirmə.
+313030220:Niyə belə şey etsinlər axı?

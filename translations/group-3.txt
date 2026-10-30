@@ -1,0 +1,61 @@
+﻿03_02_00_0010:Ay, harada qalmısan?
+03_02_00_0020:Zəng vuran kimi gəldim. Nə baş verir?
+03_02_00_0030:Uşaq vaxtı gördüyümüz o mafiozlar yadındadır? 
+03_02_00_0040:Hə, niyə?
+03_02_00_0050:Burada görüşəcəyimiz adam onlardandır. Adı Henry Tomasinodur. Deyəsən, bizim üçün böyük işi var.
+03_02_00_0060:Hə, ciddi deyirsən?
+03_02_00_0070:Hə. Xırda işlərin vaxtı bitdi. Əməlli-başlı pul qazanmaq vaxtıdır.
+03_02_00_0080:Bax, gəlir... Ağzından axmaq söz çıxmasın.
+03_02_00_0090:Salam, Henry! Necəsən?
+03_02_00_0100:Salam, Joe... O adam budur?
+03_02_00_0110:Hə, bu, Vitodur, köhnə dostum.
+03_02_00_0120:Tanışlığıma şadam, Henry.
+03_02_00_0130:Ona zamin durursan?
+03_02_00_0140:Əlbəttə, Henry. Canımı da ona etibar edərəm.
+03_02_00_0150:Yaxşı, qulaq as. Sizə işim var. Pulu yaxşıdır. Mənə benzin talonları lazımdır. Benzin qıtlığına görə indi qızıl qiymətinədir.
+03_02_00_0160:Onları haradan tapa bilərik?
+03_02_00_0170:Qiymətlərə Nəzarət İdarəsindən.
+03_02_00_0180:Axı o, federal dövlət qurumudur. Bir az riskli deyil?
+03_02_00_0190:Nədir? Gücün çatmaz?
+03_02_00_0200:Yox... yox, yox... Sadəcə bunu necə edəcəyimizi düşünürəm.
+03_02_00_0210:Elə də çətin olmaz. Gecələr talonlar seyfdə saxlanılır, amma açarlar yəqin elə orada haradasa olar.
+03_02_00_0220:İçəridə adamın var?
+03_02_00_0230:Hə, bizimkilərdən birinin bacısı orada işləyir.
+03_02_00_0240:Bizə kömək edə bilər?
+03_02_00_0250:Özündən soruş.
+03_02_00_0260:Adı Maria Agnellodur. Ünvanı budur. De ki, mən göndərmişəm.
+03_02_00_0270:Yaxşı, bəs seyf? Açarlar orada olmasa necə?
+03_02_00_0280:O, sənin problemindir. 
+03_02_00_0300:İşin haqqı nə qədərdir?
+03_02_00_0310:On min qallonluq talona altı yüz dollar verərəm.
+03_02_00_0320:Oldu, razıyıq.
+03_02_00_0330:Yox, yox, bunu Vito tək eləməlidir. Sənə başqa işim var, Joe.
+03_02_00_0340:Nə deyirsən, Vito?
+03_02_00_0350:Hə. Olar.
+03_02_00_0360:Hə, bir də özünlə tapança götürməyi unutma. Nə olacağını bilmək olmaz. Sonradan peşman olmaqdansa ehtiyatlı ol. Başa düşdün?
+03_02_00_0370:Dayan, dayan, dayan... Bu, içki dükanını soymaq deyil. İstəyirəm iş təmiz getsin. Birini öldürsən, payın üçdə birə düşəcək. Başa düşdün?
+03_02_00_0380:Hə, başa düşdüm, problem yoxdur.
+03_02_00_0390:Yaxşı. İşini qurtarandan sonra bura qayıt, hesablaşarıq.
+03_02_00_0395:Oldu, görüşərik.
+03_02_00_0400:Uğurlar, Vito.
+03_50_00_0010:Buyurun, nə lazımdır?
+03_50_00_0020:Salam, xanım, məni Henry Tomasino göndərib. Dedi, Qiymətlərə Nəzarət İdarəsindəki balaca bir "problem"də mənə kömək edə bilərsiniz.
+03_50_00_0030:Hə, eşitmişəm. Məndən nə istəyirsən?
+03_50_00_0040:Şey... Bu gecə oraya girməliyəm.
+03_50_00_0050:Yaxşı, belə edək, bacım indi xəstəxanadadır. Məni ora aparsan, bilməli olduğun hər şeyi deyərəm. Xəstəxana idarənin düz qarşısındadır, yəni yolundan da çıxmayacaqsan.
+03_50_00_0055:Əlbəttə, problem yoxdur.
+304000010:Hə? Necə oldu?
+304000020:Şey, işlər nəzarətdən çıxdı. Əlimdən bir şey gəlmədi.
+304000030:Razılaşmışdıq, yadındadır? Atışma olsa, pulun ancaq üçdə birini alacaqsan.
+304000040:Çox asan oldu. Səhər görüb şoka düşəcəklər.
+304000050:Yaxşıdır. Görürəm, Joe dost seçməyi bacarır. 
+304000060:Hə, görək burada nəyimiz var. 
+304000070:Ah, lənət olsun!
+304000080:Nəsə olub?
+304000090:Olub da nədir! Gətirdiyin bu talonların istifadə müddəti var, o da sabah bitir!
+304000100:Yəni, bu... nə deməkdir?..
+304000110:O deməkdir ki, bunlar bir qəpiyə də dəyməyəcək. Amma dayan... Gecə yarısına qədər yanacaqdolduranlara çatdırsan, möhür vurub pulunu ala bilərlər. 
+304000120:Bunları şəhərdəki bütün yanacaqdoldurma məntəqələrinə apar. Gecə yarısına qədər çatmalıdır, yoxsa batdıq. Vaxtında satmasan, heç nə almayacaqsan.
+304000130:Bir dəqiqə! Biz belə razılaşmamışdıq! İstifadə müddəti barədə heç nə deməmişdin.
+304000140:Həyatda belə şeylər olur da, hə? Bax, bunu bacarsan, unutmaram, inan mənə. İndi get... Nə qədər tez satsan, o qədər çox pul alarsan.
+2000000000:n_

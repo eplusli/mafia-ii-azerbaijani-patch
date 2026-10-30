@@ -1,0 +1,29 @@
+﻿302011052:Necəsən, əsgər?
+302011054:Məzuniyyətdəsən, yoxsa birdəfəlik qayıtmısan?
+302011057:Düzünü desəm, çox şey yoxdur. Hamı müharibənin bitməyini istəyir, deyirlər bu, indiyə qədər ən soyuq qışdır. Kaş yaxşı xəbərim olaydı.
+302011059:Sonra görüşərik, dostum.
+302011570:n_ Onsuz da ona dözə bilmirdim.
+302011580:n_ Anamı bu işə qatma!
+302011590:n_ Çıx get... Sadəcə əşyalarını yığ, get!
+302011600:n_ Bezmişəm bundan, lənət olsun!
+302011610:n_ Ah, məni rahat burax, əclaf.
+302011620:n_ Nə edirsən? Onu burada qoy!
+302011630:n_ Özümünkünü götürüb gedirəm.
+302011640:n_Səninki? Onu alan mənəm!
+302011650:n_Kimin pulu ilə? Burax məni, daha səninlə heç bir əlaqəm olsun istəmirəm.
+302011660:n_Get! Get o çirkin fahişənlə xoşbəxt ol...
+302011670:n_Eləmə, Marie! Burax getsin!
+302011680:n_Hə! Tez qayıdacağıq!
+302011690:n_Unudun, ikiniz də! O heç yerə getmir!
+302011700:n_Bircə dənə pivədir! Dəli arvad...
+302011710:n_Keçən dəfə də belə dedi! Sonra gecə üçdə cin və başqa arvadın ətiriylə evə gəlir!
+302011720:n_Hey, Georgie! Hadi! Arvadının hər dediyinə qulaq asmalı deyilsən axı?!
+302011730:n_George heç yerə getmir! İndi rədd olun!
+302011740:n_Eh heh... O dəli arvad Georgie-ni lap ovcuna alıb, hə?
+302011750:n_Hey, bizə daha çox pivə qalar, hə? Gedək.
+302011760:Vito? Sənsən?
+302011770:Salam, cənab Manara... Dükanı bağlayırsınız?
+302011780:Hə, bilirsən də... Daha işlətməyə pul çatmır.
+302011790:Vay, ç-çox təəssüf.
+302141400:Çatdıq.
+302141401:Yaxşı, sağ ol. Qalığı səndə qalsın.

@@ -1,0 +1,33 @@
+﻿307040300:Hə, Joey, hara getdiyimizi ona demisən?
+307040310:Yox. Bircə sürpriz olduğunu bilir.
+307040320:Hahaha... Çox bəyənəcək.
+307040330:Ümid edirəm. Həbsdə o... "qəribə işlərə" qurşanmayıbsa.
+307040340:Siz ikiniz nədən danışırsınız?
+307040350:Hehe, narahat olma, görəcəksən.
+307040360:Gəl elə indi deyək də.
+307040370:Bu qədər gözləyib, maşında deyərik.
+307040380:Yaxşı, gedək, Vito!
+307040390:Hara getdiyimizi desəniz, köməyi dəyər.
+307040400:Oyster Bay'ə sür.
+307040410:Vito, həbsdə olanda ən çox nə üçün darıxırdın?
+307040420:Azadlıq.
+307040430:Hə, amma... ondan başqa.
+307040440:Bilirsən... İçki, qadınlar, beysbol... hər şey.
+307040450:İndi yaxınlaşırsan! Hehe.
+307040480:Nədir, məni beysbol oyununa aparırsınız?
+307040490:Yox! Səni şəhərin ən səviyyəli fahişəxanasına aparırıq, Vito!
+307040500:Fahişəxana, hə? Vay...
+307040510:Elə də sevinmirsən, Vito. Hadi... Bu qədər vaxtdan sonra əylənmək istəmirsən demə?
+307040520:Narahat olma, Vito, bu qızlar əsl peşəkardır. Necə edildiyini unutmusan da, bir göz qırpımında yadına salarlar, hehehe.
+307040530:Hehe, lap kef edəcəyik! Hehe... Hə, yadıma salın çox içməyim, sonra bir işim var.
+307040540:Am və içkidən vacib nə var?
+307040550:Bilirsən də... Bəzən görüləsi işi görməlisən. Vito, tez ol, qaza bas, hə?
+307040560:Vito! Eddie'nin maşınıyla ehtiyatlı ol!
+307040570:Nədir, sürməyi unutmusan?!
+307040580:Vito! Ora sağ-salamat çatmalıyıq!
+307040590:Hey! Maşınla ehtiyatlı ol!
+307040600:Arvad kimi sürürsən, bilirsən, Vito?
+307040610:Vito, gözünü aç!
+307040620:Yaxşı, budur! Xanımlar, mən gəlirəm.
+307040650:Ah, buradakı Abbot ilə Costello'nu deyirsən? Hə, hə, əlbəttə, elədirlər. Gəl, burax bizi.
+307050001:Vito. Sən sürmək istəyirsən? Artıq bir-iki qədəh içmişəm.

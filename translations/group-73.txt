@@ -1,0 +1,19 @@
+﻿306010015:Yox, qardaş... Yox... Siktir bunu! Siktir bunu!
+306010035:Ah! Uf! Ah!
+306030030:Dalımca gəl.
+306030040:Evə xoş gəlmisən. Gir.
+306030041:Yeni penthausunun kefini çək, alçaq!
+306030051:İşıqları söndürün!
+306030052:Sakit olun, alçaqlar! Öz xeyrinizi istəyirsinizsə...
+306030050:Növbəti on il yeni evim bura olacaqdı. Zibilə oxşayırdı, sidik iyi verirdi. Buradansa Avropada güllədən yayınmağa üstünlük verərdim. 
+306030060:Ay Allah, nə vaxtdan su viski rəngindədir...
+306030065:Heç olmasa əlüzyuyan işləyir...
+306030070:Buradan çıxmaq olmur...
+306030075:Deyəsən, təmizlikçi pəncərələri silmir...
+306030080:Eh, heç olmasa Joe'nun tualetindən təmizdir.
+306030090:Mmmm, qoxunu alıram, təzə balıq. Yaxşı iy verirsən.
+306030100:Yaxşı, yatmaq vaxtıdır. İşıqları söndürün!
+306030110:26-nı açın!
+306030120:26-cı kameranı bağlayın!
+306030150:Yaxşı, Charlie, bağla!
+306030160:Aç qapıları, Charlie!

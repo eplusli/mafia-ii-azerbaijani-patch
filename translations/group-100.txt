@@ -1,0 +1,43 @@
+﻿308040170:Salam, bir qutu Qırmızı alım.
+308040180:Salam, bir blok Qırmızı.
+308040200:Salam! Yaxşı ki, gəldin, siqaretim bitib. Bir blok Mavi ver.
+308040220:Zəhmət olmasa, bir blok Mavi.
+308040240:Mənə... bir blok Ağ ver.
+308040260:Bir blok Qırmızı uzat, Vito!
+308040270:Bir blok Mavi ver.
+308040280:Bir blok Ağ, Vito.
+308040290:Bir blok Qırmızı, Vito.
+308040300:Bir blok Mavi, Vito.
+308040310:Bir blok Ağ at mənə.
+308040320:Tərpən, Vito. Bir blok Qırmızı!
+308040330:Vito, o bir blok Mavini uzadarsan?
+308040340:Eşidirsən, Vito? Bir blok Ağ!
+308040350:Vito! Ayıl, bir blok Qırmızı at!
+308040360:Bir blok Mavi uzat!
+308040370:Vito! Bir blok Ağ haradadır?
+308040410:Ayıl! Burada diqqətinizi çəkmək üçün nə edim, sabunu yerə salım?
+308040380:Buyurun, cənab. Dəyməz, yenə gəlin.
+308040381:Dəyməz.
+308040382:Yenə gəlin.
+308040390:Buyurun.
+308040400:Alın.
+308040411:Hə, budur!
+308040412:Yaxşı, uzat!
+308040413:Bingo!
+308040414:Bax, belə yaxşıdır!
+308040415:Gördün, bilirdim bacararsan!
+308040421:Karsan, nədir? Bir blok Mavi dedim! 
+308040422:Mavi! Bir blok Mavi! Lənət, Vito, fikir ver!
+308040423:Bu deyil! Qırmızı dedim! Ay Allah, Vito!
+308040424:Nə?! Sənə gülməli gəlir? Mənə Qırmızı lazımdır dedim!
+308040425:Gözündə problem var, Vito? Bir blok Ağ ver, Allah xatirinə!
+308040426:Ah... ay Məryəm, Vito, tez ol da! Mənə Ağ lazımdır! Tez ol! Tələs!
+308040420:Nə edirsən, Joe?
+308040502:n_Hey... nə... hey... Ona nə oldu?!
+308040503:n_Nədən danışırsan?
+308040504:n_Arağım. Yoxdur! Sən içmisən, elə deyil, Randolph?
+308040505:n_Nə? Elə şey etməmişəm!
+308040506:n_Həmişə arağımı içirsən. Başımı ağrıdırsan!
+308040507:n_İçmək istəyirdim, amma məndən əvvəl sən içdin. Ay əyyaş. Başın da ona görə ağrıyır!
+308040508:n_Nə... nə danışırsan? Bircə bir-iki qurtum içmişəm. Qalanını sən içmisən, bilirəm!
+308040509:n_Sən həmişə pis sərxoş olmusan, Mortimer.

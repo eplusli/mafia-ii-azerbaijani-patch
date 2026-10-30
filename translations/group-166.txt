@@ -1,0 +1,37 @@
+﻿312020090:Bu nə sikimdir?!
+312020099:Vay, lənət!
+312020100:Lənəəəət!
+312020110:Əla, indi bu zəhrimar şəhərin bütün polisi bura gələcək.
+312020183:Ahhh! Yandırır!
+312020184:Ey, qoy yansın. Gülləni boşuna xərcləmə.
+312020221:Eyy! Ah...
+312020230:Lənət, lap az qalmışdı...
+312020240:Hələ bitməyib! Dalımızca gəlirlər.
+312020250:Siktir, qurtul bunlardan!
+312020258:Lənət! Hələ də dalımızdadırlar!
+312020259:Vito, bu adamlardan qurtul!
+312020260:Yaxşı, deyəsən, qurtulduq... Əla, Vito.
+312030050:Çatdıq. Danışmağı mənə buraxın. Bunlar ciddi adamlardır, ona görə ağıllı-ağıllı söz atmayın. Oldu, Joe?
+312030100:Henry, o nə zəhrimar idi?
+312030110:Heç bilmirəm. Yəqin işdən başqasının da xəbəri olub. Onlar qətiyyən əsl polis deyildi.
+312030120:Bəlkə çəpgözlər bizi aldatmaq istəyirdi?
+312030130:İnanmıram. Bax, öyrənəcəyəm, amma əvvəl bu malı satmalıyıq. Vito, bizi Hunters-dakı köhnə anbara apar.
+312030140:Yaxşı. Ümid edirəm, növbəti iş əvvəlkindən yaxşı keçər.
+312030150:Keçəcək. Bundan pis ola bilməz də, hə?
+312030160:Bəs malı kimə satırıq?
+312030170:Müxtəlif adamlara.
+312030180:Dayan, dayan, dayan! "Müxtəlif adamlara" nə deməkdir?
+312030190:Müxtəlif adamlara. Nədir, bayaqkı atışmadan kar oldun?
+312030200:Elə bilirdim, bu zibili sadəcə bir yerdən o birinə daşıyırıq demişdin.
+312030210:Hə, amma az-az satsan, daha çox pul qazanırsan.
+312030220:Bu işə razılıq verməzdən əvvəl bunu bilsəydim, yaxşı olardı.
+312030230:Parkdakı danışığından belə çıxırdı ki, desəydim, yəqin razı olmazdın.
+312030240:Hə, elədir.
+312030250:Ey, indi ümid edə biləcəyin ən yaxşı şey ölməzdən və ya yenidən həbsə düşməzdən əvvəl ömrünün növbəti otuz ilini Eddie və Carlo üçün eşşək kimi işləməkdir. Özünü riskə atmasan, bu qədər pulu heç vaxt görməyəcəksən.
+312030260:Həm də mən səni heç yanlış yola yönəltmişəm?
+312030270:Yaxşı... Qiymət İdarəsi işi vardı, bir də Sand Island-də o kök əclafı öldürəndə az qala özümüz də öləcəkdik.
+312030280:Yaxşı, yaxşı, bəsdir. Bu gündən sonra bunların heç birinin əhəmiyyəti olmayacaq. Hunters-a çataq. Narahat olma, bu gündən sonra bu zibilləri bir də görməli olmayacağıq.
+312030290:Bu işi müntəzəm görməsək...
+312030300:Dayan... Belə planlar qurmazdan əvvəl bunu sağ-salamat bitirməyə fikir verək, yaxşı?
+312030310:Ey, elə-belə deyirəm...
+312030320:Vito düz deyir. Bu günün qalanını yola verək. Ondan sonra hər şey yağ kimi gedəcək, uşaqlar.

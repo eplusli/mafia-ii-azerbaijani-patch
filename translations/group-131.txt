@@ -1,0 +1,27 @@
+﻿310042020:Yaxşı, indi dama çıxaq.
+310042030:Tez ol, gedək! Pilləkəni tapmalıyıq.
+310042040:Vaxtımız azdır! Dama gedək.
+310042050:Vito, tez ol. Pilləkəni tapaq.
+310042060:Hop, hop, bəs vedrə? Bu zibili burada qoya bilməzsən. Özünlə götür.
+310042070:Bağışlayın, pilləkən haradadır?
+310042080:Pilləkənin harada olduğunu deyə bilərsiniz?
+310042090:Narahat etdiyimə görə bağışlayın, pilləkəni harada tapa bilərəm?
+310042100:Siktir get.
+310042110:Nə bilim mən?
+310042120:Get başqasını bezdir.
+310042130:Burada işləyən sənsən, hə?
+310042140:Pilləkənin elə buradadır.
+310040380:Bilmək istəsən, lift dama qalxmır. Ona görə pilləkənlə gedirik.
+310042150:Vito. Bura gəl.
+310042160:Axır ki. Az qalıb bitirək.
+310042170:Dam o biri tərəfdədir.
+310042180:İndi geri dönmək olmaz.
+310042190:Dam adətən yuxarıda olur, aşağıda yox.
+310042200:Ora düşməyə səbəb yoxdur.
+310040390:Lənət, bu qədər hərəkətə alışmamışam. Niyə bu qədər pilləkən qoyublar...
+310042210:Bu pilləkənlər... məni... öldürəcək...
+310042220:Gözlə... Bir dəqiqə... sikilmiş pilləkənlər...
+310042230:Tez ol, gedək! Həmişə məni tələsdirən sən deyilsən?
+310042240:Nədir, səni qucağımda aparım?
+310042250:Silahlar, bombalar, pis adamlar, problem yoxdur. Pilləkən? Bağışla, bacarmıram.
+310042255:Siktir... Yaxşı, gedək...

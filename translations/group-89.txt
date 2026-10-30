@@ -1,0 +1,36 @@
+﻿307040200:Hey, ee, ev tutmaq istəyirəm, Joe Barbaro səni məsləhət gördü. Dostuyam.
+307040220:Salam! Mənzil lazımdır? Bunlar var:
+307040262:Sabahınız xeyir, cənab!
+307040263:Ee, salam...
+307040267:Cənab Beck kabinetindədir. Buyurun içəri.
+307040268:Sağ ol, şirinim.
+307040269:Əla seçimdir! Vaxtınız varsa, elə indi gedə bilərik.
+307040285:Mənə xoşdur. Gedək.
+307040270:Yaxşı, çatdıq! Əminəm, xoşunuza gələcək; özüm də buna oxşar mənzildə yaşayıram.
+307040296:Gördüyünüz kimi, əlavə ödənişsiz telefonu da var.
+307040272:Bu da hamamdır - təmiz, müasir, istədiyiniz qədər isti suyla!
+307040273:Bu da əsas yataq otağı - o da sahibinin yatağı.
+307040274:Rahatdır, iki nəfərə yer var... Bəlkə üç.
+307040275:Bir də cırıldamır - məncə, həmişə üstünlükdür.
+307040276:Ümid edirəm, yeni mənziliniz xoşunuza gələcək, cənab!
+307040277:Sualınız varsa, çəkinməyin!
+307040278:Bircə sualım var - nə vaxt gedirsən?
+307040279:Elə isə, buyurun açarlarınız.
+307040297:Sağ olun.
+307040298:Hər hansı problem olsa, zəng edin.
+307040283:İndi icazənizlə gedim, başqa müştərimə baxmalıyam. Hələlik!
+307040284:Hə, görüşərik.
+307040299:Problem var, cənab? Sadəcə burada başqa müştərini gözləyirəm.
+307040286:Sizi saxlamayım, cənab. Yəqin çox işiniz var, mən də burada başqa müştəri gözləməliyəm.
+307040287:Ümid edirəm, bu adam tez gələr... Bu gün çox işim var, mənzil bazarı da qaynayır!
+307040288:Yaxşı, indi Joe-ya zəng etməliyəm...
+307040289:Alo?
+307040290:Hey, Joe, mənəm.
+307040291:Hey! Özünə ev tapdın?
+307040292:Hə, heç pis də deyil.
+307040293:Yaxşı, kostyum geyin, bizdə görüşək. Bütün günü uzatma, bir azdan bir yerə getməliyik!
+307040294:Yaxşı, yaxşı, tezliklə görüşərik.
+307040295:Yaxşı, görüşərik.
+307040280:Hələ bir-iki işim var...
+307040281:Özümə ev tapmalıyam. Joe-nun dediyi o daşınmaz əmlak adamının yanına getsəm yaxşıdır...
+307040282:Joe dedi yaxşı kostyum lazımdır...

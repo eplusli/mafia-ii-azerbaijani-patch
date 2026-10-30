@@ -1,0 +1,22 @@
+﻿311020010:Gecdir, Henry artıq içəridədir.
+311070010:Vito, Francesca-dır. Eric evə gəlib, hər yeri döyülüb. Demişdin, ona zərər verməyəcəksən!
+311070020:Yəqin kiminləsə dalaşıb. Bilirsən də, çox pis adamlara qoşulub.
+311070030:Hər şeyə görə üzr istədi, Vito.
+311070040:Söz verdi ki, mənimlə yaxşı davranacaq. İndi hər şey qaydasındadır. Ona dəyməyəcəksən, elə deyil?
+311070050:Sən necə istəyirsən. Amma sənə bir də əl qaldırsa, öldürəcəyəm.
+311070061:Öz dediyini eşidirsən, Vito?! M-mən səni artıq tanımıram. Bax, sən... bizdən uzaq dur, başa düşdün? Sadəcə... uzaq dur!
+311070070:Problem yoxdur. Özünə yaxşı bax, Franny.
+311510500:Hə, indi özünü yaxşı hiss edirsən?
+311510510:Elə də yox. Orada etdiyimiz heç bunun əvəzini verməyə yaxın da deyil.
+311510520:Ey, yanan o şeylərin hamısı sadəcə əşyadır, Vito.
+311510530:Sadəcə əşyadır? Onlar mənim əşyalarım idi, Joe. Səncə, biz bu zibili nə üçün edirik? Əşya almaq üçün: kostyum, maşın, arvad, ev. İndi yenə sıfırdan başlamalıyam. Bütün pulum da o evdə idi. Özümə söz vermişdim ki, bir də kasıb olmayacağam, atam kimi limanda sürünməyəcəyəm.
+311510540:Ey, ey, başa düşürəm. Narahat olma, bir şey fikirləşərik. Tezliklə yenə ayağa qalxarsan.
+311510550:Sən həmişə hər şeyin yaxşı tərəfini görürsən, hə?
+311510560:Divanında yatsam, olar da?
+311510570:Sənin üçün daha yaxşısını edərəm. Al bu açarları. Marty-nin evinindir. İndi anası üçün o evi satmağa çalışıram. O vaxta qədər sən orada qala bilərsən.
+311510580:Sağ ol. Deyəsən.
+311510590:Sağ ol demə, dostum. Mənim divanımda yatacaq yaşı keçmisən. Həm də onu təzə almışam, istəmirəm batırasan. Marty-nin evi Oyster Bay-dədir.
+311510600:Yaxşı, onda görüşərik, yəqin...
+311510610:Görüşərik, dostum. Bu gecə olanlara görə heyif.
+311510620:Nə iyrənc yerdir.
+311510630:İlahi, kaş otelə pulum çataydı.

@@ -1,0 +1,140 @@
+﻿701000001:Galante yalan demirdi. Bir neçə köhnə yaxşılığının əvəzini istədi, məni vaxtından əvvəl çıxartdırdı. Cəzamı az qala dörd il azaltdı.
+701000002:Joe məni görməyə gəlirdi, çöldə baş verənlərdən danışırdı, amma həbsxananın qapısından çıxan kimi sanki tamam başqa dünyaya düşdüm. 
+07_01_00_0270:Buyur?
+07_01_00_0280:Şey...
+07_01_00_0290:Bax, dostum, nə satırsansa, mənə lazım deyil...
+07_01_00_0300:Yox, yox, yox, adım Vito Scalettadır... Mən...
+07_01_00_0310:Hə, düzdür, Francesca'nın qardaşı. Demişdi ki, həbsdəsən.
+07_01_00_0320:İndi çıxmışam. Bəs sən kimsən?
+07_01_00_0330:Francesca'nın əri, Eric. 
+07_01_00_0340:Bacın burada deyil. Yəqin bazarlığa gedib, ya nə bilim.
+07_01_00_0350:Deyərəm, gəlmişdin. Görüşərik.
+07_01_00_0360:Hə, şey...
+07_01_00_0370:O adam bacımla evli olmasaydı, ay Məryəm...
+701000010:Vito!
+701000011:Salam!
+701000020:Həbsdən qaçmısan? Ay Allah, səni adi paltarda, barmaqlıqların bu tərəfində görmək necə xoşdur! Xoş gəlmisən! Gəl içəri, gəl, gəl...
+701000040:Deyim sənə, mən gedəndən çox şey dəyişib.
+701000050:Hə, elədir. Çox da böyük şey deyil, amma dediyin kimi sənə yaxşı bir balaca mənzil tapmışam.
+701000060:Sağ ol.
+701000070:İndi də sənə sürprizim var. Bu axşam bayıra çıxıb qeyd edəcəyik, səni biri ilə tanış edəcəyəm.
+701000080:Yaxşı səslənir.
+701000090:İşlərini yoluna qoyana qədər sənə bir az pul lazım olar.
+701000095:İstəsən, tapança da tapmışam. Al. Həmişə lazım olur. Hə, indi azad adamsan, nə eləmək istəyirsən?
+701000100:Səncə nə? Yenə səninlə işləmək istəyirəm.
+701000110:Əla! Qorxurdum, orada səni düz yola gətirərlər. Hahahaha...
+701000120:Yox, əslində orada çox adamla tanış oldum, çox şey öyrəndim. İndi işlərin necə getdiyini daha yaxşı bilirəm.
+701000130:Yaxşıdır, çünki sən orada olanda mən də boş oturmamışam. Amma narahat olma. Həmişəki kimi sənə yol göstərəcəyəm.
+701000140:Yaxşı, nəyi gözləyirik? Gedək.
+701000150:Ay Allah, belə həvəsli olacağını gözləmirdim! Amma nə olar ki. Gedək. Təzə evinə baxaq.
+703000010:Elə bildim, gəlməyəcəksən.
+703000020:Pis deyil, parçası yaxşıdır...
+703000030:Sağ ol. Hə, bu axşam nə edirik?
+703000040:Görəcəksən. Bir dostum bizi götürməyə gəlir. Sən o balaca məzuniyyətində olanda tanış olmuşuq. Hörmətlə davran ha, vacib adamdır.
+703000050:Elə?
+703000060:Bir azdan görərsən. Bax, gəlir.
+703000070:Joe! Gəldim!
+703000080:Eddie! Necə gedir?
+703000090:Pis deyil, pis deyil. Nədir, dostun budur?
+703000100:Hə. Bu, dostum Vitodur. Vito, bu da yaxşı dostum Eddie Scarpa.
+703000110:Tanışlığıma şadam, Eddie.
+703000120:Mən də, Vito. Yaxşı, uşaqlar, içki üçün ürəyim gedir, gedək!
+07_04_00_0110:Hə, Alberto ilə o alçaq Luca'nın pulla ailəyə adam qəbul etdiyini eşitmişdik, amma bu qədər aldıqlarını bilmirdik. Tezliklə günahlarının cəzasını çəkəcəklər.
+704000120:Leo Galante ilə səndən danışdım, Vito. Dedi, mərd oğlansan. Clemente'nin sizə qurduğu oyunu da danışdı.
+704000125:Amma aramızda qalsın, niyə bu işə girdin, hə? Yəni, hamımızın bir səbəbi var...
+704000130:Şey, çünki... bilirsən, axırımın atam kimi olmağını istəmirəm. Bir də... 
+704000131:Bax, mənə heç kim kömək etməyəcək, ona görə öz başımın çarəsinə baxmalıyam.
+704000140:Y-yaxşı? Hə... Yaxşı, get, bala...
+704000150:Vito, qulaq as... Mən Carlo Falcone üçün işləyirəm və... işimizi böyütmək istəyirik.
+704000151:Joe bir müddətdir bizdə işləyir və... onun dostu olduğun üçün sənə də eyni təklifi etmək istəyirik. Nə deyirsən?
+704000170:Hə, əlbəttə, maraqlıdır!
+07_04_00_0185:Yaxşı.
+704000180:Əla! Gəlin buna içək!
+704000190:Sizin sağlığınıza.
+704000191:Birlikdə parlaq gələcəyimizin sağlığına.
+704000195:Yüz il yaşayasınız!
+704000200:Bu axşam çox içə bilmərəm, həll etməli işim var.
+704000240:Hahahahahahaha. Lənət.
+704000241:Hahahahahahaha. 
+07_04_00_0300:Yox, ha ha ha ha.
+07_04_00_0315:Hahahahahahaha. 
+704000340:Qumarı yığışdırmaq istəyirsənsə, iki iş görməlisən: tövlələri yandır, atları da güllələ. Hahahaha, Frank lap aləmdir. Ən yaxşısı nə idi, bilirsən? Komitədəki senatorlardan biri bütün pulunu at yarışında uduzmuşdu.
+704000360:Hahahahaha, əsl at götü! Hahaha!
+704000370:Yox, yox... Ciddi deyirəm! Carlo çox ağıllı adamdır, o... bilirsiniz, astrologiya ilə maraqlanır!
+704000380:Astronomiya demək istəyirsən?
+704000390:Hə, hə, onu dedim də, ay, ulduzlar, elə şeylər. Sən karsan, nədir?!
+704000400:Rəsədxanaya pul ayırır, demək olar, hər gecəni orada keçirir. Başa düşmürəm, orada nə maraq var... Göydə sikilmiş balaca ağ nöqtələr...
+07_04_00_0614:Hahahahaha.
+704000616:Hahahahaha.
+704000671:Hə, hə.
+704000672:Hmmm.
+704000673:Ah, yox!
+704000674:Hə.
+704000675:Hmmm, eləsən.
+704000676:Gəyirti. 
+704000687:Hmmm, hm.
+704000690:Hmmmm, hey, ho.
+704000693:Hehehehehehehe.
+704000702:n_
+704000710:Bildiyin tək söz budur?
+704000720:Siktir, ay sperma vedrəsi!
+704000721:Hahahahahahaha!
+704000722:Nə dedin? Özün siktir, sikyalayan! Ay gicbəsər, siktir!
+07_04_00_0723:Ah, siktir, ay sperma vedrəsi.
+704000730:Bağışlayın, xanımlar, deyəsən, getməliyəm...
+704000760:Kəs o lənətəgəlmiş ağzını! Ağzından istifadə etmək istəyirsənsə...
+704000770:Oh!
+704000780:Vito!
+704000790:Uşaqlar, getməyə hazırsınız?
+704000791:n_
+704000801:Yox, yaxşı, istərdim.
+704000802:Yox, dayan.
+704000805:Yox, yox, yox, yox, yox.
+704000815:Yox!
+704000816:n_
+704000620:Hə, gedək! Joe, qalx!
+704000650:Mən evə gedirəm... Gecəniz xeyrə, ay fahişələr! 
+705000480:Vito, get baqajı aç.
+07_05_00_0481:Hehehehee...
+07_05_00_0482:n_...
+07_05_00_0483:Əladır, lap əladır. Uhhh...
+07_05_00_0484:Bu zarafatdır?
+07_05_00_0485:n_...
+07_05_00_0486:n_...
+07_05_00_0487:n_...
+07_05_00_0488:n_...
+07_05_00_0489:n_...
+705000490:Ah... Ay Allah... Bu adam nə vaxtdan buradadır, Eddie?
+07_05_00_0491:n_....
+705000492:Yaxşı, çatdıq.
+705000495:Ah, bir-iki gündür...
+705000500:Onu oradan sən çıxarmalı olacaqsan, Vito.
+705000501:Qoxuya dözə bilmirəm.
+705000509:Ah, lap əla!
+705000510:Evə qayıdışımı gözəl qarşıladınız!
+07_05_00_0511:n_... Ufff
+07_05_00_0512:n_... Huh, maaaah...
+07_05_00_0513:n_... Ufff, ahhh, ahhh
+705000520:Hey, köpək... hey, hey, çala buradadır! Elə burada. Atın içinə. 
+07_05_00_0521:n_...
+07_05_00_0523:Uf... axır ki... ay Məryəm.
+07_05_00_0522:Şey...
+705000540:Yaxşı, indi kim basdıracaq?
+705000550:Bir dəqiqə özümə gəlim... Bəlkə özün eləyəsən?
+705000551:Hər dəfə iyini alanda qusmağım gəlir. Eddie'dən də kömək gəlməyəcək. O...
+705000560:Nə?
+705000570:Ah, yaxşı, nə isə...
+705000571:Uşaqlar! Bir az musiqi necə olar, hə?
+705000572:Zarafat edirsən...
+07_05_00_0573:Lənət olsun... təzə ayaqqabılarım.
+07_05_00_0574:Ay Allah, uh... 
+705000575:Gecən xeyrə, əzizim, getmək vaxtıdır. Da dada da da! Gecən xeyrə, əzizim... vaxtıdır... sikməyin.
+705000620:Evə qayıdış şənliyinin belə olmağını planlaşdırmamışdım, amma burada hava yaxşıdır, hə? Çoxdandır meşəyə gəlmirdim...
+705000630:Hə, bu bellə səni vurandan sonra elə də xoşuna gəlməz!
+706000690:Bağışla, Vito, gecəni bitirməyin ən yaxşı yolu deyil, hə? Amma sağ ol, sənə böyük borcum var. Eddie'nin maşınını burada qoy, səhər evə gedə bilsin.
+706000700:Yaxşı adamsan, Vito. Sabah səninlə hesablaşaram. İçəri, içməyə gəlirsən?
+706000701:Gəl də, qız çağırarıq, bir az, bilirsən...
+706000710:Bəsdir içdiyin, Eddie. Yatmağın vaxtıdır. Gəl. Sabah zəng edərəm, Vito. Gecən xeyrə.
+706000702:Gecə saat üçdür. Kəsin səsinizi.
+706000703:Aaa, özün sus, ay fahişə.
+2000000000:n_

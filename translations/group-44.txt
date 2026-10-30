@@ -1,0 +1,57 @@
+﻿302040861:Yaxşı, indi sola dön.
+302040864:Qabaqda sola dön.
+302040879:Burada sağa dön.
+302040881:Qabaqda sağa dön.
+302050100:Bilirsən, Mike hərdən burada presdə ilişib qalmış meyit tapır.
+302050110:Doğrudan?
+302050120:Yox, yox, zarafat edirəm. Problem yaradanları körpüdən atırlar.
+302050130:Çoxbilmiş.
+302050170:Deyəsən, bu zarafatı çox uzatdım.
+302050180:Yəqin yaxşı fikir deyil.
+302050190:Bu maşın Joe'nun gözünün işığıdır. Əvvəl ağlayar... sonra məni öldürər.
+302050200:Ay Allah, bunlara bax...
+302050210:Səncə belə maşın neçəyədir?
+302050220:Ondan narahat olma, sənə köhnə cındırdan qat-qat yaxşısını tapacağıq.
+302050230:Deyəsən, daha yaxşısına pulum çatmaz.
+302050240:Kim dedi, pulunu sən verəcəksən? İndi gəl, işə keçək.
+302050250:Orada nə edirsən? Görməli işin var.
+302050260:Joe... Dostuna bir az ədəb öyrət də.
+302050270:Vito, oyun çıxarma! Tez ol, getməliyik!
+302050271:Bağışla, Mike. Müharibədən qayıdandan bir az kütləşib, başa düşürsən?
+302050280:Nə etməli olduğunu dedim. Başqa nə bilmək istəyirsən?
+302050540:Hara gedirsən belə?
+302050550:Nə lazımdır? Təmiz hava? Tez ol, bütün günü gözləyə bilmərik...
+302050560:Gic-gic hərəkət eləmə, maşına qayıt! Görməli işin var!
+302050581:Vay, bu məhəllənin nə gözəl olduğunu unutmuşdum. Bilirsən nə var, bir gün burada ev alacağam.
+302050582:Buna bax. Bir gün deyil qayıdıb, köhnə məhəlləsini bəyənmir...
+302050583:Niyə sataşırsan? Elə baxıram da. Belə yerə pul yığmaq üçün illər lazımdır.
+302050584:Haha. Zövqün şampan istəyir, cibin pivəyə çatır, dostum... Amma narahat olma, bunu dəyişməyinə kömək edəcəyəm.
+302141202:Vito! Gör benzin çənini vura bilirsən?
+302141203:Hey! Xaraba maşını nişan al, ay alçaq.
+302141204:Ha! Elə bilirdim, siz italyanlar atəş açmağı bacarırsınız.
+302141205:Polyak olsaydı, silahı tərsinə tutardı.
+302141206:Siktir, çoxbilmiş...
+302141207:Nişan almağını yaxşılaşdırmalısan, rəis.
+302141208:Korsan, nədir?
+302141209:Ay Allah... Anbarın divarını da vura bilmirsən.
+302141211:Nədir, sənə atəş açmağı Joe öyrədib?
+302141212:Sakit ol. Sadəcə bir az yadırğayıb.
+302141213:Ah, lənət, onda benzin saxlamışdım?
+302141214:Buna bir polyak zarafatı demək olar, amma keçim.
+302141215:Hə, yadıma düşmüşkən... Siktir.
+302141210:Mənə bir az da güllə lazımdır.
+302141220:Əlbəttə, lazımdır. Al.
+302141230:Pis atmırsan.
+302141240:Yaxşıdır, Vito, yaxşı.
+302141250:Yaxşı, bəsdir atdığımız, işimiz var.
+302141000:Sand Island mən gedəndəki kimi xaraba qalıb?
+302141010:Yox, yox, indi əslində elə də pis deyil.
+302141020:Doğrudan... Bu necə olub? 
+302141030:Bütün qaralar qışlamağa cənuba uçublar.
+302141040:Əlbəttə, yenə xarabadır, Vito. Cəmi bir-iki ildir getmisən. O məhəllənin düzəlməyinə daha çox vaxt lazımdır. O adamlar dovşan kimi artırlar. Neyləmək olar.
+302141050:Uşaq vaxtımızdakından da pisdir. İndi hətta dəstələri də var. Adları nə sikim idi... Beamers, Boomers, elə bir şey, bilmirəm.
+302141060:Ah, lap əla...
+302141070:Nədən qorxursan? Heyvandırlar. Bircə narkotik satıb bir-birini öldürürlər. Sənin kimi adama toxunmazlar. Toxunsalar da, tapançanı elə ona görə vermişəm.
+302141080:Yeri gəlmişkən, indi silah gəzdirirsən? O niyə?
+302141090:Bu günlərdə onsuz iş görmək olmur. Xüsusən bu sikilmiş məhəllədə.
+302141100:Adamı necə arxayın etməyi yaxşı bilirsən, bilirsən? 

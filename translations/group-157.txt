@@ -1,0 +1,30 @@
+﻿311510210:Hazırsan, Vito? Gəl, bu əclafların işini bitirək.
+311510220:O əclafı tutacağıq, and içirəm! Etdiklərinin cəzasını çəkəcək.
+311510230:Bəs sənin etdiklərin? O axmaq fikri ortaya atmasaydın, hər şey qaydasında olardı.
+311510240:Problemin var?!
+311510250:Əlbəttə var! Adamlarımızı ölümə aparan lovğa gijdillaq sənsən! Scaletta-nı niyə özün öldürmədin?!
+311510260:Dedim axı! Dalınca düşdüm, amma itirdim! O qorxaq qaçdı! Amma tapacağam, tapanda da...
+311510270:Qaçan sən idin, ay göt.
+311510280:Ah, siktir!
+311510290:Sən... Səndə yaman ürək var...
+311510300:Hə, var.
+311510301:Ey, o maşında da adamları var! Gedək, qaçırlar.
+311510302:Yaxşı, gəl. Sən sür.
+311510303:Hadi, Vito, tez ol! Onları itirəcəyik.
+311510304:Qaza bas, Vito, qaçır.
+311510307:Hadi, Vito! Yaxınlaşmalıyıq.
+311510308:Ah, lənət, itirdik. Hadi, çıxaq buradan.
+311510309:Yaxşı... Onsuz da içki lazımdır.
+311510311:Bu iş də bitdi. Axmaq əclaflar...
+311510312:Yaxşı, bir gecəyə bu qədər macəra bəsdir. Evə gedib bir içki içək.
+311510305:Bu adamların başına nə gəldiyini gördünüz?! Kim polisə bir söz desə, qalanınızın da başına eynisi gələcək. Başa düşdünüz?
+311510306:Yaxşı... İndi evinizə gedin, uşaqlarınızla vaxt keçirin ki, böyüyüb buradakı bu zibillərə oxşamasınlar.
+311510310:Yaxşı danışdın. Rahatladın?
+311510320:Xeyli.
+311510330:Ey, bu işdən bir az pul da çıxaraq da, hə? Piştaxtaya bax!
+311510340:Amma tez ol, polis hər an burada ola bilər.
+311510350:Hə, bu iş də bitdi, elə deyil?
+311510360:Hə. Amma evimi geri qaytarmır.
+311510370:Narahat olma. İşlər yaxşı gedir, tezliklə yenisinə pulun çatacaq.
+311510380:Hə, çox ümid edirəm.
+311510390:Yaxşı, evə qayıdaq.

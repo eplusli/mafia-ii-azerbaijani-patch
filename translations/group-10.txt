@@ -1,0 +1,73 @@
+﻿801000040:Yenə işimiz var!
+801000400:Argh...
+801000410:Bu nə sikimdir?
+801000411:Hey, Vito, dur ayağa!
+801000420:İlahi!
+801000421:Marty, qışqırmağı kəsərsən? Başım çatlayır!
+801000430:Ee, hehehehe, bağışla, Joey.
+801000440:Bir də mənə Joey demə, sikim səni! Sənə nə olub axı?
+801000450:Vito, düş aşağı!
+801000460:İsa Məsih!
+08_50_00_0140:İndi nə edək?
+08_50_00_0150:İndi müştərilərimizə baxaq. Bu adamlar bizdən topdan alırlar. Mənimlə gəl.
+08_50_00_0160:Yaxşı, qalx yuxarı, malı mənə ver.
+08_55_00_0160:Yaxşı, qalx yuxarı, malı mənə ver.
+802000010:Nə satırsan, dostum?
+802000020:Alırsan, yoxsa elə baxırsan?
+802000030:Bəlkə də.
+802000040:Siqaret satırıq. Bloku iki dollar, yeşiyi yüz dollar.
+802000050:Heh. Sənə təklifim var. On blok verirsən, bəlkə səni də, dostunu da salamat buraxırıq.
+802000060:Hey, bax, dostum, o balaca şirin maşınına minib balaca dostlarınla getsənə, mən də elə bilim səni heç görməmişəm. Necədir?
+802000070:Heh. Başa düşmürsən, kök anasını sikdiyim? Bura bizim ərazidir. Burada işləmək pulludur. İndi pulu ver!
+802000080:Başa düşməyən sənsən. Kiminlə danışdığını bilirsən? Son şansındır. İndi çıx get, onda...
+802000090:Hə, deyim kiminlə danışıram. Ərazimdə oğurluq siqaret satan kök, ucuz italyan alverçisiylə. Dükanı bağlamaq vaxtıdır, göt.
+802000100:Yaxşı, uşaqlar, deyəsən, odlu endirim vaxtıdır!
+802000110:Lənət! Joe... uff! Sikim...
+802000120:Haha. İndi nə deyirsən, donuz balası?
+802000130:Nə deyirəm?
+802000135:Bax bunu deyirəm.
+802000140:Başqa kimə borcum var?!
+802000160:Ay lənət, Joe...
+802000190:Gəl, min o maşına, gedək.
+803000010:Salam, Steve.
+803000020:Salam...
+803000030:Salam, uşaqlar...
+803000040:Marty?! Burada nə edirsən?
+803000050:Hey, Joe! Bu dəfə sizinlə gedirəm! Steve-ə kömək lazım idi, dedi mən də gələ bilərəm!
+803000060:Steve, ee, bu bir az...
+803000070:Eh. Uşaq bir gün öyrənməlidir də...
+803000080:Yaxşı, niyə buradayıq, Steve, hə? Axtardığımız adamların hamısı tökmə zavoduna gedir.
+803000090:Adətən burada yığışırlar, ona görə buradan başlayırıq, sonra zavoda gedib işi bitirərik.
+803000100:Bəs niyə bizə kömək etmək istədin?
+803000110:O əclaflar əmim oğlunun maşınını dağıdıblar.
+803000111:Özünü də soyub üç dişini sındırıblar.
+803000120:Hə, o lənətə gəlmiş götlər bütün şəhərdə problem yaradırlar. Elə bir neçə gün əvvəl...
+803000130:Səsini kəs, uşaq! Burada mən danışıram. İncildə deyildiyi kimi - gözə göz, dişə diş. Elə buradan başlayacağıq.
+803000140:Bəs plan nədir?
+803000150:Əvvəl buranı dağıdacağıq.
+803000160:Bunu necə edəcəyik?
+803000170:Bununla!
+803000180:Buyurun, uşaqlar!
+803000185:Hey, hadi, uşaqlar!
+803000186:Hehe... Gedək bu əclaflara dərs verək! Hehe... hehe...
+803000190:Ya bizə kömək edin, ya da yolumuzdan çəkilin.
+803000200:O nə sikim idi?
+804000030:Hey, bura necə girdiniz?!
+804000040:Lənətə gəlmiş sarı kərpicli yolla gəldik.
+804000050:Növbəti!
+804000055:Heh, yaxşı dedin.
+804000060:Öldünüz, əclaflar!
+804000070:Joe, ehtiyatlı ol!
+804000080:Sağ ol, uşaq.
+804000090:Lənət, silahları var! Verin paylarını!
+805000030:Qulaq as, bu iş lap əldən çıxdı. Eddie-nin heç xoşu gəlməyəcək.
+805000040:Eddie bir şey deməz. Nə edəcəkdik, qoyacaqdıq bizi öldürsünlər? Bu lənətə gəlmiş alçaqlar daha heç kimi narahat etməz.
+805000050:İndi necə, Steve?
+805000060:İndi evə gedib görəcəyəm o gənəgərçək yağı təsir edib, ya yox. Həftələrdir qəbzəm. Görüşərik.
+805000070:Nuş olsun. Joe ilə hələ xeyli işimiz var. Sonra görüşərik.
+808000010:Nə oldu?
+808000020:Al pulunu.
+808000030:Nə yaxşı, canım qurtardı. Axmaq narkoman əclaflar! İndi yerlərini bilirlər... Yaxşı işdir, uşaqlar, alın payınızı.
+808000040:Sağ ol, Eddie. Bu gün bizdən başqa nə istəyirsən, yoxsa bu qədər? Bir işim var, həll etməliyəm...
+808000050:Yox, yox, yox, bu günlük bəsdir. Nəsə lazım olsa, zəng edərəm.
+2000000000:n_

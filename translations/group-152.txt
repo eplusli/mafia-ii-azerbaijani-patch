@@ -1,0 +1,32 @@
+﻿311060300:Eric!
+311060310:Sən nə sikim etdiyini sanırsan? Burada işim var, başa düşdün? Rədd ol.
+311060320:Məncə, arvadının qayğısına qalmaqla məşğul olmalısan, ay göt!
+311060350:Vay, vay, vay, deyəsən, balaca məhbusumuz lap zəhrimar vaiz olub.
+311060370:Qadına əl qaldırmağın nə olduğunu sənə başa salaram!
+311060380:Gəl, ay qorxaq! Səni öldürəcəyəm, əclaf!
+311060390:Ümumiyyətlə, burada nə sikim edirsən? Gəl!
+311060400:Gəl, ay məhbus gijdillaq. Səni eşşək sudan gəlincə döyəcəyəm.
+311060410:Vay, bax, qardaş. Davadır!
+311060412:Donuz! Necədir, xoşuna gəlir?!
+311060414:Xoşuna gəlir, əclaf? Hə? Cavab ver!
+311060416:Hah! Nə oldu? Danışa bilmirsən?
+311060418:Səni balaca qız kimi ağladacağam, pox parçası!
+311510080:Gəl, min.
+311510090:Yaxşı... Son vaxtlar irlandlardan bir xəbər eşitmisən?
+311510091:Yox, heç nə. Niyə?
+311510100:İrlandların yeni başçısı var, adı Mickey Desmond-dur.
+311510110:Bir neçə nəfər də onun yerinə göz dikib, ona görə hamıya göstərmək istəyir ki, zarafat eləmir.
+311510120:Bunun mənə nə dəxli var?
+311510130:Brian O'Neill. Desmond-un əmisi oğlu idi.
+311510140:Ahh, gərək başa düşəydim.
+311510150:Hə, bu axmaqlar sürüsünə bax, bu eşşəyin yaddaşı yaman güclüdür. Eşitdiyimə görə, o Desmond da hər şeyə ilişən biridir.
+311510160:Məncə, elə indi o iyrənc barlarında o biri gijdillaqlarla oturub hırıldayır.
+311510170:Onda gedək ora, onunla haqq-hesab çəkək.
+311510180:Plan budur. Deyəsən, çox adamları qalmayıb. Ona görə birbaşa içəri soxulaq. Qoy ağılları başlarından çıxsın.
+311510190:Bu plan xoşuma gəldi. Əclaflar... Evimi yandırdılar...
+311510200:Sakit ol, bir dəqiqəyə çatırıq.
+311510201:Lənət, sənə silah lazım olacaq. Az qala yadımdan çıxmışdı.
+311510202:Hə, varsa, yaxşı olar. Yoxdursa, elə əllərimlə döyə-döyə öldürərəm. Mənim üçün fərqi yoxdur.
+311510203:Haradasa burada olmalıdır... Hə, budur, al.
+311510204:Sağ ol.
+311510210:Hazırsan, Vito? Gəl, bu əclafların işini bitirək.

@@ -1,0 +1,27 @@
+﻿311500337:Bu zəhrimar şeylər nədir?
+311510010:Əlbəttə istəyirəm.
+311510020:Yaxşı. Sakit ol, bir içki iç, qoy bir neçə zəng edim.
+311510021:Yaxşı, tərpənək. O irlandlar Hill O Tara-da yığışırlar. Tanıyırsan oranı? Kingston-dakı o iyrənc yerdir.
+311510030:Bir də şkafıma bax. Alt paltarında qırğın salmaq fikrin yoxdursa.
+311510040:Sağ ol. Elə bilirdim, heç deməyəcəksən.
+311510031:Əla. Zəhrimar kloun kostyumu. Bu gün daha nə pis ola bilər?
+311510032:Ey, axır ki, zövqlü geyindin. Yeri gəlmişkən, o köynəyi qaytararsan. Daha eləsini tikmirlər.
+311510033:Hə, bunun bir səbəbi var da.
+311510041:Salam. Joe-dur.
+311510042:Hə, bilirəm, bilirəm. Amma bir yaxşılıq lazımdır.
+311510043:Bu gecə bir dəstə irland yaxın dostumu öldürməyə çalışıb. Evini yandırıblar. Kim olduqlarını, harada yığışdıqlarını bilmək istəyirəm.
+311510044:Mənə deməsən, bundan da pis dərdin olacaq.
+311510045:Mickey Desmond...
+311510046:Ah, elədir? Hə, onda aydın oldu. İndi haradadır?
+311510047:Hə, hə, tanıyıram oranı. Yaxşı, sağ ol.
+311510048:Narahat olma, bilməyəcəklər. İnan mənə. Bir də, sənə heç kim zəng etməyib, capiche?
+311510049:Nə, hansı söz nə deməkdir?
+311510051:Capiche... Yəni, "başa düşdün?"
+311510052:Hə, başa düşdün?
+311510053:Yaxşı. Bir də sağ ol, görüşərik.
+311500341:Vay, mətbəx də çəhrayıdır...
+311500342:Yandırılmalı yer əslində BURADIR.
+311500343:Ah, yataq pis deyil.
+311510050:Yaxşı, Vito. Hadi, qalx, getməliyik.
+311510060:Hara gedirik?
+311510070:Hill of Tara-ya, Kingston-dakı irland barına. Gəl, qalanını maşında deyərəm.

@@ -1,0 +1,25 @@
+﻿310033200:Yaxşı, gedək.
+310033210:Siz ikiniz! Gəlin bura!
+310033220:Qulağınızda peyin var?! Bura gəlin dedim!
+310033230:Tez olun, alçaqlar!
+310033240:Bu zibili təmizləyin, yaxşı?
+310033250:Kimsə sürüşüb boynunu sındıracaq.
+310033260:Bu sikilmiş zibilliyi təmizləyin, axmaqlar.
+310033270:Tez ol, özümüzü ələ verməyək.
+310033340:Tez ol, niyə bu qədər uzanır?
+310033350:İlbizdən də yavaşsınız, bilirsiniz?
+310033440:Bu, lənətəgəlmiş Henry idi!
+310033450:Hə...
+310033460:Yaxşı, gəl, qayıtmamış yuxarı çıxaq.
+310033470:Henry'ni çoxdandır görmürdüm...
+310033480:Heç dəyişməyib.
+310033490:Haha, hə. Ümid edirəm, işimizi görməmiş qayıtmaz. Clemente üçün işləsə də, Henry yaxşı adamdır.
+310033500:Hə... amma qayıtsa necə?
+310033510:Heç düşünmə bunu...
+310033520:Dodağımda bu şeylə özümü axmaq hiss edirəm.
+310033530:Elə? Tanıdığımız birinə rast gəlsək necə? Belə bizi tanımazlar.
+310033540:Ümid edirəm.
+310033550:Hehehe... Lap atana oxşayırsan.
+310033560:Maraqlıdır, sən də anana oxşayırsan.
+310033570:Siktir, çoxbilmiş.
+310033580:Yaxşısı, Joe'dan ayrılmayım. Bomba ondadır.

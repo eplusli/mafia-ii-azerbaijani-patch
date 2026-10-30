@@ -1,0 +1,9 @@
+﻿305050209:Tələsməliyik, alov yayılır!
+305050210:Lənət, hər yer yanır!
+305050212:Gedək! Gedək! Odun yanından keçin!
+305050221:Lənətəgəlmiş tüstü...
+305050223:Lənət...
+305050225:Ah, siktir! Ah!
+305050226:Bu sikilmiş yer tamam dağılır!
+305600140:Yox, yalvarıram! Ölmək istəmirəm.
+305050120:n_ Ah! Kömək! Siktir! Yanıram! Lənət olsun! Kömək edin! Yalvarıram, kömək edin!

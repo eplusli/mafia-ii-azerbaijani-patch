@@ -1,0 +1,12 @@
+﻿309031555:n_Hadi, Sammy, belə yumşaq olma.
+309031560:n_Ha, indi sənin yerində olmaq istəməzdim, alçaq!
+309031570:n_Bu adam döyülməyə yaxşı dözür, hə? Bu, qanlı olacaq.
+309031575:n_Ah! Bu yaman ağrıtdı.
+309031580:n_Əhsən, Sammy!
+309031585:Uşaqlar! Həll edin onu!
+309030501:Lənət olsun, pəncərədən uzaqlaş, Vito!
+309030502:İçəri girirlər! Tərpənməliyik!
+309030503:Siktir, buna bax, burada lap alçaqların qurultayıdır.
+309030504:Ah, ay Allah, bu nədir?
+309030505:Bu axmaqlar nə qədərdir?
+309030750:Nə gözləyirsən, Vito?

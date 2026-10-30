@@ -1,0 +1,39 @@
+﻿301042000:Yaxşı, Scaletta. Atəş aç.
+301042010:Nə gözləyirsən axı? Pilləkəndəkini vur.
+301042020:Atəş aç, Scaletta, bu əmrdir!
+301040180:f_Bələdiyyədə daha çox əsir var!
+301040200:f_Adamlarımızı edam etməmiş faşistləri öldürməliyik!
+301040210:f_Hücum! Hücum!
+301040240:Hey, Scaletta, o adam vacib nəsə deyir?
+301040250:Bələdiyyəyə hücum edin! İçəridə daha çox əsir var!
+301042110:Pəncərədəkiləri vur.
+301042120:O eyvanları təmizləməliyik, Scaletta!
+301042130:Qum kisələrinin arxasında!
+301042140:Problem nədir, Scaletta? Pisləri vur! Gedək!
+301042150:Tərpən, tərpən, tərpən!
+301042160:Williams! Orada!
+301042170:Arxamca!
+301040100:f_Geri çəkilirlər! Dalınca! Faşistləri öldürün!
+301042180:Geri çəkilirlər. Gedək.
+301012190:Gəl yuxarı, Scaletta!
+301012200:Götünü qaldır, gəl yuxarı, Scaletta!
+301012210:Scaletta, gəl bura, lənət olsun!
+301042220:f_Aiii!
+301042230:f_Lənət! Ahhh!
+301042240:f_Yatın! Yatın!
+301042250:Lənət! Ehtiyatlı ol!
+301042260:Sssssikim!
+301042261:Oho!
+301070010:n_Tomaso!
+301070020:n_İlahi! Ayağım... (ağrı səsləri və kişi iniltiləri)
+301070030:n_(ayağından vurulmuş kimi nəfəsi kəsilir)
+301070040:f_Geri çəkilin, geri çəkilin!
+301070050:f_İçəridə pulemyot var!
+301070060:n_(Angelo-nu geri çəkərkən inildəyir)
+301070070:n_Ayağından çox qan gedir, Angelo... Bacarırsansa, yuxarı qaldır.
+301042270:f_Ordu gəlməmiş içəri girib əsirləri xilas etməliyik.
+301042280:Onbaşı - bu adam deyir, bura əlavə qoşun gəlir.
+301042290:Əla. Yaxşı, sən Williams-la o pulemyot yuvasını susdur, sonra əsirləri tap. Hər adama ehtiyacımız olacaq.
+301042300:Hey, Scaletta, bura gəl.
+301042310:Hey, Scaletta! Bura, dostum!
+301042320:Scaletta, o pəncərədən gir! İNDİ!

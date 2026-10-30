@@ -1,0 +1,34 @@
+﻿308010520:Plan nədir?
+308010530:Asandır. Bir-iki yerə gedib bu siqaretləri satmalıyıq. Sonra yük maşınını Eddie-yə qaytarıb qazancdan payımızı alırıq. Çox asan.
+308040340:Eşidirsən, Vito? Bir blok Whites!
+308040370:Vito! Bir blok Whites harada qaldı?
+308040411:Hə, elə odur!
+308040412:Yaxşı, ver bura!
+308040413:Bingo!
+308040414:Bax belə daha yaxşıdır!
+308040415:Gördün, bilirdim bacaracaqsan!
+308040425:Gözlərinə nə olub, Vito? Allah xatirinə, bir blok Whites ver!
+308040426:Ah... Madonna mia, Vito, hadi, hə?! Whites lazımdır! Tez ol! Cəld!
+308040420:Nə iş görürsən, Joe?
+308040430:Hey, çavuş, necəsən?! Həmişəki kimi bir blok Blues?
+308040440:Ee, deyəsən, bu dəfə... Whites götürəcəyəm.
+308040450:Eşitdin, Vito, tez ol! Bir blok Whites.
+308040460:Sağ ol, Joe. İndi rədd ol buradan, yaxşı?
+308040470:Əlbəttə, sizinlə iş görmək xoşdur, zabit.
+308040480:Yaxşı, getmək vaxtıdır. Min, Vito. Növbəti dayanacaq Millville-dir.
+308040490:Bu gün yaxşı gedir. Əməlli pul qazanırıq.
+308040491:Gördün, nə dedim? Bu gün yağ kimi gedir.
+308040492:Yaxşı, bu, az qala dünən gecəni unutdurur... Az qala.
+308040493:Eləmə, bundan yaxşı nə var? Təmiz hava, yaxşı yoldaşlıq, bir yığın pul. Təzəcə həbsdən çıxan adam üçün pis deyil.
+308040494:Yaxşı, yaxşı. Qulaq as, gələn bir neçə saat da əvvəlki kimi olsa, hamısı bağışlanır.
+308040495:Bax, tanıdığım Vito budur. Yaxşı, bir saniyəyə oradayıq.
+308080370:n_Bu nə sikimdir?
+308010700:O uşaq Marty də Eddie-yə işləyir?
+308010710:Aha, yuxusunda. Uşağın hələ on səkkizi yoxdur. Mənim işlərimi görür, məni gəzdirir, mal çatdırır, belə şeylər. Amma özünü qanqster sayır. Kinoda çox vaxt keçirir.
+308010720:Uşaq səni nümunə götürürsə, böyük bəlaya düşəcək.
+308010730:Eləmi, çoxbilmiş? Onun yaşındakı səni yaman xatırladır.
+308010740:Elədir. Səninlə tanış olandan Avropada iki il güllədən yayınmışam, altı il də həbsdə yatmışam. Bəla deyəndə bunu nəzərdə tuturam.
+308010750:Nə olub, bu səhər kimsə qəhvənə sıçıb? Elə bil yaxşı günləri unutmusan.
+308010760:Hə, bir gün onları yadıma sal, yaxşı?
+308040510:Hehehehe... Hey, gör kim gəlib, ahehe? Harada idin, bütün günü yataqda uzanmışdın?
+308040520:Hey, son işdən sonra bir az dincəlməyə haqqım var, elə deyil?

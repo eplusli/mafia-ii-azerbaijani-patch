@@ -1,0 +1,25 @@
+﻿307020010:Mənim maşınımla gedib təzə ev sahibinlə görüşək. Sən sür, yenidən alışarsan.
+307020013:Ümid edirəm, həbsdə maşın sürməyi unutmamısan.
+307020014:Nədən narahatsan? Velosiped sürmək kimidir...
+307020015:Elədir, amma velosipedi əzəndə təmirinə bir ətək pul getmir.
+307020016:Yaxşı, yaxşı, başa düşdüm. Lap qoca arvadsan.
+307020017:Hə... Ümid edirəm, başa düşmüsən. Fikir verməmisənsə, sən gedəndən maşınlar çox dəyişib. Görəcəksən.
+307020020:Təzə evin bu küçənin aşağısındadır, sahil gəzinti yolunun yanında. Çox bəyənəcəksən.
+307020080:Lənət, qayıtmağın necə yaxşı oldu.
+307020090:Sən həbsdə olanda da yaxşı gedirdim, amma indi çıxmısan, hər şeyi bacararıq!
+307020100:Henry'ni son vaxtlar görmüsən?
+307020110:Yox, bir neçə ildir görmürəm... Baş verənlərə görə çox pis olmuşdu, bilirsən.
+307020120:Bəs sən nə iş görmüsən? Məni görməyə gələndə çox şey danışa bilmirdik.
+307020130:Clemente ilə o balaca alçaq Luca bizə oyun qurandan sonra Falcone ailəsi ilə əlaqə yaratdım, onlar üçün işləməyə başladım.
+307020140:Doğrudan?
+307020150:Hə, bu axşam görərsən. Dedim axı, sənə yaxşı sürpriz hazırlamışam. Amma soruşma, deməyəcəyəm.
+307020160:Ay Allah...
+307020170:Narahat olma, həftələrdir planlaşdırıram!
+307020180:Elə bundan qorxuram.
+307020181:Demişdin, həbsdə çox şey öyrənmisən, Vito. Nə öyrəndin? ...Sik fleytası çalmaqdan başqa...
+307020182:Əvvəla, siktir. İkincisi, o "işin" necə qurulduğunu bir az öyrəndim. Hə, qoca Leo mənə çox şey öyrətdi.
+307020183:Hə, sağ qarmaq zərbəni eşitmişəm.
+307020184:Bilirsən də, etməyə çox şey yox idi...
+307020185:Hə, yəqin. İndi çıxmısan, qocanı görməyə gedəcəksən?
+307020186:Hə, amma əvvəl ayaq üstə durmaq istəyirəm. İndi susarsan? Musiqiyə qulaq asmaq istəyirəm.
+307020191:Yaxşı, yaxşı...

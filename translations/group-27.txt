@@ -1,0 +1,76 @@
+﻿306010020:Nə edirsən! Sənə əmrə tabe olmağı göstərəcəyəm!
+306010030:Problem yaratmaq istəyirsən, ay köpəkoğlu?
+306010040:Nə olub? İngiliscə bilmirsən? Gəl, sənə "öyrədim"!
+306030050:Növbəti on il yeni evim bura olacaqdı. Zibilə oxşayırdı, sidik iyi verirdi. Buradansa Avropada güllədən yayınmağa üstünlük verərdim. 
+306040244:Nə istəyirsən, ağ şeytan?
+306040247:Nə sikim istəyirsən?
+306040250:Çəkil, dostum.
+306040253:Geri çəkil, bura qaraların liqasıdır, ağlara yer yoxdur!
+306040256:n_Get, qardaş, get! Bacarırsan!
+306040259:n_Rekord sənin olacaq, qardaş!
+306040262:n_Əla gedirsən! Ağrı yoxdursa, xeyir də yoxdur, qardaşım!
+306040265:n_Hadi! Davam elə, qardaş, davam elə!
+306040268:n_Bu köpəkoğullarına qulaq asma! Bacaracaqsan! Bilirəm.
+306040271:n_Gücün çatmır, qardaş! Elə indidən təslim ol!
+306040274:n_Qolların yanır, hə! Təslim olmaq ayıb deyil!
+306040277:n_Mənim rekordumu heç vaxt keçə bilməzsən. Niyə çalışırsan ki?
+306040280:n_İki siqaretdən mərc gəlirəm, bu köpək dostumun rekorduna heç yaxın düşməyəcək.
+306040283:n_Bu cılız köpəyə baxın! Bacaran deyil!
+306040286:n_Təslim ol! Təslim ol da, qardaş!
+306040289:Rədd ol, dostum. Şəxsi məsələdir.
+306040290:Bağışla, qardaş. Qara Olimpiadaya ağlar buraxılmır.
+306040294:n_ Müharibə... müharibə yeni başlayır. Bütün bazalarınız... BÜTÜN bazalarınız... bizimdir. BİZİM! Kimsə... bizə qurdu... bəli, bizə BOMBA qurdu! Məhvə doğru gedirsiniz... sağ qalmaq şansınız yoxdur... Vaxtınızı dəyərləndirin... hamınız, vaxtınızı dəyərləndirin... şans yoxdur... sağ qalmaq şansı yoxdur. Bütün bazalarınız...
+306040295:Uhhhhaahhh!
+306040300:n_Min səkkiz yüz yetmiş lənətəgəlmiş altı.
+306040310:n_Nə?
+306040320:n_1876 gün. Çıxana qədər bu xarabada daha 1876 gün dözməliyəm.
+306040330:n_Günlə sayırsan? İllə nə qədərdir? İki?
+306040340:n_Bir ildə üç yüz altmış beş gün var. İki il olsaydı, cəmi yeddi yüz otuz gün edərdi.
+306040350:n_Bəs neçə ildir? Hesabım elə də yaxşı deyil.
+306040360:n_Ah... Beş il, bir də az qala iki ay. Sənə nə qədər qalıb?
+306040370:n_Məni gələn yay buraxmalıdırlar. 
+306040380:n_Bəxtəvər köpəkoğlu.
+306040430:n_Salam, Minh.
+306040440:n_Salam, Willis.
+306040450:n_Düşünürdüm... elədiyiniz o şeylərdən mənə də öyrədə bilərsən?
+306040460:n_Nədən danışırsan, Willis?
+306040470:n_Bilirsən də, o çinq-çonq karate zibilini deyirəm.
+306040480:n_Bağışla... Minh qaradərili qardaşa kunq-fu öyrədə bilməz.
+306040490:n_Niyə?
+306040500:n_Qadağandır... amma...
+306040510:n_Amma nə?
+306040520:n_Minh səninlə razılaşar. Sən Minh'ə basketbol öyrət, Minh sənə kunq-fu öyrətsin.
+306040530:n_Əla! Razılaşdıq, köpəkoğlu!
+306040540:n_Gabe'i son vaxtlar görmüsən?
+306040550:n_Yox... Karserdədir.
+306040560:n_Yenə?
+306040570:n_Hə.
+306040580:n_Bu dəfə nə edib?
+306040590:n_Həmişəki kimi. Stone'a siktir dedi, sonra da nəzarətçilərlə dalaşmağa çalışdı.
+306040600:n_Adam cəsarətlidir, söz yox.
+306040610:n_Amma ağlı da bir az çatmır...
+306040620:n_Dan'dan eşitmisən? Deyirlər, duşda tutublar onu.
+306040630:n_Hə, o lənətəgəlmiş geylər hədlərini aşırlar, hə?
+306040640:n_Əlbəttə.
+306040650:n_Bu dəfə də tibb məntəqəsinə düşüb. 
+306040660:n_Nədir, götünü cırıblar? Hehehe...
+306040670:n_Yox, kəlləsini sındırıblar.
+306040680:n_Lənət.
+306040690:Jimmy. Deyirlər, sən şeydəsən... Bilirsən... o klubda, düzdür?
+306040700:Nədən danışdığını bilmirəm.
+306040710:O "klub" da, döyüşdüyünüz yer.
+306040720:Dedim axı, heç eşitməmişəm.
+306040740:Hamı elə deyir. Birinci qayda budur, hə?
+306040750:Birinci qayda nədir?
+306040760:Bu barədə danışmamaq.
+306040770:Xəbərim yoxdur.
+306040780:O qocanı tanıyırsan?
+306040790:Çox qoca tanıyıram. Dəqiq de kimi.
+306040800:O ətrafı qoluzorlularla dolu qoca mafiozu.
+306040810:Qoca Galante'ni deyirsən?
+306040820:Hə, onu.
+306040830:Nə olub ona?
+306040840:Eşitmişəm, çoxdan peşəkar boksçu olub.
+306040850:Elə? Onda lap çoxdan olub. Kimlə vuruşurdu? Lənətəgəlmiş dinozavrlarla?
+306040860:Haha. Yaxşı dedin. Amma bunu çox ucadan deməzdim...
+306040870:Hə, əlbəttə.

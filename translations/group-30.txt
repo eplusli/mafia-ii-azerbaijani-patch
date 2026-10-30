@@ -1,0 +1,39 @@
+﻿314031110:n_Bu köpəyi neyləyəcəyik? Boss istədiyini alandan sonra deyirəm.
+314031120:n_Çimizdirərik.
+314031130:n_Nə?
+314031140:n_Bilirsən də, betonda.
+314031150:n_Hehe, yaxşı fikirdir. Niyə ağlıma gəlmədi?
+314031160:n_Heç kim sənin çox ağıllı olduğunu deməyib axı. Sən neyləyərdin?
+314031170:n_Nə bilim, yandırardım?
+314031180:n_Yandırmaq? Niyə?
+314031190:n_Baxmaq əyləncəli olar, xüsusən hələ nəfəs alsa.
+314031200:n_Yaxşı, bu lap xəstəlikdir.
+314031210:n_Nə? Yaş betona atıb boğulmağa qoymaq xəstəlik deyil?
+314031220:n_Əvvəlcə güllələyəcəyik. Biz canavar deyilik...
+314030890:n_Nə? Nə dəlilikdir?
+314050581:n_Uuooaah! Siktir bunu!
+314050582:n_Ah... yaşamağa qoy, yalvarıram!.. eh...
+314050583:n_Xahiş edirəm, eləmə!
+314050584:n_Yalvarıram, dostum. Bunu eləmə!
+314050585:n_Yox, yalvarıram, ailəm var!
+314050586:n_Lənət, ölmək istəmirəm, yalvarıram!
+314050587:n_Bəsdir, yalvarıram, bəsdir!
+314050588:n_Bir az insafın olsun!
+314050589:n_Neh... Bu zibil heç mənə lazım deyil.
+314050591:n_Siktir bunu, mən gedirəm!
+314050592:n_Buna dəyməz, mən gedirəm.
+314050593:n_Hey... o nə idi?
+314050594:n_Al bunu, ay alçaq.
+314050595:n_Necədir, xoşuna gəldi? 
+314050596:n_Hadi!
+314050597:n_Orada!
+314050598:n_Oradadır!
+314050599:n_Get, get, səni qoruyaram!
+314050601:n_O alçaq onu öldürdü!
+314050602:n_O nə səs idi belə?
+314050603:Səhv adama sataşmısan, dostum.
+314050604:Çək götünü bura, Vito!
+314050605:Vito, bura gəl, çıxış bu tərəfdə olmalıdır...
+314050606:Nə istəyirsən, qucaqlayım səni?
+314050607:Get özünü sik.
+314050608:Əvvəl sən get, səni qoruyaram.

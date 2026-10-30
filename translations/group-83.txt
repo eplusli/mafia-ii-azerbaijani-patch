@@ -1,0 +1,28 @@
+﻿306080010:Qulaq as, bu çinlilər cəld balaca köpəklərdir. Əvvəldən ağır zərbə vurmağın mənası yoxdur, dəydirə bilməzsən.
+306080020:Yaxşı, onda nə etməliyəm?
+306080030:Cəld vur, yorulsun. Zəifləyəndə müdafiəni boşaldacaq, onda bütün gücünlə vurarsan.
+306080040:İndi çıx, göstər onlara kim olduğunu.
+306080050:n_Bundan cəld olmalısan, bala!
+306080060:n_Ağır zərbə vurmamış onu yor, bala!
+306080070:n_İndi vaxtıdır, bala! Göstər ona!
+306080080:n_Bax belə, Vito! İndi yağdır üstünə!
+306080090:n_Elə döy ki, tanınmaz olsun!
+306080100:n_Ah! O üslubu öyrənməliyəm...
+306080110:n_Haha! Ehtiyatlı ol! Sümüyün yerindən çıxacaq.
+306080120:n_Haha! Yumru gözləri görür, amma baxmır.
+306080130:n_Yaxşı vur, elə belə! Daha tez vur! Belə vur, bax belə! Yaxşı, yaxşı, yaxşı!
+306080140:n_Yaxşı vur, elə belə! Daha tez vur! Belə vur, bax belə!
+306080150:n_Anasını ağlat! Anasını ağlat!
+306080160:n_Ah, nə edirsən?! Ağ şeytana uduzmaq şərəfsizlikdir!
+306080170:n_Ayya! Pələng üslubunu işlətsəydi, belə olmazdı...
+306080180:n_Ayya! Daha çox öyrənməliydi!
+306080190:n_Ustadı razı qalmayacaq...
+306080200:n_Ölənə qədər döy! Tez ol, ölənə qədər döy! Elə belə, təpik vur! Tez ol, təpik vur! Elə belə, vur, vur!
+306080210:n_Ölənə qədər döy! Tez ol, ölənə qədər döy! Elə belə, təpik vur! Tez ol, təpik vur! Elə belə, vur, vur!
+306080220:n_Vur onu! Vur! İndi vur!
+306080230:Vito sizin adamı səhər yeməyi kimi yediyinə görə bəxt peçenyesi alacaq? Haha!
+306080240:Kişi kimi vuruşanda görərik nə qədər qoçaqsan... O çinq-çonq zibili olmadan!
+306080250:Elə? Sənə bir porsiya mu-şu siktir-get sifarişim var!
+306080260:Ha! Yekəsən, amma qoçaq deyilsən!
+306080270:Sənə ağ şeytanın götünə təpik vurmağın qədim Çin sənətini göstərəcəyik!
+306080280:Bu dəfə adamın yerə səriləcək, ağ şeytan!

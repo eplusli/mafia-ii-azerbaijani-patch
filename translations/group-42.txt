@@ -1,0 +1,74 @@
+﻿302040240:Son üç ildə bunların hamısına pul qazanmısan?
+302040250:Daha çox son üç ayda. Evi düzəltməyə güclə vaxt tapmışam.
+302040260:Üç ay? Ay lənət...
+302040270:Sadəcə lazımi adamları tanımalısan. Sən də rahatsan, çünki məni tanıyırsan.
+302040280:Hey, tərxis sənədlərinə görə bir də sağ ol.
+302040290:Hey, cəmi bir zəng eləmişəm. Götürməyə gedəndə Giuseppe-yə sağ ol deyərsən.
+302040600:İsti su, hmm. Buna öyrəşmək olar...
+302040610:Bir bax... düz krandan gəlir...
+302040620:Gəl, burada dayanmaqla pul qazanmayacaqsan.
+302040630:Hey, getməyə hazırsan, ya yox?
+302040640:Vito, hadi, gedək daha.
+302040010:Gəl, mənim maşınımla gedək.
+302040700:Hey, ee, səncə mən...
+302040710:Nə - sürmək, Vito? Yollar buzdur, sən də heç maşın sürməmisən.
+302040720:Joe, orada olduğum vaxtın çoxunu sürmüşəm!
+302040730:Hə, amma bu tank deyil, Vito. Pulla alınan ən yaxşı maşınlardan biridir...
+302040740:Tank sürmürdüm, cip sürürdüm.
+302040750:Cip nədir axı?
+302040751:O bir... boş ver. Sürməyə qoyacaqsan, ya yox?
+302040752:Yaxşı, yaxşı, al açarları. Sadəcə çox ehtiyatlı ol.
+302040760:Yaxşı, çöldə it soyuğu olanda adətindən bir az çox qaz verməlisən. Bax, sağdakı o pedaldır...
+302040770:Bilirəm, Joe, bilirəm...
+302040780:Orada nə sürdüyünü dedin? "Cip"? O Avropa maşınları tamam başqadır.
+302040790:Amerika hərbi maşınıdır... yük maşını... bir şeydir. Ah... boş ver.
+302040800:Hey, dayan, dayan, dayan! Bir az yavaşla! Boş yerə polis saxlamasın.
+302040850:Ən qısa yol tuneldəndir, burada sola dön.
+302040860:Sonra bir az düz get.
+302040870:Uzun yolla getsək, etiraz etməzsən?
+302040880:Onsuz da gedirik, elə davam elə. Şimala getdiyinə fikir ver. Mike-a çatmaq üçün çayı keçməliyik.
+302040900:Yaxşı, indi burada sağa dön.
+302040930:Mike-ın yanına gedirik, ya yox? Öz maşının olanda gəzintiyə çıxarsan.
+302040940:Yaxşı, az qalıb. Burada sağa dön.
+302040950:Bunu deməyə qorxuram, amma magistrala çıxsan, daha sürətli gedə bilərsən. Bizi öldürməsən, çox tez çatarıq.
+302040960:Oho! Dəlisən? Səhv istiqamətə gedirsən!
+302041010:Ay lənət. Ee, onu... onu cilalayıb çıxardarlar.
+302041020:Hə, yaxşı sürücülüyünü sikim. Saxla, mən sürüm.
+302041030:Yox, yox... Eləmə, narahat olma, hər şey nəzarətdədir...
+302041031:Hə... yaxşı olar ki, elə olsun.
+302041040:Lənət! Bağışla.
+302041050:Hey! Dedim axı, bu tank deyil! Ehtiyatlı ol!
+302041051:Yaxşı, yaxşı... bağışla.
+302041060:Lənət, Vito! Nə edirsən axı!?
+302041070:Bağışla, Joe, bir də olmaz.
+302041080:Hə, olmasın!...
+302041090:Argh... Bunu sonra mütləq Charlie-yə aparmalıyam.
+302041100:Charlie, hansı Charlie?
+302041110:Sonra tanış edərəm. İndi o lənətə gəlmiş yola bax!
+302041115:Sikim! Gördün!? Dedim axı, vuracaqsan.
+302041116:Argh... Bunu düzəltməliyik...
+302041117:Sakit ol. Baxaram... Cipdən çox fərqli olmaz, hə?
+302041120:Ee... bu bir az çəkə bilər...
+302041130:Əla, Vito. Bir az da vur, çatanda elə zibilxanada qoyaq qalsın.
+302041170:Oho!
+302041180:Argh... axmaq...
+302041300:Əl çəkirsən? Haha, narahat olma, bir gün sürməyi öyrənərsən. İndi min ki, orada səni vurmasınlar.
+302041310:Hey, dayan! Hara gedirsən? Hələ çatmamışıq!
+302041320:Hey, Vito, daha sürmək istəmirsənsə, de. Özünü gərginliyə salma.
+302041340:Bilirsən nə var? Səndən ümid yoxdur. Vəssalam, ağlın başına gələnə kimi burada gözləyirəm.
+302040140:Lənət! İndi də polislər dalımızcadır!
+302040160:Tez qurtul onlardan!
+302040170:O polislərdən qurtul, qanmaz!
+302040180:Eşidirsən? O polislərdən canını qurtar!
+302040190:Bilirsən, bu adamlarla aram elə yaxşı deyil. Qurtul onlardan!
+302041375:Gəzməyə vaxtım yoxdur. Görüləsi işim var.
+302041376:Tərpənməliyəm. Joe məni gözləyir.
+302070050:Giuseppe-nin dükanına, oğruların cənnətinə xoş gəlmisən... Nə desən var. Saxta silah icazəsi, güllələnməkdən bezənlərə tərxis sənədi də satır...
+302140380:Hey, Vito, bilirsən saat neçədir?
+302140390:Gündüzdür, haradan bilim, lənət olsun?
+302140391:Özünə maşın tapmaq vaxtıdır, lənət olsun.
+302140392:Hə, pulum olsa, məmnuniyyətlə.
+302140400:Kim dedi pul verəcəksən?
+302140450:Ooh, o gözələ bax.
+302140460:Qəşəngdir, 42-ci il Jefferson-dur.
+302140470:Belə gözəl maşının şüşəsini qırmaq heyifdir. Guiseppe-dən özünə kilid açan alətlər götür.

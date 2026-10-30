@@ -1,0 +1,80 @@
+﻿401000010:Ah... Lənət.
+401000020:.....Ahhhh.
+401000030:Buna bax. Joe'nun yazı yaza bildiyini bilmirdim.
+401000050:Təzə işimiz var! Lap böyük bir iş.
+401000051:Bu axşam Freddy'nin yerinə gəl. Tapança və qıfıl açan alətlər gətir.
+402000010:Hehehehe... Baxın görün kim gəlib, hə? Harada qalmısan, bütün günü yataqda uzanmışdın?
+402000019:n_... ah çəkmək, gücənmək ...
+402000020:Son işdən sonra bir az dincəlməyə haqqım var da, səncə yox?
+402000030:Sizə nə gətirim, cənab?
+402000040:Qəhvə.
+402000050:Deməli... eşitdim, dünən gecə çox qazana bilməmisən.
+402000060:Tam mənim günahım deyildi. Olur belə şeylər.
+402000070:Yaxşı, sakit olun, uşaqlar. Bu işin riski böyükdür.
+402000071:Xoşunuza gəlmirsə, gedib limanda qəpik-quruşa belinizi sındıra bilərsiniz.
+402000080:Bağışla, Henry, elə sataşırdım da. Hə, bu axşam necə olacaq? Dünən danışdığımız iş qüvvədədir?
+402000090:Bir azdan bilərik.
+402000100:n_ Nə?! Nə vaxtdan onun sikilmiş problemləri mənim problemim olub?! O gicbəsər bizi dolayır! Pulunu ödəməyə imkanı var idi. İndi gedib özüm almalıyam. 
+402000101:Yaxşı, yaxşı. Hələlik təkcə borcunu alacağam. Hələlik. Amma Alberto bundan xəbər tutanda aləm bir-birinə dəyəcək, inanın mənə.
+402000102:Cəmi iki ay?! O iki ayın hər günü artıqdır! Mən, pulumu, istəyirəm!
+402000103:Elə bilir burada sikilmiş xeyriyyə cəmiyyəti işlədirəm? 
+402000110:Elə! İndi...
+402000120:Kim idi?
+402000130:Hələlik tanımağına ehtiyac olmayan biri.
+402000140:Yaxşı, qulaq asın. Bir nəfərin bossa borcu var. Böyük bir zərgərlik dükanı açmaq üçün borc götürüb, amma qaytarmağı uzadır. Bu gecə gedib borcunu alacağıq.
+402000141:Ləl-cəvahiratla. Üstəlik... əziyyətimizin haqqını da. Joe, qalanını sən danış. 
+402000150:Zərgərlik dükanı şəhərin mərkəzindəki ticarət mərkəzindədir. Gecə mühafizəçisi olmur. Qıfılı açıb rahatca içəri girəcəyik.
+402000180:Bir az həddən artıq asan səslənir.
+402000181:n_... içir ...
+402000190:Çünki asandır. Sən niyə hər şeyi bu qədər qəlizləşdirirsən?
+402000200:Bunu da güclə lampa dəyişən adam deyir.
+402000210:Bax, narahat olma. Hər şeyi düşünmüşəm. Telefon şirkətinin formalarını tapmışam, guya nəsə təmir edirik.
+402000220:Yaxşı, gedək.
+402000230:Əla! O köpəyi lap soyub lüt qoyacağıq. Bircə qaranlıq düşməyini gözləyək...
+403000005:Bu nə cəhənnəmdir?!
+403000010:Tez olun, uşaqlar, polislər hər an gələ bilər. Tərpənin!
+403000022:Uff...
+403000020:Bu nə sikilmiş işdir!
+403000030:Brian lənətəgəlmiş O'Neill?
+403000031:Ay dəli köpəkoğlu. Nə hoqqa çıxarırsan?
+403000040:Barbaro, burada nə itin azıb, ay gədə?!
+403000050:Hehe, bir az gecikmisən, rəis. Burada sənə heç nə qalmayıb.
+403000060:Siktir, kökə! Bura bizim soyğunumuzdur! Buradan sağ-salamat çıxmaq istəyirsənsə, götürdüyün hər şeyi ver.
+403000070:Hə, hə, hə. Çöldəki lövhədə Brian O'Neill'in yeri yazılmayıb axı. Yazılsaydı, soymardım.
+403000071:Əvəzində yandırardım...
+403000073:Bütün heyətlərə, West Side ticarət mərkəzində 10-31 qeydə alınıb. Təkrar edirəm: 10-31, oğurluq davam edir.
+403000074:54 nömrəli maşındır. Hadisə yerinə gedirik.
+403000072:Məsləhət görürəm, polislər gəlməmiş rədd olasınız.
+403000080:Ah, siktir!
+403000090:Götümdən öp!
+403000100:Siktir olub gedək buradan!
+405000010:Lənət olsun!
+405000020:Ay Allah, ehtiyatlı ol! Az qala səni itirmişdik.
+405000030:Hə, deyəsən, altımı batırdım...
+405000040:Hara getdilər?!
+405000050:Bu tərəfə getmiş olarlar, serjant!
+405000060:Siktir elə! Bunun üçün mənə yetərincə pul vermirlər. 
+405000070:Oradadır, atəş açın!
+405000090:Çək götünü bura!
+405000100:Sənə rəsmi dəvətnamə göndərək?
+404000010:Siktir, polis! Heç nə eləməmişəm! Vəkilimi istəyirəm.
+404000020:n_ Kəs səsini, alçaq, min içəri. Vəkilinlə bölmədə görüşərsən.
+404000030:n_ Heç bir lənətəgəlmiş boşboğaz istəmirik. Biz vəkil istəyirik!
+404000040:n_ Vəziyyət nəzarətdədir. Şübhəlilər silahlı idi. Deyəsən, irland dəstələrindəndir...
+404000050:n_ Hahaha... 
+404000051:İrlandların bəxti dedikləri bu imiş.
+404000060:n_..təngnəfəslik..gülüş..
+404000061:O kim idi belə?!
+404000070:Brian O'Neill. Dəli irland köpəkoğlu, elə də ağıllı deyil, adətən muzdlu qoluzorluq edir...
+404000080:Hə, işin beyninin o olmadığını başa düşmüşdüm.
+404000081:Hadi. Gedək!
+404000085:Lənət, polislər! Tez ol, işıqdan çıx, gedək! Tez, tez, tez!
+404000086:Lənət olsun!
+404000087:n_ ...təngnəfəslik...
+404000090:Sakit, bizi axtarırlar.
+404000091:Susarsan?! Joe, ay Allah, burada bizi həbs etdirəcəksən. Hahaha. Bəsdir, də, nə olub sənə.
+404000092:n_gülüş
+404000094:Sakit olarsan?
+404000100:Narahat olma, çantanı ver. Gedim malı gizlədim.
+404000110:Oldu, dostum, evdə görüşərik. Yolda çalış tutulmayasan.
+2000000000:n_

@@ -1,0 +1,15 @@
+﻿309030020:n_Bilirsən, bu gün yarışa gedəcəkdim, Luca zəng edib dedi bura gəl. Bütün bazar günümü sikdi!
+309030030:n_Yaxşı ipucu almısan, ya nə?
+309030040:n_Hə, dostum dəqiq udacaq atın adını verdi. Yəqin sərvət qazanardım.
+309030050:n_Ah, heyif. Mən də Kelly-ni gəzməyə aparacaqdım.
+309030060:n_Hey, elə bilirdim arvadının adı Marie-dir?
+309030070:n_Elədir. Kelly Jersey-dən o irland qızdır. Elə sorur, qoşqu qarmağının xromunu da çıxarar...
+309030071:n_Hehe, heç olmasa, qarantili fürsəti itirən tək mən deyiləm. Gedək görək Luca təzə dostlarıyla nə edir.
+309031760:n_Onu deyirdim də, səfeh. Ümid edirəm, müdir nə etdiyini bilir. Bu, müharibə başladacaq.
+309031910:n_Yaxşı, yaxşı. Gələn dəfə sualın olanda bax gör cavab verirəm.
+309031500:n_Bəsdir oynadınız! Bitirin işlərini daha!
+309031510:n_Hey - elə bilirsiniz, bunları öldürməyinizi gözləməyə bütün günüm var!?
+309031520:n_Niyə belə uzun çəkir?
+309031530:n_Cəmi iki nəfərdirlər! Nə qədər çətin ola bilər!?
+309031545:n_Hadi, öldür onu, Sammy! Çalış bu dəfə o qədər dağıtma.
+309030301:Öldürün onu, axmaqlar!

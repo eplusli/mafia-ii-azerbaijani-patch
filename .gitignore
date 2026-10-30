@@ -1,0 +1,13 @@
+/build/
+/release/
+/TestResults/
+/.vs/
+*.user
+*.suo
+*.tmp
+**/OriginalFiles/
+**/PatchedFiles/
+**/SavedGameBackup/
+**/MafiaII.Azerbaijani.Backup/
+**/Fixture-*/
+**/.az-*/

@@ -1,0 +1,30 @@
+﻿303030300:n_Hə, görəndə inanaram. İndi sus, krossvordumu qurtarım.
+303030310:n_Ah, boş şeydir... Gedim bir dövrə vurum.
+303030320:n_Nə yaxşı, canım qurtardı.
+303030330:n_Həftəsonuna planın var?
+303030340:n_Hə, dincəlib bir az "televiziya" izləyəcəyəm.
+303030350:n_Nə, televizor almısan?!
+303030360:n_Əlbəttə almışam!
+303030370:n_A kişi, o şeylər maşın qiymətinədir! Pulu haradan tapdın?
+303030380:n_Mary-nin Lou əmisi bir neçə ay əvvəl öldü, bizə bir az pul qoydu.
+303030390:n_Sən də onunla özünə televizor aldın...
+303030400:n_Elə elədim! Gərək görəsən. Yeddi düymlük ağ-qara ekran. Üç kanalı da tutur...
+303030410:n_Vay, nə maraqlı səslənir.
+303030420:n_Nədir, sən almayacaqsan?
+303030430:n_Mən öz qəzetimlə radiomda qalacağam, çox sağ ol. Bu "televiziya" keçici dəbdir.
+303030440:n_Onu görərik, oğlum.
+303030450:n_Hə, bəs Mary nə deyir?
+303030460:n_O, ee... hələ görməyib.
+303030470:n_Ohhh, hoho! Getdikcə maraqlı olur...
+303030480:n_Ee, ştatın şimalına, anasının yanına gedib...
+303030490:n_Ah, aydındır. Bəs o qəşəng televizorunda nə izləyirsən?
+303030500:n_Əsasən cizgi filmi. Müharibəyə görə indi çox şey göstərmirlər.
+303030510:n_Cizgi filmi. Cizgi filmi izləmək üçün o qədər pul. Hmph, a kişi.
+303030520:n_Satıcı dedi, müharibədən sonra beysbol oyunları da göstərəcəklər.
+303030530:n_Hə, görəndə inanaram.
+303030540:n_Amma qulaq as, o cizgi filmlərinə baxırdım, ağlıma bir fikir gəldi.
+303030550:n_Ah, başladıq. Yaxşı, Einstein, eşidək.
+303030560:n_Ee, bax belə - bəlkə... cizgi filmini idarə edə biləydin?
+303030570:n_Nə demək istəyirsən?
+303030580:n_Bilirsən də, idarə etmək. Ekrandakı balaca adama nəsə etdirəsən. Qaçırasan, maşın sürdürəsən... Bəlkə silah da atdırasan... onunla şeyləri vurasan!
+303030590:n_Hey, yapışqan iyləmisən? Onu necə edəcəklər axı?

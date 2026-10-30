@@ -1,0 +1,29 @@
+﻿308080010:Dedim axı, yoldan çəkil!
+308080020:Tərpən, dəli əclaf!
+308080030:Güllələməyimi istəyirsən?
+308080040:Hahahaha, bu lap gözəldir, lənət olsun!
+308080050:Ah hahahahaha! Hə! Hə! Haha!
+308080060:Ups! Hahahahaha!
+308080070:Yaxşı, bəsdir!
+308080080:Bir balaca hədiyyə qoyaq. Vito, Marty, baqajda Molotov kokteyllərim var. Götürüb içəri atın.
+308080090:Heh, məmnuniyyətlə, Steve!
+308080100:Hmph, nrgh! Bu onlara dərs olar! Hahahaha!
+308080110:Nə gözləyirsən? Şüşəni götür, içəri at! O qədər çətin deyil.
+308080120:Lənətə gəlmiş səfeh... İndi boş ver, deyəsən, fikrimizi çatdırdıq.
+308080125:Hə! Hehe.
+308080130:Yaxşı, indi tökmə zavoduna gedirik.
+308080140:Minin, uşaqlar.
+308080150:Sizinlə əsas darvazada görüşərik.
+308080160:Orada görüşərik.
+308080161:Hadi, Vito.
+308080162:Gedək!
+308080170:Yaxşı, başlayaq.
+308060800:Ah, Eddie telefonda lap QUDURMUŞDU.
+308060810:Əlbəttə. Elə mən də indi qudurmuşam. O götlərin bir qəpiyi olmasa da, iki min dollarlıq döyəcəyəm onları.
+308060820:Ah, mən də səninləyəm. Amma Steve niyə Eddie-yə işləyir? Derek-ə işləyir, Derek də Vinci-nin dəstəsindədir.
+308060830:Haradan bilim axı? Amma sən yenə Derek-dən iş götürəcəksən, hə? Eddie-yə işləsən də? Dolanmaq üçün hamımız lazım olanı edirik...
+308060840:Steve Marty-ni buna niyə qatır axı?
+308060850:Bəlkə Steve ümid edir, çənəsini sındırarlar. Hamımız bir neçə ay rahat olarıq.
+308060860:Hey, Marty-yə bir az yumşaq davran, yaxşı? Yaxşı uşaqdır.
+308060870:Hey, yaxşıdır, pisdir, bu, onun qarışmalı olduğu iş deyil.
+308060880:Bilmədiyim şey de. Amma mən ona baxaram, narahat olma.

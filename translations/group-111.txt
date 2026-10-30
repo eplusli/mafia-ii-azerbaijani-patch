@@ -1,0 +1,30 @@
+﻿309220240:Ahh!
+309220250:Oho!
+309220260:Tutdum səni!
+309220270:Hey!!!
+309220280:Hə! Qaçsan yaxşıdır!
+309220290:Lənətə gəlmiş axmaq!
+309220300:Nə? Nə... Mənimlə... hıç... dalaşmaq istəyirsən?
+309220310:Çəkici atarsan mənə daha!
+309220320:Yaxşı, yaxşı. Başını qoru!
+309220330:Ah! Nə sikim edirsən?
+309220340:Zibil parçası! Bu şeyə nə olub?
+309230350:n_Əzizim. Bağışla...
+309230360:n_Bağışla? Deyəcəyin ancaq budur?
+309230370:n_Bax, günah səndə deyil...
+309230380:n_Bütün məhəllədə ən yaxın dostumu seçməliydin!
+309230390:n_Nə edim... əsl yaraşıqlıdır, mənimlə xanım kimi davranır!
+309230400:n_Məzələnirsən? O adam unitaz oturacağından çox göt görüb.
+309230410:n_Bununla nə demək istəyirsən?
+309230415:n_Hə, alacağın yeganə "qayğı" zöhrəvi xəstəlik klinikasında olacaq. Görüşərik, əzizim.
+309230420:Ay!!!
+309230430:Nə edirsən? Sənə nə olub!?
+309230440:Bağışla, dostum.
+309230450:Hə, bağışlamağını sikim.
+309250880:n_Hə, Frankie! Davam elə!
+309250890:n_Hə! Get, get, get!
+309250900:n_Ah, a kişi! Nə gözəldir!
+309250910:n_Hə!
+309250920:n_Ah, a kişi! Bunlara bax!
+309250930:n_Bax belə! Get! Qazı bas, a kişi!
+309250940:Hey! Rədd ol, göt!

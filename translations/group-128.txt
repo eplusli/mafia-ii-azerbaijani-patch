@@ -1,0 +1,23 @@
+﻿310041090:n_Gözəl musiqidir, hə?
+310041100:n_Eh, elə yox.
+310041110:n_Nədir, pianoçu xoşuna gəlmir?
+310041120:n_Deyək ki, hər gün eyni mahnıları eşitməkdən bezmişəm.
+310041130:n_Hər gün? Burada işləyirsən?
+310041140:n_Elə bir şeydir.
+310041150:n_Nədir, ofisiantsan, ya elə bir şey?
+310041160:n_Hmmhmm... Bir növ, amma müştərilərim yeməkdənsə "xidmət"lə daha çox maraqlanır, əzizim.
+310041170:n_...nə demək istəyirsən?
+310041180:n_Uf... mövzunu dəyişək. Siz uşaqlar nə iş görürsünüz? Mafiyadasınız, ya nə? 
+310041190:n_Niyə belə deyirsən?
+310041200:n_Sən, bir də o qəşəng kostyumlu adamlar. Bir "mütəşəkkil cinayət ailəsi"nin üzvüsünüz, hə?
+310041210:n_Nədən danışdığınızı bilmirəm, xanım.
+310041220:n_Gələndən iki nəfər "tikintidə" olduğunuzu dedi, biri "təmizlik xidməti", o biri də "həmkarlar ittifaqı" dedi. Sənin versiyanı eşitməyə can atıram.
+310041230:n_Qanuni iş adamlarıyıq. Bilməli olduğun ancaq budur.
+310041240:Dostum, arxada nə edirsən?
+310041250:Ay döşəməsilən, çıx buradan!
+310041260:Rədd ol dedim!
+310041270:Zzzz...
+310041280:Mmm...
+310041290:Gözəl mənzərədir, hə? Buradan bütün şəhər görünür.
+310041300:Orada. Xalçada və divarda. Başla.
+310041310:Tez elə. Bütün günü vaxtımız yoxdur.

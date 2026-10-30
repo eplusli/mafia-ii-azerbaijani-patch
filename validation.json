@@ -1,0 +1,29 @@
+{
+  "version": "1.0.0",
+  "installerIntegrationTests": {
+    "passed": true,
+    "archives": 304,
+    "checks": [
+      "Unsupported or modified archives rejected before game changes",
+      "Missing archives rejected before game changes",
+      "Game root, pc folder and mafia2.exe selections resolve correctly",
+      "All 304 archives installed and all original backups verified",
+      "Repeated installation is idempotent",
+      "Interrupted-install mixture of original and patched files recovered",
+      "Restore refuses to overwrite a later mod",
+      "Corrupted backups rejected before restore changes",
+      "All 304 originals restored byte for byte"
+    ]
+  },
+  "corpus": {
+    "entries": 10166,
+    "missingEntries": 0,
+    "formatErrors": 0
+  },
+  "archiveResources": {
+    "count": 8272,
+    "nonTextNonFontPayloadsByteIdentical": true
+  },
+  "uiReview": "Installer window reviewed on Windows; executable, pc-folder and game-root selection supported.",
+  "fullPlaythroughVerified": false
+}

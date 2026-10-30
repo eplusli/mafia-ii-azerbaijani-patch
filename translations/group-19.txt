@@ -1,0 +1,54 @@
+﻿922000010:Mənə heç bəxşiş də verməyəcəksən?
+922000020:Bəxşiş istəyirsən? Bir məsləhət verim. Çıxanda qapı götünə dəyməsin.
+922000030:Ah, həmişə centlmensən, hə, Joey?
+922000040:Hahaha, rədd ol buradan daha.
+922000050:Vito, əzizim! Gəlib kürəyimi yuyarsan?
+922000051:Bu qədər yüngül qız necə belə gərgin olur?
+923000010:Hə, hehe... Az qala altımı islatmışdım. Amma Derek-i bilirsən - zarafat anlayışı yoxdur...
+923000020:Sağ ol, Steven. Ah, salam, Vito.
+923000030:Salam.
+923000040:Salam, Steve.
+923000050:Hey, tez pul qazanmaq istəyirsən? Görüləsi bir işim var...
+923000060:Bəlkə.
+923000070:Derek istəyir, bir neçə... maşınla məşğul olum.
+923000100:Maşın, hə?
+923000110:Hə. Bu aralar hamı təzə maşın axtarır. Derek-in, ee... "əlavə işinə" xeyri dəyir. Amma rəqabət işə xeyir deyil. Millville-dəki bu göt... Araya zorla girmək istəyir, ona görə ona balaca "xəbər" göndərəcəyik.
+923000111:Hə, Derek-in maşınlarla bağlı o "işini" bilirsən? Bir göt ona rəqib çıxıb, bu da işə xeyir deyil. Həll etməliyik.
+923000125:İstəyirsən mən... ee...
+923000130:Yox, elə şey deyil. Heç olmasa, hələlik...
+923000131:Nə deyirsən? Varsan? İşə beş yüz dollar verilir.
+923000120:Bağışla, indi öz həll edəcəyim zibilim yetərincədir. Vaxtım yoxdur.
+923000190:Eh, görüşərik.
+923000132:Hə, görüşərik.
+923000140:Əlbəttə. Nə etməliyəm?
+923000160:Yaxşı, belə edəcəksən - Millville-ə gedib maşınları dağıdacaqsan. Amma heç kimi öldürmə. Derek hələlik heç kimin ölməsini istəmir.
+923000180:Bitirəndə Derek-ə zəng et. Görüşərik.
+923000240:Yaxşı. Görüşərik.
+923000250:Salam, Guiseppe.
+923000260:Səni yenidən görmək xoşdur.
+923000270:Ee, nə qədər borcum var?
+923000280:Buyur. Hey, heç nə ödəməli deyilsən. Joe-nun hədiyyəsidir.
+923000290:Oho, əladır! Sağ ol.
+923000300:Dəyməz. Görüşərik, Vito.
+926000010:{ağrıdan inildəyir}
+926000005:İndi bir-birimizi anladıq?
+926000020:Nə desən... Ağzımı bağlı saxlayacağam... ah...
+926000025:Hə?
+926000030:Hey, Derek. Vito-dur.
+926000035:Vito, necəsən?
+926000040:Millville-dəki iş... bitdi.
+926000050:Yaxşı, eşitmək istədiyim budur.
+926000055:{ağrıdan inildəyir}
+926000060:Amma tam təmiz alınmadı...
+926000075:Ah, eləmə. Sadəcə... dayan daha. Xahiş edirəm, xahiş edirəm, bəsdir...
+926000080:HEY! MANE OLMASAN OLAR?!
+926000090:Nə demək istəyirsən?
+926000100:Bilirsən də... ee... bir-iki adam getdi...
+926000110:Yaxşı, buna dözərəm. İstədiyin vaxt gəl, pulunu götür. Kim bilir, bəlkə sənə başqa işim də olar...
+926000125:Yaxşı, Derek, tezliklə görüşərik.
+926000130:İndi... harada qalmışdıq?
+926000135:Ay lənət...
+501000270:Sikim səni!
+501000240:Axmaq arvad!
+501000120:Amma mən...
+501000140:Sürə bilmirsənsə, yerin olan evdə qalmalısan.

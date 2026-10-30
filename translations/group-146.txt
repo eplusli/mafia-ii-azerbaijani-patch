@@ -1,0 +1,53 @@
+﻿310032720:Bağışlayın, cənab. Bura ancaq otel işçiləri üçündür. Getməyinizi xahiş etməliyəm.
+310032721:Cənab, indi getməlisiniz. Öz təhlükəsizliyiniz üçündür, cənab.
+310032722:Hey, getməyəcəksənsə, kömək etməli olacağam.
+310032730:Al bunu, məni gördüyünü unut.
+310032740:Bu zarafatdır?
+310032750:Deyəsən, zorla çıxacaqsan...
+310032760:Əla...
+310032770:Cənab!
+310032780:Nədir, bu adam kardır?
+310032790:Bəsdir, özüm həll edəcəyəm.
+310032800:Elə sanmıram, dostum!
+310032810:Hə!
+310032820:Döy onu!
+310032830:Burada müdirin kim olduğunu göstər, müdir!
+310032840:Bu ona dərs olar!
+310032850:Bunu hər gün etməliyik!
+310032860:Hadi, döy onu!
+310032870:Hə!
+310032880:Afərin!
+310032890:İşini bitir!
+310032900:Əz onu.
+310032905:Bu da bir şey idi!
+310032910:Eh, işə qayıdaq.
+310032920:Bax, əyləncə bu idi.
+310032930:Yaxşı işdir, dostum.
+310032940:Uf! Nə gün oldu!
+310032950:Əla işdir! İndi işə qayıtmalıyam.
+310032960:Nə dava idi!
+310032970:Tamaşaya görə sağ ol, dostum.
+310032980:Müdirlə yaxşı bacardın, dostum.
+310032990:Məni fikirləşmə, heç nə görməmişəm.
+310033000:Hey, tənbəlliyi kəs!
+310033010:Bəsdir o lənətə gəlmiş siqaret fasilələri...
+310033020:Düz elə, yoxsa bacaranını taparam!
+310033030:Hey. Necə gedir?
+310033040:Tez eləyərsən? Niyə belə uzun çəkir?
+310033050:Yarımçıq işi kəs!
+310033060:Hey, belə davam etsən, təzə iş axtaracaqsan!
+310033070:Kimdir bu...
+310033080:Hey, burada işin yoxdur. Get!
+310033090:Etiraz etmirsənsə, bunu götürəcəyəm.
+310033100:Necə yəni etmirəm! İndi Ting-Lao-nun yumruğunu hiss edəcəksən!
+310033110:Bax, tez gələ bilmədiyimə çox təəssüf edirəm...
+310033120:Bir dəqiqə də geciksəydin, öz dəfninə gecikəcəkdin.
+310033130:Bağışla, mən -
+310033140:Yaxşı, bəsdir. Sadəcə rədd ol buradan.
+310033150:Vito! Axır ki. Harada idin axı?
+310033160:Boş ver.
+310033170:Hey, hara sikdirib gedirsən?!
+310033180:Qayıt bura, Vito!
+310033190:Hoqqanı kəs!
+310033191:Al, birini seç, geyin.
+310041390:Yaxşı.

@@ -1,0 +1,20 @@
+﻿315069900:Lənət olsun! Kimsə bu iki dəlini öldürsün!
+315069901:Axmaq əclaf, heç bir şansın yoxdur. Hamısını öldürə bilməzsən...
+315069902:Sən doğrudan dəlisən, hə? Ölməyinə baxmaqdan həzz alacağam.
+315069903:Hadi də. Cəmi iki nəfərdirlər.
+315069904:Ha, ha, ha. Bunun üçün bir az darıxmışam. Spirt qadağası dövrünü yadıma salır.
+315069905:Yeri dağıtma, öl də artıq!
+315052250:O gijdillağın işini bitir.
+315052251:İşini bitir, Vito.
+315052252:Hadi, Vito. İşini bitir.
+315052253:Hadi, Vito. Et də artıq.
+315052254:Ey. Bütün günü burada qala bilmərik.
+315070100:Ümid edirəm, burada nə etdiyini yaxşı bilirsən.
+315070110:Narahat olma, həll etmişəm. Görəcəksən.
+315070120:Hə, ee, bayaq o nədən danışırdı?
+315070130:Heç nə, mənə bir təklif etdi. Vəssalam.
+315070140:Hə, o qədərini başa düşdüm. Nə təklifi?
+315070150:Səni öldürməyimi istəyirdi. Dedi, məni kapo edəcək, öz dəstəmi verəcək. Yəni, demək olar ki, həmişə istədiyim hər şeyi.
+315070160:Elə? Bəs niyə etmədin axı?
+315070170:Mənə borclu olduğun o beş dollar yadındadır?
+315070171:Səbəbini özüm başa düşən kimi... İlk sən biləcəksən.

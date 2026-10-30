@@ -1,0 +1,184 @@
+﻿1001000002:Beysbol dəyənəyiylə üstlərinə getdim, elə qorxmuşdular ki, dünənəcən özlərinə gəlməmişdilər.
+1001000010:Sabahınız xeyir, uşaqlar.
+1001000020:Ah, hey, sabahın xeyir, Vito!
+1001000030:Marty? Burada nə edirsən?
+1001000040:Joe dedi kömək lazımdır, o avaralarla yaxşı bacardığım üçün dedi məni yenə aparar.
+1001000041:Hə, yaxşı, ee, səninlə sonra danışaram... heh.
+1001000042:Hə, bu mənim dostum Vito-dur.
+1001000050:Yenə aparacaq? Konkret nəyə?
+1001000060:Səni gözləyirlər...
+1001000070:Sabahınız xeyir, cənab Falcone.
+1001000071:Salam, uşaqlar.
+1001000080:Salam, Vito. Otur.
+1001000090:Uf... Nə məsələdir?
+1001000100:Luca-nı necə aradan götürdüyünü eşitdim, Vito. Yaxşı işdir. Sənin sayəndə indi sübutumuz var ki, adamlarımıza hücumun arxasında Clemente dayanıb. İndiyəcən açıqca ona qarşı çıxa bilmirdik.
+1001000101:Öz boğazını özü kəsdi, adamlarımızı qaçırıb işgəncə verdi, bu da müharibə deməkdir.
+1001000102:İndi nə etsək, Komissiya qarşısında haqq qazandıra bilərəm. Alberto bunu bilir, ona görə tez tərpənib bizdən əvvəl hücum etməyə çalışacaq.
+1001000110:Deməli, Clemente-ni aradan götürürük...
+1001000120:Elədir. Məlum olub ki, Clemente bu gün Empire Arms otelində böyük iclas çağırıb. Onu və əsas adamlarını yox etmək üçün ən yaxşı fürsətimizdir.
+1001000130:Ah, əlbəttə. Gedib gündüzün günorta çağı şəhərin ən yaxşı otelində bir neçə onluq ağır silahlı adamı öldürərik. Düz başa düşdüm?
+1001000140:Narahat olma. Planım var.
+1001000150:Lənət! Joe. O şeyi yığışdır!
+1001000160:Eddie, narahat olma, təhlükəsizdir. Sadəcə buna basmalıyam...
+1001000170:Allah xatirinə, indi yığışdır! Sənə nə olub?
+1001000180:Yaxşı, yaxşı. Yaman qorxaqsan.
+1001000190:Yaxşı, yaxşı, deməli, indi gedib şəhərin ən yaxşı otelini partladacağıq. Bir az çox deyil?
+1001000200:Narahat olma. Bu o qədər güclü deyil. Bütün binanı partlatmaz, amma partladığı otaqdakı hər kəs... cəsəd olacaq.
+1001000210:Nə vaxt partlatmalı olduğumuzu haradan biləcəyik?
+1001000220:Pəncərə yuyan platformadan istifadə edəcəyik. Az qala partlayışı özümüz görəcəyik.
+1001000230:Sən nə vaxtdan ağıllı olmusan?
+1001000240:Yaxşı, uşaqlar, sizə güvənirəm.
+1001000241:Hər şey yaxşı keçsə, sizə yaxşı mükafatım olacaq. Qurtaranda bu nömrəyə, Eddie-yə zəng edin.
+1001000250:Yeri gəlmişkən, Alberto nəsə eləməyə çalışar deyə bu gün barı bağladım.
+1001000260:Hey, uğurlar, uşaqlar.
+1001000280:Hey, bəs dəhlizdəki o uşaq?
+1001000290:Marty-ni deyirsən? Ee, o təşkilatda deyil, ona görə çöldə gözləməlidir.
+1001000300:Demək istəyirəm... ümumiyyətlə, burada nə gəzir?
+1001000310:Səncə niyə? Bizimlə gəlir, çünki qaçış üçün sürücü, bir də arxamızı qoruyan adam lazımdır.
+1001000311:Ondan nə istəyirsən axı? Balacalığından tanıyıram, o avaralarla işdə də məni xilas etdi.
+1001000320:Hə, amma bu dəfə bir dəstə sərxoş alçaqla vuruşmuruq! Şəhərin ən güclü ailəsini məhv etməyə gedirik, sən də uşaq gətirirsən!
+1001000330:Sən bu işlərə başlayanda neçə yaşındaydın? Elə danışırsan, elə bil qocalmısan.
+1001000331:Bax, Vito, çöldə maşında gözləyəcək, sonra bizi aparacaq. Vəssalam. Orada nə etdiyimizi heç bilməyəcək. Əla sürücüdür, bu işə də elə o lazımdır.
+1001000340:Yaxşı, Joe, özün bilərsən. Amma indidən deyirəm. Bu pis fikirdir.
+1002000010:Yaxşı, Vito ilə içəri girib görüləsi işi görəcəyik. Sən bizi burada gözlə. Güclü partlayış eşidəndə maşını işə sal, çünki buradan dərhal qaçmalı olacağıq.
+1002000011:Kimsə dalımızca gəlməsə, o silah da lazım olmayacaq, elə şey də olmamalıdır.
+1002000020:Yaxşı, yaxşı, başa düşdüm, Joe.
+1002000030:Clemente on səkkizinci mərtəbəni, yuxarıdan üçüncünü bütöv kirayələyib. Orada bir neçə lüks otaqla iclas zalı var - bir də mühafizəçilər.
+1002000040:Bəs ora necə çıxacağıq?
+1002000050:Arxadan, camaşırxanadan.
+1002000060:Nədir, işə başlamamışdan şortunu yumaq istəyirsən?
+1002000070:Çoxbilmiş. İclas hələ başlamayıb.
+1002000071:n_ ta da da da oxuyur
+1002000072:Otel işçisi forması götürüb yuxarıda bir az "təmizlik" edəcəyik.
+1002000080:Ciddi deyirəm - sən nə vaxt ağıllı oldun?
+1002000090:Sikdir get. İçəridə biri bizi formalarla gözləməlidir. Gedək.
+1002000091:Bir də, Clemente gəlməmiş hay-küy istəmirik, axmaq hərəkət eləmə.
+1002000100:Haha. Bunu sənə mən deməli deyiləm?
+1002000110:Burada qal.
+1002000120:Ah... Həmişə kənarda qalan mən oluram, lənət olsun.
+1002000140:Gedək, tərpən!
+1002000150:n_Uf... uh...
+1002000160:n_aarh... uff...
+1002000170:Hey, Richie, bizimlə gəl.
+1002000180:Hey, siz ikiniz. Yuxarıda bir az da işiniz var. Tərpənin.
+1002000190:O, Henry idi, lənət olsun!
+1002000191:Hə.
+1002000200:Vito, bir şey də... al, bunu tax.
+1002000210:Ciddi deyirsən, lənət olsun?
+1002000220:Heç kim tanımasın deyə, tax getsin!
+1002000230:Əla.
+1002009050:Ay lənət... Ay sikim... sarı...
+1002009051:...mavi... müsbəti müsbətə...
+1002009052:...qırmızı... uyğunlaşdır...
+1002009053:...mənfi... ah... mavi... çarpazla... əla!
+1002009060:Yaxşı. Çətin hissəsi az qala bitdi.
+1002009070:Eh.
+1003000010:Vito... Vito! Dayan, bir şey unutmuşam.
+1003000020:Ah, lənət... Nə?
+1003000030:Al, bu sənədir. Birdən nəsə düz getməz.
+1003000045:Qəşəng şeydir, hə? Dəyişdirilmiş daraqlı 1911 Cole.
+1003000047:İyirmi üç güllə tutur, ona görə tez boşalır. Bir də itirmə. Bütün dünyada cəmi ikisi var.
+1003000046:Sən bunu haradan, ee...
+1003000050:Bu yaxşıdır!
+1003000051:Sağ ol.
+1003000060:Boş ver. Pəncərə yuyan platformaya getməliyik, gəl.
+1003000070:Lənət!
+1003000080:Sikim!
+1003000090:Clemente-nin adamları.
+1003000095:Ah, sikim belə işi. Yaxşı, çıxaq buradan.
+1003000101:n_ ...ikiniz də. Lap əla idi. Nəyə baxırsan? İlahi, sakit ol, yoxsa bir şillə vuraram, yarımçıq gijdıllaq.
+1003000103:Ah, bu istridyə kimidir, dayan, dayan, buna bax.
+1003000102:n_ Hahaha.
+1004000010:Ahh... Bax belə. Yaxşı, tutdum. Bir az yuxarı qaldır.
+1004000011:Ahh... Hə, saat kimi işləyir. Hehehe. Ah, başladıq.
+1004000020:Bu götlər heç bilmə...
+1004000021:İlahi, sikim... Uoooh... Ay Allah, bu nə sikimdir?
+1004000022:Uoooh...
+1004000030:Qisas acı olur.
+1004000033:O nə idi axı?
+1004000034:Bilmirəm... O şey elə partladı.
+1004000035:Guya güclə hiss edəcəkdik, hə?
+10_04_00_0036:Bilmirəm, sənə niyə qulaq asıram, lənət. And olsun, bəzən lap yarımçıq səfehsən.
+1004000040:Yaxşı, yaxşı. Gedək baxaq.
+1004000050:Lənət.
+1004000051:Nə yaman dağılıb, lənət olsun.
+1004000060:Uf! Bu nə... İlahi, az qaldı burada ayaqqabılarımı işəyim!
+1004000061:Elə bil zəlzələ oldu. Bu nə sikimdir!
+1004000070:Ay lənət!
+10_04_00_0080:Götlər. Bunun üçün öləcəksiniz!
+1004000090:Bəxtəvər əclaf...
+1004000095:Lənət, qaçmasına imkan verə bilmərik! Gəl, Vito!
+1005000010:Tez, cənab!
+1006000010:Lənət! Marty! Gəl, Vito, təkdir! Ona kömək etməliyik!
+1007000010:Marty! Yox! Yox!
+1007000001:n_(təngnəfəs)
+1007000002:n_(təngnəfəs)
+1007000020:Lənət! Vurdular onu! Ölüb, Vito! Anasını sikdiklərim!
+1007000040:Yaxşı, Joe... Joe, gəl, buradan çıxmalıyıq! İndi ona kömək edə bilməzsən.
+1007000041:Clemente qaçır!
+1007000050:Bağışla, Marty.
+1007000051:Gedək! O əclafı öldürəcəyəm!
+1008000010:Lənət!
+1009000010:Onun da axırı çatdı.
+1009000020:Yoxlamasaq, əmin ola bilmərik.
+1009000030:Bu, Marty üçün.
+1009000040:İndi bitdi.
+1009000050:Gedək bizə.
+1010000005:Ee, pivə istəyirsən? Hə?
+1010000010:Eddie-nin nömrəsini ver. Zəng edim.
+1010000020:Alo?
+1010000030:Joe-dur. İş bitdi.
+1010000040:Hər şey rahat keçdi?
+1010000050:Yox. Keçmədi.
+1010000060:Niyə?
+1010000070:Marty ölüb.
+1010000080:Nə?
+1010000090:Marty-ni vurdular, onu orada qoyduq!
+1010000100:Ee, yaxşı-yaxşı - bəs Clemente?
+1010000110:Bitdi.
+1010000120:Əla! Hey, uşağı fikirləşmə, kiçik itkidir. Əsas odur, iş bitdi.
+1010000130:K... ki... kiçik itki!? Danışdığın mənim dostumdur, lənət olsun!
+1010000135:Sakit ol, Joe. Joe, özünü ələ al.
+1010000140:Hey, Joe, acığını məndən çıxma!
+1010000141:Bu sənin fikrin idi, uşağı da heç kim məcbur etməmişdi.
+1010000150:Təəssüf, amma belə şeylər olur, hə? Sabah Falcon-a gəl, pulunu götür.
+1010000160:Hə... nə deyirsən de.
+1010000170:Sənin təəssüflənməyini sikim!
+1010000180:Yaxşı, sakit ol, hə? Sakitləş. Mən də üzülürəm. Düşündüyündən çox, amma riski bilirdin.
+1010000200:Sən də?
+1010000210:Hey, təhlükəli iş idi. Onu özünlə apardın, o da öldü.
+1010000230:Nədir - elə bilirsən müharibədə başqa cür idi?
+1010000240:Eddie uşağı heç tanımırdı, ona görə onu günahlandırma.
+1010000250:Sən evə getsən yaxşıdır.
+1010000260:Yaxşı... Bir dəqiqə ver, əynimi dəyişim.
+1010000270:Eh... Bağışla, uşaq, çox bağışla.
+10_11_00_0303:Hə, hə, bilirəm, bilirəm...
+10_11_00_0305:Ehm... Ehm...
+10_11_00_0306:Heh... Düzdür.
+10_11_00_0311:Vay, İlahi!
+1011000320:Vito, gəldin!
+1011000330:Yaxşı, haradadır?
+1011000340:O küncdə. Bax, içkini kəsmək istədim, amma o əclaf məni deşik-deşik edəcəkdi!
+1011000345:Yaxşı. Qapını bağla, məni bir dəqiqə onunla qoy.
+1011000350:Bir-ikisini vurmusan, hə? Özünü necə hiss edirsən?
+1011000360:Vito! Axır ki, gəldin. Artıq hamı evə gedib...
+1011000370:Görəsən niyə, Joe?
+1011000380:Ah...
+1011000390:Maşınla gəlmisən?
+1011000400:Yox, taksiylə! Maşınımı bu məhəllədə saxlamaram.
+10_11_00_0404:n_ mızıldanır
+1011000410:Yaxşı, içkini bitir, gedək.
+1011000420:Getmək istəyirsiniz? Sizi çıxarım.
+1011000430:Lənət, açarlarımı hara qoymuşam?
+1011000440:Yaxşı, Marty. Sağlığına, uşaq. Kişi kimi getdin.
+1011000444:Çox bağışla, uşaq.
+1011000445:Bu heç olmamalıydı. Heç olmamalıydı!
+1011000446:Ahh, lənət...
+1011000450:Zarafat edirsən? Sənə... nə sikim... olub?!
+1011000451:Mən sadəcə...
+1011000452:Sən sadəcə nə? Ağzını yum, sərxoş götünü də çıxart çölə!
+1011000453:Yaxşı... Yaxşı... Gedirəm...
+1012000475:Yaxşı, çatdıq. Qapıya gedənədək heç kimi vurmamağa çalış, hə?
+1012000480:Sağ ol, Vito. Bir də, bağışla, o -
+1012000490:Bax, sadəcə... Sabah mənə zəng et, yaxşı?
+2000000000:n_

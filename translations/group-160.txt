@@ -1,0 +1,41 @@
+﻿311030010:Ey, hara gedirsən! Bayırda bizi iki nəfər gözləyir.
+311030200:Vito?! Sən burada nə sikim edirsən?!
+311030210:Yaxşı, sakit ol, Henry. Silahı endir, adamlarını da yola sal. Hər şeyi izah edəcəyəm.
+311030220:Uşaqlar! Məni bayırda gözləyin!
+311030230:Bir neçə dəqiqəyə çıxmasam, gəlin məni axtarın.
+311030240:İçəri gir.
+311030011:Hadi, Vito. Dedin, vaxtımız azdır...
+311030012:İndi nə edək?
+311030013:Ağlına yaxşı fikir gəlir? Mənim gəlmir vallah.
+311030014:Mən yenə deyirəm, o əclafları vuraq...
+311030015:Eh, bu gün də yaxşı başlayırdı...
+311030016:Bu iş boş şeydir, Vito. Onları vurmaq istəmirsənsə, çıxaq gedək.
+311030017:Bura. Yatağın altına gir.
+311030019:Ey... Yatağın altında gizlənə bilərik!
+311030020:Hmm, bəlkə bura sığarıq!
+311030021:Ey, bəlkə duşda gizlənək.
+311030022:Pəncərə! Bəlkə aşağı tullanaq.
+311030023:Dəli olmusan?
+311030024:Eşitdiyim ən ağıllı fikir deyil, uşaq...
+311030025:Mən tullanan deyiləm. Bu yaşımda yıxılıb çanağımı sındırmaqdansa, güllə yemək yaxşıdır.
+311030018:Leo, yatağın altına gir.
+311030040:Bura, Leo. Gir.
+311030050:Bura, Leo! Qapını da kilidlə.
+311030060:Döşəkağılar!
+311030070:Lənət, bu tərəfdən olmaz. Birbaşa Henry-nin əlaltılarının qabağına çıxarıq.
+311030090:Bu tərəfdən arxa həyətə enə bilərik. Sadəcə ip, ya da nəsə lazımdır.
+311030100:Leo, gəl, kömək et, bir planım var.
+311041862:Bəs sənin planın nədir, Vito? Deyəsən, indi boğazına qədər bu işin içindəsən.
+311041863:Elə bir planım yoxdur. Sadəcə bir yığın pul qazanmaq, bunu edərkən də başımı gülləyə verməmək istəyirəm.
+311041864:Ah, nə orijinal fikirdir. Bu, göründüyü qədər asan deyil, uşaq. İnan mənə.
+311041865:Yaxşı, çatdıq. Hər şeyə görə sağ ol, Vito. Bircə söz ver ki, bir də bugünkü kimi axmaqlıq etməyəcəksən. Qocaya bir neçə il də ömür qazandırmaq üçün öz canını belə riskə atmayacaqsan.
+311041890:İstirahətin xoş keçsin, qoca.
+311030300:Buradan necə çıxacağıq axı?
+311030310:Aşağıdakı arxa qapıdan. Ya da burada bir yerdə gizlənə bilərik.
+311030320:Onda gəl, gedək.
+311030330:Bu otaq işə yaramaz.
+311030340:Burada gizlənməyə yer yoxdur.
+311030350:Bəlkə yataq otağında?
+311030360:Oyun otağına baxaq?
+311030370:Get, camaşırxanadan döşəkağı götür.
+311030380:Mətbəxdən çıxaq.

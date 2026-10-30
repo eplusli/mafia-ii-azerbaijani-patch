@@ -1,0 +1,5 @@
+﻿305990010:Alo?
+305990020:Hər şey hazırdır. Bizimlə mənzildə görüş.
+305990030:Yaxşı. İndi çıxıram. Bağlamanı gətirmisiniz?
+305990040:Səncə? Henry indi quraşdırır. Çək götünü bura, o kök köpək hər an gələ bilər.
+305990050:Oldu. Bir azdan görüşərik.

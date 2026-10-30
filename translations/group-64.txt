@@ -1,0 +1,31 @@
+﻿305060011:Ah, lənət, polislər! Tez ol, Vito. Siktir olub gedək buradan!
+305060020:Ehtiyatlı ol!
+305060070:Dayan, budur!
+305060076:Məni nə tez sürdürər, bilirsən? Sən sussan!
+305060136:Xəstəxanaya gedə bilmərik, Vito. İçində güllə ilə girsən, polis çağırırlar. Bizi El Greco'ya apar!
+305060124:Vito, bax, o ev! Düz qabağında saxla.
+305060125:Ay Marco Polo, hara gedirsən? O tərəfdə idi! Geri qayıt!
+305060126:Nə sikim edirsən? Maşına qayıt! Henry burada qan itirib ölür!
+305060127:Vito! Tez ol, burada ölürəm.
+305060128:Nə edirsən, Vito? Qayıt bura!
+305060129:Henry, ayıl. Henry, məni eşidirsən?! Ah, lənət! Vito, tez ol! Tələs! 
+305060133:Bacardığımı edirəm, yaxşı?!
+305060134:Uf... Çalışdığınız üçün sağ olun, uşaqlar... uf...
+305060135:Yox! Henry, Henry! Ah, lənət, öldü!
+305060131:Vito, get zəngi bas. Mən Henry'ni maşından çıxarım.
+305060132:Oldu.
+305060300:Vito! Bu şey daha tez gedə bilməz?!
+305060310:Bacardığım qədər tez sürürəm, lənət olsun!
+305060320:Bəs etmir! 
+305060330:Bir sakit ol da!
+305060340:Ayağımda sikilmiş qolf topu boyda deşik var, sən də deyirsən, sakit ol?! Məni El Greco'ya çatdır, lənət olsun!
+305060350:Henry. Səni vurduran mən deyiləm. Acığını məndən çıxma, yaxşı?!
+305060570:Uşaqlar, bu adam kimdir?
+305060580:Hansı adam?
+305060590:Henry'ni yanına apardığımız adam.
+305060600:El Greco? Həkimdir. Bir az pul verirsən, səni tikib düzəldir, sual da vermir.
+305060610:Xəstəxanaya gedə bilməyəndə onun yanına gedirsən, dahi.
+305060620:Niyə xəstəxanaya getmək olmasın?
+305060630:Çünki içində güllə ilə xəstəxanaya gedəndə ilk işləri polisi çağırmaq olur. 
+305060640:Hə... Ona görə El Greco bizim işimizdə olan çox adamı müalicə edir. 
+305060650:Amma sənin ona ehtiyacın olmaz, Vito. Həmişə tez sağalmısan. Yəqin yeməyindəndir.

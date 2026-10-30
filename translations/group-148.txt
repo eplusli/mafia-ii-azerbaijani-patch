@@ -1,0 +1,16 @@
+﻿310030660:Axır ki. Harada qalmısınız?
+310030670:Biri konfrans otağında nəsə dağıdıb.
+310030680:İclas başlamamış təmizləməlisiniz, yoxsa pis olar.
+310030690:Sən, hara gedirsən?
+310030700:Bu adam kütbeyindir, nədir?
+310030710:Ay axmaq, gedək!
+310030720:Yaxşı, dediyim kimi, konfrans otağını təmizləməlisiniz.
+310030730:Nə olduğunu, ora necə düşdüyünü soruşmayacaqsınız. Sadəcə təmizləyəcəksiniz.
+310030740:Bir azdan böyük iclas başlayır. O vaxtacan bura parıldamasa, boss heç sevinməz.
+310030750:Öz xeyrinizi istəyirsinizsə, oranı tərtəmiz edin, sonra da rədd olun.
+310030751:Nə sikim edirsən?
+310030752:Gəl bura da!
+310030753:Oyun çıxarma, dalımca gəl!
+310031570:Bu ikisi o... "qarışıqlığı" təmizləməyə gəlib.
+310031580:Qarışıqlığı? Ah! O qarışıqlığı...
+310031590:Yaxşı, gəlin, ikiniz də!

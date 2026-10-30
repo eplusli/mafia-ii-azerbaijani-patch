@@ -1,0 +1,37 @@
+﻿310050400:Deyəsən, üstündə artıq kimsə var. Bura qaldıraq.
+310050410:Tez ol, yuxarı çək.
+310050440:Al yapışqan lent, bağla onu.
+310050450:Siz ikiniz nə edirsiniz? Mən hələ işimi... ah, lənət...
+310050460:Bağışla, dostum, amma işimiz var. Sözə baxsan, yaxşı olacaqsan. İndi yerə uzan. 
+310050470:Ay Allah, yaxşı... Yaxşı, vurmayın! Nə desəniz edəcəyəm! 
+310050480:Yaxşı, əllərini arxana qoy. Sənə xəsarət yetirməyəcəyik.
+310050481:Buna doğrudan ehtiyac vardı?
+310050490:Özünü bəxtəvər say. Qalanların hamısını güllələdik.
+310050500:Lənət olsun, tez ol! Nə gözləyirsən?
+310050510:Sənə nə olub? Özüm edərəm.
+310050520:Elə bilirdim, sadəcə işini görür demişdin, cənab Hyde.
+310050530:Yaxşı, min. İşimiz var. 
+310050950:Ah, lənət, yenə gəlirlər!
+310050970:Yaxşı! İndi düyməni bas, Vito.
+310051000:Hey... nə qədər naqilin var?
+310051010:Yetərincə.
+310051020:"Yetərincə" nə qədərdir? Dama çatar?
+310051030:Əlbəttə yox! Bir-iki mərtəbə qalxıb partladarıq.
+310051040:Guya ağıllımız da sənsən.
+310051050:Nə?
+310051060:Bu, dəlilikdir. Partlayış bizi də öldürsə necə?
+310051070:Öldürməyəcək. Güclə hiss edəcəyik.
+310051080:Elə olsa yaxşıdır. Bundan yıxılsaq, yerə dəyməmiş səni öldürəcəyəm.
+310051110:Çənəni tərpətdiyin kimi qollarını da tərpət, yaxşı olarsan.
+310051120:Mən səninlə niyə dostam axı?
+310051150:Vay! Buna bax!
+310051160:Nədir, səhv elədi?
+310050600:Yaxşı, lazım olan mərtəbə budur.
+310050610:Vito, rezin silgini götür, pəncərələri sil ki, şübhələnməsinlər. Mən naqilləri birləşdirməliyəm.
+310050620:Vito! Tez ol!
+310050630:Nə sikim gözləyirsən?
+310050640:Nə sikim edirsən?
+310050650:Nəyə baxırsan! Qayıt işinə!
+310050660:Bura sikilmiş tamaşa yeri deyil! İşinə qayıt!
+310050670:Ay kütbeyin! İşlə, yoxsa rədd ol buradan!
+310050690:Lənət, Vito, düz bizə baxır! Pəncərəni silməyə başla! Axmaqsan? Bizi tanıyacaqlar!

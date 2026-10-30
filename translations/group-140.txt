@@ -1,0 +1,22 @@
+﻿310510010:Alo.
+310510020:Şey, b-bu Vito'dur?
+310510030:Soruşan kimdir?
+310510040:Adım Leondur. Lone Star'ın barmeniyəm. Joe Barbaro nömrəni verdi, ona görə zəng edirəm. Deyir, dostundur?
+310510050:Hə, ona nə olub?
+310510060:Joe bütün gecəni ən bahalı içkilərimi içib, Marty adlı birindən danışıb. İndi də mənə qarşı lap azğınlaşıb. 
+310510061:Nədən danışırsan?
+310510062:Dostun özünü idarə etmir, qardaş! Tapançasını ora-bura yelləyir, nə deyirik anlamır. 
+310510063:Əla...
+310510064:Bax, sizinlə problem istəmirəm. Birini vurmamış, ya kimsə polis çağırmamış gəlib bu sərxoşu götürərsən?
+310510100:Vito, bura gəlib bunu aparmalısan! Gəlirsən, ya yox?
+310510110:Joe böyük kişidir. Özünə baxar. Sındırdığı şeyləri yaz, sabah hesablaşarıq.
+310510120:Ondan narahat deyiləm, amma polis gəlsə, buranı ən azı bir həftə bağlayacaqlar.
+310510130:O, indi sənin problemindir, mənim yox. Get bir-iki fahişə tap, ya nə isə. Bu... adətən onu sakitləşdirir. Uğurlar.
+310510140:Yaxşı, indi gəlirəm. Mən gələnə qədər ona içki vermə.
+310510150:Çalışaram, amma dostun bununla razılaşmayacaq, başa düşürsən?
+310510170:İndi içkisini kəsməsən, çatanda sənin də başını kəsəcəyəm, başa düşdün?
+310510180:Yaxşı, qardaş, yaxşı. Bircə tələs!
+310510250:Yaxşı, indi barda neçə adam var?
+310510260:İndi tək mənəm. Bir saat əvvəl bura qaynayırdı, amma indi hamı çıxıb gedib!
+310510270:Qulaq as, mən gələnə qədər qapını bağla. Bir dəqiqəyə oradayam.
+310510280:Oldu, başa düşdüm.

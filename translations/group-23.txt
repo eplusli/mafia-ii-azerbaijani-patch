@@ -1,0 +1,228 @@
+﻿501000010:Ee, salam.
+501000020:Salam, yaraşıqlı.
+501000021:Joe indi burada deyil. Dedi nahara Freddy's-də görüşəsiniz.
+501000030:Aydındır.
+501000040:Heyif, gələndə yatıb qalmışdın. Əylənə bilərdik. Hmm... Bəlkə gələn dəfə, şirinim. Hələlik.
+501000050:Ahh, nə yaxşı idi...
+501000120:Amma mən...
+501000140:Sürə bilmirsənsə, yerin olan evdə qalmalısan!
+501000240:Axmaq arvad! Qayıt bura!
+501000270:Sikim səni!
+502000001:Salam, uşaqlar.
+502000002:Salam.
+502000010:Hey, Vito, bu Luca Gurino-dur. Səninlə və Joe ilə danışmaq istəyir. Luca, bu Vito-dur.
+502000030:Tanış olduğumuza şadam, cənab Gurino.
+502000040:Rəsmiyyət lazım deyil. Luca de. Otur, Vito.
+502000500:Nə gətirim?
+502000510:Mən yeyəndən, tez elə.
+502000091:Sağlığımıza.
+502000092:n_ ...yeyir...
+502000090:İrlandlarla toqquşmanızı eşitdim. Heh. Əla əhvalatdır, lənət olsun! Hehe. İkinizi də təbrik etmək istəyirəm... işi yaxşı gördünüz. Sağlığınıza!
+502000520:Əla iş gördünüz. Bu işi görməyə çox adamın ürəyi çatmır.
+502000530:İndi də, ee... bilmək istəyirəm, növbəti addıma hazırsınız?
+502000540:Hə, əlbəttə, ee, nə addım?
+502000550:Birini öldürməkdən danışıram... sırf kimsə onu barmağıyla göstərib sənə əmr verdiyi üçün.
+502000150:Müharibədə olmuşam, cənab Gurino. Elədiyim iş ancaq əmr olunan adamları öldürmək idi. Prezidentin barmağıyla göstərdiyi adamları.
+502000160:Hehehehe, yaxşıdır, prezident, hə, xoşuma gəldi. Hə. Amma sən, ee... almanları deyirsən, düzdür? Yəni... "pisləri". Mən onu demirəm. Anlayırsan?
+502000161:n_ahahhaha
+502000162:n_hahaha
+502000170:Hə, anlayıram.
+502000200:Yaxşı. Sizin kimi adamlar lazımdır. Sorğu-sualsız əmr yerinə yetirənlər. Bu işi də əvvəlki kimi görsəniz, ailəyə qəbul olunmağınıza böyük ehtimal var.
+502000205:Əlbəttə, giriş haqqını ödəyəndən sonra.
+502000210:Nə qədərdir?
+502000220:Adambaşı beş min.
+502000230:Bu lap sərvətdir, lənət olsun!
+502000240:Hey! Heç kim ucuzdur deməyib, hə? Amma inanın, xeyri xərcindən qat-qat çoxdur. Qərarı özünüzə buraxıram.
+502000250:Qalanını Henry danışacaq. Görüşərik, uşaqlar.
+502000560:Buradasan.
+502000565:Salam, müdir.
+502000570:Danışdığımız işi həll etdin?
+502000580:Hə, hə. Hamısı nəzarətdədir. Henry -
+502000590:Keçən dəfə də belə demişdin. Yenə məni məyus etmə.
+502000600:Müdir, m-mən...
+502000610:Danışma.
+502000620:İndi gəl mənimlə, başqa işlərimiz var.
+502000623:n_ ...yeyir...
+502000281:Sağ ol.
+502000282:Henry, hansı işdən danışırıq?
+502000290:Bir adamı öldürməliyəm.
+502000291:Sifariş mənimdir, amma kömək lazımdır.
+502000292:Burada siz ikiniz lazım olursunuz.
+502000300:O bəxtəvər kimdir?
+502000310:Çayın o tayından bir kök əclaf. Xəbərdarlıq edilib, amma elə bilir toxunulmazdır.
+502000320:Hə. Elədir?
+502000330:Bir dəfə öldürməyə çalışıblar...
+502000340:Sonra?
+502000350:Deyək ki, onu bir az zəif sayıblar...
+502000360:Bir az nə qədər?
+502000370:Ölümcül dərəcədə.
+502000380:Yəni ölüblər deməyin bəzəkli yoludur, hə?
+502000390:Hey, onlar işi korladılar. Biz korlamayacağıq. İş yerinin qarşısında ev tutmuşam. Orada oturub o kök əclafı gözləyəcəyik, sonra bum! Güllələyəcəyik.
+502000400:Bunu necə edəcəyik?
+502000410:MG-42 ilə.
+502000420:Ee... MG-42-ni haradan alırıq?
+502000430:Harry-dən.
+502000432:Sənin kimi veterandır. Kingston-da balaca özəl silah dükanı var.
+502000433:Balaca tapançadan bazukaya qədər nə istəsən tapar.
+502000434:Heç lənətə gəlmiş silah icazəsi də lazım deyil.
+502000431:Hə.
+502000440:Yaxşı, Joe ilə mən evə gedəcəyik.
+502000441:Sonra evdə görüşərik. Sand Island-dadır, içki zavodunun qarşısındakı bina, iki yüz otuz üçüncü mənzil.
+502000450:Yaxşı, iki yüz otuz üç, anladım. Bir azdan orada görüşərik.
+502000451:Uğurlar, dostum.
+502000452:Yaxşı, görüşərik.
+05_03_00_0005:Salam?
+503000010:Deməli, Henry-nin dediyi oğlan sənsən, hə?
+503000020:Hə. Onun malı hazırdır?
+503000030:Hehehe, hə. Buyur! MG42. Almaniya istehsalı. Hitlerin mişarı deyirdik! Gözəldir.
+503000031:İyirmi beş funt, 7,92 çap, dəqiqədə 1200 güllə - dünyada ən sürətlisi - 250 gülləlik lent, milin dörddə üçü qədər təsirli məsafə, çox da etibarlıdır.
+503000035:Nə ovladığını bilmirəm, amma tankın içində deyilsə, sayonara, körpəm! Necə istifadə olunduğunu göstərim?
+503000040:Yox, sağ ol. Tanıyıram - mən də əsgər olmuşam.
+503000050:Doğrudan! Dayan, zarafat edirsən? Harada idin? Normandiya, hə? Yox, Afrika? Qoy tapım, ee...
+503000060:Husky əməliyyatı.
+503000070:Eləmi? Hansı hissədəydin?
+503000080:504-cü paraşüt alayı.
+503000090:Doğrudan, desantçıydın?! Eşitmişəm, ağır iş idi.
+503000100:Hə, asan deyildi, deyim sənə. Yaralandım, evə göndərdilər.
+503000110:Hə... medal aldın?
+503000120:Hə. Bənövşəyi Ürək və Fərqlənən Xidmət Xaçı.
+503000130:Oho! Xaç almısan! Deyim sənə, bunları boşuna vermirlər. Mən Normandiyada idim. Utah sahilinə endik, o da asan deyildi, amma...
+503000150:...qayıdanda çəpərdən aşırdım, bir lənətə gəlmiş budaq gözümü çıxartdı, heh. Heç olmasa, tərxisə yaradı.
+503000160:Ee, bax, m-mən doğrudan getməliyəm.
+503000170:Yaxşı. Yeri gəlmişkən, mən Harry-yəm.
+503000180:Vito.
+503000190:Tanışlığımıza şadam, Vito, lap şadam. Nə vaxt silah lazım olsa, harada olduğumu bilirsən.
+503000200:Ah, hey - buyur. Ümid edirəm, maşınla gəlmisən, bu yekə qızdır. Hmph! Uğurlar.
+503000210:Ah! Hey, sağ ol. Tanışlığımıza şadam, Harry.
+505000001:n_...xoruldayır...
+505000002:n_...xoruldayır, mızıldanır...
+505000010:Haralısan, Henry?
+505000020:Siciliyalı.
+505000030:Ştatlara səni nə gətirdi?
+505000040:Mussolini.
+505000050:Nədir, sənə bilet almışdı?
+505000060:Çoxbilmişlik eləmə, Joe. Atam... şərəfli adam idi. Mussolini hakimiyyətə gələndən sonra işlərimiz pis getdi.
+505000065:Atam düşündü ki, ya orduya aparacaqlar, ya da həbsə... Məni Amerikaya göndərib Clemente-nin yanında iş tapdı.
+505000070:Bəs atana nə oldu?
+505000080:Dedi bu səfər üçün çox qocadır. Mussolini onu həbs etdirdi... həbsdə də öldü. Cənazəsini düzgün dəfn üçün belə vermədilər.
+505000090:İlahi... Ağırdır...
+505000100:Bəs ingiliscən necə belə yaxşıdır?
+505000140:Gəlirlər. O qara maşınlar.
+05_05_00_0141:Yaxşı, başlamaq vaxtıdır.
+505000145:Yaxşı, məndədir.
+505000150:Vito, kök əclafı nişan al. Binaya girməmiş vurmalıyıq! Hazır ol.
+505000160:Silahları var! Silahları var! Yuxarıda, o pəncərədə!
+506000001:n_...ağlayır...
+506000010:Öldürmə məni... xahiş edirəm!
+506000011:Arvadım var... Eləmə! Nə istəsən edərəm!
+506000012:Təki öldürmə! ...Allah xatirinə!
+506000013:n_Ah! Aaaaaahhhhh....
+506000014:n_uf, uf!
+506000020:Arvadını əvvəl düşünəydin.
+506000021:Don Clemente salam göndərir.
+506000030:Ay sikim...
+506000031:n_ uf... ah...
+506000032:Argh... Yaxşı.
+506000033:Uf... ay Allah... qancıq...
+506000025:Sənin peşmanlığını sikim, sən...
+506000026:Anasını... sikdiyim!
+506000040:Henry! Yaxşısan? Harandan vurdu?
+506000050:Əlbəttə yaxşı deyiləm, ayağımdan vurdu, lənət olsun... uff...
+506000060:Hə, hər yerə qan axır.
+506000070:Uf! Məni El Greco-ya aparın.
+506000080:O lənətə gəlmiş rəssama?
+506000090:Yox, lənətə gəlmiş həkimə, axmaq!
+506000091:Yunanı deyirəm! Highbrook-da yaşayır! Uf...
+506000100:Yaxşı, yaxşı, sakit ol. Bir dəqiqəyə çatdırarıq!
+506000101:Yaxşı, səni maşına aparaq! Uf...
+506000110:Uf, ay Madonna, göründüyündən ağırsan.
+506000120:n_ uf...
+506000125:n_ uf... ay Allah
+506000130:Ahhh, sikim...
+05_10_00_0330:Vito, bizi qoru!
+05_10_00_0340:Lənət, Vito! Bizi öldürməklərinə baxacaqsan!?
+05_10_00_0350:Allah xatirinə, bizi qoru!
+05_10_00_0351:Aaaghh...
+05_10_00_0352:İlahi...
+05_10_00_0353:Ahhhh, ağrıyır!
+05_10_00_0354:Argh... Ohh...
+05_10_00_0361:Vito, tərpən, Henry yüngülləşmir!
+05_10_00_0362:Tez ol, Vito, hər yerə qan axıdır, tərpən!
+05_10_00_0363:Gedək, Vito, andiamo! Nə sikim gözləyirsən?
+05_10_00_0364:Tələsərsən? Bu, göründüyü qədər əyləncəli deyil!
+05_10_00_0365:Vito, gözlə! O qədər tez gedə bilmirəm!
+05_10_00_0366:Dayan, Vito! Henry kürəyimdə belə qaça bilmərəm!
+05_10_00_0367:Yavaş, Vito! Sənə çata bilmirəm!
+05_10_00_0368:Ehtiyatlı ol, Vito! Burada daha çox əclaf ola bilər!
+05_10_00_0360:O kök əclaf! Az qala daşşaqlarımı vuracaqdı!
+05_10_00_0370:Sakit ol, heç yaxın düşmədi.
+05_10_00_0380:Hey! Ehtiyatlı ol! Lənət, ağrıyır!
+05_10_00_0390:Hə, inildəməyi kəsməsən, özün yeriyərsən!
+05_10_00_0400:Hey, yaxşı da, əsəbiləşmə. Burada qan itirib ölən mənəm!
+05_10_00_0410:Lənət! Bilirdim! Bu on üçüncü sifarişimdir... uğursuzdur!
+05_10_00_0420:Nə deyirsən, bəxtəvər əclaf?
+05_10_00_0421:O kök əclaf düz ata bilsəydi, indi cəsədini daşıyardım!
+05_10_00_0430:Aaaay...
+05_10_00_0440:Nə olub!?
+05_10_00_0450:Səncə nə olub! Burada ölürəm, lənət olsun!
+05_10_00_0451:n_öskürür
+05_10_00_0452:n_öskürür
+05_10_00_0453:n_öskürür
+05_10_00_0454:n_öskürür
+05_10_00_0461:n_öskürür
+05_10_00_0462:n_öskürür
+05_10_00_0463:n_öskürür
+05_10_00_0464:Gəl, buradan çıxış tapmalıyıq.
+05_10_00_0460:Lənət, lift xarabdır.
+05_10_00_0520:Ah, lənət, deyəsən, daha çox dözə bilmərəm.
+05_10_00_0480:Dözməli olacaqsan, Henry! Deyəsən, pilləkənlə getməliyik.
+05_10_00_0490:Lənət, yaxşı, gedək.
+05_10_00_0500:Məni burada qoymazsan, hə, Joe?
+05_10_00_0510:Səsini kəsməsən, bunu düşünməyə başlayaram.
+05_10_00_0470:Burada ağrı çəkirəm, lənət olsun!
+05_10_00_0540:Get, onları həll et, Vito.
+05_10_00_0550:Tez aradan götür, yoxsa Henry öləcək.
+05_10_00_0555:Güvəninə görə sağ ol, göt...
+05_10_00_0560:Lənət, Vito! Çıxış tap!
+05_10_00_0580:Gəl, Vito, min! Sən sür! Henry-ni o həkimə çatdırmalıyıq!
+05_10_00_0590:Tərpən, Vito! Henry-nin qan itirib ölməyini istəyirsən?
+05_10_00_0600:Gedək, Vito, nə sikim gözləyirsən!
+05_10_00_0599:Hadi! Min bu lənətə gəlmiş maşına, çıxaq buradan!
+05_08_00_0001:n_ Uf.
+05_08_00_0010:Həkim El Greco sənsən?
+05_08_00_0020:Yox. O lənətə gəlmiş rəssamam.
+05_08_00_0030:Dostumuza kömək lazımdır, yoxsa qan itirib öləcək.
+05_08_00_0040:Aman Allah, Henry! İçəri gətirin. Ellado!
+05_08_00_0050:Dayan, sizə pulum var. İşə görə, götürün...
+05_08_00_0055:Bir də... hər şeyə görə sağ olun.
+05_08_00_0060:Bilirsən, bu gözləyə bilərdi, amma sağ ol.
+05_08_00_0065:Ümid edirəm, yaxşı olarsan.
+05_08_00_0070:Hə, mən də.
+05_08_00_0080:Sağ ol, həkim. Borcluyuq sənə.
+05_08_00_0090:Henry ilə burada qalacağam. Sonra bizdə görüşərik.
+05_08_00_0100:Yaxşı.
+507000010:Vito! Hey, necəsən?
+507000020:Şş... yox, yox, yox, sadəcə atanın borcunu ödəməyin üçün pul gətirdim.
+507000030:Ah, Vito, əladır... Çalışacaqdım hissə-hissə qaytarım... Bir az pulum var... Bizə zərər verməzdi...
+507000040:O qədər əmin olma. Amma... indi fərqi yoxdur. Al, götür.
+507000050:Bu qədər pulu haradan tapmısan, Vito? Sonra peşman olacağın bir iş görməmisən ki?
+507000060:Hey, narahat olma, hər şey yaxşıdır.
+507000070:Sağ ol, Vito, sağ ol...
+507000080:Problem deyil... Yaxşı, getsəm yaxşıdır, anamın məni görməsini istəmirəm. O da pulu haradan tapdığımı soruşacaq.
+507000090:Narahat olma, bir şey uyduraram.
+507000100:Yaxşı. Məndən onu bərk öp, yaxşı?
+507000110:Öpərəm. Özündən muğayat ol, Vito.
+2000000000:n_
+506000310:Vito, sürərsən bu maşını, lənət olsun?
+506000320:Bir dəfə də düşünməyə çalışsan olmaz?
+506000330:Köməyin dəymir, Henry.
+506000340:Sakit ol, Henry! Rahatlaş, hər şey nəzarətdədir.
+506000350:Ayağımda qolf topu boyda deşik var, sən deyirsən hər şey nəzarətdədir?
+506000360:Buradan çıxmasaq, tezliklə başında da deşik olacaq. Vito, bir şey elə!
+506000370:Dərhal maşından düşün, yoxsa atəş açacağıq.
+506000380:Bu son xəbərdarlıqdır!
+506000390:Əllərinizi göstərin, maşından düşün.
+506000400:Çıxın! Ancaq özünüz üçün pisləşdirirsiniz.
+506000410:Vito, sürərsən bu maşını, lənət olsun?
+506000420:Sikim polisi! Məni indi həkimə çatdır!
+506000430:Ahhhhhh.

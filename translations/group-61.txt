@@ -1,0 +1,18 @@
+﻿304010001:Cavab verməliyəm. Vacib ola bilər...
+304010010:Lənət, silahımı unutdum!
+304010020:Ah, lənət, qıfıl açanları unutdum.
+304010030:Yaxşı, gedək.
+304010040:Hə, limanda necə keçdi?
+304010050:Derek'lə olanı deyirsən?
+304010060:Hə, qəribə adamdır, elə deyil?! Sənə iş verdi?
+304010070:Hə, bir neçəsini döydüm, amma xırda zibil iş idi. O kasıb liman işçilərindən pul qoparır, atamdan qopardığı kimi.
+304010080:Etməyə bilərdin də, səni onun üçün işləməyə məcbur etməmişdi ki?
+304010090:Az qala anam məcbur eləmişdi...
+304010100:Deyinmə, Derek'lə əlaqəni kəsmə. İnan mənə, liman siçovullarından pul qoparmaqdan yaxşı işləri də var.
+304010110:Ay gicbəsər, niyə ləngiyirsən?
+304010120:Arxa girişdən istifadə et!
+304010130:O tərəfdən getmək olmaz!
+304022081:Gəl, formalarımızı götürək.
+304020100:Bax, qutu budur. Aç, siqnalizasiyanı söndür.
+304030030:Buna vaxt yoxdur. İşimiz var!
+304030130:Vito. Bu qapını aç.

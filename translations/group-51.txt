@@ -1,0 +1,30 @@
+﻿302100020:Ah, hə, bundan artıq almışam.
+302100030:Bu adam artıq ödəyib.
+302100040:Bunun pulunu almışam.
+302100050:Öhö, bərbər haqqını yığmağa gəlmişəm.
+302100060:Hey, dostum. Derek bərbər haqqını ödəməyini istəyir.
+302100070:Hey, Derek bərbər haqqını ödəməyini istəyir.
+302100080:Sağ ol, əməkdaşlığına görə minnətdaram.
+302100090:Gələn dəfə vaxtında ödə, yaxşı? Sağ ol.
+302100100:Gələn dəfə son dəqiqəyə saxlama.
+302100110:Əlbəttə, al, p-problem istəmirəm.
+302100120:Ah, hə, yəqin unutmuşam.
+302100170:Elə ödəməyə gəlirdim. Əslində, yaxşı bərbərdir.
+302100190:Yenə?! Mən o lənətə gəlmiş bərbərə heç getmirəm. Al, ver o oğru qancıq oğluna.
+302100220:Bərbər mənim nəyimə lazımdır, lənət olsun?
+302100221:Başına tüpürüb parıldadar. Nə deməyimi istəyirsən?
+302100222:Hə, əlbəttə. Al, amma Derek-ə de, mənə endirim etməlidir.
+302100240:Səhv adama gəlmisən, dostum. Saçımı arvadım kəsir.
+302100250:Hə, nə gözəl, amma burada işləyəndə Derek nə vaxt desə, onda saçını kəsdirirsən.
+302100255:Hə, indi bunu görəcəyik, elə deyil?
+302100260:Yaxşı, yaxşı, bəsdir daha! Al o lənətə gəlmiş pulunu.
+302100270:Hə, fikrini dəyişdiyinə şadam.
+302100280:Məndən bir zibil də almayacaqsan!
+302100290:Dedim axı, məndən bir zibil də almayacaqsan! Bir qəpik də yox!
+302100300:Hey, artıq ödəmişəm!
+302100310:Mənimlə oynama!
+302100320:Allaha and olsun, ödəmişəm.
+302100330:Hə, mən də Allaha and olsun, səni əzişdirəcəyəm!
+302100340:Ee, bunu edə bilməzsən!
+302100350:Ah, edə bilərəm.
+302100360:Yaxşı, yaxşı, qoçaq, al o lənətə gəlmiş pulunu.

@@ -1,0 +1,35 @@
+﻿306050240:Yaxşı, bu gün cavab yumruqları üzərində işləyəcəyik.
+306050250:Vito, Pepé-ni vurmağını istəyirəm. Çalış o yekə çənəsini sındır.
+306050260:Pepé, göstərdiyim kimi yumruqdan yayın, sonra o hərəkətin gücüylə öz yumruğunu vur.
+306050270:Yaxşı, uşaqlar, başlayaq.
+306050280:n_Nədir, artıq yoruldun, oğlum? Hadi, görək bir-iki yumruq vurursan.
+306050290:n_Döyüşməyi unutmusan, oğlum? Hadi, başla o güclü yumruqlara.
+306050300:n_Boş dayanma! Yumruq vurmağa başla, Vito!
+306050310:n_O yekə çənəni aşağı saxla, lənət olsun!
+306050320:n_Ayaq hərəkətləri, Pepé, ayaq hərəkətlərini unutma.
+306050330:n_Unutmayın - yaxşı müdafiə döyüş qazandırar, uşaqlar! Aldığınız hər yumruq sonuncu ola bilər.
+306050340:n_Yaxşı, lap yaxşı!
+306050350:n_Yaxşı, indi bir də elə.
+306050360:n_Afərin, Pepé.
+306050370:n_Bax belə. Lazım olan budur.
+306050380:n_Hadi, qalx. Arvadlar məni bundan bərk vurub.
+306050390:n_İş üstə uzanmağı kəs. Ayağa qalx, oğlum.
+306050400:n_Ah, bezdim daha... Yadıma sal, sənə zərbə qəbul etməyi öyrədim!
+306050410:n_Vaxtımdakı mənim yarım qədər yaxşı olsaydın, belə olmazdı.
+306050420:Oho! Bir buna bax!
+306050430:Hey! Sərbəst döyüşürük, yoxsa məşq edirik?
+306050440:Plan dəyişdi, yekə dostum. Bu uşağın içində od var. İndi ikiniz də cavab yumruqlarını məşq edəcəksiniz.
+306050450:Yaxşı, Vito, bir də eləyə bilirsən, görək. Əldə yaxşı vasitədir, hə? Çoxları gözləməz. Amma bu Pepé, hehe... O çoxları deyil...
+306050460:n_Yaxşı, oğlum, yaxşı. İkisini də vur.
+306050470:n_Yaxşı, birini də, Vito.
+306050480:n_Bax belə. Tez öyrənirsən, oğlum.
+306050490:Yaxşı, uşaqlar, bu günlük bəsdir. Yaxşı işdir.
+306070700:n_Yaxşı vurdun!
+306070710:n_Lənət! Bu yaman ağrıtdı!
+306070720:n_Oho!
+306070730:n_Ay!
+306070740:n_Bang... hahaha...
+306070750:n_Uşaq yaxşıdır!
+306070760:n_Hə! Pepé-nin belə yıxıldığını görməmişəm.
+306070770:n_Yayın, yumruq vur. Yayın, yumruq vur.
+306070780:n_Karsan? Əvvəl yayın, sonra vur. Çətin deyil.

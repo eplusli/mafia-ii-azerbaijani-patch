@@ -1,0 +1,31 @@
+﻿306050010:n_Öldür onu, O'Neill!!!
+306050020:n_Döy onu, O'Neill! Beynini əz!
+306050030:n_Hə, o italyanın götünə təpik vur!
+306050040:n_Vuruşun, vuruşun!
+306050050:n_Tut onu!
+306050060:n_Dişlərini tök!
+306050070:n_Hə, öldür onu!
+306050071:n_Götünü cır, O'Neill!
+306050072:n_Bacardığın budur?
+306050073:n_Raaaah! Heç nə!
+306050074:n_Balaca qız kimi vuruşur!
+306050075:n_Bu yazıq qancığı əzabdan qurtarsam necə olar!
+306050076:Həyətdə dava var! Həyətdə dava var! Bütün boş nəzarətçilər həyətə gəlsin.
+306050077:Bütün məhbuslar dərhal kameralarına qayıtsınlar. Tabe olmayanlar bir ay həyətə çıxmaq hüququndan məhrum ediləcəklər.
+306050090:Geri çəkilin! Eşitmədiniz? Rədd olun buradan! Geri çəkilin!
+306050091:Geri çəkilin!
+306050100:Yaxşı, bəsdir! Ayrılın! İkiniz də karserə gedirsiniz!
+306050110:Nə etdiyinizi düşünmək üçün sizə bir az vaxt verəcəyik.
+306050120:Bağla!
+306050130:Ah, əla...
+306050135:O'Neill az qala başımı qoparacaqdı, amma... özümü əzdirmədim. Bir söz deyim, həbsdə bunun dəyəri düşündüyünüzdən qat-qat böyükdür.
+306050140:Nə qədər, cənab?
+306050150:Bir həftə bəs edər. Az olmasın.
+306050160:Baş üstə, cənab.
+306050170:Elə düşünürdüm ki, bundan pisi ola bilməz...
+306050001:n_Gəl, ay yekəpər kütbeyin.
+306050002:n_Ananın götünə kartof soxduğum vaxtdan da asan olacaq.
+306050003:n_Səhər yeməyində gey yeyirsən?
+306050004:n_Səni sındıracağam, italyan.
+306050005:n_Sən də, sevgilin Barbaro da ölmüsünüz.
+306050006:n_Sənin kimi cılız geyləri səhər yeməyində yeyirəm.

@@ -1,0 +1,34 @@
+﻿309020050:Yaxşı, görünmədən içəri girməliyəm.
+309020060:Bizimkilərə nə olduğunu öyrənənə qədər heç kim məni görməməlidir.
+309020390:Hop, səhv yoldur. İçəri girməyə yol tapmalıyam.
+309020400:Hara gedirəm? Oraya girməyə yol tapmalıyam!
+309020409:Hasardakı o deşiyi sınamalıyam.
+309020410:Kanalizasiya! Bəlkə içəri yol oradandır...
+309020420:Bağışla, çimərlik paltarımı unutmuşam.
+309020570:Şey... Hə. Salam?
+309020580:Rooooaooooooaoaoaaaaaaaa!..
+309020590:Ah... Aydındır.
+309020610:Yaxşı... Onda... görüşərik.
+309020620:Yox, görürlər! Axtarırlar! Amma verməyəcəyəm, yox, yox, yox, yox...
+309020630:Al, dostum.
+309020640:Ah... General Washington! Yenə salam, cənab.
+309020650:Yaxşı, hamısını bir yerdə xərcləmə, hə?
+309020660:Deyəsən, bu adamdan yol soruşmağın mənası yoxdur. Səsi Joe'nun sərxoş vaxtına oxşayır...
+309020800:n_
+309020810:n_
+309020820:Bağışlayın...
+309020830:Bəli, kömək edə bilərəm?
+309020840:Buradakı sallaqxanaya necə girməyi bilirsiniz?
+309020850:Bəs... orada nə axtarırsınız?
+309020860:İtim ora qaçıb. Onu tapmağa çalışıram.
+309020870:İtin, hə?
+309020880:Hə. İçəri necə girməyi bilirsiniz, ya yox?
+309020890:Əvvəla, çox pis yalan danışırsan. İkincisi, itində o binanın açarı yoxdursa, ora ancaq kanalizasiyadan girə bilərdi.
+309020900:Kanalizasiya, hə? Yaxşı, sağ olun.
+309020080:Ay Allah, necə iylənir!
+309020100:Deyəsən, bunu qopara bilərəm. 
+309020710:Ah, siktir! Bu paltarın da axırı çatdı...
+309020730:Lənət, o it problem yarada bilər...
+309020740:Sus, ay küçüy! Nə olub sənə?!
+309020750:Ah, siktir!
+309020760:Ah... Luca buraya təkcə ət almağa gəlibsə, kimisə öldürəcəyəm.

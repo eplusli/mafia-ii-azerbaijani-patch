@@ -1,0 +1,1191 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xml>
+    <ResourceInfo>
+        <CustomDebugInfo />
+        <TypeName>IndexBufferPool</TypeName>
+        <SourceDataDescription>not available</SourceDataDescription>
+        <SlotRamRequired __type="int">0</SlotRamRequired>
+        <SlotVramRequired __type="int">0</SlotVramRequired>
+        <OtherRamRequired __type="int">0</OtherRamRequired>
+        <OtherVramRequired __type="int">0</OtherVramRequired>
+    </ResourceInfo>
+    <ResourceInfo>
+        <CustomDebugInfo />
+        <TypeName>VertexBufferPool</TypeName>
+        <SourceDataDescription>not available</SourceDataDescription>
+        <SlotRamRequired __type="int">0</SlotRamRequired>
+        <SlotVramRequired __type="int">0</SlotVramRequired>
+        <OtherRamRequired __type="int">0</OtherRamRequired>
+        <OtherVramRequired __type="int">0</OtherVramRequired>
+    </ResourceInfo>
+    <ResourceInfo>
+        <CustomDebugInfo />
+        <TypeName>Texture</TypeName>
+        <SourceDataDescription>FOG15.dds</SourceDataDescription>
+        <SlotRamRequired __type="int">0</SlotRamRequired>
+        <SlotVramRequired __type="int">0</SlotVramRequired>
+        <OtherRamRequired __type="int">0</OtherRamRequired>
+        <OtherVramRequired __type="int">0</OtherVramRequired>
+    </ResourceInfo>
+    <ResourceInfo>
+        <CustomDebugInfo />
+        <TypeName>Texture</TypeName>
+        <SourceDataDescription>MA_Obrazy.dds</SourceDataDescription>
+        <SlotRamRequired __type="int">0</SlotRamRequired>
+        <SlotVramRequired __type="int">0</SlotVramRequired>
+        <OtherRamRequired __type="int">0</OtherRamRequired>
+        <OtherVramRequired __type="int">0</OtherVramRequired>
+    </ResourceInfo>
+    <ResourceInfo>
+        <CustomDebugInfo />
+        <TypeName>Texture</TypeName>
+        <SourceDataDescription>MACH_Wall.dds</SourceDataDescription>
+        <SlotRamRequired __type="int">0</SlotRamRequired>
+        <SlotVramRequired __type="int">0</SlotVramRequired>
+        <OtherRamRequired __type="int">0</OtherRamRequired>
+        <OtherVramRequired __type="int">0</OtherVramRequired>
+    </ResourceInfo>
+    <ResourceInfo>
+        <CustomDebugInfo />
+        <TypeName>Texture</TypeName>
+        <SourceDataDescription>MA_Room.dds</SourceDataDescription>
+        <SlotRamRequired __type="int">0</SlotRamRequired>
+        <SlotVramRequired __type="int">0</SlotVramRequired>
+        <OtherRamRequired __type="int">0</OtherRamRequired>
+        <OtherVramRequired __type="int">0</OtherVramRequired>
+    </ResourceInfo>
+    <ResourceInfo>
+        <CustomDebugInfo />
+        <TypeName>Texture</TypeName>
+        <SourceDataDescription>MA_Room_S.dds</SourceDataDescription>
+        <SlotRamRequired __type="int">0</SlotRamRequired>
+        <SlotVramRequired __type="int">0</SlotVramRequired>
+        <OtherRamRequired __type="int">0</OtherRamRequired>
+        <OtherVramRequired __type="int">0</OtherVramRequired>
+    </ResourceInfo>
+    <ResourceInfo>
+        <CustomDebugInfo />
+        <TypeName>Texture</TypeName>
+        <SourceDataDescription>MA_Ground.dds</SourceDataDescription>
+        <SlotRamRequired __type="int">0</SlotRamRequired>
+        <SlotVramRequired __type="int">0</SlotVramRequired>
+        <OtherRamRequired __type="int">0</OtherRamRequired>
+        <OtherVramRequired __type="int">0</OtherVramRequired>
+    </ResourceInfo>
+    <ResourceInfo>
+        <CustomDebugInfo />
+        <TypeName>Texture</TypeName>
+        <SourceDataDescription>MA_Ground_S.dds</SourceDataDescription>
+        <SlotRamRequired __type="int">0</SlotRamRequired>
+        <SlotVramRequired __type="int">0</SlotVramRequired>
+        <OtherRamRequired __type="int">0</OtherRamRequired>
+        <OtherVramRequired __type="int">0</OtherVramRequired>
+    </ResourceInfo>
+    <ResourceInfo>
+        <CustomDebugInfo />
+        <TypeName>Texture</TypeName>
+        <SourceDataDescription>MA_Strop.dds</SourceDataDescription>
+        <SlotRamRequired __type="int">0</SlotRamRequired>
+        <SlotVramRequired __type="int">0</SlotVramRequired>
+        <OtherRamRequired __type="int">0</OtherRamRequired>
+        <OtherVramRequired __type="int">0</OtherVramRequired>
+    </ResourceInfo>
+    <ResourceInfo>
+        <CustomDebugInfo />
+        <TypeName>Texture</TypeName>
+        <SourceDataDescription>MA_Strop_S.dds</SourceDataDescription>
+        <SlotRamRequired __type="int">0</SlotRamRequired>
+        <SlotVramRequired __type="int">0</SlotVramRequired>
+        <OtherRamRequired __type="int">0</OtherRamRequired>
+        <OtherVramRequired __type="int">0</OtherVramRequired>
+    </ResourceInfo>
+    <ResourceInfo>
+        <CustomDebugInfo />
+        <TypeName>Texture</TypeName>
+        <SourceDataDescription>OM_MA_Room.dds</SourceDataDescription>
+        <SlotRamRequired __type="int">0</SlotRamRequired>
+        <SlotVramRequired __type="int">0</SlotVramRequired>
+        <OtherRamRequired __type="int">0</OtherRamRequired>
+        <OtherVramRequired __type="int">0</OtherVramRequired>
+    </ResourceInfo>
+    <ResourceInfo>
+        <CustomDebugInfo />
+        <TypeName>Texture</TypeName>
+        <SourceDataDescription>MACH_Ground.dds</SourceDataDescription>
+        <SlotRamRequired __type="int">0</SlotRamRequired>
+        <SlotVramRequired __type="int">0</SlotVramRequired>
+        <OtherRamRequired __type="int">0</OtherRamRequired>
+        <OtherVramRequired __type="int">0</OtherVramRequired>
+    </ResourceInfo>
+    <ResourceInfo>
+        <CustomDebugInfo />
+        <TypeName>Texture</TypeName>
+        <SourceDataDescription>MACH_Ground_S.dds</SourceDataDescription>
+        <SlotRamRequired __type="int">0</SlotRamRequired>
+        <SlotVramRequired __type="int">0</SlotVramRequired>
+        <OtherRamRequired __type="int">0</OtherRamRequired>
+        <OtherVramRequired __type="int">0</OtherVramRequired>
+    </ResourceInfo>
+    <ResourceInfo>
+        <CustomDebugInfo />
+        <TypeName>Texture</TypeName>
+        <SourceDataDescription>mafiaenv_f.dds</SourceDataDescription>
+        <SlotRamRequired __type="int">0</SlotRamRequired>
+        <SlotVramRequired __type="int">0</SlotVramRequired>
+        <OtherRamRequired __type="int">0</OtherRamRequired>
+        <OtherVramRequired __type="int">0</OtherVramRequired>
+    </ResourceInfo>
+    <ResourceInfo>
+        <CustomDebugInfo />
+        <TypeName>Texture</TypeName>
+        <SourceDataDescription>MACH_Wall_Dirt.dds</SourceDataDescription>
+        <SlotRamRequired __type="int">0</SlotRamRequired>
+        <SlotVramRequired __type="int">0</SlotVramRequired>
+        <OtherRamRequired __type="int">0</OtherRamRequired>
+        <OtherVramRequired __type="int">0</OtherVramRequired>
+    </ResourceInfo>
+    <ResourceInfo>
+        <CustomDebugInfo />
+        <TypeName>Texture</TypeName>
+        <SourceDataDescription>MACH_Wall_Dirt_S.dds</SourceDataDescription>
+        <SlotRamRequired __type="int">0</SlotRamRequired>
+        <SlotVramRequired __type="int">0</SlotVramRequired>
+        <OtherRamRequired __type="int">0</OtherRamRequired>
+        <OtherVramRequired __type="int">0</OtherVramRequired>
+    </ResourceInfo>
+    <ResourceInfo>
+        <CustomDebugInfo />
+        <TypeName>Texture</TypeName>
+        <SourceDataDescription>MACH_Strop.dds</SourceDataDescription>
+        <SlotRamRequired __type="int">0</SlotRamRequired>
+        <SlotVramRequired __type="int">0</SlotVramRequired>
+        <OtherRamRequired __type="int">0</OtherRamRequired>
+        <OtherVramRequired __type="int">0</OtherVramRequired>
+    </ResourceInfo>
+    <ResourceInfo>
+        <CustomDebugInfo />
+        <TypeName>Texture</TypeName>
+        <SourceDataDescription>MACH_Strop_S.dds</SourceDataDescription>
+        <SlotRamRequired __type="int">0</SlotRamRequired>
+        <SlotVramRequired __type="int">0</SlotVramRequired>
+        <OtherRamRequired __type="int">0</OtherRamRequired>
+        <OtherVramRequired __type="int">0</OtherVramRequired>
+    </ResourceInfo>
+    <ResourceInfo>
+        <CustomDebugInfo />
+        <TypeName>Texture</TypeName>
+        <SourceDataDescription>OM_MA_Chodba.dds</SourceDataDescription>
+        <SlotRamRequired __type="int">0</SlotRamRequired>
+        <SlotVramRequired __type="int">0</SlotVramRequired>
+        <OtherRamRequired __type="int">0</OtherRamRequired>
+        <OtherVramRequired __type="int">0</OtherVramRequired>
+    </ResourceInfo>
+    <ResourceInfo>
+        <CustomDebugInfo />
+        <TypeName>Texture</TypeName>
+        <SourceDataDescription>OM_MA_Sklep.dds</SourceDataDescription>
+        <SlotRamRequired __type="int">0</SlotRamRequired>
+        <SlotVramRequired __type="int">0</SlotVramRequired>
+        <OtherRamRequired __type="int">0</OtherRamRequired>
+        <OtherVramRequired __type="int">0</OtherVramRequired>
+    </ResourceInfo>
+    <ResourceInfo>
+        <CustomDebugInfo />
+        <TypeName>Texture</TypeName>
+        <SourceDataDescription>MA_Zaves_EMIS.dds</SourceDataDescription>
+        <SlotRamRequired __type="int">0</SlotRamRequired>
+        <SlotVramRequired __type="int">0</SlotVramRequired>
+        <OtherRamRequired __type="int">0</OtherRamRequired>
+        <OtherVramRequired __type="int">0</OtherVramRequired>
+    </ResourceInfo>
+    <ResourceInfo>
+        <CustomDebugInfo />
+        <TypeName>Texture</TypeName>
+        <SourceDataDescription>Vizitka_FMV_d.dds</SourceDataDescription>
+        <SlotRamRequired __type="int">0</SlotRamRequired>
+        <SlotVramRequired __type="int">0</SlotVramRequired>
+        <OtherRamRequired __type="int">0</OtherRamRequired>
+        <OtherVramRequired __type="int">0</OtherVramRequired>
+    </ResourceInfo>
+    <ResourceInfo>
+        <CustomDebugInfo />
+        <TypeName>Texture</TypeName>
+        <SourceDataDescription>2lampa3.dds</SourceDataDescription>
+        <SlotRamRequired __type="int">0</SlotRamRequired>
+        <SlotVramRequired __type="int">0</SlotVramRequired>
+        <OtherRamRequired __type="int">0</OtherRamRequired>
+        <OtherVramRequired __type="int">0</OtherVramRequired>
+    </ResourceInfo>
+    <ResourceInfo>
+        <CustomDebugInfo />
+        <TypeName>Texture</TypeName>
+        <SourceDataDescription>2lampa3N.dds</SourceDataDescription>
+        <SlotRamRequired __type="int">0</SlotRamRequired>
+        <SlotVramRequired __type="int">0</SlotVramRequired>
+        <OtherRamRequired __type="int">0</OtherRamRequired>
+        <OtherVramRequired __type="int">0</OtherVramRequired>
+    </ResourceInfo>
+    <ResourceInfo>
+        <CustomDebugInfo />
+        <TypeName>Texture</TypeName>
+        <SourceDataDescription>Llustr9.dds</SourceDataDescription>
+        <SlotRamRequired __type="int">0</SlotRamRequired>
+        <SlotVramRequired __type="int">0</SlotVramRequired>
+        <OtherRamRequired __type="int">0</OtherRamRequired>
+        <OtherVramRequired __type="int">0</OtherVramRequired>
+    </ResourceInfo>
+    <ResourceInfo>
+        <CustomDebugInfo />
+        <TypeName>Texture</TypeName>
+        <SourceDataDescription>Llustr9E.dds</SourceDataDescription>
+        <SlotRamRequired __type="int">0</SlotRamRequired>
+        <SlotVramRequired __type="int">0</SlotVramRequired>
+        <OtherRamRequired __type="int">0</OtherRamRequired>
+        <OtherVramRequired __type="int">0</OtherVramRequired>
+    </ResourceInfo>
+    <ResourceInfo>
+        <CustomDebugInfo />
+        <TypeName>Texture</TypeName>
+        <SourceDataDescription>Lampa06.dds</SourceDataDescription>
+        <SlotRamRequired __type="int">0</SlotRamRequired>
+        <SlotVramRequired __type="int">0</SlotVramRequired>
+        <OtherRamRequired __type="int">0</OtherRamRequired>
+        <OtherVramRequired __type="int">0</OtherVramRequired>
+    </ResourceInfo>
+    <ResourceInfo>
+        <CustomDebugInfo />
+        <TypeName>Texture</TypeName>
+        <SourceDataDescription>Lampa06N.dds</SourceDataDescription>
+        <SlotRamRequired __type="int">0</SlotRamRequired>
+        <SlotVramRequired __type="int">0</SlotVramRequired>
+        <OtherRamRequired __type="int">0</OtherRamRequired>
+        <OtherVramRequired __type="int">0</OtherVramRequired>
+    </ResourceInfo>
+    <ResourceInfo>
+        <CustomDebugInfo />
+        <TypeName>Texture</TypeName>
+        <SourceDataDescription>Lampa06E.dds</SourceDataDescription>
+        <SlotRamRequired __type="int">0</SlotRamRequired>
+        <SlotVramRequired __type="int">0</SlotVramRequired>
+        <OtherRamRequired __type="int">0</OtherRamRequired>
+        <OtherVramRequired __type="int">0</OtherVramRequired>
+    </ResourceInfo>
+    <ResourceInfo>
+        <CustomDebugInfo />
+        <TypeName>Texture</TypeName>
+        <SourceDataDescription>MA_Door_Entry.dds</SourceDataDescription>
+        <SlotRamRequired __type="int">0</SlotRamRequired>
+        <SlotVramRequired __type="int">0</SlotVramRequired>
+        <OtherRamRequired __type="int">0</OtherRamRequired>
+        <OtherVramRequired __type="int">0</OtherVramRequired>
+    </ResourceInfo>
+    <ResourceInfo>
+        <CustomDebugInfo />
+        <TypeName>Texture</TypeName>
+        <SourceDataDescription>MA_Door_Entry_N.dds</SourceDataDescription>
+        <SlotRamRequired __type="int">0</SlotRamRequired>
+        <SlotVramRequired __type="int">0</SlotVramRequired>
+        <OtherRamRequired __type="int">0</OtherRamRequired>
+        <OtherVramRequired __type="int">0</OtherVramRequired>
+    </ResourceInfo>
+    <ResourceInfo>
+        <CustomDebugInfo />
+        <TypeName>Texture</TypeName>
+        <SourceDataDescription>CITZSTd.dds</SourceDataDescription>
+        <SlotRamRequired __type="int">0</SlotRamRequired>
+        <SlotVramRequired __type="int">0</SlotVramRequired>
+        <OtherRamRequired __type="int">0</OtherRamRequired>
+        <OtherVramRequired __type="int">0</OtherVramRequired>
+    </ResourceInfo>
+    <ResourceInfo>
+        <CustomDebugInfo />
+        <TypeName>Texture</TypeName>
+        <SourceDataDescription>CITZSTn.dds</SourceDataDescription>
+        <SlotRamRequired __type="int">0</SlotRamRequired>
+        <SlotVramRequired __type="int">0</SlotVramRequired>
+        <OtherRamRequired __type="int">0</OtherRamRequired>
+        <OtherVramRequired __type="int">0</OtherVramRequired>
+    </ResourceInfo>
+    <ResourceInfo>
+        <CustomDebugInfo />
+        <TypeName>Texture</TypeName>
+        <SourceDataDescription>CITZSTsp.dds</SourceDataDescription>
+        <SlotRamRequired __type="int">0</SlotRamRequired>
+        <SlotVramRequired __type="int">0</SlotVramRequired>
+        <OtherRamRequired __type="int">0</OtherRamRequired>
+        <OtherVramRequired __type="int">0</OtherVramRequired>
+    </ResourceInfo>
+    <ResourceInfo>
+        <CustomDebugInfo />
+        <TypeName>Texture</TypeName>
+        <SourceDataDescription>CITZSTed.dds</SourceDataDescription>
+        <SlotRamRequired __type="int">0</SlotRamRequired>
+        <SlotVramRequired __type="int">0</SlotVramRequired>
+        <OtherRamRequired __type="int">0</OtherRamRequired>
+        <OtherVramRequired __type="int">0</OtherVramRequired>
+    </ResourceInfo>
+    <ResourceInfo>
+        <CustomDebugInfo />
+        <TypeName>Texture</TypeName>
+        <SourceDataDescription>pinup04_cover.dds</SourceDataDescription>
+        <SlotRamRequired __type="int">0</SlotRamRequired>
+        <SlotVramRequired __type="int">0</SlotVramRequired>
+        <OtherRamRequired __type="int">0</OtherRamRequired>
+        <OtherVramRequired __type="int">0</OtherVramRequired>
+    </ResourceInfo>
+    <ResourceInfo>
+        <CustomDebugInfo />
+        <TypeName>FrameResource</TypeName>
+        <SourceDataDescription>not available</SourceDataDescription>
+        <SlotRamRequired __type="int">0</SlotRamRequired>
+        <SlotVramRequired __type="int">0</SlotVramRequired>
+        <OtherRamRequired __type="int">0</OtherRamRequired>
+        <OtherVramRequired __type="int">0</OtherVramRequired>
+    </ResourceInfo>
+    <ResourceInfo>
+        <CustomDebugInfo />
+        <TypeName>FrameNameTable</TypeName>
+        <SourceDataDescription>not available</SourceDataDescription>
+        <SlotRamRequired __type="int">0</SlotRamRequired>
+        <SlotVramRequired __type="int">0</SlotVramRequired>
+        <OtherRamRequired __type="int">0</OtherRamRequired>
+        <OtherVramRequired __type="int">0</OtherVramRequired>
+    </ResourceInfo>
+    <ResourceInfo>
+        <CustomDebugInfo />
+        <TypeName>Actors</TypeName>
+        <SourceDataDescription>not available</SourceDataDescription>
+        <SlotRamRequired __type="int">0</SlotRamRequired>
+        <SlotVramRequired __type="int">0</SlotVramRequired>
+        <OtherRamRequired __type="int">0</OtherRamRequired>
+        <OtherVramRequired __type="int">0</OtherVramRequired>
+    </ResourceInfo>
+    <ResourceInfo>
+        <CustomDebugInfo />
+        <TypeName>Actors</TypeName>
+        <SourceDataDescription>not available</SourceDataDescription>
+        <SlotRamRequired __type="int">0</SlotRamRequired>
+        <SlotVramRequired __type="int">0</SlotVramRequired>
+        <OtherRamRequired __type="int">0</OtherRamRequired>
+        <OtherVramRequired __type="int">0</OtherVramRequired>
+    </ResourceInfo>
+    <ResourceInfo>
+        <CustomDebugInfo />
+        <TypeName>NAV_OBJ_DATA</TypeName>
+        <SourceDataDescription>not available</SourceDataDescription>
+        <SlotRamRequired __type="int">0</SlotRamRequired>
+        <SlotVramRequired __type="int">0</SlotVramRequired>
+        <OtherRamRequired __type="int">0</OtherRamRequired>
+        <OtherVramRequired __type="int">0</OtherVramRequired>
+    </ResourceInfo>
+    <ResourceInfo>
+        <CustomDebugInfo />
+        <TypeName>PREFAB</TypeName>
+        <SourceDataDescription>not available</SourceDataDescription>
+        <SlotRamRequired __type="int">0</SlotRamRequired>
+        <SlotVramRequired __type="int">0</SlotVramRequired>
+        <OtherRamRequired __type="int">0</OtherRamRequired>
+        <OtherVramRequired __type="int">0</OtherVramRequired>
+    </ResourceInfo>
+    <ResourceInfo>
+        <CustomDebugInfo />
+        <TypeName>Animation2</TypeName>
+        <SourceDataDescription>sc_Vito_knock_door</SourceDataDescription>
+        <SlotRamRequired __type="int">0</SlotRamRequired>
+        <SlotVramRequired __type="int">0</SlotVramRequired>
+        <OtherRamRequired __type="int">0</OtherRamRequired>
+        <OtherVramRequired __type="int">0</OtherVramRequired>
+    </ResourceInfo>
+    <ResourceInfo>
+        <CustomDebugInfo />
+        <TypeName>Animation2</TypeName>
+        <SourceDataDescription>sc_Vito_stat_Maria</SourceDataDescription>
+        <SlotRamRequired __type="int">0</SlotRamRequired>
+        <SlotVramRequired __type="int">0</SlotVramRequired>
+        <OtherRamRequired __type="int">0</OtherRamRequired>
+        <OtherVramRequired __type="int">0</OtherVramRequired>
+    </ResourceInfo>
+    <ResourceInfo>
+        <CustomDebugInfo />
+        <TypeName>Animation2</TypeName>
+        <SourceDataDescription>sc_maria_door_out</SourceDataDescription>
+        <SlotRamRequired __type="int">0</SlotRamRequired>
+        <SlotVramRequired __type="int">0</SlotVramRequired>
+        <OtherRamRequired __type="int">0</OtherRamRequired>
+        <OtherVramRequired __type="int">0</OtherVramRequired>
+    </ResourceInfo>
+    <ResourceInfo>
+        <CustomDebugInfo />
+        <TypeName>Animation2</TypeName>
+        <SourceDataDescription>sc_maria_door_out_door</SourceDataDescription>
+        <SlotRamRequired __type="int">0</SlotRamRequired>
+        <SlotVramRequired __type="int">0</SlotVramRequired>
+        <OtherRamRequired __type="int">0</OtherRamRequired>
+        <OtherVramRequired __type="int">0</OtherVramRequired>
+    </ResourceInfo>
+    <ResourceInfo>
+        <CustomDebugInfo />
+        <TypeName>Animation2</TypeName>
+        <SourceDataDescription>sc_oldwoman_door_close</SourceDataDescription>
+        <SlotRamRequired __type="int">0</SlotRamRequired>
+        <SlotVramRequired __type="int">0</SlotVramRequired>
+        <OtherRamRequired __type="int">0</OtherRamRequired>
+        <OtherVramRequired __type="int">0</OtherVramRequired>
+    </ResourceInfo>
+    <ResourceInfo>
+        <CustomDebugInfo />
+        <TypeName>Animation2</TypeName>
+        <SourceDataDescription>sc_oldwoman_door_close_door</SourceDataDescription>
+        <SlotRamRequired __type="int">0</SlotRamRequired>
+        <SlotVramRequired __type="int">0</SlotVramRequired>
+        <OtherRamRequired __type="int">0</OtherRamRequired>
+        <OtherVramRequired __type="int">0</OtherVramRequired>
+    </ResourceInfo>
+    <ResourceInfo>
+        <CustomDebugInfo />
+        <TypeName>Animation2</TypeName>
+        <SourceDataDescription>sc_oldwoman_door_gest</SourceDataDescription>
+        <SlotRamRequired __type="int">0</SlotRamRequired>
+        <SlotVramRequired __type="int">0</SlotVramRequired>
+        <OtherRamRequired __type="int">0</OtherRamRequired>
+        <OtherVramRequired __type="int">0</OtherVramRequired>
+    </ResourceInfo>
+    <ResourceInfo>
+        <CustomDebugInfo />
+        <TypeName>Animation2</TypeName>
+        <SourceDataDescription>sc_oldwoman_door_gest_door</SourceDataDescription>
+        <SlotRamRequired __type="int">0</SlotRamRequired>
+        <SlotVramRequired __type="int">0</SlotVramRequired>
+        <OtherRamRequired __type="int">0</OtherRamRequired>
+        <OtherVramRequired __type="int">0</OtherVramRequired>
+    </ResourceInfo>
+    <ResourceInfo>
+        <CustomDebugInfo />
+        <TypeName>Animation2</TypeName>
+        <SourceDataDescription>sc_oldwoman_door_open</SourceDataDescription>
+        <SlotRamRequired __type="int">0</SlotRamRequired>
+        <SlotVramRequired __type="int">0</SlotVramRequired>
+        <OtherRamRequired __type="int">0</OtherRamRequired>
+        <OtherVramRequired __type="int">0</OtherVramRequired>
+    </ResourceInfo>
+    <ResourceInfo>
+        <CustomDebugInfo />
+        <TypeName>Animation2</TypeName>
+        <SourceDataDescription>sc_oldwoman_door_open_door</SourceDataDescription>
+        <SlotRamRequired __type="int">0</SlotRamRequired>
+        <SlotVramRequired __type="int">0</SlotVramRequired>
+        <OtherRamRequired __type="int">0</OtherRamRequired>
+        <OtherVramRequired __type="int">0</OtherVramRequired>
+    </ResourceInfo>
+    <ResourceInfo>
+        <CustomDebugInfo />
+        <TypeName>Animation2</TypeName>
+        <SourceDataDescription>sc_oldwoman_door_stat</SourceDataDescription>
+        <SlotRamRequired __type="int">0</SlotRamRequired>
+        <SlotVramRequired __type="int">0</SlotVramRequired>
+        <OtherRamRequired __type="int">0</OtherRamRequired>
+        <OtherVramRequired __type="int">0</OtherVramRequired>
+    </ResourceInfo>
+    <ResourceInfo>
+        <CustomDebugInfo />
+        <TypeName>Animation2</TypeName>
+        <SourceDataDescription>sc_oldwoman_door_stat_c_door</SourceDataDescription>
+        <SlotRamRequired __type="int">0</SlotRamRequired>
+        <SlotVramRequired __type="int">0</SlotVramRequired>
+        <OtherRamRequired __type="int">0</OtherRamRequired>
+        <OtherVramRequired __type="int">0</OtherVramRequired>
+    </ResourceInfo>
+    <ResourceInfo>
+        <CustomDebugInfo />
+        <TypeName>Animation2</TypeName>
+        <SourceDataDescription>sc_oldwoman_door_stat_door</SourceDataDescription>
+        <SlotRamRequired __type="int">0</SlotRamRequired>
+        <SlotVramRequired __type="int">0</SlotVramRequired>
+        <OtherRamRequired __type="int">0</OtherRamRequired>
+        <OtherVramRequired __type="int">0</OtherVramRequired>
+    </ResourceInfo>
+    <ResourceInfo>
+        <CustomDebugInfo />
+        <TypeName>Animation2</TypeName>
+        <SourceDataDescription>0350_0204_Vito03</SourceDataDescription>
+        <SlotRamRequired __type="int">0</SlotRamRequired>
+        <SlotVramRequired __type="int">0</SlotVramRequired>
+        <OtherRamRequired __type="int">0</OtherRamRequired>
+        <OtherVramRequired __type="int">0</OtherVramRequired>
+    </ResourceInfo>
+    <ResourceInfo>
+        <CustomDebugInfo />
+        <TypeName>Animation2</TypeName>
+        <SourceDataDescription>0350_0204_Vito04</SourceDataDescription>
+        <SlotRamRequired __type="int">0</SlotRamRequired>
+        <SlotVramRequired __type="int">0</SlotVramRequired>
+        <OtherRamRequired __type="int">0</OtherRamRequired>
+        <OtherVramRequired __type="int">0</OtherVramRequired>
+    </ResourceInfo>
+    <ResourceInfo>
+        <CustomDebugInfo />
+        <TypeName>Animation2</TypeName>
+        <SourceDataDescription>0350_oldwoman_door_open</SourceDataDescription>
+        <SlotRamRequired __type="int">0</SlotRamRequired>
+        <SlotVramRequired __type="int">0</SlotVramRequired>
+        <OtherRamRequired __type="int">0</OtherRamRequired>
+        <OtherVramRequired __type="int">0</OtherVramRequired>
+    </ResourceInfo>
+    <ResourceInfo>
+        <CustomDebugInfo />
+        <TypeName>Animation2</TypeName>
+        <SourceDataDescription>0350_oldwoman_door_stat</SourceDataDescription>
+        <SlotRamRequired __type="int">0</SlotRamRequired>
+        <SlotVramRequired __type="int">0</SlotVramRequired>
+        <OtherRamRequired __type="int">0</OtherRamRequired>
+        <OtherVramRequired __type="int">0</OtherVramRequired>
+    </ResourceInfo>
+    <ResourceInfo>
+        <CustomDebugInfo />
+        <TypeName>Animation2</TypeName>
+        <SourceDataDescription>0350_oldwoman_door_gest</SourceDataDescription>
+        <SlotRamRequired __type="int">0</SlotRamRequired>
+        <SlotVramRequired __type="int">0</SlotVramRequired>
+        <OtherRamRequired __type="int">0</OtherRamRequired>
+        <OtherVramRequired __type="int">0</OtherVramRequired>
+    </ResourceInfo>
+    <ResourceInfo>
+        <CustomDebugInfo />
+        <TypeName>Animation2</TypeName>
+        <SourceDataDescription>0350_oldwoman_door_close</SourceDataDescription>
+        <SlotRamRequired __type="int">0</SlotRamRequired>
+        <SlotVramRequired __type="int">0</SlotVramRequired>
+        <OtherRamRequired __type="int">0</OtherRamRequired>
+        <OtherVramRequired __type="int">0</OtherVramRequired>
+    </ResourceInfo>
+    <ResourceInfo>
+        <CustomDebugInfo />
+        <TypeName>AudioSectors</TypeName>
+        <SourceDataDescription>missions/Lokace_Maria_Agnelo/SoundSectors_L_Maria_Agnelo.bin</SourceDataDescription>
+        <SlotRamRequired __type="int">0</SlotRamRequired>
+        <SlotVramRequired __type="int">0</SlotVramRequired>
+        <OtherRamRequired __type="int">0</OtherRamRequired>
+        <OtherVramRequired __type="int">0</OtherVramRequired>
+    </ResourceInfo>
+    <ResourceInfo>
+        <CustomDebugInfo />
+        <TypeName>MemFile</TypeName>
+        <SourceDataDescription>/missions/Lokace_Maria_Agnelo/scriptname.txt</SourceDataDescription>
+        <SlotRamRequired __type="int">0</SlotRamRequired>
+        <SlotVramRequired __type="int">0</SlotVramRequired>
+        <OtherRamRequired __type="int">0</OtherRamRequired>
+        <OtherVramRequired __type="int">0</OtherVramRequired>
+    </ResourceInfo>
+    <ResourceInfo>
+        <CustomDebugInfo />
+        <TypeName>MemFile</TypeName>
+        <SourceDataDescription>/tables/Speech/Script_03_Enemy_fmv_subtitles.bin</SourceDataDescription>
+        <SlotRamRequired __type="int">4370</SlotRamRequired>
+        <SlotVramRequired __type="int">0</SlotVramRequired>
+        <OtherRamRequired __type="int">0</OtherRamRequired>
+        <OtherVramRequired __type="int">0</OtherVramRequired>
+    </ResourceInfo>
+    <ResourceInfo>
+        <CustomDebugInfo />
+        <TypeName>Collisions</TypeName>
+        <SourceDataDescription>not available</SourceDataDescription>
+        <SlotRamRequired __type="int">0</SlotRamRequired>
+        <SlotVramRequired __type="int">0</SlotVramRequired>
+        <OtherRamRequired __type="int">0</OtherRamRequired>
+        <OtherVramRequired __type="int">0</OtherVramRequired>
+    </ResourceInfo>
+    <ResourceInfo>
+        <CustomDebugInfo />
+        <TypeName>ItemDesc</TypeName>
+        <SourceDataDescription>not available</SourceDataDescription>
+        <SlotRamRequired __type="int">0</SlotRamRequired>
+        <SlotVramRequired __type="int">0</SlotVramRequired>
+        <OtherRamRequired __type="int">0</OtherRamRequired>
+        <OtherVramRequired __type="int">0</OtherVramRequired>
+    </ResourceInfo>
+    <ResourceInfo>
+        <CustomDebugInfo />
+        <TypeName>ItemDesc</TypeName>
+        <SourceDataDescription>not available</SourceDataDescription>
+        <SlotRamRequired __type="int">0</SlotRamRequired>
+        <SlotVramRequired __type="int">0</SlotVramRequired>
+        <OtherRamRequired __type="int">0</OtherRamRequired>
+        <OtherVramRequired __type="int">0</OtherVramRequired>
+    </ResourceInfo>
+    <ResourceInfo>
+        <CustomDebugInfo />
+        <TypeName>ItemDesc</TypeName>
+        <SourceDataDescription>not available</SourceDataDescription>
+        <SlotRamRequired __type="int">0</SlotRamRequired>
+        <SlotVramRequired __type="int">0</SlotVramRequired>
+        <OtherRamRequired __type="int">0</OtherRamRequired>
+        <OtherVramRequired __type="int">0</OtherVramRequired>
+    </ResourceInfo>
+    <ResourceInfo>
+        <CustomDebugInfo />
+        <TypeName>ItemDesc</TypeName>
+        <SourceDataDescription>not available</SourceDataDescription>
+        <SlotRamRequired __type="int">0</SlotRamRequired>
+        <SlotVramRequired __type="int">0</SlotVramRequired>
+        <OtherRamRequired __type="int">0</OtherRamRequired>
+        <OtherVramRequired __type="int">0</OtherVramRequired>
+    </ResourceInfo>
+    <ResourceInfo>
+        <CustomDebugInfo />
+        <TypeName>ItemDesc</TypeName>
+        <SourceDataDescription>not available</SourceDataDescription>
+        <SlotRamRequired __type="int">0</SlotRamRequired>
+        <SlotVramRequired __type="int">0</SlotVramRequired>
+        <OtherRamRequired __type="int">0</OtherRamRequired>
+        <OtherVramRequired __type="int">0</OtherVramRequired>
+    </ResourceInfo>
+    <ResourceInfo>
+        <CustomDebugInfo />
+        <TypeName>ItemDesc</TypeName>
+        <SourceDataDescription>not available</SourceDataDescription>
+        <SlotRamRequired __type="int">0</SlotRamRequired>
+        <SlotVramRequired __type="int">0</SlotVramRequired>
+        <OtherRamRequired __type="int">0</OtherRamRequired>
+        <OtherVramRequired __type="int">0</OtherVramRequired>
+    </ResourceInfo>
+    <ResourceInfo>
+        <CustomDebugInfo />
+        <TypeName>ItemDesc</TypeName>
+        <SourceDataDescription>not available</SourceDataDescription>
+        <SlotRamRequired __type="int">0</SlotRamRequired>
+        <SlotVramRequired __type="int">0</SlotVramRequired>
+        <OtherRamRequired __type="int">0</OtherRamRequired>
+        <OtherVramRequired __type="int">0</OtherVramRequired>
+    </ResourceInfo>
+    <ResourceInfo>
+        <CustomDebugInfo />
+        <TypeName>ItemDesc</TypeName>
+        <SourceDataDescription>not available</SourceDataDescription>
+        <SlotRamRequired __type="int">0</SlotRamRequired>
+        <SlotVramRequired __type="int">0</SlotVramRequired>
+        <OtherRamRequired __type="int">0</OtherRamRequired>
+        <OtherVramRequired __type="int">0</OtherVramRequired>
+    </ResourceInfo>
+    <ResourceInfo>
+        <CustomDebugInfo />
+        <TypeName>ItemDesc</TypeName>
+        <SourceDataDescription>not available</SourceDataDescription>
+        <SlotRamRequired __type="int">0</SlotRamRequired>
+        <SlotVramRequired __type="int">0</SlotVramRequired>
+        <OtherRamRequired __type="int">0</OtherRamRequired>
+        <OtherVramRequired __type="int">0</OtherVramRequired>
+    </ResourceInfo>
+    <ResourceInfo>
+        <CustomDebugInfo />
+        <TypeName>FxAnimSet</TypeName>
+        <SourceDataDescription>not available</SourceDataDescription>
+        <SlotRamRequired __type="int">0</SlotRamRequired>
+        <SlotVramRequired __type="int">0</SlotVramRequired>
+        <OtherRamRequired __type="int">0</OtherRamRequired>
+        <OtherVramRequired __type="int">0</OtherVramRequired>
+    </ResourceInfo>
+    <ResourceInfo>
+        <CustomDebugInfo />
+        <TypeName>FxActor</TypeName>
+        <SourceDataDescription>not available</SourceDataDescription>
+        <SlotRamRequired __type="int">0</SlotRamRequired>
+        <SlotVramRequired __type="int">0</SlotVramRequired>
+        <OtherRamRequired __type="int">0</OtherRamRequired>
+        <OtherVramRequired __type="int">0</OtherVramRequired>
+    </ResourceInfo>
+    <ResourceInfo>
+        <CustomDebugInfo />
+        <TypeName>Script</TypeName>
+        <SourceDataDescription>not available</SourceDataDescription>
+        <SlotRamRequired __type="int">0</SlotRamRequired>
+        <SlotVramRequired __type="int">0</SlotVramRequired>
+        <OtherRamRequired __type="int">0</OtherRamRequired>
+        <OtherVramRequired __type="int">0</OtherVramRequired>
+    </ResourceInfo>
+    <ResourceInfo>
+        <CustomDebugInfo />
+        <TypeName>Sound</TypeName>
+        <SourceDataDescription>MiseALokace/Lokace_Maria_Agnelo/Ambi_L_Maria_Agnelo_room1</SourceDataDescription>
+        <SlotRamRequired __type="int">0</SlotRamRequired>
+        <SlotVramRequired __type="int">0</SlotVramRequired>
+        <OtherRamRequired __type="int">0</OtherRamRequired>
+        <OtherVramRequired __type="int">0</OtherVramRequired>
+    </ResourceInfo>
+    <ResourceInfo>
+        <CustomDebugInfo />
+        <TypeName>Sound</TypeName>
+        <SourceDataDescription>MiseALokace/Lokace_Maria_Agnelo/AmbiRV_L_Maria_Agnelo_dog1</SourceDataDescription>
+        <SlotRamRequired __type="int">0</SlotRamRequired>
+        <SlotVramRequired __type="int">0</SlotVramRequired>
+        <OtherRamRequired __type="int">0</OtherRamRequired>
+        <OtherVramRequired __type="int">0</OtherVramRequired>
+    </ResourceInfo>
+    <ResourceInfo>
+        <CustomDebugInfo />
+        <TypeName>Sound</TypeName>
+        <SourceDataDescription>MiseALokace/Lokace_Maria_Agnelo/AmbiRV_L_Maria_Agnelo_dog2</SourceDataDescription>
+        <SlotRamRequired __type="int">0</SlotRamRequired>
+        <SlotVramRequired __type="int">0</SlotVramRequired>
+        <OtherRamRequired __type="int">0</OtherRamRequired>
+        <OtherVramRequired __type="int">0</OtherVramRequired>
+    </ResourceInfo>
+    <ResourceInfo>
+        <CustomDebugInfo />
+        <TypeName>Sound</TypeName>
+        <SourceDataDescription>MiseALokace/Lokace_Maria_Agnelo/AmbiRV_L_Maria_Agnelo_dog3</SourceDataDescription>
+        <SlotRamRequired __type="int">0</SlotRamRequired>
+        <SlotVramRequired __type="int">0</SlotVramRequired>
+        <OtherRamRequired __type="int">0</OtherRamRequired>
+        <OtherVramRequired __type="int">0</OtherVramRequired>
+    </ResourceInfo>
+    <ResourceInfo>
+        <CustomDebugInfo />
+        <TypeName>Sound</TypeName>
+        <SourceDataDescription>MiseALokace/Lokace_Maria_Agnelo/Ambi_L_Maria_Agnelo_trafo4</SourceDataDescription>
+        <SlotRamRequired __type="int">0</SlotRamRequired>
+        <SlotVramRequired __type="int">0</SlotVramRequired>
+        <OtherRamRequired __type="int">0</OtherRamRequired>
+        <OtherVramRequired __type="int">0</OtherVramRequired>
+    </ResourceInfo>
+    <ResourceInfo>
+        <CustomDebugInfo />
+        <TypeName>Sound</TypeName>
+        <SourceDataDescription>Cutscenes/fmv0350/fmv0350_door_slow_open</SourceDataDescription>
+        <SlotRamRequired __type="int">0</SlotRamRequired>
+        <SlotVramRequired __type="int">0</SlotVramRequired>
+        <OtherRamRequired __type="int">0</OtherRamRequired>
+        <OtherVramRequired __type="int">0</OtherVramRequired>
+    </ResourceInfo>
+    <ResourceInfo>
+        <CustomDebugInfo />
+        <TypeName>Sound</TypeName>
+        <SourceDataDescription>Cutscenes/fmv0350/fmv0350_door_close</SourceDataDescription>
+        <SlotRamRequired __type="int">0</SlotRamRequired>
+        <SlotVramRequired __type="int">0</SlotVramRequired>
+        <OtherRamRequired __type="int">0</OtherRamRequired>
+        <OtherVramRequired __type="int">0</OtherVramRequired>
+    </ResourceInfo>
+    <ResourceInfo>
+        <CustomDebugInfo />
+        <TypeName>Sound</TypeName>
+        <SourceDataDescription>Dabing/Cutscenes/0350/03_50_00_0010</SourceDataDescription>
+        <SlotRamRequired __type="int">0</SlotRamRequired>
+        <SlotVramRequired __type="int">0</SlotVramRequired>
+        <OtherRamRequired __type="int">0</OtherRamRequired>
+        <OtherVramRequired __type="int">0</OtherVramRequired>
+    </ResourceInfo>
+    <ResourceInfo>
+        <CustomDebugInfo />
+        <TypeName>Sound</TypeName>
+        <SourceDataDescription>Dabing/Cutscenes/0350/03_50_00_0020</SourceDataDescription>
+        <SlotRamRequired __type="int">0</SlotRamRequired>
+        <SlotVramRequired __type="int">0</SlotVramRequired>
+        <OtherRamRequired __type="int">0</OtherRamRequired>
+        <OtherVramRequired __type="int">0</OtherVramRequired>
+    </ResourceInfo>
+    <ResourceInfo>
+        <CustomDebugInfo />
+        <TypeName>Sound</TypeName>
+        <SourceDataDescription>Dabing/Cutscenes/0350/03_50_00_0030</SourceDataDescription>
+        <SlotRamRequired __type="int">0</SlotRamRequired>
+        <SlotVramRequired __type="int">0</SlotVramRequired>
+        <OtherRamRequired __type="int">0</OtherRamRequired>
+        <OtherVramRequired __type="int">0</OtherVramRequired>
+    </ResourceInfo>
+    <ResourceInfo>
+        <CustomDebugInfo />
+        <TypeName>Sound</TypeName>
+        <SourceDataDescription>Dabing/Cutscenes/0350/03_50_00_0040</SourceDataDescription>
+        <SlotRamRequired __type="int">0</SlotRamRequired>
+        <SlotVramRequired __type="int">0</SlotVramRequired>
+        <OtherRamRequired __type="int">0</OtherRamRequired>
+        <OtherVramRequired __type="int">0</OtherVramRequired>
+    </ResourceInfo>
+    <ResourceInfo>
+        <CustomDebugInfo />
+        <TypeName>Sound</TypeName>
+        <SourceDataDescription>Dabing/Cutscenes/0350/03_50_00_0050</SourceDataDescription>
+        <SlotRamRequired __type="int">0</SlotRamRequired>
+        <SlotVramRequired __type="int">0</SlotVramRequired>
+        <OtherRamRequired __type="int">0</OtherRamRequired>
+        <OtherVramRequired __type="int">0</OtherVramRequired>
+    </ResourceInfo>
+    <ResourceInfo>
+        <CustomDebugInfo />
+        <TypeName>Sound</TypeName>
+        <SourceDataDescription>Dabing/Cutscenes/0350/03_50_00_0055</SourceDataDescription>
+        <SlotRamRequired __type="int">0</SlotRamRequired>
+        <SlotVramRequired __type="int">0</SlotVramRequired>
+        <OtherRamRequired __type="int">0</OtherRamRequired>
+        <OtherVramRequired __type="int">0</OtherVramRequired>
+    </ResourceInfo>
+    <ResourceInfo>
+        <CustomDebugInfo />
+        <TypeName>Sound</TypeName>
+        <SourceDataDescription>Sound_table/Animace/03_price_mad_knock_door</SourceDataDescription>
+        <SlotRamRequired __type="int">0</SlotRamRequired>
+        <SlotVramRequired __type="int">0</SlotVramRequired>
+        <OtherRamRequired __type="int">0</OtherRamRequired>
+        <OtherVramRequired __type="int">0</OtherVramRequired>
+    </ResourceInfo>
+    <ResourceInfo>
+        <CustomDebugInfo />
+        <TypeName>Sound</TypeName>
+        <SourceDataDescription>Sound_table/Animace/sc_door_hit1</SourceDataDescription>
+        <SlotRamRequired __type="int">0</SlotRamRequired>
+        <SlotVramRequired __type="int">0</SlotVramRequired>
+        <OtherRamRequired __type="int">0</OtherRamRequired>
+        <OtherVramRequired __type="int">0</OtherVramRequired>
+    </ResourceInfo>
+    <ResourceInfo>
+        <CustomDebugInfo />
+        <TypeName>Sound</TypeName>
+        <SourceDataDescription>Sound_table/Animace/sc_door_hit2</SourceDataDescription>
+        <SlotRamRequired __type="int">0</SlotRamRequired>
+        <SlotVramRequired __type="int">0</SlotVramRequired>
+        <OtherRamRequired __type="int">0</OtherRamRequired>
+        <OtherVramRequired __type="int">0</OtherVramRequired>
+    </ResourceInfo>
+    <ResourceInfo>
+        <CustomDebugInfo />
+        <TypeName>Sound</TypeName>
+        <SourceDataDescription>Sound_table/Animace/sc_door_hit3</SourceDataDescription>
+        <SlotRamRequired __type="int">0</SlotRamRequired>
+        <SlotVramRequired __type="int">0</SlotVramRequired>
+        <OtherRamRequired __type="int">0</OtherRamRequired>
+        <OtherVramRequired __type="int">0</OtherVramRequired>
+    </ResourceInfo>
+    <ResourceInfo>
+        <CustomDebugInfo />
+        <TypeName>Sound</TypeName>
+        <SourceDataDescription>Sound_table/Animace/sc_door_slow_open</SourceDataDescription>
+        <SlotRamRequired __type="int">0</SlotRamRequired>
+        <SlotVramRequired __type="int">0</SlotVramRequired>
+        <OtherRamRequired __type="int">0</OtherRamRequired>
+        <OtherVramRequired __type="int">0</OtherVramRequired>
+    </ResourceInfo>
+    <ResourceInfo>
+        <CustomDebugInfo />
+        <TypeName>Sound</TypeName>
+        <SourceDataDescription>Sound_table/Animace/sc_keys1</SourceDataDescription>
+        <SlotRamRequired __type="int">0</SlotRamRequired>
+        <SlotVramRequired __type="int">0</SlotVramRequired>
+        <OtherRamRequired __type="int">0</OtherRamRequired>
+        <OtherVramRequired __type="int">0</OtherVramRequired>
+    </ResourceInfo>
+    <ResourceInfo>
+        <CustomDebugInfo />
+        <TypeName>Sound</TypeName>
+        <SourceDataDescription>Sound_table/Animace/sc_keys2</SourceDataDescription>
+        <SlotRamRequired __type="int">0</SlotRamRequired>
+        <SlotVramRequired __type="int">0</SlotVramRequired>
+        <OtherRamRequired __type="int">0</OtherRamRequired>
+        <OtherVramRequired __type="int">0</OtherVramRequired>
+    </ResourceInfo>
+    <ResourceInfo>
+        <CustomDebugInfo />
+        <TypeName>Sound</TypeName>
+        <SourceDataDescription>Sound_table/Interakce/Dvere/Dvere_dre_kop1</SourceDataDescription>
+        <SlotRamRequired __type="int">0</SlotRamRequired>
+        <SlotVramRequired __type="int">0</SlotVramRequired>
+        <OtherRamRequired __type="int">0</OtherRamRequired>
+        <OtherVramRequired __type="int">0</OtherVramRequired>
+    </ResourceInfo>
+    <ResourceInfo>
+        <CustomDebugInfo />
+        <TypeName>Sound</TypeName>
+        <SourceDataDescription>Sound_table/Interakce/Dvere/Dvere_dre_odem</SourceDataDescription>
+        <SlotRamRequired __type="int">0</SlotRamRequired>
+        <SlotVramRequired __type="int">0</SlotVramRequired>
+        <OtherRamRequired __type="int">0</OtherRamRequired>
+        <OtherVramRequired __type="int">0</OtherVramRequired>
+    </ResourceInfo>
+    <ResourceInfo>
+        <CustomDebugInfo />
+        <TypeName>Sound</TypeName>
+        <SourceDataDescription>Sound_table/Interakce/Dvere/Dvere_dre_zam</SourceDataDescription>
+        <SlotRamRequired __type="int">0</SlotRamRequired>
+        <SlotVramRequired __type="int">0</SlotVramRequired>
+        <OtherRamRequired __type="int">0</OtherRamRequired>
+        <OtherVramRequired __type="int">0</OtherVramRequired>
+    </ResourceInfo>
+    <ResourceInfo>
+        <CustomDebugInfo />
+        <TypeName>Sound</TypeName>
+        <SourceDataDescription>Sound_table/Interakce/Dvere/Dvere_drev_skrip_ot</SourceDataDescription>
+        <SlotRamRequired __type="int">0</SlotRamRequired>
+        <SlotVramRequired __type="int">0</SlotVramRequired>
+        <OtherRamRequired __type="int">0</OtherRamRequired>
+        <OtherVramRequired __type="int">0</OtherVramRequired>
+    </ResourceInfo>
+    <ResourceInfo>
+        <CustomDebugInfo />
+        <TypeName>Sound</TypeName>
+        <SourceDataDescription>Sound_table/Interakce/Dvere/Dvere_drev_skrip_vrz</SourceDataDescription>
+        <SlotRamRequired __type="int">0</SlotRamRequired>
+        <SlotVramRequired __type="int">0</SlotVramRequired>
+        <OtherRamRequired __type="int">0</OtherRamRequired>
+        <OtherVramRequired __type="int">0</OtherVramRequired>
+    </ResourceInfo>
+    <ResourceInfo>
+        <CustomDebugInfo />
+        <TypeName>Sound</TypeName>
+        <SourceDataDescription>Sound_table/Interakce/Dvere/Dvere_drev_skrip_zav</SourceDataDescription>
+        <SlotRamRequired __type="int">0</SlotRamRequired>
+        <SlotVramRequired __type="int">0</SlotVramRequired>
+        <OtherRamRequired __type="int">0</OtherRamRequired>
+        <OtherVramRequired __type="int">0</OtherVramRequired>
+    </ResourceInfo>
+    <ResourceInfo>
+        <CustomDebugInfo />
+        <TypeName>Cutscene</TypeName>
+        <SourceDataDescription>not available</SourceDataDescription>
+        <SlotRamRequired __type="int">0</SlotRamRequired>
+        <SlotVramRequired __type="int">0</SlotVramRequired>
+        <OtherRamRequired __type="int">0</OtherRamRequired>
+        <OtherVramRequired __type="int">0</OtherVramRequired>
+    </ResourceInfo>
+    <ResourceInfo>
+        <CustomDebugInfo />
+        <TypeName>Mipmap</TypeName>
+        <SourceDataDescription>MA_Obrazy.dds</SourceDataDescription>
+        <SlotRamRequired __type="int">0</SlotRamRequired>
+        <SlotVramRequired __type="int">0</SlotVramRequired>
+        <OtherRamRequired __type="int">0</OtherRamRequired>
+        <OtherVramRequired __type="int">0</OtherVramRequired>
+    </ResourceInfo>
+    <ResourceInfo>
+        <CustomDebugInfo />
+        <TypeName>Mipmap</TypeName>
+        <SourceDataDescription>MACH_Wall.dds</SourceDataDescription>
+        <SlotRamRequired __type="int">0</SlotRamRequired>
+        <SlotVramRequired __type="int">0</SlotVramRequired>
+        <OtherRamRequired __type="int">0</OtherRamRequired>
+        <OtherVramRequired __type="int">0</OtherVramRequired>
+    </ResourceInfo>
+    <ResourceInfo>
+        <CustomDebugInfo />
+        <TypeName>Mipmap</TypeName>
+        <SourceDataDescription>MA_Room.dds</SourceDataDescription>
+        <SlotRamRequired __type="int">0</SlotRamRequired>
+        <SlotVramRequired __type="int">0</SlotVramRequired>
+        <OtherRamRequired __type="int">0</OtherRamRequired>
+        <OtherVramRequired __type="int">0</OtherVramRequired>
+    </ResourceInfo>
+    <ResourceInfo>
+        <CustomDebugInfo />
+        <TypeName>Mipmap</TypeName>
+        <SourceDataDescription>MA_Room_S.dds</SourceDataDescription>
+        <SlotRamRequired __type="int">0</SlotRamRequired>
+        <SlotVramRequired __type="int">0</SlotVramRequired>
+        <OtherRamRequired __type="int">0</OtherRamRequired>
+        <OtherVramRequired __type="int">0</OtherVramRequired>
+    </ResourceInfo>
+    <ResourceInfo>
+        <CustomDebugInfo />
+        <TypeName>Mipmap</TypeName>
+        <SourceDataDescription>MA_Ground.dds</SourceDataDescription>
+        <SlotRamRequired __type="int">0</SlotRamRequired>
+        <SlotVramRequired __type="int">0</SlotVramRequired>
+        <OtherRamRequired __type="int">0</OtherRamRequired>
+        <OtherVramRequired __type="int">0</OtherVramRequired>
+    </ResourceInfo>
+    <ResourceInfo>
+        <CustomDebugInfo />
+        <TypeName>Mipmap</TypeName>
+        <SourceDataDescription>MA_Ground_S.dds</SourceDataDescription>
+        <SlotRamRequired __type="int">0</SlotRamRequired>
+        <SlotVramRequired __type="int">0</SlotVramRequired>
+        <OtherRamRequired __type="int">0</OtherRamRequired>
+        <OtherVramRequired __type="int">0</OtherVramRequired>
+    </ResourceInfo>
+    <ResourceInfo>
+        <CustomDebugInfo />
+        <TypeName>Mipmap</TypeName>
+        <SourceDataDescription>MA_Strop.dds</SourceDataDescription>
+        <SlotRamRequired __type="int">0</SlotRamRequired>
+        <SlotVramRequired __type="int">0</SlotVramRequired>
+        <OtherRamRequired __type="int">0</OtherRamRequired>
+        <OtherVramRequired __type="int">0</OtherVramRequired>
+    </ResourceInfo>
+    <ResourceInfo>
+        <CustomDebugInfo />
+        <TypeName>Mipmap</TypeName>
+        <SourceDataDescription>MA_Strop_S.dds</SourceDataDescription>
+        <SlotRamRequired __type="int">0</SlotRamRequired>
+        <SlotVramRequired __type="int">0</SlotVramRequired>
+        <OtherRamRequired __type="int">0</OtherRamRequired>
+        <OtherVramRequired __type="int">0</OtherVramRequired>
+    </ResourceInfo>
+    <ResourceInfo>
+        <CustomDebugInfo />
+        <TypeName>Mipmap</TypeName>
+        <SourceDataDescription>OM_MA_Room.dds</SourceDataDescription>
+        <SlotRamRequired __type="int">0</SlotRamRequired>
+        <SlotVramRequired __type="int">0</SlotVramRequired>
+        <OtherRamRequired __type="int">0</OtherRamRequired>
+        <OtherVramRequired __type="int">0</OtherVramRequired>
+    </ResourceInfo>
+    <ResourceInfo>
+        <CustomDebugInfo />
+        <TypeName>Mipmap</TypeName>
+        <SourceDataDescription>MACH_Ground.dds</SourceDataDescription>
+        <SlotRamRequired __type="int">0</SlotRamRequired>
+        <SlotVramRequired __type="int">0</SlotVramRequired>
+        <OtherRamRequired __type="int">0</OtherRamRequired>
+        <OtherVramRequired __type="int">0</OtherVramRequired>
+    </ResourceInfo>
+    <ResourceInfo>
+        <CustomDebugInfo />
+        <TypeName>Mipmap</TypeName>
+        <SourceDataDescription>MACH_Ground_S.dds</SourceDataDescription>
+        <SlotRamRequired __type="int">0</SlotRamRequired>
+        <SlotVramRequired __type="int">0</SlotVramRequired>
+        <OtherRamRequired __type="int">0</OtherRamRequired>
+        <OtherVramRequired __type="int">0</OtherVramRequired>
+    </ResourceInfo>
+    <ResourceInfo>
+        <CustomDebugInfo />
+        <TypeName>Mipmap</TypeName>
+        <SourceDataDescription>MACH_Wall_Dirt.dds</SourceDataDescription>
+        <SlotRamRequired __type="int">0</SlotRamRequired>
+        <SlotVramRequired __type="int">0</SlotVramRequired>
+        <OtherRamRequired __type="int">0</OtherRamRequired>
+        <OtherVramRequired __type="int">0</OtherVramRequired>
+    </ResourceInfo>
+    <ResourceInfo>
+        <CustomDebugInfo />
+        <TypeName>Mipmap</TypeName>
+        <SourceDataDescription>MACH_Wall_Dirt_S.dds</SourceDataDescription>
+        <SlotRamRequired __type="int">0</SlotRamRequired>
+        <SlotVramRequired __type="int">0</SlotVramRequired>
+        <OtherRamRequired __type="int">0</OtherRamRequired>
+        <OtherVramRequired __type="int">0</OtherVramRequired>
+    </ResourceInfo>
+    <ResourceInfo>
+        <CustomDebugInfo />
+        <TypeName>Mipmap</TypeName>
+        <SourceDataDescription>MACH_Strop.dds</SourceDataDescription>
+        <SlotRamRequired __type="int">0</SlotRamRequired>
+        <SlotVramRequired __type="int">0</SlotVramRequired>
+        <OtherRamRequired __type="int">0</OtherRamRequired>
+        <OtherVramRequired __type="int">0</OtherVramRequired>
+    </ResourceInfo>
+    <ResourceInfo>
+        <CustomDebugInfo />
+        <TypeName>Mipmap</TypeName>
+        <SourceDataDescription>MACH_Strop_S.dds</SourceDataDescription>
+        <SlotRamRequired __type="int">0</SlotRamRequired>
+        <SlotVramRequired __type="int">0</SlotVramRequired>
+        <OtherRamRequired __type="int">0</OtherRamRequired>
+        <OtherVramRequired __type="int">0</OtherVramRequired>
+    </ResourceInfo>
+    <ResourceInfo>
+        <CustomDebugInfo />
+        <TypeName>Mipmap</TypeName>
+        <SourceDataDescription>OM_MA_Chodba.dds</SourceDataDescription>
+        <SlotRamRequired __type="int">0</SlotRamRequired>
+        <SlotVramRequired __type="int">0</SlotVramRequired>
+        <OtherRamRequired __type="int">0</OtherRamRequired>
+        <OtherVramRequired __type="int">0</OtherVramRequired>
+    </ResourceInfo>
+    <ResourceInfo>
+        <CustomDebugInfo />
+        <TypeName>Mipmap</TypeName>
+        <SourceDataDescription>OM_MA_Sklep.dds</SourceDataDescription>
+        <SlotRamRequired __type="int">0</SlotRamRequired>
+        <SlotVramRequired __type="int">0</SlotVramRequired>
+        <OtherRamRequired __type="int">0</OtherRamRequired>
+        <OtherVramRequired __type="int">0</OtherVramRequired>
+    </ResourceInfo>
+    <ResourceInfo>
+        <CustomDebugInfo />
+        <TypeName>Mipmap</TypeName>
+        <SourceDataDescription>2lampa3.dds</SourceDataDescription>
+        <SlotRamRequired __type="int">0</SlotRamRequired>
+        <SlotVramRequired __type="int">0</SlotVramRequired>
+        <OtherRamRequired __type="int">0</OtherRamRequired>
+        <OtherVramRequired __type="int">0</OtherVramRequired>
+    </ResourceInfo>
+    <ResourceInfo>
+        <CustomDebugInfo />
+        <TypeName>Mipmap</TypeName>
+        <SourceDataDescription>2lampa3N.dds</SourceDataDescription>
+        <SlotRamRequired __type="int">0</SlotRamRequired>
+        <SlotVramRequired __type="int">0</SlotVramRequired>
+        <OtherRamRequired __type="int">0</OtherRamRequired>
+        <OtherVramRequired __type="int">0</OtherVramRequired>
+    </ResourceInfo>
+    <ResourceInfo>
+        <CustomDebugInfo />
+        <TypeName>Mipmap</TypeName>
+        <SourceDataDescription>Lampa06.dds</SourceDataDescription>
+        <SlotRamRequired __type="int">0</SlotRamRequired>
+        <SlotVramRequired __type="int">0</SlotVramRequired>
+        <OtherRamRequired __type="int">0</OtherRamRequired>
+        <OtherVramRequired __type="int">0</OtherVramRequired>
+    </ResourceInfo>
+    <ResourceInfo>
+        <CustomDebugInfo />
+        <TypeName>Mipmap</TypeName>
+        <SourceDataDescription>Lampa06N.dds</SourceDataDescription>
+        <SlotRamRequired __type="int">0</SlotRamRequired>
+        <SlotVramRequired __type="int">0</SlotVramRequired>
+        <OtherRamRequired __type="int">0</OtherRamRequired>
+        <OtherVramRequired __type="int">0</OtherVramRequired>
+    </ResourceInfo>
+    <ResourceInfo>
+        <CustomDebugInfo />
+        <TypeName>Mipmap</TypeName>
+        <SourceDataDescription>Lampa06E.dds</SourceDataDescription>
+        <SlotRamRequired __type="int">0</SlotRamRequired>
+        <SlotVramRequired __type="int">0</SlotVramRequired>
+        <OtherRamRequired __type="int">0</OtherRamRequired>
+        <OtherVramRequired __type="int">0</OtherVramRequired>
+    </ResourceInfo>
+    <ResourceInfo>
+        <CustomDebugInfo />
+        <TypeName>Mipmap</TypeName>
+        <SourceDataDescription>MA_Door_Entry.dds</SourceDataDescription>
+        <SlotRamRequired __type="int">0</SlotRamRequired>
+        <SlotVramRequired __type="int">0</SlotVramRequired>
+        <OtherRamRequired __type="int">0</OtherRamRequired>
+        <OtherVramRequired __type="int">0</OtherVramRequired>
+    </ResourceInfo>
+    <ResourceInfo>
+        <CustomDebugInfo />
+        <TypeName>Mipmap</TypeName>
+        <SourceDataDescription>MA_Door_Entry_N.dds</SourceDataDescription>
+        <SlotRamRequired __type="int">0</SlotRamRequired>
+        <SlotVramRequired __type="int">0</SlotVramRequired>
+        <OtherRamRequired __type="int">0</OtherRamRequired>
+        <OtherVramRequired __type="int">0</OtherVramRequired>
+    </ResourceInfo>
+    <ResourceInfo>
+        <CustomDebugInfo />
+        <TypeName>Mipmap</TypeName>
+        <SourceDataDescription>CITZSTd.dds</SourceDataDescription>
+        <SlotRamRequired __type="int">0</SlotRamRequired>
+        <SlotVramRequired __type="int">0</SlotVramRequired>
+        <OtherRamRequired __type="int">0</OtherRamRequired>
+        <OtherVramRequired __type="int">0</OtherVramRequired>
+    </ResourceInfo>
+    <ResourceInfo>
+        <CustomDebugInfo />
+        <TypeName>Mipmap</TypeName>
+        <SourceDataDescription>CITZSTn.dds</SourceDataDescription>
+        <SlotRamRequired __type="int">0</SlotRamRequired>
+        <SlotVramRequired __type="int">0</SlotVramRequired>
+        <OtherRamRequired __type="int">0</OtherRamRequired>
+        <OtherVramRequired __type="int">0</OtherVramRequired>
+    </ResourceInfo>
+    <ResourceInfo>
+        <CustomDebugInfo />
+        <TypeName>Mipmap</TypeName>
+        <SourceDataDescription>CITZSTsp.dds</SourceDataDescription>
+        <SlotRamRequired __type="int">0</SlotRamRequired>
+        <SlotVramRequired __type="int">0</SlotVramRequired>
+        <OtherRamRequired __type="int">0</OtherRamRequired>
+        <OtherVramRequired __type="int">0</OtherVramRequired>
+    </ResourceInfo>
+</xml>

@@ -1,0 +1,14 @@
+﻿307030010:Lənət, Derek maşını belə götürməz. Təmir etdirməliyəm!
+307030020:Ay köpəkoğlu! Nə edirsən?! Polis, kömək!
+307030140:Ah, zibil! Bu şeyə nə olub? Uf! Ah... Almağına bir ətək pul, təmirinə də bir ətək pul!
+307030240:Oğru! Saxlayın onu!
+307030250:Saxlayın onu! O alçaq məni öldürməyə çalışdı!
+307030270:O, mənim maşınımdır!
+307030290:Yaxşı, Vito, bir az bu yana çək ki, kran çatsın.
+307030310:Gördün? Nə demişdim? Çox asan.
+307030330:Elə? Üstündə belə cızıq olan asan iş heç görməmişəm, ay gic.
+307030340:O cızıq əvvəldən var idi. Özü də cilayla çıxar. Heç görünmür!
+307030350:Gələn dəfə əvvəldən olsa da, olmasa da, bura gətirməmiş düzəlt.
+307030390:Bu nədir belə? 
+307030410:Yaxşı... indi qayıdıram.
+307040020:Yaxşı işdir, uşaqlar. Gəmi çıxmamış yükləməyə vaxtımız çoxdur. Pulunuz budur.

@@ -1,0 +1,26 @@
+﻿308510010:Hey - mənim nə vecimə, lənət olsun?
+308510020:Burada hamının yerinə mən düşünməliyəm? Onlar sənin lənətə gəlmiş adamlarındır.
+308510040:Nə edəcəyimi deyim... Bu işi bacaran birini tapacağam. Sənin lənətə gəlmiş bəhanələrindən bezmişəm.
+308510080:Hey, Vito! Elə səni görmək istəyirdim. Otur!
+308510110:O irland əclaflar biznesimi əlimdən almaq istəyirlər, məsələ budur. İnanırsan buna? Mənim üçün bunu həll edəcək adam lazımdır. Maraqlanırsan?
+
+308510120:Bəlkə. Nə etmək istəyirsən?
+308510130:Dərs verəcəyik, əlil arabasına düşəcəklər, lap yaxşısı - öləcəklər! Bir də heç vaxt onlarla problemim olmayacağına əmin olmalısan.
+308510140:Neçə nəfərdirlər?
+308510150:Fərqi var?! Üç, dörd, haradan bilim, lənət olsun?! Bir neçə sərxoşun öhdəsindən gələrsən, hə?!
+308510170:Elə ona görə tək getmir, dahi. İndi götünü qaldır, get Carmine ilə Lupo-nu gətir.
+308510180:Bunu mənim üçün həll etsən, beş yüz dollar verərəm. Nə deyirsən?
+308510190:Bağışla, beş yüz dollara döyülməyə dəyməz...
+308510200:Onda başqasını tapmalı olacağam.
+308510210:Fikrini dəyişdin?
+308510220:Yaxşı, həll edərəm. Harada tapım onları?
+308510230:Axırıncı dəfə əclafları Little Italy-də yanacaqdoldurmada görüblər, ora bax. Yaşıl Shubert 38 sürürlər, gözün onda olsun.
+308510240:Problem deyil. Neçə nəfərdirlər?
+308510250:Üç, dörd, haradan bilim, lənət olsun?! Fərqi var?!
+308510260:Əslində, var.
+308510261:Yaxşı, onda səninlə iki adam göndərirəm. Carmine, get Lupo-nu tap, çöldə Vito-nu gözləyin. Carmine, get Lupo-nu tap, çöldə Vito-nu gözləyin.
+308510264:İndi razısan?
+308510265:Hə.
+308510266:Yaxşı. Onda get. Tezliklə görüşərik.
+308510390:Ah, əlbəttə. Öz anaları da tanımayacaq.
+308510430:Bağışla, Derek, çox idilər. Həddindən artıq. Gələn dəfə daha çox adam göndərməlisən.

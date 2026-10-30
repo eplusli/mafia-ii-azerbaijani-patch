@@ -1,0 +1,50 @@
+﻿306040010:Bağışla, Leo Galante-nin harada olduğunu bilirsən?
+306040020:Ee... hey... Leo Galante-ni axtarıram, harada tapa bilərəm?
+306040021:Leo Galante-ni axtarıram.
+306040030:Hey, Leo Galante ilə danışmalıyam. Göstərərsən?
+306040040:Bağışla, tanımıram.
+306040050:Bağışla, dostum, burada o adda adam yoxdur.
+306040060:Hə, şahmat oynayan qocalardan biridir.
+306040061:Tanımıram.
+306040062:Yadıma gəlmir, bağışla.
+306040070:Ah, heç eşitməmişəm.
+306040080:Ah... Ömrümdə bu adı eşitməmişəm!
+306040081:Orada şahmat masasındakı qocanı görürsən? Odur.
+306040090:Bəlkə orada şahmat oynayan o qocalardan biridir.
+306040091:Galante orada şahmat masasındakı qocadır.
+306040100:Xəbərim yoxdur. Zəhləmi tökmə.
+306040110:Məni rahat burax, lənətə gəlmiş.
+306040120:Öz işinə bax, lənət olsun.
+306040130:Sikdir get. Məşğul olduğumu görmürsən, anasını sikdiyim?!
+306040131:Əsəblərimə toxunmağa başlayırsan, oğlan.
+306040132:Leo Galante-n buradadır, qancıq.
+306040133:Geri çəkil, get başqasının zəhləsini tök.
+306040150:Məni əsəbiləşdirməmiş get buradan.
+306040151:Tanımıram.
+306040152:Xəbərim yoxdur.
+306040160:Bağışla, kömək edə bilmirəm.
+306040170:Hey, a kişi, ağac kimi... gözümdən rədd ol!
+306040180:Hə, hə. Qocadır. Bütün günü şahmat oynayır.
+306040190:Rədd ol yanımdan.
+306040193:Get başqasının zəhləsini tök.
+306040196:Çəkil gözümdən.
+306040199:Hey, dostum, rədd ol.
+306040202:Sənə deyəcəyim yoxdur.
+306040205:Rədd ol, göt.
+306040208:Gözümdən rədd ol, ağ oğlan.
+306040211:Özünə yaxşılıq istəyirsənsə, zəhləmi tökməyi kəs.
+306040214:Bağışla, "Ağlara yaxşı davranma günü" dünən idi.
+306040217:A kişi, rədd ol yanımdan.
+306040220:Sənə deyəcəyim bir zibil yoxdur, a kişi.
+306040223:Yo, ağzını yumub getsən olmaz?
+306040226:Bağışla. İngiliscə yox.
+306040229:Ağ şeytanla danışdığımı görsünlər istəmirəm.
+306040232:Ağ şeytanla danışmaq yaxşı deyil. İndi get.
+306040235:Hmph. Ağ şeytan ancaq bəla gətirir.
+306040238:Axtardığını tapacaqsan. Səbirli ol, çəyirtkə.
+306040241:Bu günkü falın "rədd ol yanımdan" deyir.
+306040250:Hey, geri çəkil, a kişi.
+306040280:n_Yo, iki dənə siqaretinə deyirəm, bu əclaf adamımın rekorduna yaxın da düşməz.
+306040291:Yaxşı onda, sikim səni çox.
+306040292:Yaxşı, deyəsən, bu adamlar məşğuldur.
+306040293:Ee, çox da mehriban görünmürlər.

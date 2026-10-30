@@ -1,0 +1,177 @@
+﻿601000010:Vito Scaletta?
+601000020:Hə... Sənə nə?
+601000030:Federal ərzaq talonlarını qanunsuz yaydığına görə həbs olunursan. Bizimlə gəlirsən.
+601000040:Yanacaqdoldurma işçilərindən biri məni satmışdı. Məni tanıyıb göstərmişdi, anamı da sıxışdırıb harada qaldığımı öyrənmişdilər.
+601000041:Amma kimə işlədiyimi bilmirdilər, mən də demək fikrində deyildim.
+601000050:Henry müdiri Clemente-nin hesabına mənə vəkil tutmuşdu. Zibilə düşmüşdüm, amma heç olmasa bir ümid vardı.
+601000051:Federallar "başqa" işlərimdən xəbər tutsaydılar, daha pis ola bilərdi.
+601000060:Vəkil yaxşı idi, amma o da məni bundan qurtara bilmədi. Əvvəldən uduzulmuş iş idi.
+601000061:Üç ay sonra hökmü oxudular.
+601000070:...və ölkəmizin ən çox ehtiyacı olduğu vaxt dövlətin ehtiyatlarını oğurladığınızı nəzərə alaraq, cinayətinizi daha da ağır hesab edirəm.
+601000071:Siz, cənab Scaletta, təltif olunmuş müharibə veteranı kimi bu əməlin ağırlığını yaxşı anlamalısınız.
+601000090:Vittorio Antonio Scaletta, bu şəhərin və bu böyük ölkənin xalqına qarşı cinayətlərinizə görə...
+601000091:...bu məhkəmə sizi federal həbsxanada on il azadlıqdan məhrum edir.
+601000008:n_ Hə, körpəm. Hahaha.
+601000009:n_Oooh, təzə ət, körpəm!
+601000011:n_Vuhu! Gəl atanın yanına!
+601000012:n_Hey, körpəm, utanma!
+601000013:n_Gəl, təzə oğlan, atanın burada sənə yeri var.
+601000014:n_Elədir, həyatıma xoş gəlmisən.
+601000015:n_Cəhənnəmə xoş gəlmisiniz, təzələr.
+601000016:n_Həəə, elədir, lap yaxın gəl, iyini alım, mmmmmmm!
+601000017:n_Oh, hə, dadın yaxşı olacaq, təzə balıq.
+601000018:n_Ah, iyini həyətdən alırdım, oğlan.
+601000019:n_Hey, qayıdışın mübarək, qardaşım.
+601000021:n_Oh, hə! Dadın lap yaxşı olacaq!
+601000022:n_Qəşəng oğlan mənimdir!
+601000023:n_Oooh, ağ əti xoşlayıram, körpəm!
+601000024:n_Narahat olma. Ancaq birinci dəfə ağrıyır. Hahaha...
+601000025:n_Duşda görüşərik, təzə balıq.
+601000026:n_Oh, hə, körpəm! Bax bunu görmək istəyirdim!
+601000027:n_Bura bax, oğlan! Hadi, utanma!
+601000028:n_Gəl bura, oğlan. Bir az yaxınlaş, iyini alım.
+601000029:n_Mmm, səni arvada çevirmək əyləncəli olacaq, şirinim.
+601000031:n_Nəyə baxırsan, göt!?
+601000110:Federal həbsxana. Oğrular, qatillər, uşaqbazlar... hamısı burada idi. Ən betərin betəri.
+601000120:Yaxşı, sıraya düzülün, cənablar. Bir cərgəylə arxamca gəlin, hoqqa çıxarmayın, yoxsa pis olar.
+600000010:Problem istəyirsən, qancıq oğlu?
+600000020:Nə olub? İngiliscə bilmirsən? Gəl sənə "öyrədim"!
+600000030:Nədir, bundan zövq alırsan, xəstə əclaf?!
+600000040:İndi qalx, qayıt sıraya. Tərpən!
+600000050:Hey, çoxbilmiş, bir də dedirtmə. Sıraya qayıt.
+600000060:Gedək, götlər.
+600000070:Tərpən!
+600000080:B... bağışlayın. Bacarmıram.
+600000090:Yox, xahiş edirəm... Yox...
+602000040:Elə orada dayan, sağa dön.
+602000045:O biri sağa!
+602000050:Qulaq asın, götlər! Adım kapitan Terence Stone-dur, bu da mənim həbsxanamdır. Çöldə normal insan kimi davrana bilmədiyiniz üçün buradasınız!
+602000051:Yaxşı bilin - indi mənə aidsiniz, dediyimi edəcəksiniz, etməsəniz, peşman olacaqsınız.
+602000052:Mənimlə oynasanız, bütün günü başınıza oyun açaram. Sizi bura islah olunmağa göndəriblər, islah da edəcəyik.
+602000100:Yaxşı, götlər, sizi bir az açacağıq ki, yuyunasınız.
+602000110:İndi sıraya düzülün, arxamca gəlin!
+603000010:Üç həyəcanlı günü divara baxmaqla keçirəndən sonra Joe-dan xəbər gəldi: Leo Galante adlı birini tapmalıydım, guya burada mənə kömək edə bilərdi.
+603000011:Bura təkbaşına sağ qala biləcəyin yer deyildi.
+603000020:Nəyə baxırsan, göt? Döyülmək istəyirsənsə, elə baxmağa davam elə, dostum!
+604000020:Səni tanıyıram!
+604000030:Zərgərlik mağazasında Barbaro ilə olan o lənətə gəlmiş italyan sənsən! Sənin üzündən bu cəhənnəmə düşmüşəm!
+604000040:Axmaq, dəli əclaf olduğun üçün düşmüsən.
+604000050:Hehehehehe... Uşaqlar, anam haqlıymış. Allah var!
+604000051:Səni də bura göndərib, italyan əclafı, qisasımı alım deyə!
+604000090:Maraqlı görünür. Balaca mərc edək?
+604000100:Geri çəkil! Məni eşitdin?
+604000101:Çıxın buradan! Tərpənin!
+604000110:Yaxşı, bəsdir! Ayrılın! İkiniz də təcridxanaya gedirsiniz!
+605000330:Onu burada nə qədər saxlamaq fikrindəsən?
+605000340:Dərsini alana qədər.
+605000350:Bunu dəyişməli olacağıq. Döyüşəcək haldadır?
+605000360:Olmalıdır. Həyətdəki davadan sonra uşaqlar onu çox döyməyiblər.
+605000370:Yaxşı, aç.
+605000380:Dur ayağa, Scaletta.
+605000390:Qonağın var.
+605000400:Adım Leo Galante-dir. Eşitdim mənimlə danışmaq istəyirsən.
+605000410:Hə.
+605000420:Clemente-nin adamlarından biri dedi səni tapım... dedi bəlkə kömək edə bilərsən?
+605000430:Sikim Clemente-ni. Burada onun adamlarını qorumuram.
+605000440:Amma dalınca düşən o irlandiyalını, O'Neill-i necə döydüyünü gördüm. İşə yaraya bilərsən...
+605000450:Gəl mənimlə, oğlum.
+605000460:İndi qulaq asın, uşaqlar! Bu Vito-dur. Bizə kömək edəcək.
+605000470:Pepé-nin böyük döyüşü var... O'Neill-ə qarşı. Məşqdə döyüş yoldaşı lazımdır... Həyətdə gördüyümə görə sən lap bu işliksən.
+605000480:Bizə kömək edəcəksən, oğlum. Əvəzində himayəmdə olacaqsan. Kim bilir, bəlkə bu arada bir-iki şey də öyrənərsən.
+605000490:Deyəsən, bu təklifə yox deyə bilmərəm, hə?
+605000500:Yadıma gəlmir ki, səndən soruşum. Yaxşı, uşaqlar, başlayaq.
+606000070:Clemente-yə nə qədər yaxınlaşmışdın, Vito?
+606000080:Əslində, onu heç görməmişəm. Həmişə ya Henry Tomasino, ya da Luca Gurino ilə iş görürdüm.
+606000090:Hmph... O sik yalayan Gurino-nun hələ nəfəs aldığına inana bilmirəm...
+606000100:Onlarla razılığın nə idi?
+606000360:Bilirsən də, bir-iki işlərini gördük, ee, Luca dedi bizi ailəyə götürər... ee, beş minə.
+606000370:Nə!
+606000380:Əsl o lənətə gəlmiş Alberto-luq işdir. Həmişə fırıldaqçı əclaf olub.
+606000390:Ee, nədir, bu, adət olunandan çoxdur?
+606000400:Hə, düz beş min çoxdur.
+606000170:Girmək üçün pul vermək lazım deyil, Vito. Sadiqliyini, yaxşı pul qazandığını, bilirsən də... bu həyatı bacardığını sübut edəndən sonra ailəyə götürülürsən.
+606000175:Hər halda, maraqlı xəbərdir. Bu yayılanda Alberto ilə Luca çox izahat verməli olacaqlar.
+606000410:Kimə?
+606000420:İlahi...
+606000430:Onu fikirləşmə. Başqa vaxt danışarıq...
+607000010:Qabağına bax, ağ şeytan!
+607000020:Bəlkə gözlərini tam açsaydın, gəldiyimi görərdin, göt.
+607000030:Mən də səni gördüyümə şadam, cənab Wu.
+607000040:Galante... fırıldaqçı ağ şeytan.
+607000050:Fırıldaqçı? Öz adamına pul qoydun, o da uduzdu. Bu ölkədə qayda belədir.
+607000060:Onda Wu sənə təkrar döyüş təklif edir.
+607000070:Deyəsən, düzəldə bilərəm. Hazırsan, Vito?
+607000080:Çinli, hə? Hə, bir pilləkən verin, göndərin yanıma.
+607000090:Yaxşı, Wu, deyəsən, təkrar döyüş qazandın. Bu dəfə o çin hoqqalarından olmasın.
+608000110:Salam, Vito.
+608000120:Salam, Frankie... Necəsən?
+608000130:Yaxşıyam. Lap yaxşı... Sağ ol.
+608000140:Ee, işlər necədir?
+608000150:Yaxşı... S-sənə deyəcəyim var. Ərə gedirəm, Vito!
+608000160:Ah, Madonna! Əladır! Yəni əvvəl məndən icazə istəsəydi, yaxşı olardı, amma... Sənin adına sevindim.
+608000170:Vito, sən həbsxanadasan! Özünə bax... Bunun olmasına necə imkan verdin?
+608000180:Hey, hakim artıq mənə nəsihət verib, hə? Birinə də ehtiyacım yoxdur. Sadəcə... söhbəti bağla, yaxşı?
+608000190:Vito... bir şey də var... Anadır.
+608000200:Nə demək istəyirsən? Ona nə olub?
+608000210:Xəstədir, Vito. Həftələrdir belədir, yaxşılaşmır.
+608000220:Bax, Frankie... Joe-nun yanına get. Pulum ondadır. Tapa bildiyin ən yaxşı həkimi çağır. Ee, qalanını da toy hədiyyəsi kimi götür.
+608000230:Vito...
+608000240:Yox, yox, ciddi deyirəm. Deyəsən, bir müddət mənə lazım olmayacaq...
+608000250:Yaxşı, deyəsən, getməliyəm... Bax, anadan muğayat ol... De ki, onu sevirəm.
+608000260:Deyərəm. Sağ ol, Vito. Hələlik.
+609000300:Nə gözləyirsiniz! Tərpənin görək!
+609000310:Hey, Frankie, burada bir balaca "işimiz" var, hə? Gedib bir siqaret çəksənə?
+609000320:Hahaha, hə, əlbəttə, əylənin, xəstə əclaflar.
+609000330:Hmm, çapıqların xoşuma gəldi, qəşəng oğlan. Haradan alıbsan?
+609000340:Bağışla, göt. Səhv götü deşməyə gəlmisən.
+609000350:Bunu xoşluqla da edə bilərik, zorla da. Özün seç.
+609000360:Daha yaxşı fikrim var - get dostlarını sik. Lap yaxşısı, özünü sik.
+609000370:Yaxşı, deyəsən, sərt xoşlayırsan!
+610000010:Buyur, oğlum, qaydanı bilirsən.
+610000020:Ah, ee, bu da bu gün gəlib.
+610000030:Oxusan yaxşıdır. Vacib görünür.
+610000050:Francesca görüşümə gələndə anam ölmüşdü. Yaxşı həkimlə toy hədiyyəsinə gedəsi pulum... qəpiyinə qədər dəfnə getdi.
+610000060:Yox, yox, yox, yox!
+610000070:Lənət!
+611000165:Cənab Galante səninlə danışmaq istəyir. Mənimlə gəl.
+611000170:Qayıtmağın yaxşı oldu, oğlum.
+611000180:Nə olub axı?
+611000190:Deyəsən, irlandlar ədalətli döyüş istəmirlər. Dünən bir neçəsi Pepé-nin üstünə düşüb.
+611000200:Bir neçədən xeyli çox idilər...
+611000210:Hə, bunu belə qoymayacağıq, bu dəqiqdir.
+611000220:Nə fikirləşmisən?
+611000230:Pepé hamısını düşünüb.
+611000110:Bir az dilə tutmaq lazım gəldi, amma O'Neill indi idman zalında təkdir. Gözətçilər bir müddət qayıtmayacaq.
+611000111:Sadəcə yaxşıca döyəcəksən, bir-iki sümüyünü sındıracaqsan, mənə etdikləri kimi. Anladın?
+611000112:Hə, anladım.
+611000114:Yaxşı, gəl mənimlə.
+611000115:Uğurlar, oğlum.
+611000670:Burada gözləyəcəyəm. Gözətçilər tez qayıtsa, xəbər edərəm.
+611000680:Yaxşı.
+611000690:Yaxşı, başla.
+611000700:Hey, O'Neill, səninlə bir haqq-hesabım var.
+611000710:Elə görmək istədiyim adamsan!
+06_25_00_0860:İlahi, sən nədən düzəlmisən axı?
+06_25_00_0870:Bundan yaxşısını etməlisən, balaca qız.
+612001040:Səsini kəs, sikdiyim!
+613000001:n_ Pepé-nin O'Neill-ə qarşı böyük döyüşü var, məşqdə döyüş yoldaşı lazımdır. Həyətdə gördüyümə görə sən lap bu işliksən.
+613000010:Hər şey lap yaxşı qurtardı. Kimin etdiyini heç öyrənmədilər. Leo məni öz kamerasına köçürtdü... Əslində, daha çox lüks otağa oxşayırdı. Həyatım hər dəqiqə yaxşılaşırdı.
+613000320:Vito, bu zibilxanadan çıxanda nə etmək fikrindəsən?
+613000330:Bilmirəm... Amma bir şey dəqiqdir, Clemente-nin yanına qayıtmayacağam.
+613000340:Hə, yaxşısı o qoca əclafı unut. İnan mənə, Alberto əsl sik yalayandır, tutduğu vəkil də yəqin səni susdurmaq üçün oradaydı.
+613000350:Amma narahat olma, cəzasını alacaq. Sənə təklif etdiyi kimi ailəyə pulla adam götürmək qaydaya ziddir. Çox izahat verməli olacaq.
+613000180:Kimə? Elə bilirdim, müdir Clemente-dir.
+613000200:Aydındır ki, burada işlərin necə getdiyini bilmirsən. Empire Bay-də tək ailə yoxdur. Üçü var. Hər ailə öz məhəllələrinə nəzarət edir.
+613000201:Qaydalar var, fikir ayrılığı olanda bütün ailələrin başçıları yığışıb həll edirlər. Komissiya budur.
+613000210:Əla, indi mən nə edim? Mənim də başım bəlaya girib?
+613000220:Yox, yox, yox... Elə şey yoxdur. Cavansan, ağıllısan, ağzını bağlı saxlamağı bacardığını da sübut etmisən.
+613000225:Hamının öz yanında işləməsini istədiyi adamsan.
+613000230:Hə, amma o başqalarının kim olduğunu heç bilmirəm...
+613000240:Clemente-dən başqa iki başçı var. Biri Carlo Falcone, o biri Frank Vinci-dir. Carlo cavandır, iddialıdır...
+613000250:O adam lap dəlidir...
+613000260:O, yeni nəsildəndir, Don Vinci isə şərəfli adamdır, köhnə qaydalara hörmət edir.
+613000270:Bu adamları tanıyırsan?
+613000280:Elə demək olar. Frank Vinci-nin məsləhətçisiyəm. Elə bilirsən, adi qoca olmaqla bunların hamısını qazana bilərsən?
+613000301:Amma qulaq as, Vito. Bir neçə aya çıxıram. Onda cəzanı "düzəltmək" üçün nə edə bilərik, baxarıq.
+613000310:Pepé, gəl bura, dadına bax.
+2000000000:n_

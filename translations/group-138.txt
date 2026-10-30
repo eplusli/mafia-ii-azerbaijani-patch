@@ -1,0 +1,30 @@
+﻿310020010:Joe? Bu necə işdir?
+310020020:Sənin bilməli olmadığın işdir, başa düşdün?
+310020030:Yaxşı, amma lazım olsa, tapançam buradadır.
+310020040:Hə, yaxşı... Sakit ol, Billy the Kid, yaxşı? Ehtiyac olmayacaq. Gedək.
+310020050:Mənim maşınımla gedərik. 
+310020055:Yaxşı. Mən sürərəm.
+310020080:Yolda əzib dağıtma. Bu, qaçış maşınımızdır. Üstəlik, partlayıcıyla maşın qəzasının bir-birinə çox da yaraşmadığına əminəm.
+310020090:Partlayıcı?! Hahaha...
+310020100:Hə, balaca atəşfəşanlıq üçün. Eşitdiyini unut.
+310020110:Empire Arms otelinə gedirik. Yeraltı dayanacaqda saxla, arxa girişdən girin.
+310020120:Uşaqlar, deyin də! Oteldə nə baş verir, hə?! Hadi...
+310020130:Nədir, kitab yazırsan? Bilməli olduğun hər şeyi demişəm!
+310020140:Mən... Sadəcə maraqlanıram, bilirsən? Bu qədər gizlilik...
+310020150:Marty, bu gizlilik vacibdir. Nə qədər az bilsən, o qədər yaxşıdır.
+310020160:Sual verməyə davam etsən, gələn dəfə bizi sürməyə başqasını tapmalı olacağam.
+310020170:Yaxşı, yaxşı! Daha sual yoxdur. Oldu, nə deyirsən...
+310020180:Deməli, oteli göyə sovuracaqsınız, hə?!
+310020190:Marty!
+310020200:Bağışla, bağışla.
+310020210:Bir söz də desən...
+310020220:Yaxşı, bağışla! Bir söz də demirəm... And içirəm!
+310020221:Qisas almaq yaxşı olacaq, hə, Vito? 
+310020229:Hə, bunda haqlısan...
+310020230:Vito, nə sikim edirsən?! Bu partlasa, hamımız öləcəyik!
+310020240:Bağışla, bir də olmaz.
+310020250:Lənət, Vito, ehtiyatlı ol! Bir dəfə də belə silkələnsək, bizi səkidən qaşıyıb yığacaqlar!
+310020251:Nədir, qorxub qaçırsan?!
+310020252:Qayıt bura, gicbəsər! Konfransa gecikəcəyik!
+310020253:Yaxşı, otel budur. Qarajın girişi o biri tərəfdədir.
+310020254:Orada saxla. Bütün silahlarımızı maşında qoymalıyıq. Elə bircə Clemente'nin adamının üstümüzü axtarıb onları tapmağı çatmırdı.

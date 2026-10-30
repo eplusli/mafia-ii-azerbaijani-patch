@@ -1,0 +1,27 @@
+﻿309010010:Alo?
+309010020:Vito? Burada bir vəziyyət yaranıb. Silah götür, barda görüşək. Özün də yaxşı maşın sür.
+309010030:Yaxşı, indi gəlirəm.
+309010040:Bazar günüm də belə getdi.
+309010041:Rəsmi polis işidir. Xahiş edirik, kənara çəkilin.
+309010042:Sənə aid deyil, dostum. Çıx get.
+309010043:Burada baş verənlər səni maraqlandırmır. Get buradan.
+309010044:Dostum, rəsmi istintaqa mane olursan. Çıx get.
+309010150:n_Açın, polisdir.
+309010160:n_Qulaq asın, içəridə olduğunuzu bilirik.
+309010170:n_Polisdir. Açın!
+309010180:n_Sadəcə bir neçə sual vermək istəyirik!
+309010190:n_Qapını açmasanız, sizin üçün biz açacağıq.
+309010200:n_Açın qapını!
+309010210:n_Polisdir, son xəbərdarlıqdır... O lənətəgəlmiş qapını açın!
+309010220:Salam, uşaqlar. Nə baş verir?
+309010050:Vito, nə gözləyirsən? Bilməli olduğun hər şeyi dedim axı.
+309010060:Buna vaxtımız yoxdur, Vito! Get!
+309010070:Götünü tərpət, Vito! Oyun çıxardığına görə o adamlar öləcək.
+309010080:Hə, nə öyrəndin?
+309010090:Hələ heç nə.
+309010100:Burada nə sikim edirsən? Freddy'nin yerinə get, Luca'nı izlə, gör nə edir!
+309010110:Hələ də heç nə? Tez ol, Vito, tərpənməlisən!
+309010120:Niyə hələ də buradasan?
+309010130:Vito, bu vacibdir! Götünü tərpət də artıq!
+309020260:Yaxşı fikir deyil. İzləməli olduğum maşın budur!
+309020270:Ah, lənət! Luca'nın maşınına vurdum!

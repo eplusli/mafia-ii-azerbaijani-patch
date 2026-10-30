@@ -1,0 +1,28 @@
+﻿314010001:Ee... Gərək görüm, kimdir... Vacib ola bilər.
+314010010:Vito. Hazırsan?
+314010020:Səsimdən hazıra oxşayıram? Təzə oyatmısan məni.
+314010030:Onda qalx. Bu gün Bruno-nun pulunu tapmasaq, batdıq.
+314010040:Əlli beş mini haradan tapacağıq axı, hə?
+314010050:Bilmirəm, amma yataqda uzanmaqla tapmayacağımız dəqiqdir. Başlamaq üçün bir şey tapmışam. Eddie-dən yaxşı pul verən bir iş.
+314010060:Ciddi?
+314010070:Hə. Bir neçə dəqiqəyə səni götürəcəyəm. Geyin, silah götür, bayırda gözlə. Maşında danışaram.
+314010080:Joe, bu da sənin o dahiyanə fikirlərindən biri olmasın ha...
+314010090:Ey. Heç həvəsim yoxdur.
+314010100:Bağışla, bağışla, üstünə qışqırmaq istəmirdim. Hələ yarıyuxuluyam.
+314010110:Hə, hə, nəysə. Qoşulursan, ya yox?
+314500120:Heç olmasa, bir az sonraya qala bilməz? Dünən gecə yaxşı yatmamışam. İndi nə qədər köməyim dəyər, bilmirəm.
+314500130:Hə, hə, başa düşürəm, amma bunu elə indi etmək lazımdır. Qulaq as, getmək istəmirsənsə, problem yoxdur, başqasını götürərəm. Bəlkə o təzə arıq oğlanı...
+314500140:Yaxşı, mənə uyğundur.
+314500150:Yaxşı. Bir də, bayaq Harry-nin yanında idim, dedi, səninlə nəsə danışmaq istəyir. Get, bir qəhvə iç, üzünü-gözünü də bir az aç, onun yanına get. Bəlkə sənin üçün bir işi var. Sonra görüşərik, Vito.
+314500160:Yaxşı, görüşərik.
+314500170:Əlbəttə, niyə də yox. Nə vaxta çatarsan?
+314500171:Tinimizdəki silah mağazasından zəng edirəm. Bir dəqiqəyə oradayam.
+314500172:Yaxşı, qabaqda səni gözləyərəm. İndi görüşərik.
+314500173:Yaxşı, arxada səni gözləyərəm. İndi görüşərik.
+314501000:Buna vaxt yoxdur. Görüləsi işimiz var!
+314500180:Bu qəşəng maşın nədir belə?
+314500190:Eddie bu iş üçün verib. Qəşəngdir, hə?
+314500200:Sən sür. Dünən gecədən başım hələ də çatlayır. Greenfield-ə gedirik.
+314500210:Deyəsən, sən də yaxşı içmisən, hə?
+314500220:Hə, mən də yata bilmirdim. Amma bir şüşə viski məsələni həll etdi.
+314500610:Ah, siktir, az qalmışdı. Məni Kingston-a apararsan? Orada maşın gözləyir.

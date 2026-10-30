@@ -1,0 +1,800 @@
+﻿01_52_00_0001:Ətrafa baxmaq üçün [AIM] istifadə et.
+01_52_00_0002:Personajı hərəkət etdirmək üçün [WALK] istifadə et.
+01_52_00_0003:Qapını açmaq üçün [ACTION] düyməsinə bas.
+01_52_00_0004:Maneənin arxasında sığınmaq üçün [COVER] düyməsinə bas.
+01_52_00_0005:Nişan almaq üçün [ZOOM] düyməsini basılı saxla.
+01_52_00_0006:Əyilməyi dayandırmaq üçün [ZOOM] düyməsini burax.
+01_52_00_0007:Sığınacaqdan çıxmaq üçün [COVER] düyməsinə bas.
+01_52_00_0008:Silahını yığışdırmaq üçün [HOLSTER] düyməsinə bas.
+01_52_00_0009:Divarın arxasında sığınmaq üçün [COVER] düyməsinə bas.
+01_52_00_0010:Sığınacaqdan boylanmaq üçün [ZOOM] düyməsini basılı saxla.
+01_52_00_0011:Atəş açmaq üçün [FIRE] düyməsinə bas.
+01_52_00_0012:Silahı doldurmaq üçün [RELOAD] düyməsinə bas.
+01_52_00_0013:Sığınacaqda hərəkət etmək üçün [WALK] istifadə et.
+01_52_00_0014:Sığınacaqdan çıxmaq üçün [COVER] düyməsinə bas.
+01_52_00_0015:İrəli sürətlə qaçmaq üçün [SPRINT] düyməsinə bas.
+01_52_00_0016:Sığınacaqda hərəkət edərkən küncü dönmək üçün [ACTION] düyməsinə bas.
+01_52_00_0017:Qapını təpiklə açmaq üçün [BREAK] düyməsinə bas.
+01_52_00_0018:Maneələri aşıb keçmək üçün [CLIMB] düyməsinə bas.
+01_52_00_0019:Pəncərənin yanında sığınmaq üçün [COVER] düyməsinə bas.
+01_52_00_0020:Qumbara götürmək üçün [WEAPON_LEFT] düyməsinə iki dəfə bas.
+01_52_00_0021:Qumbara atmaq üçün [FIRE] düyməsinə bas.
+01_52_00_0022:MG-42-dən istifadə etmək üçün yanında [ACTION] düyməsinə bas.
+01_52_00_0023:Silahı dəyişmək üçün [WEAPON_SELECT] düyməsinə bas.
+01_52_00_0024:Pilləkəndəki zabiti vur.
+01_52_00_0025:Bələdiyyə binasını qoruyan əsgərləri vur.
+01_52_00_0026:Qaçmaq üçün [WALK] istifadə et.
+01_52_00_0027:Bələdiyyə binasını ələ keçir.
+01_52_00_0028:Pəncərədən keçmək üçün [CLIMB] düyməsinə bas.
+01_52_00_0029:Silah götürmək üçün [ACTION] düyməsinə bas. Güllələr avtomatik götürülür.
+01_52_00_0030:İtalyanları saxlamaq üçün pulemyotdan istifadə et.
+01_52_00_0031:Dəstənə qoşul.
+01_52_00_0032:Tüfəngi götürmək üçün [WEAPON_DOWN] düyməsinə bas.
+01_52_00_0033:Sığınacaqdan daha tez çıxmaq üçün [WALK] basılı saxlayıb [COVER] düyməsinə bas.
+01_52_00_0034:Pəncərəyə tərəf gedərkən [COVER] düyməsinə basıb yanında sığın.
+01_52_00_0035:Ayağa qalxmaq üçün [CROUCH] düyməsinə bas.
+02_52_00_0001:Taksi saxlamaq üçün Y düyməsinə bas.
+02_52_00_0002:Formanı dəyişmək üçün yataq otağına get.
+02_52_00_0003:Tapşırıqları və işləri bitirdikcə hörmətin artır. Hörmətin nə qədər yüksək olsa, mağaza qiymətləri, polis cərimələri və rüşvət o qədər az olar. Polis və mülki şəxsləri öldürəndə, eləcə də başqa qanun pozuntularında hörmətin azalır, qiymətlər isə artır.
+02_52_00_0005:Bu gün yaxşı işlədin. İndi yatmaq vaxtıdır - Joe-nun evinə qayıdıb divanı tap.
+02_52_00_0006:Tapşırıq tamamlandı. Növbəti tapşırığa keçmək üçün evindəki yatağa uzan.
+02_52_00_0007:Çamadanını baqaja qoymaq üçün maşının arxasında ... düyməsinə bas.
+02_52_00_0008:Qaz vermək üçün [CAR_UP] düyməsinə bas.
+02_52_00_0009:Əyləci basmaq üçün [CAR_DOWN] düyməsinə bas.
+02_52_00_0010:Sürət məhdudlaşdırıcısını [DRIVING_STYLE] düyməsi ilə açıb-bağlaya bilərsən.
+02_52_00_0011:Normal sürmə rejimi spidometrdə işarə ilə göstərilir.
+02_52_00_0012:Əl əyləcini çəkmək üçün [HANDBRAKE] düyməsinə bas.
+02_52_00_0013:Radiostansiyanı dəyişmək və ya radionu söndürmək üçün [RADIO] düyməsinə bas.
+02_52_00_0014:Maşınları Joe-nun evinin yanındakı qarajda saxla.
+02_52_00_0015:Qarajdakı maşını oğurlaya bilməzlər.
+02_52_00_0016:Burada on maşına qədər saxlaya bilərsən.
+02_52_00_0017:Joe-nun evində öz evindəki kimi rahat ola bilərsən.
+02_52_00_0018:Mətbəxdəki divanda yatırsan. Yatanda bu gün bitəcək və hekayə davam edəcək.
+02_52_00_0021:Charlie-nin şəhərin hər yerində avtomobil emalatxanaları var.
+02_52_00_0022:Orada işinə yarayacaq xidmətlər var.
+02_52_00_0023:Bu maşının oğurlandığı bildirilib. Polis onu tanıyıb səni saxlamağa çalışacaq.
+02_52_00_0024:Maşının görünüşünü emalatxanada dəyişə bilərsən. Onda polis onu tanımayacaq.
+02_52_00_0025:Yaralananda sağlamlığın azalır.
+02_52_00_0026:Sağlamlığın avtomatik olaraq maksimum həddinə qədər bərpa olunur.
+02_52_00_0027:Cəsədi zibil qutusunda gizlət.
+02_52_00_0028:Yemək yesən, sağlamlıq həddin bərpa olar.
+02_52_00_0029:Joe-nun sifariş verməsini gözlə.
+02_52_00_0030:Taksiyə minməlisən.
+02_52_00_0031:Anangilə getmək üçün qəzet köşkünün yanındakı pilləkənlə qalx.
+02_52_00_0032:Ananın evi bu arxa küçələrdə bir az irəlidədir.
+02_52_00_0033:Ananın evi Manara's Menswear mağazasının yanındakı dalandadır.
+02_52_00_0034:Çamadanını unutmusan - taksinin baqajındadır.
+02_52_00_0035:Bu adamları səbəbsiz döysən, səninlə əməkdaşlıq etməyəcəklər.
+02_52_00_0036:Fəhlələri yaralama. Derek-ə onlar işləmək üçün lazımdır.
+02_52_00_0037:Francesca-nı qoyub getmə!
+02_52_00_0038:Francesca-ya kömək etmək üçün geri qayıt!
+02_52_00_0039:Bombers - Sand Island-in yerli qanqsterləri. Yaxşısı budur, buradan get.
+02_52_00_0040:Biri ilə danışmaq üçün yanında dayanıb [ACTION] düyməsinə bas.
+02_52_00_0041:Yolu tapmaq üçün radardan istifadə et.
+02_52_00_0042:Məqsədlər radarda işarələnib.
+02_52_00_0043:Yuxarı, ananın evinə qalx.
+02_52_00_0044:Benzin çəni arxa təkərin üstündədir.
+02_52_00_0045:Paltarını dəyişmək üçün şkafın yanında [ACTION] düyməsinə bas.
+02_52_00_0046:Anangildən çıxıb məqsəd işarəsi ilə Joe-nun evinə get.
+02_52_00_0047:Cəld yumruqlar üçün [HIT_1] düyməsinə bas.
+02_52_00_0048:Daha güclü zərbələr üçün [HIT_2] düyməsinə bas.
+02_52_00_0049:Zərbədən yayınmaq üçün [BLOCK] düyməsini basılı saxla.
+02_52_00_0050:Sürətlə qaçmaq üçün [SPRINT] düyməsini basılı saxla.
+02_52_00_0051:Ətrafında baş verənlərə fikir ver.
+02_52_00_0052:Kapot açıq olanda [ACTION] düyməsi ilə mühərriki təmir edə bilərsən.
+02_52_00_0053:Joe-nun evi üçüncü mərtəbədədir.
+02_52_00_0054:Joe-nun evinə bax, sonra onunla qaraja get.
+02_52_00_0055:Radionu yandırmaq və stansiyanı dəyişmək üçün [ACTION] düyməsinə bas.
+02_52_00_0056:Maşına minmək üçün [ENTER_CAR] düyməsinə bas.
+02_52_00_0057:Xəritəyə baxmaq üçün [MAP] düyməsinə bas.
+02_52_00_0058:Oyuna qayıtmaq üçün BACK düyməsinə bir də bas.
+02_52_00_0059:Radiostansiyanı dəyişmək və ya radionu söndürmək üçün [RADIO] düyməsinə bas.
+02_52_00_0060:Maşına girmək üçün [HIT_1] düyməsinə basıb şüşəni sındır.
+02_52_00_0061:Rəqibin səndələyəndə B və ya Y düyməsi ilə onu nokaut et.
+02_52_00_0062:Əl əyləcini çəkmək üçün [HANDBRAKE] düyməsinə bas.
+02_52_00_0063:Maşına minib sür.
+02_52_00_0064:Mağaza menyusunu açmaq üçün piştaxtanın yanında [ACTION] düyməsinə bas.
+02_52_00_0065:Maşının benzini azalır. Spidometrdə yanıb-sönən işıq bunu göstərir.
+02_52_00_0066:Maşının benzini azalır. Spidometrdə yanıb-sönən işıq bunu göstərir.
+02_52_00_0067:Polisdən ehtiyatlı ol.
+02_52_00_0068:Ətrafa baxmaq üçün [AIM] istifadə et.
+02_52_00_0069:[HINT_1] Onu itələyib qorxut. Qoy pulu versin!
+02_52_00_0070:Əl əyləcini çəkmək üçün [HANDBRAKE] düyməsinə bas.
+02_52_00_0071:Çox yaralansan, maksimum sağlamlıq həddin də azalacaq.
+02_52_00_0072:Maksimum sağlamlıq həddini artırmaq üçün yemək yeməlisən.
+02_52_00_0073:Yatmaq üçün yatağın yanında [ACTION] düyməsinə bas.
+02_52_00_0074:Xarab mühərriki təmir etmək üçün kapotun yanında [ACTION] düyməsinə bas.
+02_52_00_0075:Buradan çıxmazdan əvvəl Jefferson-u oğurla.
+02_52_00_0076:Maşının arxasına baxmaq üçün [LOOK_BEHIND] düyməsinə bas.
+02_52_00_0077:Sürmə kamerasını dəyişmək üçün [SWITCH_CAMERA] düyməsinə bas.
+02_52_00_0078:Sükanı döndərmək üçün [CAR_STEER] istifadə et.
+02_52_00_0079:Geriyə sürmək üçün [CAR_DOWN] düyməsini basılı saxla.
+02_52_00_0080:Təhlükəsiz sürmə rejimini açıb-bağlamaq üçün [DRIVING_STYLE] düyməsinə bas.
+02_52_00_0081:Nişan almaq üçün [ZOOM] düyməsini basılı saxla.
+02_52_00_0082:Mağaza menyusunda gəzmək üçün [AIM] istifadə et.
+02_52_00_0083:Gözə görünməsən, polis səndən əl çəkəcək.
+02_52_00_0084:Maşını emalatxanada leqallaşdıra bilərsən.
+02_52_00_0085:Yemək və içmək yaraları sağaldır.
+02_52_00_0086:Sağlamlığın radarın sağında göstərilir.
+02_52_00_0087:Sağlamlığın tam bərpa olundu.
+02_52_00_0088:Əlavə güllə almaq üçün Joe ilə danış.
+02_52_00_0089:Kilidin dilini tərpətmək üçün [LOCKPICK] istifadə et. Düz yerə gələndə [ACTION] düyməsi ilə sabitlə.
+02_52_00_0090:Maşını leqallaşdırmaq üçün nömrəsini və ya rəngini dəyiş. Bu dəfə pulu Joe verir.
+02_52_00_0091:Yük maşınlarını qarajda saxlamaq olmaz.
+02_52_00_0092:Əlindəki silahlar arasında keçmək üçün [WEAPON_SELECT] düyməsinə bas.
+02_52_00_0093:Maşının gücünü artırmaq üçün mühərriki sazlatdıra bilərsən. Bu dəfə pulunu Joe verəcək.
+02_52_00_0094:Yemək və alkoqolsuz içkilər yaraları sağaldır.
+02_52_00_0095:Nişan alarkən kameranın yerini dəyişmək üçün [CAMERA_SIDE] düyməsinə bas.
+03_52_00_0001:Bir az yatmaq üçün mətbəxdəki divana uzan.
+03_52_00_0002:Siqnal işə düşdü - polis tezliklə burada olacaq!
+03_52_00_0003:Kilidi açmaq üçün dili yaşıl olanda AB düyməsinə bas.
+03_52_00_0004:Gizlən. Ətrafda mühafizəçilər var.
+03_52_00_0005:Səs salma, yoxsa mühafizəçilər eşidər.
+03_52_00_0006:Çöməlib səssiz getmək üçün [CROUCH] düyməsinə bas.
+03_52_00_0007:Çömələndə qapıları səssiz açırsan.
+03_52_00_0008:Maria-nın evini tapmaq üçün qapıların yazılarına bax.
+03_52_00_0009:Maria-nın maşına minməsini gözlə.
+03_52_00_0010:Diqqət göstəricisi səni nə vaxt gördüklərini göstərir.
+03_52_00_0011:Diqqət göstəricisi yarıya çatanda mühafizəçilər səni axtarmağa başlayacaq.
+03_52_00_0012:Diqqət göstəricisi dolanda səni görüblər deməkdir.
+03_52_00_0013:Təhlükəsiz sürmə rejimini açıb-bağlamaq üçün [DRIVING_STYLE] düyməsinə bas.
+03_52_00_0014:Mühafizəçinin arxasında çöməlib [HIT_1] düyməsi ilə onu səssizcə sıradan çıxara bilərsən.
+03_52_00_0015:Talonları satmaq üçün kassirin yanında saxlayıb [ACTION] düyməsinə bas.
+03_52_00_0016:İndi başqa yanacaqdoldurma məntəqələri tap. Gecə yarısına qədər bacardığın qədər talon sat.
+03_52_00_0017:Joe-nun evinə sür.
+03_52_00_0018:Bir maşın götürməlisən.
+03_52_00_0019:Maşınını Joe-nun qarajından götür.
+03_52_00_0020:Ekrandakı taymer nə qədər vaxtının qaldığını göstərir.
+03_52_00_0021:Gecə yarısına qalan vaxtın yarısı keçdi!
+03_52_00_0022:Gecə yarısına bir dəqiqə qalıb!
+03_52_00_0023:Şantajçının üstünü axtar.
+03_52_00_0024:Platformaya gedib kişi ilə danış.
+03_52_00_0025:Yuxarı mərtəbəyə qalx.
+03_52_00_0026:Maria Agnello öldü.
+03_52_00_0027:Bu maşından istifadə etmək olmaz.
+03_52_00_0028:Yuxarıda Joe ilə görüş.
+04_52_00_0001:Şəhərin hər yerindəki silah mağazalarından silah ala bilərsən.
+04_52_00_0002:Giuseppe-dən həmişə kilid açan alət ala bilərsən.
+04_52_00_0003:Daha 3 maşını zədələməlisən.
+04_52_00_0004:Daha 2 maşını zədələməlisən.
+04_52_00_0005:Daha 1 maşını zədələməlisən.
+04_52_00_0006:Bütün maşınlar zədələnib.
+04_52_00_0010:Joe qapını açanda onu qoru.
+04_52_00_0011:Joe-nun ardınca pilləkənlə qalx.
+04_52_00_0012:Polisin qarşısını al.
+04_52_00_0013:Joe-nun ardınca çıxıntıya get.
+04_52_00_0014:Joe səni qoruyarkən o biri dama keç.
+04_52_00_0015:Damdakı çıxış qapısına tərəf get.
+04_52_00_0016:Joe-nun ardınca yanğın nərdivanına get.
+05_52_00_0001:Çıxmazdan əvvəl geyinməlisən.
+05_52_00_0002:Maşının binanın yanındakı qarajdadır.
+05_52_00_0003:Verso-nu silahla qorxudub öz maşınını zədələməyə məcbur et.
+05_52_00_0004:Yeşiyi yüklə
+05_52_00_0005:Tələs! Henry ölür. Qalan vaxt taymerdə göstərilir.
+05_52_00_0006:Maşınlarını evinin sağındakı qarajda tapa bilərsən.
+05_52_00_0007:Vaxtın azalır. Radardakı məqsəd işarəsini izlə.
+05_52_00_0008:Radardakı qırmızı xətt məqsədə gedən ən uyğun yolu göstərir.
+05_52_00_0009:Gizli kod
+05_52_00_0010:Şəhərdə gizlədilmiş, üstündə gizli kod olan posteri axtara bilərsən. Kodu tap və xüsusi mükafatlar qazan!
+05_52_00_0011:Düşmənə yumruq vurmaq üçün [HIT_1] düyməsinə bas.
+05_52_00_0012:Hərəkətli oyun: həyəcanlı maşın təqibləri, sərt əlbəyaxa döyüşlər və qızğın atışmalar - mafiyanın tamhüquqlu üzvü olmaq üçün bunların hamısından, hətta daha artığından keçməlisən.
+05_52_00_0013:Böyük qanqster hekayəsi: məşhur mafioz filmlərindən ilhamlanan personajlar və kino kimi təqdimat səni Mafiya həyatının cazibəsinə çəkəcək - oradan çıxmaq isə mümkünsüz görünəcək.
+05_52_00_0014:Empire Bay dünyasına daxil ol. Mafia II-nin hekayəsi 40-cı illərdə başlayır; binalar, maşınlar, musiqi və geyimlər həmin dövrü əks etdirir. Vaxt keçdikcə gücləndirilmiş maşınlar, 50-ci illərin dəbi və gözəl musiqilər yeni, dəbli bir dövrün başlanmasını göstərir.
+05_52_00_0015:24 avqust 2010
+05_52_00_0016:www.mafia2game.com
+05_52_00_0017:Bu demoda şəhərdə məhdud vaxt keçirə bilərsən. Sağ yuxarı küncdəki taymerə bax.
+05_52_00_0018:27 avqust 2010
+05_52_00_0019:ABŞ-da satışa çıxış
+05_52_00_0020:Dünyada satışa çıxış
+05_52_00_0021:Twitter: www.twitter.com/mafia2game
+05_52_00_0022:Facebook: www.facebook.com/mafia2game
+06_52_00_0001:Leo Galante şahmat oynayan yaşlı kişidir.
+06_52_00_0002:Rəqibini əsəbiləşdirmək üçün [CATCH] düyməsi ilə ona sataş.
+06_52_00_0003:Səndələyən rəqibini tutmaq üçün [HIT_2] düyməsinə bas.
+06_52_00_0004:Son zərbə kombinasiyası üçün [HIT_1][HIT_1][HIT_1] düymələrinə düzgün ritmlə bas.
+06_52_00_0005:Kvadratın içində qaldıqca əlbəyaxa döyüş məşqi edə bilərsən.
+06_52_00_0006:Əks-hücum etmək üçün [BLOCK] düyməsini basılı saxlayıb zərbədən yayın, sonra cəld [HIT_1] və ya [HIT_2] düyməsinə bas.
+06_52_00_0007:Rəqibin zərbəsindən yayınmaq üçün [BLOCK] düyməsini basılı saxla.
+06_52_00_0008:İdman zalından çıx.
+07_52_00_0001:Azad adamsan. Köhnə dostlarınla görüşməlisən.
+07_52_00_0002:Evə bax.
+07_52_00_0003:Qaraj küncü dönəndən sonra soldadır.
+07_52_00_0005:Yaxşı kostyumdur! İndi Joe ilə görüşə bilərsən.
+07_52_00_0006:Joe ilə görüşmək üçün kostyum geyinməlisən.
+07_52_00_0007:Bura təzəlikcə soyulub. Başqa mağaza tap.
+07_52_00_0008:Yeni evin ən yuxarı mərtəbədədir.
+07_52_00_0022:Sərxoş dostlarına göz qoy.
+07_52_00_0033:Bir neçə saat sonra...
+07_52_00_0034:Richard Beck ilə danış
+07_52_00_0035:Steve ilə danış
+07_52_00_9001:Joe öldü.
+07_52_00_9002:Eddie-nin maşını məhv oldu.
+07_52_00_9003:Eddie-nin maşını itdi.
+08_52_00_0001:Tökmə zavodunun qabağında o biriləri ilə görüş.
+08_52_00_0002:Derek bu gücləndirilmiş maşınları almaq istəyər.
+08_52_00_0003:Qırmızı blok
+08_52_00_0004:Mavi blok
+08_52_00_0005:Ağ blok
+08_52_00_0006:Hər müştəri fərqli siqaret növünü xoşlayır.
+08_52_00_0007:Bir neçə saat sonra...
+08_52_00_0008:Evdən və ya telefon köşkündən zəng edə bilərsən.
+08_52_00_0009:Steve-in maşını məhv oldu.
+08_52_00_0010:Eddie-yə 2 000 dollarını ver.
+08_52_00_0011:Eddie-nin pulunu Maltese Falcon-da ver.
+08_52_00_0012:Eddie-yə verməyə pulun çatmır.
+08_52_00_0013:Onları döy.
+08_52_00_0055:Təchizat maşınını oğurlaya və ya zədələyə bilərsən.
+08_52_00_0056:Maşını Derek-ə satmaq üçün kranın platformasında saxla.
+08_52_00_0057:Baqajdan Molotov götürüb barı dağıt.
+08_52_00_0059:Pulun çatmır.
+08_52_00_0061:Gücləndirilmiş maşın məhv oldu.
+08_52_00_0051:Kassanı soya bilərsən.
+08_52_00_0052:Yük maşını məhv oldu.
+08_52_00_0053:Bara kifayət qədər ziyan vurdun, oradan çıx!
+08_52_00_0054:Gücləndirilmiş maşını sən sürməlisən.
+08_52_00_0060:Gücləndirilmiş maşını satmaq istəyirsən?
+08_52_00_0062:Molotov götür
+08_52_00_0030:Onu itirdin.
+09_52_00_0001:Açarı tap.
+09_52_00_0002:Sığınacağa keç!
+09_52_00_0003:Çox yaxınlaşırsan!
+09_52_00_0004:Luca aradan çıxır. Qaza bas!
+09_52_00_0005:Qəssabxanaya qayıt! İş hələ bitməyib!
+09_52_00_0006:Geyim mağazasında və ya evində paltarını dəyiş.
+09_52_00_0007:Deyəsən, kanalizasiya ilə qəssabxanaya girmək olar.
+09_52_00_0008:Atəş açma, yoxsa sənin adamlarını öldürəcəklər.
+09_52_00_0009:Harry-nin maşınını polis bölməsindən oğurlayıb özünə qaytar.
+09_52_00_0010:Harry-nin maşınını götür.
+09_52_00_0011:Maşını Harry-nin silah mağazasına qaytar.
+09_52_00_0012:Bir maşın götür.
+09_52_00_0013:Başqa maşın götür.
+09_52_00_0014:Kimsə cəsəd tapdı.
+10_52_00_0001:İçəri girməyin yolunu tap və təmizlikçi formaları axtar.
+10_52_00_0002:Təmizlikçi formalarını geyinin.
+10_52_00_0003:Sənə deyiləni et. Təmizlə.
+10_52_00_0004:Ləkələri sürtüb təmizlə. Bir az güc ver.
+10_52_00_0005:Joe-ya şüşədə deşik açmaqda kömək et.
+10_52_00_0006:Qanqsterin cəsədini qadın tualetində gizlət.
+10_52_00_0007:Bombanı masanın altına yerləşdir.
+10_52_00_0008:Joe-nun ardınca dama qalx.
+10_52_00_0009:Joe-nun maşınını sürməlisən.
+10_52_00_0010:Şüşəyuyan platformanı qaldır.
+10_52_00_0011:Şüşəyuyan platformanı endir.
+10_52_00_0012:Özünü ələ verməmək üçün şüşəsiləndən istifadə et.
+10_52_00_0013:Clemente-nin dalınca düş!
+10_52_00_0014:Onları itirirsən!
+10_52_00_0015:Joe-nun dəqiq atəş açması üçün yaxınlaş.
+10_52_00_0016:Maşında partlayıcı var, ehtiyatlı ol.
+10_52_00_0017:Çox ehtiyatla sür. Maşında bomba var.
+10_52_00_0018:Özünü ələ verdin.
+10_52_00_0019:Menecerin yanından keçməlisən.
+10_52_00_0020:Otelə gizlicə girmək üçün təmizlikçi forması lazımdır.
+10_52_00_0021:Cəsədi qadın tualetində gizlət.
+10_52_00_0022:Ağılsız hərəkətlərlə özünü ələ vermə.
+10_52_00_0023:Clemente-nin adamları səni tanımasın.
+10_52_00_0050:Camaşırxanadan çıx.
+10_52_00_0051:Ona rüşvət verməyə çalış.
+10_52_00_0052:Yumruq davasına başla.
+10_52_00_0054:Qanqsterlər dalınca düşüb. Əvvəl onlardan qurtul!
+10_52_00_0053:Maşından düş.
+11_52_00_0001:Leo-ya çat, tez ol! Henry bir azdan orada olacaq.
+11_52_00_0002:Henry və əlaltıları səni görməsin.
+11_52_00_0003:Maşınla qaç.
+11_52_00_0004:Evdən pəncərə ilə çıxa bilərsən.
+11_52_00_0005:Geyinməlisən.
+11_52_00_0006:Henry-nin əlaltıları səni tapıb güllələdi.
+11_52_00_0007:Maşın götürüb Galante-ni apar.
+11_52_00_0008:Henry-nin yanında silah işlədə bilməzsən.
+11_52_00_0009:Yataq otağının yanındakı çirkli paltar səbətinə bax.
+12_52_00_0001:Hansı maşını götürmək istəyirsən?
+12_52_00_0002:Öz maşının.
+12_52_00_0003:Henry-nin maşını.
+13_52_00_0001:Bu əclafları öldür!
+13_52_00_0002:İşə hazır olduğundan əmin ol.
+13_52_00_0005:Joe-nu gözlə.
+13_52_00_0006:Wong səni gördü. Bir az aralı qal.
+13_52_00_0007:Deyəsən, Wong sakitləşdi. Onu izləməyə davam et.
+13_52_00_0008:Joe-ya kömək et, ay qorxaq.
+13_52_00_0009:Çox yaxınsan. Wong səni tanıyacaq!
+13_52_00_0010:Çox uzaqdasan. Onu itirmə!
+13_52_00_9001:Wong-u itirdin.
+13_52_00_9002:Wong səni öz bazasına aparmalıdır.
+14_52_00_0001:Adamla görüşməzdən əvvəl maşınını təmir et.
+14_52_00_0002:Silahı götür.
+14_52_03_0001:Silahını hazırla.
+14_52_03_0002:Derek-in ardınca anbara get.
+14_52_03_0003:Derek-in ofisini axtar.
+14_52_03_0004:Fəhlələrə silah verə bilərsən.
+14_52_03_0007:Mağazaları soy və ya Bruski-yə maşın apar.
+14_52_02_0002:Buradan çıxma. Əvvəl maşına min!
+14_52_02_0003:Damdan getmə. Alış-verişə göz qoymalısan.
+15_52_00_0007:Eddie, Giuseppe, Harry və ya Mike-dan soruşa bilərsən.
+15_52_00_0001:Əlaltını edam et.
+15_52_00_0002:İçəri girməyin yolunu tap.
+15_52_00_0003:Buradan çıxmazdan əvvəl tapşırığı bitirməlisən.
+15_52_00_0004:Gözə görünmədən içəri gir.
+15_52_00_0005:Yaşlı kişi yəqin evdədir. Onu tap.
+15_52_00_0006:İndi gedə bilməzsən. Başladığın işi bitir.
+15_52_00_0008:Ailə albomu açıldı.
+01_51_01_0001:Yaşlı kişinin ardınca get.
+01_51_01_0002:Gizlən, atəş açma.
+01_51_01_0003:Yaşlı kişiyə kəndliləri xilas etməkdə kömək et.
+01_51_01_0004:Bələdiyyə binasını azad et.
+01_51_01_0005:Bələdiyyə binasını qoru.
+01_51_01_0006:Pulemyotla bələdiyyə binasını qoru.
+01_51_01_0007:Əsgər Williams-ın ardınca balkona get.
+01_51_01_0008:Bələdiyyə binasının əsas girişinin yanındakı pəncərədən keçməlisən.
+02_51_00_0001:DOĞMA EV
+02_51_01_0001:Anangilə piyada get.
+02_51_01_0002:Geyin.
+02_51_01_0003:Joe-nun evinə get.
+02_51_01_0004:Atanın borcunu qaytarmaq üçün pul qazanmalısan.
+02_51_01_0005:Joe ilə Mike Bruski-nin yanına sür.
+02_51_01_0006:Joe ilə Lone Star barına sür.
+02_51_01_0007:Krem rəngli Walter Coupe-ni oğurla.
+02_51_01_0008:Çəni doldurmaq üçün yanacaqdoldurma məntəqəsindən bir bidon benzin al.
+02_51_01_0009:Walter Coupe-ni salamat şəkildə Mike-a çatdır.
+02_51_01_0010:Joe ilə Charlie-nin yanına get.
+02_51_01_0011:Joe ilə Giuseppe-nin yanına get.
+02_51_01_0012:Ordudan tərxis sənədlərini götür.
+02_51_01_0013:Kilid açan alət al.
+02_51_01_0131:Məşq kilidini aç.
+02_51_01_0014:Hunt Lane-ə sür.
+02_51_01_0015:Jefferson-u oğurla.
+02_51_01_0016:Charlie-nin yanına Joe-dan tez çat.
+02_51_01_0017:Avtomobil emalatxanasına get.
+02_51_01_0018:Southport limanına gedib cənab Pappalardo ilə görüş.
+02_51_01_0019:Steve-in ardınca get.
+02_51_01_0020:Yeşikləri yük maşınına yüklə.
+02_51_01_0021:Liman fəhlələrindən Derek-in haqqını yığ.
+02_51_01_0022:Joe-nun evinə qayıt.
+02_51_01_0023:Pulu Derek-ə qaytar.
+02_51_01_0024:MONIQUE
+02_51_01_0025:Monique-ni Midtown-dakı teatra apar.
+02_51_01_0026:Joe-nu yemək yeməyə apar.
+02_51_01_0027:Yanacaqdoldurma məntəqəsində benzin vur.
+02_51_01_0028:Bir bidon benzin al.
+02_51_01_0029:BƏRBƏRİN PULUNU VERƏN
+02_51_01_0030:Bir az yemək al.
+02_51_01_0031:Bombers dəstəsindən qaç.
+02_51_01_0032:Francesca-nı qoru.
+02_51_01_0033:Qapı açıqdır. İstədiyin vaxt çıxa bilərsən.
+02_51_01_0034:Joe-nun ardınca qarajına get.
+02_51_01_0035:Cəsədi gizlət.
+02_51_01_0036:Joe-nun evinə sür.
+02_51_01_0037:Yat.
+02_51_01_0038:Qəzalı qırmızı maşının təkərlərini vur.
+02_51_01_0039:Maşının şüşələrini vurub sındır.
+02_51_01_0040:İşi bitirmək üçün maşının benzin çənini vur.
+02_51_01_0041:Joe-nun ardınca get.
+02_51_01_0042:Polisdən qurtul.
+02_51_01_0043:Soyuducunu açıb yemək götür.
+02_51_01_0044:Joe-nun evinə get.
+02_51_01_0045:Maşınını qarajda saxla.
+02_51_01_0046:Qarajda saxlamaq üçün maşın tap.
+02_51_01_0047:Ov tüfəngini götür
+02_51_01_0048:Mk.II əl qumbarasını götür
+03_51_00_0001:QİYMƏT İDARƏSİ
+03_51_01_0001:Little Italy-də Freddy-nin barına sür.
+03_51_01_0002:Little Italy-də Maria Agnello-nun evinə sür.
+03_51_01_0003:Freddy-nin barına qayıt.
+03_51_01_0004:Sirli adamı tapmaq üçün qərb tərəfdəki metro stansiyasına bax.
+03_51_01_0005:Gecə yarısına qədər talonları yanacaqdoldurma məntəqələrində sat.
+03_51_01_0006:Tapşırığı bitirmək üçün Joe-nun evinə get.
+03_51_01_0007:Öldürüldün.
+03_51_01_0008:Həbs olundun.
+03_51_01_0009:Qiymətlərə Nəzarət İdarəsinin içinə gir.
+03_51_01_0010:Birinci mərtəbəyə qalx.
+03_51_01_0011:Maria-nı Uptown-dakı xəstəxanaya apar.
+03_51_01_0012:CHARLIE ÜÇÜN BAHALI MAŞIN
+03_51_01_0013:Xüsusi Lassiter-i oğurla.
+03_51_01_0014:Lassiter-i Charlie-yə zədəsiz çatdır.
+03_51_01_0015:Fahişəni evinə apar.
+03_51_01_0016:Sutenyoru əzişdir!
+03_51_01_0017:İşi qəbul edirsən?
+03_51_01_0018:Benzin talonlarının vaxtı bitdi.
+03_51_01_0019:Bütün benzin talonlarını satdın.
+03_51_01_0020:Müdirin otağından açarı götür.
+03_51_01_0021:Hekayədə çatdığın yeri yadda saxlamaq üçün yatağına uzana bilərsən.
+03_51_01_0022:Yatanda növbəti fəslə keçirsən.
+03_51_01_0023:İçəri girməyin yolunu tap.
+03_51_01_0024:Çıx.
+03_51_01_0025:6 məntəqədən 1-nə getdin
+03_51_01_0026:6 məntəqədən 2-nə getdin
+03_51_01_0027:6 məntəqədən 3-nə getdin
+03_51_01_0028:6 məntəqədən 4-nə getdin
+03_51_01_0029:6 məntəqədən 5-nə getdin
+03_51_01_0030:6 məntəqədən 6-na getdin
+03_51_01_0031:Seyfi tapıb talonları oğurla.
+03_51_01_0032:Seyfin siqnalı söndürüldü.
+04_51_00_0001:MERFİ QANUNU
+04_51_01_0001:Silah və kilid açan alətlə Freddy-nin barında Joe ilə görüş.
+04_51_01_0002:Joe ilə ticarət mərkəzinə sürüb zərgərlik mağazasını soy.
+04_51_01_0003:Seyfin siqnalını söndür.
+04_51_01_0004:Zərgərlik mağazasını soy.
+04_51_01_0005:Ticarət mərkəzindən çıx! Joe-nun ardınca get.
+04_51_01_0006:Günü bitirmək üçün Joe-nun evinə get.
+04_51_01_0007:Silah icazəni Giuseppe-dən götür.
+04_51_01_0008:QIZĞIN TƏKƏRLƏR
+04_51_01_0009:Dipton stansiyasına gedib maşınları dağıt.
+04_51_01_0010:Payını Derek-dən al.
+05_51_00_0001:MİŞAR
+05_51_01_0001:Nahar üçün Joe ilə görüşməyə Freddy-nin barına sür.
+05_51_02_0001:Joe səni Freddy-nin barında gözləyir. Get, onunla danış.
+05_51_01_0002:MG-42-ni Misery Lane-dəki 233-cü mənzilə apar.
+05_51_01_0003:Bir az qəlyanaltı al.
+05_51_01_0004:Kök kişini öldür!
+05_51_01_0005:Spirt zavodundan çıx.
+05_51_01_0006:El Greco-nun yanına sür. Qəzaya düşsən, Henry zərər görəcək.
+05_51_01_0007:Kingston-da Harry-dən silahı götür.
+05_51_01_0008:Atanın borcunu qaytarmağa pulun var. Bacının yanına get.
+05_51_01_0009:ƏDƏB DƏRSİ
+05_51_01_0010:Bu axmağa dərsini ver!
+05_51_01_0011:Lənət! Deyəsən, onu öldürdün.
+05_51_01_0013:Yeməyi evə apar.
+05_51_01_0014:Tapşırıq uğursuz oldu: Henry öldü!
+05_51_01_0012:Tapşırıq uğursuz oldu: Jolanda öldü!
+05_51_01_0015:Get, gör nə baş verir.
+05_51_01_0016:Maşına qayıt.
+05_51_01_0017:MG-42-ni bayırdakı furqona yüklə.
+05_51_01_0018:Furqonu ehtiyatla sürüb Henry və Joe ilə görüş.
+05_51_01_0019:Misery Lane, mənzil 233
+05_51_01_0020:2 saat sonra
+05_51_01_0021:Pulemyot zədələnib.
+05_51_01_0022:Kök kişinin dalınca spirt zavoduna girib onu öldür!
+05_51_01_0023:MG-42-ni furqona yüklə.
+05_51_01_0024:Henry ölür. Tələs!
+05_51_01_0025:Harry-nin furqonunu məhv etdin.
+05_51_01_0026:Misery Lane-də Joe və Henry ilə görüş.
+05_51_01_0027:Polisdən qaç!
+06_51_00_0001:BOŞA GETMƏYƏN VAXT
+06_51_01_0001:Növbədə dur və deyilənlərə əməl et, yoxsa döyüləcəksən.
+06_51_01_0002:Mühafizəçilərə qulaq asıb dəhlizlə irəlilə.
+06_51_01_0003:Mühafizəçinin ardınca get.
+06_51_01_0004:Leo Galante ilə əlaqə qur.
+06_51_01_0005:O'Neill-ə başa sal ki, sənə ilişmək olmaz.
+06_51_01_0006:Galante ilə danış.
+06_51_01_0007:Pepé ilə döyüş!
+06_51_01_0008:Uğurlu əks-hücum et.
+06_51_01_0009:O biri adamlarla tanış ol və ya idman zalından çıx.
+06_51_01_0010:Rəqibini məğlub et.
+06_51_01_0011:Galante-nin adamının ardınca get.
+06_51_01_0012:Camaşırxanaya girib döyüşə hazırlaş.
+06_51_01_0013:Rəqibini döy.
+06_51_01_0014:İki çirkli pissuarı təmizlə.
+06_51_01_0015:Get, duş qəbul et.
+06_51_01_0016:Özünü qoru.
+06_51_01_0017:O'Neill ilə haqq-hesabı bitir.
+06_51_01_0018:Kamerandakı yatağa uzan.
+06_51_01_0019:Mühafizəçinin ardınca get.
+06_51_01_0020:Mühafizəçinin ardınca get.
+06_51_01_0021:Mühafizəçinin ardınca get.
+06_51_01_0022:Mühafizəçinin yanına get. Görüşünə gələn var.
+06_51_01_0023:Pepé ilə əks-hücum məşqi et.
+06_51_01_0024:Uğurlu son zərbə fəndi işlət.
+06_51_01_0025:Rinqə çıx.
+06_51_01_0028:Rəqibini məğlub et.
+06_51_01_0029:Atma fəndlərini məşq et.
+07_51_00_0001:FRANCESCO POTENZA-NIN ƏZİZ XATİRƏSİNƏ
+07_51_01_0001:Joe ilə görüşüb hal-əhval tut.
+07_51_01_0002:Joe ilə yeni evinə sür.
+07_51_01_0003:Evə bax.
+07_51_01_0004:Kostyum geyin.
+07_51_01_0005:Joe-nun evinə get.
+07_51_01_0006:Eddie-nin maşınına min.
+07_51_01_0007:Eddie və Joe-nu əyləncə yerinə apar.
+07_51_01_0008:Joe-nun evinə sür.
+07_51_01_0009:Rəsədxananın yanındakı açıqlığa sür.
+07_51_01_0010:Sərxoşları Joe-nun evinə qaytar.
+07_51_01_0011:Get, Eddie-ni gətir!
+07_51_01_0012:Get, dostlarını gətir!
+08_51_00_0001:VƏHŞİ DƏSTƏ
+08_51_01_0001:Bayırda Joe ilə görüş.
+08_51_01_0002:Riverside-a sür. Malları zədələmə.
+08_51_01_0003:Malları Joe-ya ver.
+08_51_01_0004:Millville-ə sür.
+08_51_01_0005:Greasers dəstəsinin adamlarını tut.
+08_51_01_0006:Barı gülləyə tut.
+08_51_01_0007:Telefon köşkü tapıb Eddie-yə zəng et.
+08_51_01_0008:Crazy Horse-a sür.
+08_51_01_0009:Köhnə tökmə zavoduna sür.
+08_51_01_0010:Greasers dəstəsinin adamlarını əzişdir.
+08_51_01_0011:Greasers dəstəsinin adamlarını öldür.
+08_51_01_0012:Eddie-nin pulunu qaytarmaq üçün pul toplamalısan.
+08_51_01_0013:Motosikletləri yük maşınına yüklə.
+08_51_01_0014:Gücləndirilmiş maşını limanda Derek-ə sat.
+08_51_01_0015:Eddie-yə pulunu apar.
+08_51_01_0016:Maşını təmir et!
+08_51_01_0017:İrland qanqsterləri tap.
+08_51_01_0018:Maşından düşüb platformadan uzaqlaş.
+08_51_01_0019:Vəhşi dəstə - Mafia II tanıtım versiyası
+08_51_01_0020:Joe-nun evi, Empire Bay - 1951
+08_51_01_0021:Cənubi Millville-də Joe ilə görüşməyə sür
+08_51_01_0022:Oynadığın üçün sağ ol...
+08_51_01_0023:Mətbuat demosu bitməzdən əvvəl gücləndirilmiş maşını Derek-ə sat.
+08_51_01_0024:Baqajdan Molotov götürüb barı yandır.
+09_51_00_0001:BALLS VƏ BEANS
+09_51_01_0001:Eddie ilə görüşmək üçün Maltese Falcon-a get.
+09_51_01_0002:Freddy-nin barının qabağında Luca-nı gözlə.
+09_51_01_0003:Luca-nı izlə. Qoy səni görməsin.
+09_51_01_0004:Qəssabxanaya gizlicə girməyin yolunu tap.
+09_51_01_0005:Gözə görünmə, yoxsa Falcone-nin adamlarını öldürəcəklər.
+09_51_01_0006:Adamlarını xilas et! Onları harada saxladıqlarını öyrən.
+09_51_01_0007:Luca-nı tap.
+09_51_01_0008:Hücumlarını dəf et. Adamlarını sağ saxla.
+09_51_01_0009:Luca-nı ələ keçir.
+09_51_01_0010:Arabanı ağırlaşdırmaq üçün bir şey tap.
+09_51_01_0011:Falcon-da Eddie ilə görüş.
+09_51_01_0012:Üstündən pox iyi gəlir. Paltarını dəyiş.
+09_51_01_0013:Falcon-a qayıt.
+09_51_01_0014:Millville-ə sürüb göndərilən maşınları dağıt.
+09_51_01_0015:Sonrakı 3 ay
+09_51_01_0016:Luca öldürüldü.
+09_51_01_0017:Luca-nı itirdin.
+09_51_01_0018:Luca-nın maşınını zədələdin.
+09_51_01_0019:Luca gedəcəyi yerə çatmadı.
+10_51_00_0001:OTAQ XİDMƏTİ
+10_51_01_0001:Dərhal Joe-nun evində Eddie ilə görüş.
+10_51_01_0002:Joe-nun maşınını götürüb Joe və Marty-ni Empire Arms otelinə apar.
+10_51_01_0003:Təmizlikçi formalarını tap.
+10_51_01_0004:Liftlə 18-ci mərtəbəyə qalx.
+10_51_01_0005:Clemente-nin adamlarının işini bitir.
+10_51_01_0006:Otelin şüşəyuyan platformasını tap.
+10_51_01_0018:Bombanı hazırlamaq üçün platformanı endir. Şübhəli hərəkət etmə.
+10_51_01_0007:Clemente-ni öldür!
+10_51_01_0008:Clemente-nin qaçmasına imkan vermə!
+10_51_01_0009:Bir neçə dəqiqə sonra...
+10_51_01_0010:Film
+10_51_01_0011:Şüşəyuyan kimi davran, yoxsa səni görəcəklər.
+10_51_01_0012:Təmizlik alətləri tap.
+10_51_01_0013:Joe-ya konfrans zalında bomba yerləşdirməkdə kömək et.
+10_51_01_0014:Joe-nun ardınca dama get.
+10_51_01_0015:Tapşırıq uğursuz oldu: bomba partladı!
+10_51_01_0016:Tapşırıq uğursuz oldu: Clemente qaçdı.
+10_51_01_0017:Bir neçə dəqiqə sonra....
+10_51_01_0019:Qanqsterin işini bitir.
+10_51_01_0020:Konfrans zalına get.
+10_51_01_0021:Bombanı otelə çatdıra bilmədin.
+10_51_01_0100:EY, JOE
+10_51_01_0101:Joe-ya kömək etmək üçün Lone Star-a get.
+10_51_01_0102:Joe-nu oradan çıxart və cəsəddən qurtul.
+10_51_01_0103:Polisdən qurtul!
+10_51_01_0104:Cəsədi barmenin maşınına sürüklə.
+10_51_01_0105:Joe-nu evə apar.
+10_51_01_0106:Cəsədi at. Gözə görünmə.
+10_51_01_0107:Maşını presdə əz.
+10_51_01_0108:Maşını presin içinə sür.
+11_51_00_0001:BİZİM ADAMLARDAN BİRİ
+11_51_01_0001:Henry-ni Maltese Falcon-a apar.
+11_51_01_0002:Leo-ya xəbər ver!
+11_51_01_0003:Henry-ni Galante-nin evinə apar.
+11_51_01_0004:Leo ilə qaç. Henry səni görməsin.
+11_51_01_0005:Leo-nu Dipton-dakı dəmiryol vağzalına apar.
+11_51_01_0006:Maltese Falcon-a qayıt.
+11_51_01_0007:ERIC
+11_51_01_0008:River Street-dəki evdə Eric-i tap.
+11_51_01_0009:GÖYQURŞAĞININ SONU
+11_51_01_0010:Çıxış yolu tap!
+11_51_01_0011:Joe-nun evinə get.
+11_51_01_0012:Evə get.
+11_51_01_0013:Sürüb çıx.
+11_51_01_0014:Henry çətinə düşüb - ona kömək et!
+11_51_01_0015:Galante-nin arxasına keç.
+11_51_01_0016:Galante-ni tapıb öldür.
+11_51_01_0017:Bütün cangüdənləri öldür.
+11_51_01_0018:İRLANDLARDAN QİSAS
+11_51_01_0019:Joe ilə get.
+11_51_01_0020:Hill of Tara-ya hücum et.
+11_51_01_0021:Joe-nun evinə qayıt.
+11_51_01_0022:Henry-ni Maltese Falcon-a apar.
+11_51_01_0023:İrland dəstəsinin başçısını tut.
+11_51_01_0024:İrland başçını və mühafizəçilərini öldür.
+11_51_01_0025:Henry ilə maşına min.
+11_51_01_0026:Oyster Bay-də Marty-nin köhnə evinə get.
+11_51_01_0027:Qapını aç.
+12_51_00_0001:DƏNİZDƏN HƏDİYYƏ
+12_51_01_0001:Lincoln Park-da Henry və Joe ilə görüş.
+12_51_01_0002:Southport-da sələmçinin yanına get.
+12_51_01_0003:Sea Gift anbarına sür.
+12_51_01_0004:Buradan çıx!
+12_51_01_0005:Dalınca gələnlərdən qurtul!
+12_51_01_0006:Henry-nin maşınının ardınca sələmçinin yanına get.
+12_51_01_0007:Henry-nin maşınının ardınca Sea Gift anbarına get.
+12_51_01_0008:Evergreen Street-dəki anbara sür.
+12_51_01_0009:Çinli kişinin ardınca get.
+12_51_01_0010:Henry-nin ardınca get.
+13_51_00_0001:ƏJDAHANIN SONU
+13_51_01_0001:Lincoln Park-a get.
+13_51_01_0002:Henry-yə kömək et! Ona hücum edənləri öldür!
+13_51_01_0003:Maşını izlə.
+13_51_01_0004:Red Dragon restoranına hücum et.
+13_51_01_0005:Wong-u tap.
+13_51_01_0006:Chinatown-dan rədd ol get.
+13_51_01_0007:Joe-nu evinə qaytar.
+14_51_00_0001:CƏNNƏTƏ PİLLƏKƏN
+14_51_01_0001:Kifayət qədər pul yığdın. Joe ilə görüş.
+14_51_01_0002:Eddie-dən soruş, gör Joe-nun yerini bilir?
+14_51_01_0003:Giuseppe-dən soruş.
+14_51_01_0004:Bruno üçün $27,500 qazan.
+14_51_01_0005:Maşına min.
+14_51_01_0006:Vinci-nin Joe-nu saxladığı tikinti sahəsini tap.
+14_51_01_0007:Joe-nu tapıb xilas et.
+14_51_01_0008:Joe-nu tapıb xilas et. Gözə görünmə!
+14_51_01_0009:Onun dediklərini et.
+14_51_01_0010:İçəri gir.
+14_51_01_0011:Joe ilə binadan çıx.
+14_51_01_0012:Joe-nu El Greco-nun yanına apar.
+14_51_01_0013:Bruno-nun borcunu qaytar.
+14_51_01_0014:Bruno üçün $55,000 qazan.
+14_51_01_0015:Evə get.
+14_51_01_0016:Pulu götürüb qaç.
+14_51_91_0001:Yüklü furqona min.
+14_51_91_0002:Furqonu qaraja sürüb Vinci-nin adamları ilə görüş.
+14_51_91_0003:Ən yuxarı mərtəbəyə sür.
+14_51_91_0004:Jack-in maşınına min.
+14_51_91_0005:Qarajdan çıx.
+14_51_91_0006:Burada olanları Harry-yə de.
+15_51_00_0001:ÇƏTİNLİKLƏRDƏN ULDUZLARA
+15_51_00_0002:Rəsədxana
+15_51_01_0001:Hillwood rəsədxanasında Carlo ilə görüş.
+15_51_01_0002:Limanda Derek ilə görüş.
+15_51_01_0003:Derek-in ardınca get.
+15_51_01_0004:Silahları payla.
+15_51_01_0005:Derek və Steve-i öldür.
+15_51_01_0006:Frank Vinci-ni öldür.
+15_51_01_0007:Carlo Falcone-ni öldür.
+15_51_01_0008:Carlo-nu öldür.
+15_51_01_0009:Rəsədxanadan çıx.
+15_51_01_0010:Vinci-nin müşavirinə zəng et.
+15_51_01_0011:BRUNO-NU ÖLDÜR
+15_51_01_0012:Bruno-nun pulunu qaytar. Bu dəfə işi düzgün gör.
+20_51_01_0000:Təpədəki qadınla danış.
+20_51_01_0001:Qara kostyumlu kişini öldür.
+20_51_01_0002:Cangüdənləri özünə köməkçi götür.
+20_51_01_0003:Tapşırıq uğurla bitdi.
+20_51_01_0004:Tapşırıq uğursuz oldu.
+20_51_01_0005:Satıcı ilə bir də danış.
+20_51_01_0006:Kranın yanında Joe-nu tap.
+20_51_01_0007:Joe-nu köməkçin kimi sənə qoşulmağa çağır.
+20_51_01_0008:Joe ilə yük maşınının yanındakı bütün düşmən dəstə üzvlərini vur.
+20_51_01_0009:Köşkdəki satıcı ilə danışıb hamburger al.
+20_51_01_0010:Mike-ın yanına get.
+20_51_01_0011:Alonzo-nu götürməyə get.
+20_51_01_0012:Giuseppe səninlə danışmaq istəyir. Snuker klubunun qabağındakı küncdədir.
+20_51_01_0013:İşi başlat: Mafiya unutmur
+20_51_01_0014:İşi başlat: Şəhər gəzintisi
+20_51_01_0015:İşi başlat: Sürətli əməliyyat
+20_51_01_0016:Alonzo-nu Charon dəfn evinə apar.
+20_51_01_0017:Fastfud yerinə gedib Eddie ilə danış.
+20_51_01_0018:Axtarışda olmayan maşın götürmək üçün Mike-ın yanına get.
+20_51_01_0019:Harry-nin yanına gedib Eddie-nin adamını götür.
+20_51_01_0020:Greenfield-ə get.
+20_51_01_0021:Eddie-nin adamını stadionun yanındakı maşına apar.
+20_51_01_0022:Fastfud yerinə qayıdıb Eddie-yə məlumat ver.
+20_51_01_0023:Sürətli əməliyyat.
+20_51_01_0024:Daşıma işi: Alonzo-nun qatarı gecikir. Onu dəfn evinə vaxtında çatdır.
+20_51_01_0025:Mafiya unutmur
+20_51_01_0026:Daşıma işi: Ailədəki satqını aradan götürəcək qatilə kömək et.
+20_51_01_0027:Xəbərçi
+20_51_01_0028:Maltese Falcon-da Loony ilə danış.
+20_51_01_0029:Maltese Falcon-da Loony ilə danış.
+20_51_01_0030:Loony-nin arxasını qoru.
+20_51_01_0031:Son
+20_51_01_0032:Düşmənin ölümsüzlüyü AÇIQDIR
+20_51_01_0033:Düşmənin ölümsüzlüyü BAĞLIDIR
+20_51_01_0034:Düşmən əlavə olundu.
+20_51_01_0035:Evinin qabağında Joe ilə görüş.
+20_51_01_0036:Harry-nin yanına sürüb sənə işi olub-olmadığını soruş.
+20_51_01_0037:Greenfield-dəki Oak Street-ə sür. Maşını dağıtma.
+20_51_01_0038:Qaç!
+20_51_01_0039:Joe-nu Kingston-a apar.
+20_51_01_0040:Tapşırıq uğursuz oldu: maşın çox zədələndi.
+20_51_01_0041:Tapşırıq uğursuz oldu
+20_51_01_0042:Tapşırıq uğurla bitdi
+20_51_01_0043:Furqonu qaraja sürüb Vinci-nin adamları ilə görüş.
+20_51_01_0044:Pul çamadanını götür.
+20_51_01_0045:Harry-yə məlumat ver.
+20_51_01_0046:Derek-in yanına sürüb sənə işi olub-olmadığını soruş.
+20_51_01_0047:İşarələnmiş mağazanı dağıt.
+20_51_01_0048:Mağazanı soy - kassadakı pulu oğurla.
+20_51_01_0049:Hə, yaxşı işdir, qoy bir az da dağıdaq.
+20_51_01_0050:Əla! Yarısından çoxu dağılıb. İndi qalanını dağıt!
+20_51_01_0051:Yaxşı başladın. Mağazanı dağıtmağa davam et.
+20_51_01_0052:Bu adamı qoru. Nə ad var, nə sual. Təki onu sağ saxla!
+20_51_01_0053:Hücum edirlər. Bu əclafları öldür!
+20_51_01_0054:Arxana fikir ver. Gizlicə arxana keçə bilərlər.
+20_51_01_0055:Axırıncıdır. Sağ qalmasına imkan vermə.
+20_51_01_0056:Əclaf pulu vermir. Özün götür.
+20_51_01_0057:Deyilənə görə, bu adam xəbərçidir. Onu öldür!
+20_51_01_0058:Şərəf və pul uğrunda yumruq davasıdır. Hər ikisini qazan.
+20_51_01_0059:Döy onu. Əzişdir. Məhv et. Təki o səni bu günə salmasın. Dairədən çıxma.
+20_51_01_0060:Xəritədəki hədəfə get.
+20_51_01_0061:Polisləri öldürməkdə ittiham olunursan. Bütün şəhərin polisi səni axtarır.
+20_51_01_0062:Görünüşünü dəyiş. Yeni paltar al.
+02_58_00_0001:Sürmək istəyirsən?
+02_58_00_0002:Bəli
+02_58_00_0003:Xeyr
+02_58_00_0004:Monique-ni müşayiət edə bilərsən?
+02_58_00_0005:Bəli
+02_58_00_0006:Xeyr
+02_58_00_0007:Bu işi qəbul edirsən?
+02_58_00_0008:Əlbəttə.
+02_58_00_0009:Bu dəfə yox.
+02_58_00_0010:Ey, burada nə edirsən?
+02_58_00_0011:Sənlik deyil.
+02_58_00_0012:Zəhrimar açarım ilişib, aça bilmirəm.
+03_58_00_0001:Nə etmək istəyirsən?
+03_58_00_0002:Açarlar üçün əlavə $100 ödə
+03_58_00_0003:Sadəcə məlumat al
+03_58_00_0004:Sonra qayıt
+03_58_00_0005:Heç nə
+03_58_00_0006:Tapşırığa başlamağa hazırsan?
+03_58_00_0007:Bir fahişəni aparıb düşürə bilərsən?
+04_58_00_0001:Hansı naqili ayırmaq istəyirsən?
+04_58_00_0002:Qırmızı naqil
+04_58_00_0003:Mavi naqil
+04_58_00_0004:Yaşıl naqil
+04_58_00_0005:Ağ naqil
+04_58_00_0006:Burada nə edirsən?
+04_58_00_0007:Aqressiv cavab ver
+04_58_00_0008:Üzr istə
+04_58_00_0009:Bəhanə gətir
+04_58_00_0010:Kimin üçün işləyirsən?
+04_58_00_0011:Empire telefon şirkəti
+04_58_00_0012:Horizon elektrik şirkəti
+04_58_00_0013:Norton telefon şirkəti
+04_58_00_0014:Bu işi götürmək istəyirsən?
+04_58_00_0015:Bəli
+04_58_00_0016:Xeyr
+05_58_00_0001:Kömək etmək istəyirsən?
+06_58_00_0001:Zibil qutusundakı tarakan
+06_58_00_0002:Mətbəxdəki tarakan
+06_58_00_0003:Tualetdəki tarakan
+06_58_00_0004:Yarışçını seç
+06_58_00_0005:Təsdiqlə
+06_58_00_0006:İdman zalından çıxıb yatmaq istəyirsən?
+06_58_00_0007:Məşqə davam etmək istəyirsən?
+06_58_00_0008:İndi döyüş məşqi etmək istəyirsən?
+06_58_00_0009:Döyüşmək istəyirsən?
+07_58_00_0001:Derek ilə danış
+07_58_00_0002:Joe ilə danış
+07_58_00_0003:Otur
+07_58_00_0004:Pulu götür
+09_58_00_0001:Açarı götür
+09_58_00_0002:Qandalı aç
+10_58_00_0001:Yalan de
+10_58_00_0002:Düzünü de
+10_58_00_0003:Burada nə sikim edirsən?
+11_58_00_0001:Henry-yə sifarişini yerinə yetirməkdə kömək etmək istəyirsən?
+11_58_00_0002:Əlbəttə, əvvəlcə iş.
+11_58_00_0003:Yox, əvvəlcə dostlar.
+11_58_00_0004:Xeyir ola, gəlmisən?
+11_58_00_0005:Mən sadəcə kiminsə sürücüsüyəm.
+11_58_00_0006:Leo-ya xəbər çatdırmağa gəlmişəm.
+11_58_00_0007:Leo-nu öldürməyə gəlmişəm.
+11_58_00_0008:Niyə içəri girmədin?
+11_58_00_0009:Onu belə qəfil yaxalamaq istəməzdim.
+11_58_00_0010:Bilirsən, istəyərdim, amma doğrudan getməliyəm.
+11_58_00_0011:Burada qalmalıyam, amma Leo-nu görmək mənə də xoş olar.
+11_58_00_0012:Qoca bu gün köhnə vaxtlardakı kimi bir yığın yemək bişirmək istəyir, hə?
+11_58_00_0013:Bilirsən, bu, qocanın son yeməyi ola bilər.
+11_58_00_0014:Mənə xoşdur. Həbsxanadan darıxdığım tək şey varsa, o da yeməkdir.
+11_58_00_0015:Yaxşı zarafatdır. Həmişəki kimi zarafat edirsən, hə?
+11_58_00_0016:Zarafat edənə oxşayıram?
+11_58_00_0017:Hə, sadəcə səninlə məzələnirəm. Qocanın halını soruşmağa gəlmişəm.
+11_58_00_0018:Lənət! Vito, de görüm, bununla əlaqən yoxdur, hə?!
+11_58_00_0019:Təəssüf ki, var.
+11_58_00_0020:Ey, mən təzə gəlmişəm.
+11_58_00_0021:Nə edəcəksən?
+11_58_00_0022:İrlandlarla indi haqq-hesab çək.
+11_58_00_0023:Boş ver.
+14_58_00_0001:Sürücü olmaq istəyirsən?
+14_58_00_0002:Bəli.
+14_58_00_0003:Xeyr.
+14_58_00_0004:Tapşırığı yenidən başlatmaq istəyirsən?
+14_58_01_0001:Joe-ya kömək etmək istəyirsən?
+14_58_03_0001:Derek-ə kömək etmək istəyirsən?
+14_58_03_0002:Bəli.
+14_58_03_0003:Başqa yolum yoxdur. Pul lazımdır.
+14_58_03_0004:Xeyr.
+15_58_00_0001:Kimi öldürüm?

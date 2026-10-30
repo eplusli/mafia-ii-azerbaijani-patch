@@ -1,0 +1,106 @@
+﻿1201000011:Hey, gəlir.
+1201000012:Hey, Vito, otur.
+1201000020:Salam.
+1201000030:Nə var?
+1201000040:Yaxşı, qulaq asın. Carlo-nun işlərini bir az araşdırmışam.
+1201000050:Bəs?
+1201000060:Clemente-ni öldürtməyinin yeganə səbəbi o da narkotik satıb müştərilərini əlindən alırmış.
+1201000061:İndi son bir maneəni götürməlidir. İşi korlayıb bütün şəhərin əsas təchizatçısı olmaq planını poza biləcək yeganə adamı - Frank Vinci-ni.
+1201000070:Bunları haradan çıxarmısan?
+1201000080:Etibar etdiyim bir neçə adamla danışmışam.
+1201000090:Yaxşı, bunun bizə nə dəxli var?
+1201000100:Çünki... o bacarırsa, biz niyə bacarmayaq?
+1201000101:Fransada bir kilo heroin iki min beş yüz dollardır. Bura gətirmək də min dollar.
+1201000102:Sonra?
+1201000103:Biz də malı alverçilərə çatdırmağa on bir min alırıq! Hər kilodan yeddi min beş yüz qazanc!
+1201000110:Hmm.
+1201000120:Hə, amma bəs Falcone?
+1201000130:Carlo bilməyəcək. Bilsə də, sadəcə bizi hədələyib pay istəyəcək.
+1201000140:Yaxşı, amma şəhərdə tək böyük təchizatçı Carlo-dursa, malı haradan alacaqsan?
+1201000150:Onu çoxdan düşünmüşəm. Tonglar barədə nə bilirsiniz?
+1201000160:Çinliləri deyirsən?
+1201000170:Çinli köçkünlərin təşkilatı kimi bir şeydir, hə?
+1201000175:Elə onu dedim, çinlilər.
+1201000180:Düzdür. Amma "başqa" işlərinə də pərdədir. Çin məhəlləsini idarə edirlər, öz işlərindədirlər.
+1201000181:Amma bəziləri kənar adamlarla iş görmək istəyir, çoxları onlarla işləməyə qorxduğu üçün vasitəçi lazımdır.
+1201000190:Biz də vasitəçiyik...
+1201000200:Hə. Başlanğıc üçün on kilo verəcəklər.
+1201000210:Neçəyə?
+1201000220:Otuz beş min.
+1201000230:Bəs neçəyə sata bilərik?
+1201000240:Yüz on minə.
+1201000250:Yaxşıdır...
+1201000260:Yaxşı, bəs otuz beş mini haradan tapacağıq?
+1201000270:Bir sələmçi tanıyıram. Palisade-dəki yəhudi. Deyəsən, qırx beş qaytarsaq, otuz beş verər. Deməli, adambaşı iyirmi mindən çox qalır.
+1201000271:Malı bir yerdən o birinə aparmağa görə pis deyil.
+1201000280:Hə... Amma bilirsən, bu zibili axırda kim işlədəcək?
+1201000290:Sənə nə? Təki bizim məhəllədə olmasın.
+1201000300:Çünki Vinci haqlı idi! Narkotik bəladır, adam öldürür.
+1201000310:Bax, narkotiki ancaq axmaqlar çəkir - avaralar, fərsizlər. Özlərini öldürmək istəyirlərsə, məmnuniyyətlə kömək edərəm. Xüsusən də iyirmi minə.
+1201000340:Gettoda alıcılarım var. Paylamağı özləri həll edəcəklər, buna görə narahat olmayaq. Varsınız, ya yox?
+1201000350:Mən varam. Eləmə, axmaq olma, Vito. Bir günortaya iyirmi min, lənət olsun!
+1201000360:Ah... Nə vaxt?
+1201000370:Elə indi. Təklifi götürməsək, Tonglar başqasını tapacaq.
+1201000380:Eləmə, Vito, çox asan olacaq.
+1201000390:Onda gedək Bruno-nun yanına. Vito, bizi apararsan? Palisade küçəsindədir.
+1201000400:Yaxşı, gedək.
+1202000010:Salam, uşaqlar. Bruno ilə görüşməyə gəlmişik.
+1202000020:Salam, Henry.
+1202000030:Silahınız varsa, ora qoyun. Üstünüzü yoxlamalıyam.
+1202000040:Salam, Henry. Bu gün səni yanıma hansı xoş iş gətirib?
+1202000050:Salam, Bruno.
+1202000051:Mənə iyirmiliklərlə otuz beş min lazımdır.
+1202000060:Ah, bu çox puldur, Henry, çox pul. De görüm, sənin kimi balaca adama niyə bu qədər verim, hə? İnandır məni.
+1202000070:Dəqiq işim var. Həftənin axırına qırx beşini alacaqsan.
+1202000080:Nə dəqiq iş?
+1202000090:Bağışla, Bruno. Ticarət sirridir.
+1202000100:Onda qırx beş bəs deyil. Altmış beş olsa, rahat olaram.
+1202000110:Bu, hətta sənə görə də çoxdur. Əlli verə bilərəm.
+1202000120:Henry, Henry... Pulumun qayıdacağına zəmanət yoxdur, sənin də gedəcək başqa yerin yoxdur. Onda... altmış necədir? Faiz sayma, qazancdan payım kimi bax.
+1202000130:Əlli beş, son təklifdir. Artıq olsa, vaxtıma dəyməz.
+1202000140:Razılaşdıq. Bu gün sənə otuz beş min dollar verirəm, cüməyə qədər mənə əlli beş min qaytarırsan. Vaxtında ödəməsən, borc hər həftə on min artır.
+1202000150:Cüməyə qədər alacaqsan.
+1202000160:Yaxşı. Isaac, iyirmiliklərlə otuz beş min dollar hazırla.
+1202000170:Bilirsən, sənə inanıram, Henry. Amma məni aldatsan, İncildəki bu müdrik sözləri unutma:
+1202000171:Qəzəbim alovlanacaq, sizi qılıncla öldürəcəyəm; arvadlarınız dul, uşaqlarınız atasız qalacaq.
+1202000180:Çıxış, fəsil 22, ayə 24.
+1202000190:Hehehe. Təsirləndim. Kilsəyə gedənə oxşamırsan.
+1202000191:Eh, amma unutma, pul mənim deyil, məni aradan götürsən də, borcun yox olmayacaq. Hoqqa çıxarmayın, yaxşı, uşaqlar?
+1202000200:Əlbəttə, Bruno.
+1202000210:Sağ ol, Isaac. Saymaq istəyirsən, Henry?
+1202000220:Sözünə inanıram. Cümə günü "payınla" birlikdə qaytararam.
+1202000230:Ümid edirəm. Uğurlar, uşaqlar.
+1203000010:Xoş gəlmisən, Henry.
+1203000020:Salam, cənab Wong.
+1203000030:Birbaşa işə keçək. Çamadanın kifayət qədər ağırdır?
+1203000040:Özün bax.
+1203000045:On bir funt iyirmidollarlıq əsginas, cənab. Otuz beş min dollar.
+1203000050:Yaxşı, apar, malı gətir.
+1203000060:Yaxşı adamsan, Henry. Buyur "malın".
+1203000070:Hər torbada bir kilo var. Hər kilo iki funtdan bir az artıqdır. Hansını yoxlamaq istəyirsən?
+1203000075:n_ Dodaqlarını marçıldadır
+1203000080:Yaxşı, hər şey qaydasındadır.
+1203000090:Şadam. Gələn dəfə ikiqatını verə bilərik.
+1203000100:Sizinlə iş görmək xoş oldu, cənab Wong.
+1203000110:Mənim üçün də.
+1203000120:Bəsdir. Gördün nə asan oldu? Qayıdaq maşına.
+1203000270:Salam, cənablar.
+1203000280:Lənətə gəlmiş tələ...
+1203000290:Deyəsən, bizə çatası bir şeyiniz var... Çamadanları yerə qoyun.
+1203000300:Hmm, qəşəng ayaqqabılardır!
+1203000310:Bir dəqiqə, bunlar polis deyil!
+12_03_00_0320:Atəş aç, Vito!
+12_03_00_0330:Öldürün əclafları!
+1203000320:Atəş aç, Vito!
+1203000330:Öldürün əclafları!
+1205000010:Salam, uşaqlar, necəsiniz?
+1205000020:Salam, dostum. Gəl içəri.
+1205000025:Lənət, yaxşı siqaretdir, sikim...
+1205000030:Bacardıq! Lotereyada udduq...
+1205000040:Hey, hey, hey, sakit ol, hələ qurtarmamışıq.
+1205000050:Bir az rahatlaş, Henry. Nə olub? Birdən-birə pul səni sevindirmir?
+1205000060:Bruno-nun borcunu verib payınızı alandan sonra sevinərsiniz.
+1205000071:Yaxşı, yaxşı.
+12_05_00_0073:n_oxuyur....
+12_05_00_0074:n_oxuyur..
+2000000000:n_

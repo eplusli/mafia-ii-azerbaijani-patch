@@ -1,0 +1,50 @@
+﻿309033333:n_ xoruldama səsləri
+309030880:Hey! Sən nə sikimsən?! Hey!
+309030890:Hey! Burada nə sikim işin var?!
+309030900:Ah, lənət! Qonağımız var!
+309030910:Hey, o kimdir?! Dayan!
+309030920:Hey! Sən! Sən kimsən, əclaf?!
+309030930:Uşaqlar! Burada kimsə var!
+309030940:Hey, görürəm səni, göt!
+309030950:Kim olursansa ol, indi lap zibilə düşdün!
+309030960:Hey, elə oradaca dayan!
+309031030:n_Hey, bütün günü çöldə keçirmə, hə? Bu işi tək görmək istəmirəm!
+309031040:n_Bircə dənə siqaret çəkirəm də, lənətə gəlmiş. Sakit ol.
+309031050:n_Hə, bunu əvvəllər də eşitmişəm, dostum.
+309031060:Yaxşı, ee, o adamlarla nə baş verir?
+309031070:Nədən danışdığını bilmirəm.
+309031080:Hey, burada qəribə şeylər görmüşəm, amma...
+309031090:Heç nə görməmisən, heç nə eşitməmisən, heç nə danışmayacaqsan. Anladın?
+309031100:Hə, hə... ee, soruşduğumu unut, yaxşı?
+309031110:n_Hey, o qışqırıq nə idi?
+309031120:n_Heç nə. Donuzlardan biri çığırıb yəqin.
+309031130:n_Nə? Yox, o donuz deyildi, sanki -
+309031140:n_Qulağına zibil dolub? Donuz idi! Fikir vermə.
+309031150:n_Hə, amma -
+309031160:n_Hey, təzə gəlmisən, ya nə?! Səsini kəs, sikdir get işinə, yoxsa çığıran tək o donuz olmayacaq.
+309031170:n_Yaxşı, yaxşı...
+309031680:n_Hey, artıq buradadır. Yanındakılar kimdir?
+309031690:n_Hey, o Tony Balls-dır. Falcone-nin adamlarından biridir.
+309031700:n_Doğrudan?
+309031710:n_Hə. Nə sikim baş verir? Deyəsən, Tony buraya öz xoşuyla gəlməyib.
+309031720:n_Hey, o balaca kimdir?
+309031730:n_Bilmirəm. Əvvəllər heç görməmişəm.
+309031740:n_Lənət. Ümid edirəm, müdir nə etdiyini bilir.
+309031750:n_Əlbəttə, müdir Luca-nın nə etdiyini bilir. Belə bir işi... Luca təkbaşına görə bilməzdi. Əmri müdir verməlidir.
+309031900:n_Hey, elə maraqlandım da.
+309031915:n_Yaxşı, ee... hələ də işdən çıxmağı düşünürsən?
+309031920:n_Hə. Yəqin gələn ay.
+309031925:n_Bəs sonra nə edəcəksən?
+309031930:n_Düşünürdüm ki, bəlkə... bilirsən də... səsləndirmə aktyoru olum...
+309031935:n_Məzələnirsən? Səni kim işə götürər axı?
+309031940:n_Hey, siz ikiniz. Növbə qurtardı.
+309031945:n_N-nə demək istəyirsən, növbə qurtardı?
+309031950:n_Qulağına zibil dolub? Dedim, bu günlük işiniz bitdi.
+309031955:n_...amma bifşteki döyüb qurtarmamışam.
+309031960:n_Hey, bir də dedirtmə. Növbə qurtardı. Rədd olun buradan.
+309031965:n_Yaxşı, mənə xoşdur.
+309031970:n_Əla. Gedək.
+309031290:Hey! Orada hər şey qaydasındadır?
+309031300:Hə! Hər şey yaxşıdır, müdir.
+309031310:Onda gəl bura, bir işdə köməyin lazımdır!
+309031320:Ee, bu dəqiqə gəlirəm!

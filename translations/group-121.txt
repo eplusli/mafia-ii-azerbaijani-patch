@@ -1,0 +1,22 @@
+﻿309020180:Nə oldu, tapdın onları?
+309020190:Tam yox. Luca-nı Clemente-nin qəssabxanasına qədər izlədim, amma görünmədən içəri girmək mümkün deyil.
+309020200:Qəssabxana? Hə, hə, orada ola bilərlər... Amma dəqiq bilməliyik.
+309020210:İçəri girib adamlarımızı tapmalısan. Kanalizasiyadan keçməli olsan da vecimə deyil, yol tapmalısan!
+309020220:Yaxşı, çalışaram. Kanalizasiya... işləyə bilər...
+309020230:İçəri girməyə bir yol olmalıdır, hər yerə bax.
+309020240:Birbaşa hücum etməmiş əmin olmalıyıq, o lənətə gəlmiş qəssabxanaya yol tap.
+309020250:Nədir, əlindən tutmağımı istəyirsən? Get, içəri yol tap!
+309020040:Çox yaxınlaşmamalıyam. Luca məni görməməlidir.
+309020260:Yaxşı fikir deyil. İzləməli olduğum maşın budur!
+309020270:Ay lənət! Luca-nın maşınına vurdum!
+309020280:Çox yaxınlaşıram.
+309020290:Məni görəcək, yavaşlamalıyam.
+309020300:Ona çox yaxınam!
+309020310:Onu itirirəm.
+309020320:Qazı basmalıyam, uzaqlaşır.
+309020330:İndi itirə bilmərəm... Yaxınlaşmalıyam.
+309020340:Lənət! Qaçdı! İndi tapa bilməyəcəyəm...
+309020350:Hara gedirsən, Luca? Riverside-a?
+309020360:Bəlkə Bruski-nin maşın qəbiristanlığına? Yox, Mike belə işlərə qarışmır...
+309020370:Clemente-nin qəssabxanası. Əlbəttə!
+309020380:Deyəsən, Eddie haqlıydı...

@@ -1,0 +1,16 @@
+﻿315070010:Joe haradadır axı?
+315070020:Ah, yəqin yatır.
+315050100:Lənət! Bu nədir?!
+315050120:Tutun onu!
+315070001:Səncə, Carlo Henry haqqında düz deyir?
+315070002:Hə, niyə özündən soruşmursan, qoçaq? Əminəm, çox xoşuna gələr.
+315070003:Hə, amma Henry yaxşı adam idi. Satqın olduğuna inana bilmirəm.
+315070004:Hə, bəzən belə olur... Bax, indi o biri işi həll etməliyik.
+315070005:Hə... Səncə, bu, bir az sərt deyil?
+315070006:Ey, "sərt" nə deməkdir? Biz burada zəhrimar sığorta satıcısıyıq?
+315070007:Sadəcə, bilirsən, o, yaxşı adamdır... Bəlkə Henry ilə federallardan xəbəri olmayıb...
+315070008:Xəbəri olub, ya olmayıb, fərqi yoxdur. Henry-ni o gətirib, o da satqın çıxıb. Satqına zamin durdunsa, cəzanı çəkəcəksən. Qayda belədir.
+315070009:Elə bilirdim, Carlo bir... istisna edər. Bilmirəm...
+315070011:Ey, heç kimə istisna yoxdur. Hamını ancaq belə qaydada saxlamaq olur.
+315070012:Bəs gələndə nə edəcəyik?
+315070013:Carlo nə deyibsə, onu. Onunla mübahisə etmək istəyirsənsə, buyur.

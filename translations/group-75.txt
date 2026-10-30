@@ -1,0 +1,15 @@
+﻿306030170:Gələn dəfə sənə nəsə deyəndə, dediyimi edəcəksən, başa düşdün?!... Eşitmədim!
+306030180:Heç ÖYRƏNMİRSƏN, hə, alçaq? İndi başa düşürsən? Hə?! Elə bildim, ay axmaq köpək...
+306030190:Gəl bura! Xoşuna gəlir, hə? Yaxşıdır? Axmaq köpək...
+306030200:Nəyə baxırsan?
+306030210:Hey! Nə sikimə baxırsan?
+306030220:Bir də belə elədiyini görsəm, döyüləcəksən, başa düşdün?
+306030230:Karsan? Dediyimi elə, oyun çıxarma.
+306030240:Neçə dəfə deməliyəm sənə? Neçə dəfə? Son xəbərdarlıqdır, alçaq.
+306030250:Bunu edən sonuncu adama nə olduğunu bilirsən? Yox? Birindən soruş. Yaxşı olmayıb.
+306030260:Oradan uzaqlaş! Nə olub sənə?
+306030270:Siz məhbuslar karsınız, kütbeyinsiniz, yoxsa ikisi də? Hansıdır, başa düşə bilmirəm!
+306030280:n_Kapitan Stone'un əmrinə əsasən, hər hansı zorakılıqda iştirak edən bütün məhbuslar təkadamlıq kameraya göndəriləcək. Əlavə intizam tədbirləri də görülə bilər.
+306030290:n_Bütün mətbəx işçiləri mətbəxə gəlsin. Növbəniz başlayır. Bütün mətbəx işçiləri mətbəxə. Növbəniz başlayır.
+306030300:n_Məhbusların nəzərinə: keçən həftəki yanğına görə kitabxana növbəti bildirişə qədər bağlıdır. Kitabı olan hər məhbus kitabxana açılana qədər ona cavabdehdir.
+306030310:n_İdman zalından istifadə etmək istəyən məhbuslar əvvəlcədən rəhbərlikdən icazə almalıdırlar. Zaldan istifadə hüququ istənilən vaxt ləğv edilə bilər.

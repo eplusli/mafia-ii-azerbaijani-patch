@@ -1,0 +1,30 @@
+﻿310032120:Kömək edə bilərəm?
+310032130:Bağışlayın, cənab, azmısınız?
+310032140:Yolu göstərmək lazımdır, cənab?
+310032150:Bağışlayın, cənab, bu yer ancaq işçilər üçündür.
+310032470:Ay sikim! Dayan!
+310032480:Kömək edin! Kömək!
+310032490:Bu nə sikimdir!?
+310032500:Lənət, bu adam dəli olur!
+310032510:Qaçın! Dəlidir!
+310032520:Ay! Dayan, xahiş edirəm!
+310032530:Hadi, dayan!
+310032540:Məni rahat buraxarsan?
+310032550:Sikim belə işi, mən getdim!
+310032560:Ah, eləmə!
+310032620:Hmm... Yaxşı.
+310032630:Səninlə iş görmək xoşdur.
+310032640:Yaxşı, sadəcə rəhbərim səni görməsin.
+310032650:Hey. Niyə də yox.
+310032660:Sağ ol, dostum.
+310032670:Səni heç görməmişəm.
+310032680:Anladım.
+310032690:Əlbəttə.
+310032700:Sirrini saxlayacağam!
+310032710:Yaxşı onda. Sağ ol.
+310030200:Hey, səndən bir şey soruşmalıyam...
+310030210:İndi yox. Siqaret fasiləmin kefini çəkirəm.
+310030220:Hey, dostum, dedim axı, rahat burax.
+310030230:Fasilədəyəm, zəhləmi tökmə.
+310030240:Siqaretimi qurtarım.
+310030650:Bağışlayın, xanım, yer yoxdur. Növbətini gözləyin.

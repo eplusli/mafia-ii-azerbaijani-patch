@@ -1,0 +1,43 @@
+﻿308080271:Hələ işim var.
+308080272:Uşaqları burada qoyub gedə bilmərəm.
+308080273:Burada işimiz bitməyib.
+308080274:Getməmiş Eddie-nin pulunu qaytarmağa yol tapmalıyam.
+308080275:Hara getdiyini sanırsan, Vito?
+308080276:Hey. Hələ qurtarmamışıq, qanmaz.
+308080277:Hey, Vito, qayıt bura! İş hələ bitməyib.
+308080371:n_Hadi, qancıq!
+308080372:n_Həəəəə!!!
+308080373:n_Hə, bu sənə dərs olar!
+308080374:n_Ah, ay! Bu yaman ağrıtdı!
+308080375:n_O qədər yumşaq olmayın, uşaqlar!
+308080376:n_Yenə istəyirsən? Al - bir az da!
+308080380:n_Lənət, gedək!
+308080390:n_Hahaha... Tutaq onları!
+308080411:n_Aaaaah!
+308080412:n_Uaaaah!
+308080413:n_Ahhhh, lənət!
+308080414:n_Məni rahat buraxın! Onlarla deyiləm, and olsun!
+308080415:n_Xahiş edirəm, yox, eləmə!
+308080416:n_Ah, lənət! M-mən buna razı olmamışdım!
+308100060:n_Aaaaah!
+308100070:n_Uaaaah! Ahh!
+308100080:n_Qaaaaçın!
+308100090:n_Silahları var!
+308100100:n_Xahiş edirəm, məni öldürmə!
+308100110:n_Mən getdim, a kişi!
+308100120:n_Lap batdıq!
+308100130:n_Hamımızı öldürəcəklər!
+308100140:n_A kişi, ölmək istəmirəm!
+308100150:n_Vurun bu götləri!
+308100160:n_Cəhənnəmdə görüşərik!
+308100170:n_Güllə yeyin, götlər!
+308100180:n_Aaaaha, haha!
+308100190:n_Aaaahahahaha!
+308100200:n_Öl, öl, öl!
+308100210:n_Öl daha!
+308100220:n_İndi öləcəksən!
+308100230:n_Allah xatirinə, səni öldürmək üçün nə lazımdır?
+308100240:n_Ah, belə ölən deyiləm!
+308100250:n_Bu heç ədalətli deyil!
+308100260:n_Uh... Ölmək istəmirəm!
+308100270:n_Tez vurun, yoxsa batdıq!

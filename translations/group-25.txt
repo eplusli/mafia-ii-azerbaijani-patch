@@ -1,0 +1,24 @@
+﻿302050540:Hara gedirsən belə?
+302050550:Nə lazımdır? Təmiz hava? Tez ol, bütün günü gözləyə bilmərik...
+302050560:Gic-gic hərəkət eləmə, maşına qayıt! Görməli işin var!
+302070060:Bir də qıfıl açan alətlər lazımdır.
+302070070:Elədir. Tap görək pulunu kim verir.
+302070080:Nədir, pulun çatmır? Yaxşı, Giuseppe, qalanını mən verərəm.
+302070090:Yaxşı, indi işə keçək.
+302070089:Görüşərik, Giuseppe. Allah səni qorusun.
+302140711:Al bir az pul, təzə maşınını düzəltdir, Vito.
+302140712:Elə indi mühərriki sazlatdırmaq olar.
+302140713:Təzə təkərlər almalısan, bunlar lap kolbasa qabığı kimi nazikdir.
+302140714:Təzə təkər dəsti də alsan yaxşıdır, yolda hər tərəfə sürüşürdün.
+302140715:Buna daha yaxşı əyləclər qoydursan yaxşı olar.
+302140716:Rəngini dəyişsən, heç kim tanımaz.
+302140717:Nömrəni dəyiş, polislər heç nədən şübhələnməz.
+302140718:Rəngini və nömrəsini dəyiş ki, maşını tanımasınlar.
+302140719:Yaxşı, indi maşın təmizdir. 
+302140721:Sağ ol.
+302140722:Buna öyrəşmə. Bir ara mənə pivə alarsan, əvəzləşərik.
+302140723:Getməmiş mühərriki sazlatdıraq.
+302140720:Lənət, polislər artıq səni tanıyıb.
+302140730:Paltarını dəyişsən, aldada bilərsən onları.
+302140740:Gəl geyim dükanı tapaq, sənə təzə paltar alaq.
+302140750:Paltarını dəyişəndən sonra polislər səni tanımayacaq.

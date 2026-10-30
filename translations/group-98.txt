@@ -1,0 +1,28 @@
+﻿308010451:O kim idi? Səsi lap lənətəgəlmiş Woody Woodpecker kimidir...
+308010460:Marty idi. Məndən bir küçə aşağıda yaşayan balaca uşaq yadındadır? Yük maşınını buradan götürməliydim, məni gətirdi.
+308010470:Yük maşını nə üçündür? 
+308010480:Bizə yaxşı pul qazandıracaq. Min, yolda izah edərəm. Sən sür.
+308010490:Hara?
+308010500:Riverside.
+308010510:Yaxşı, Riverside olsun.
+308010520:Nə məsələdir?
+308010530:Asandır. Bir-iki yerə gedib bu siqaretləri satmalıyıq. Sonra maşını Eddie'ye qaytarıb qazancdan payımızı alırıq. Çox asan.
+308010540:Bir dəqiqə. Deyəsən, elə belə "asan" işə görə həbsə düşdüyüm yadımdadır...
+308010550:Narahat olma. Əvvəl də etmişəm. İlk dayanacaq Riverside.
+308010560:Sən deyirsənsə...
+308010570:İnan mənə, sonra təşəkkür edəcəksən.
+308010571:Nə gecə idi, hə?
+308010572:Hə, elə demək olar.
+308010573:Nədir, hələ də hirslisən?
+308010574:Yox, həbsdən çıxan kimi etmək istədiyim ilk iş meyit basdırmaq idi.
+308010575:Hadi də... Fahişəxanada kef elədin, hə?
+308010576:Hə, hə, elədim... Ona görə sağ ol... Amma ondan sonra indiyə qədər olanlar elə xoş deyildi.
+308010577:Yaxşı, yaxşı... Qulaq as, bu gün xeyli yaxşı olacaq. Söz verirəm.
+308010578:Çox ümid edirəm...
+308010700:O uşaq Marty də Eddie üçün işləyir?
+308010710:Hə, ancaq yuxusunda. Hələ on səkkiz yaşı da yoxdur. Mənim işlərimi görür, məni gəzdirir, çatdırılma edir, elə şeylər. Amma özünü qanqster sayır. Kinoya çox gedir.
+308010720:Səni özünə nümunə götürübsə, uşağın başına çox bəla gələcək.
+308010730:Elə, çoxbilmiş? Mənə onun yaşında olan səni çox xatırladır.
+308010740:Elə onu deyirəm. Səni tanıyandan iki il Avropada güllədən qaçmışam, altı il də həbsdə yatmışam. Bəla deyəndə bunu nəzərdə tuturam.
+308010750:Nə olub, səhər kimsə qəhvənə sıçıb? Elə bil bütün yaxşı vaxtları unutmusan.
+308010760:Hə, bir gün onları yadıma salarsan.

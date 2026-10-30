@@ -1,0 +1,61 @@
+﻿310040420:n_Salam, gözəl. İçində italyan qanı var?
+310040430:n_Ahhh... hə.
+310040440:n_Bəs bir az da italyan istəyərsən?
+310040450:n_Uf...
+310040460:n_Bu, "hə" idi?
+310040470:n_Ah... Xahiş edirəm, çıx get...
+310040480:n_Yaxşı, bağışla. Kobudluq elədim.
+310040490:n_Hə, elədin.
+310040500:n_İcazə ver, əvəzini çıxım.
+310040510:n_İstəmirəm...
+310040520:n_İsrar edirəm... Özümü çox pis hiss edirəm.
+310040530:n_Yox.
+310040540:n_Həyatının ən romantik gecəsi olacaq, and içirəm.
+310040550:n_Buna çox şübhə edirəm, Romeo.
+310040560:n_Gəl, pizza yeyək, sonra arxa oturacaqda bir az oynayarıq.
+310040570:n_Uf!
+310040580:n_Nə olub, pizza sevmirsən?
+310040590:n_Sənin ciddi problemlərin var, bilirsən? Heç tanımadığın qadınla belə davranmaq!
+310040600:n_Ah, haqlısan. Bəs adın nədir, gözəl?
+310040610:n_Christina. Christina Clemente.
+310040620:n_Cle... Clemente?
+310040630:n_Mmmhmmm.
+310040640:n_Yəni... Alberto... Clemente?
+310040650:n_Al əmimi tanıyırsan?
+310040660:n_Yox, yox, elə yox...
+310040670:n_Bağışla, sənin adın nə idi?
+310040680:n_Şey... ah, lənət, saata bax! Mən doğrudan getməliyəm. Tanışlığıma şadam.
+310040690:n_Hmmhmmhmm, həmişə işə yarayır...
+310040790:n_Rədd ol.
+310040800:n_Görmürsən, xanımla söhbət edirəm? Çıx get!
+310040810:n_Şəxsi söhbətdir, rədd ol.
+310040820:Mmm... Formalı kişidən xoşum gəlir, amma bu formadan yox. 
+310040830:Bağışla, əzizim, mənim zövqümə uyğun deyilsən.
+310040840:Heç hiss etmisən ki, öz taleyini idarə edə bilmirsən?
+310040844:Salam, gözəl. Necəsən?
+310040846:Sa-lam...
+310040850:n_Bütün bunların nə olduğunu bilirsən?
+310040860:n_Hə.
+310040870:n_Bəs mənə deyəcəksən?
+310040880:n_Kiminsə Luca'nı qiyməyə çevirdiyini eşitmisən, hə?
+310040885:n_Hə. Eşitdim, Tony...
+310040890:n_Tony Balls. Falcone'nin adamlarından biri.
+310040900:n_Yox, eşitdim... Tony, şey, Stugots.
+310040910:n_Hə, odur.
+310040920:n_..."Odur" nə deməkdir?
+310040930:n_Tony Balls, Tony Stugots... Eyni adamdır.
+310040940:n_...Əminsən?
+310040950:n_Hə, hə, hə, eyni adamdır.
+310040960:n_Niyə iki adı var?
+310040970:n_İki adın olmağının nəyi pisdir? Çox adamın iki adı var. Bəzilərinin üç-dörd adı var.
+310040980:n_Adam çaşır.
+310040990:n_Sən elə deyirsən. Sadəcə qısqanırsan, çünki sənin bircə adın var.
+310041000:n_Mənə bir ad bəs edir, yaxşı?
+310041010:n_Bəlkə bir başqasını da götürmək barədə düşünəsən.
+310041020:n_Nə üçün?
+310041030:n_Çünki indiki adın... elə də yaxşı deyil.
+310041040:n_"Corky"nin nəyi pisdir?
+310041050:n_İncimə, amma bir az səni kütbeyin kimi göstərir...
+310041060:n_Kibritin var?
+310041070:n_Əlbəttə, al.
+310041080:n_Sağ ol.

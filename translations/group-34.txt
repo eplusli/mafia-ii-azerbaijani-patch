@@ -1,0 +1,69 @@
+﻿301042300:Scaletta, bura gəl.
+301042320:Scaletta, o pəncərədən gir! İNDİ!
+301042330:Bu yoldan keçə bilmərik.
+301042340:Səhv yoldur, ay gicbəsər! Williams'ın dalınca get.
+301042350:Williams'ın dalınca get. Tez ol, tərpən!
+301042360:Deyəsən, pulemyotu tapdıq!
+301042370:Ehtiyatlı ol!
+301042380:Qumbara varsa, Scaletta, işlətmək üçün LAP ƏSL VAXTIDIR!
+301042390:Pəncərədən qumbara at!
+301042400:Scaletta! Karsan? At o sikilmiş qumbaranı!
+301042410:Görüşərik, uşaqlar.
+301042430:Vay... siktir!
+301042440:Yəqin arxada sursat anbarı var imiş...
+301042450:Lənət, nə bərk partladı!
+301042460:Scaletta, sağsan?
+301042470:Hə. Az-çox.
+301042480:Onda götünü qaldır, gedək.
+301042490:Sikin əlində durma orada, gedək.
+301042509:Oho! Bu zibilə baxın!
+301042510:Silahlan, Scaletta.
+301042520:Daşıya bildiyin qədər güllə götür. Bu, son şansımız ola bilər.
+301042530:Scaletta, təpiklə o qapını aç!
+301042540:Qapını, Scaletta. Təpiklə aç!
+301042560:Lənətəgəlmiş qapını təpiklə aç, Scaletta, bu, əmrdir!
+301042570:Pilləkəndə!
+301042580:f_Buradadırlar!
+301042590:f_Pilləkəni saxlayın!
+301042600:f_Siktir, yankee!
+301042610:Ay yağbaşlar, tutun! Səndən incimək yoxdur, Scaletta.
+301042620:Əsirləri yuxarıda saxlayırlar yəqin.
+301042630:İkinci mərtəbəni təmizləyin. Scaletta, sən öndə get!
+301042640:f_Girovları öldürün!
+301042650:Lap arxandayam, dostum.
+301042660:Vurdum onu.
+301042670:Yaxşı, gedək, tərpənək.
+301042680:Qapını təpiklə aç. Səni qoruyuram!
+301042690:Kütləşmisən, Scaletta? O lənətəgəlmiş qapını aç!
+301040620:f_Təslim olun! Yoxsa beynini dağıdaram!
+301042700:f_Yox! Yox!
+301042710:f_Yalvarıram, əllərimi açın!
+301042720:Vay, siktir!
+301042730:Lənət!
+301042740:Lənət, deyəsən, bu tərəfdən gedirik. Tez olun.
+301042750:Ah, lənət! Bu köpəklərdən nə qədər var?
+301042760:Kimə nə?! Atəş açmağa davam et!
+301042770:Səncə nə edirəm?!
+301042780:Hə! Az danış, çox at.
+301042790:Mənə xoşdur, ay alçaq...
+301042800:Lənət, bu balkon işə yaramayacaq.
+301042810:Dayanmamalıyıq, içəri girək.
+301042820:Ah, siktir!
+301042829:Lap arxandayam, Scaletta.
+301042830:İçəri gir, Scaletta! Burada öləcəksən!
+301042840:Scaletta. İçəri gir, indi!
+301040290:f_Yenə faşistlər!
+301040310:f_Yenə faşistlər gəlir!
+301040330:f_Əlavə qüvvələri gəlib!
+301042850:Balkondakı pulemyotu görürsən, Scaletta? Keç arxasına!
+301042860:Tez ol! Keç o pulemyotun arxasına!
+301042870:Bunlar içəri girsələr, batdıq.
+301042880:Yaxşı atırsan, Scaletta!
+301042890:Yenə gəlirlər, kilsənin yanından.
+301042900:O yük maşınını vur.
+301042910:Köşkün yanında. Orada, sağında.
+301042920:Yağdır üstlərinə!
+301042930:Pilləkənlərdə! Düz sənin altında.
+301042940:Orada, solda!
+301042950:Sağında, yenə gəlirlər!
+301042960:Ahhhhh, lənət, topları var! İçəri girin, indi!

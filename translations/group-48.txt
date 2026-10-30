@@ -1,0 +1,24 @@
+﻿302040892:Qabaqda yolun döngəsində ehtiyatlı ol. Bir neçə həftə əvvəl biri hasarı yarıb suya düşdü, boğuldu.
+302040900:Yaxşı, indi burada sağa dön.
+302040940:Az qalıb. Qabaqda sağa dön.
+302041365:Ora Mike'ın maşın qəbiristanlığıdır. Qapıdan içəri sür.
+302070041:Arxadakı o adam kimdir?
+302070042:Hansı adam?
+302070043:Təmir sexindəki.
+302070044:Ah, Tommy. Dostumun qardaşı oğludur. Bir az sakitdir, amma əla rəqs edir. Bir neçə həftə əvvəl Oyster Bay'dəki köhnə rəqs zalında gördüm. Bütün qızları dəli eləmişdi.
+302070045:Deyəsən, bir az qısqanclıq hiss edirəm?
+302070046:Zarafat edirsən? Mənə rəqs lazım deyil. Cazibəm var, dostum. Sənə bir neçə söz öyrədim, bəlkə gecələri ovucunla beş barmağının yanında keçirməzsən.
+302070047:Bax, biri belədir. Cibində güzgü var? Çünki özümü şalvarının içində görürəm.
+302070147:Ha, ha, ha.
+302070048:Bir dənə də var. Əlifbanı dəyişə bilsəydim, səni və məni yanaşı qoyardım.
+302070148:Ah, bəsdir də.
+302070049:Bu da həmişə tutur. Bala, qəşəng paltardır. Səhər çarpayımın ayağında əzik-üzük qalsa, lap yaxşı görünər.
+302070149:Bu, işə yarayır?
+302070051:Bax, bu yaxşıdır. Seks ilə söhbətin fərqini bilirsən? Yox? Gedək mənim evimdə söhbət edək?
+302070151:Sənin problemin var, bilirsən?
+302070052:Bu necədir? Gedək mənim evimdə evcik oynayaq? Sən qapı olarsan, mən də səni çırparam.
+302070053:Ah, bu lap pis idi.
+302070055:Boş vaxtı yeddi düymdürsə, gözəl danışmağa ehtiyac yoxdur, başa düşdün?
+302140760:İndi də səni Mike Bruski ilə tanış edək. Yəqin sənə işi olar.
+302140770:Yaxşı, haradadır?
+302140780:Riverside'da maşın qəbiristanlığı var. Gözdən qaçmaz.

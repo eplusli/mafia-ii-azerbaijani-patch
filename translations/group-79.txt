@@ -1,0 +1,28 @@
+﻿306100720:n_O şeyin sənə xeyri dəyməz!
+306100730:n_O borunu götünə soxacağam!
+306100740:n_Silahla qoçaq olmusan.
+306100750:n_Gəl bura, Mary!
+306100751:n_İndi görək nə qədər qoçaqsan!
+306100760:n_Tək əllə elə asan deyil, hə?!
+306100770:n_Ha! Səni əzib xəmir edəcəyəm!
+306100780:n_Hahaha, səninlə işim bitəndə səni geylərə borc verəcəyəm! 
+306100880:n_Bu dəfə elə yumşaq davranmayacağam.
+306100890:n_Qalx! Səninlə işim bitməyib.
+306100900:n_Hahahaaa. Bəsindir?
+306100910:n_Bacardığın budur?!
+306100920:n_Anam məni bundan bərk vururdu!
+306100930:n_Bir də sına, balaca.
+306100940:n_Məncə, yox.
+306100950:n_Yaxşı vurdun, Mary.
+306100960:n_Yenə. Daha bərk!
+306100790:Ahh!! Yaxşı, daha zarafat bitdi! İndi öləcəksən.
+306100800:Lənət...
+306100810:n_Öldün sən!
+306100820:n_Ah... siktir...
+306100830:Ah, lənət, onu öldürməməliydin!
+306100840:Başqa seçimim vardı ki, yaxşı?
+306100850:İndi fərqi yoxdur. Tez ol, buradan çıxmalıyıq! 
+306101000:n_İndi layiq olduğunu alacaqsan.
+306101010:n_Bu dəfə səni bitirəcəyəm.
+306101020:n_O gözəl üzünü bir doğrayaq.
+306101030:n_Bu dəfə səni qurtarmağa nəzarətçi yoxdur.

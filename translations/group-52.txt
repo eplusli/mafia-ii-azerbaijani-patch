@@ -1,0 +1,13 @@
+﻿302090010:Hə, dalımca gəl.
+302090020:Bu yeşik yığınını o yük maşınına yüklə. 
+302090021:Bitirəndə on dollar alacaqsan. Nəsə itsə, ya sınsa, heç nə almayacaqsan. İndi başla, bütün günü uzatma.
+302090030:Hə, çox əyləncəli olacaq... Kim bütün günü yeşik daşımaq istəyər axı?
+302090040:Ay Allah, bütün bunlar cəmi on dollara görə? Zarafat edirsən...
+302090050:Bunlar necə dözür? Beş dəqiqədir edirəm, artıq zəhləm gedir...
+302090060:Bilirsən nə var? Bu qəpik-quruş mənə lazım deyil!
+302090070:Hə, yeşik daşımaqdan yaxşıdır. 
+302090085:Ağıllı uşaqdır.
+302090090:Yaxşı, onda get.
+302090080:Yox, mənə çox başağrısı kimi gəlir.
+302090100:Özün bilərsən. Fikrini dəyişsən, məni harada tapacağını bilirsən.
+302100010:Fikrini dəyişdin?

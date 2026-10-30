@@ -1,0 +1,16 @@
+﻿313080040:Bəxtimiz gətirsə, bu açar yuxarı qalxanda yanından keçdiyimiz kilidli qapınındır.
+313110870:Ahh... Lənət...
+313110880:Ah, siktir elə! Hadi, Vito, çıxaq buradan!
+313110890:Çoxdurlar! Tez bizə maşın tap!
+313110900:Qaza bas, Vito! Lap dalımızdadırlar!
+313110905:Yaxşı... Qurtulduq.
+313110910:Məni evimə apar, Vito. İçki lazımdır mənə...
+313080055:Ah, siktir, polis.
+313080056:Lənət! İndi nə edəcəyik?
+313080057:Dediyim kimi, şahid qalmamalıdır. Hadi.
+313080063:Atəş aç, Vito! Hadi! Şahid qalmamalıdır!
+313111000:Silahlarınızı yerə qoyun, mühasirədəsiniz.
+313080100:Bu, ee... Çox pis oldu, hə?
+313080110:Hə. Danışmaq istəmirəm. Məni evimə apar, olar?
+313080120:Yaxşı.
+313080058:Siktir! Hər yer polisdir! Tərpən, Vito!

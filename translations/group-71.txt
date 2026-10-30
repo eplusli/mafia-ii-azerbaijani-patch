@@ -1,0 +1,27 @@
+﻿306010010:Yaxşı, gedək!
+306010013:Tərpənin!
+306010014:GEDƏK, alçaqlar!
+306010011:Həddini aşma. Sıraya qayıt.
+306010012:Sözümü təkrar etməyi xoşlamıram. Götünü çək sıraya.
+306010020:Nə edirsən! Sənə əmrə tabe olmağı göstərəcəyəm!
+306010030:Problem yaratmaq istəyirsən, ay köpəkoğlu?
+306010040:Nə olub? İngiliscə bilmirsən? Gəl, sənə "öyrədim"!
+306010050:Ay peyinbeyin! Sənə deyiləni elə!
+306010055:Nədir, bundan həzz alırsan, ay xəstə köpək?!
+306010051:Qulaq as, yaraşıqlı, deyiləni etməsən, səni karserə salacağıq.
+306010052:Yaxşı, alçaq, belə istəyirsənsə, payını alacaqsan.
+306010056:Məni əsəbiləşdirmək istəyirsən? 
+306010053:Səni hər cür döyə bilərəm, heç kim də məni saxlaya bilməz.
+306010054:Adətən sizin kimi alçaqlar buranın qaydasını başa düşür, amma sən lap kütbeyinsən.
+306010060:İndi qalx, sıraya qayıt! Tərpən!
+306010061:Ay çoxbilmiş, sözümü təkrarlatma. Sıraya qayıt.
+306010062:Deyəsən, möhkəm döyülmək istəyirsən, hə, dostum? Sıraya qayıt, yoxsa pis olar.
+306010063:Lənət, bunlar zarafat etmir.
+306010064:Ooooooh, bu yaman ağrıdar.
+306010065:Axmaq köpəkoğlu.
+306010066:Bu köpək heç nə öyrənmir.
+306010067:Oyun çıxarma, yoxsa sənin axmaqlığına görə hamımızı döyəcəklər!
+306010069:Tərpən, alçaq! Döyülmək sənin xoşuna gələ bilər, mənim yox!
+306020001:Salona xoş gəlmisiniz, xanımlar. Lap gözəl görünəcəksiniz.
+306020002:Mən də? Başımda kəsiləsi bir şey yoxdur.
+306020003:Səsini kəs, ay keçəl. 

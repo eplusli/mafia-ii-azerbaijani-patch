@@ -1,0 +1,8 @@
+﻿314020010:Salam, Joe-nu axtarıram. Görən var, ya da hara getdiyini bilən?
+314020020:Salam. Joe-nu görmüsən? Görüşməliydik, gəlmədi. Harada ola biləcəyini bilirsən?
+314020040:Yaxşı, sağ ol.
+314020035:Yaxşı, ora gedərəm. Görüşərik.
+314020060:Sağ ol, Charlie. Elə indi ora gedirəm. Görüşərik.
+314020100:Hə, Joe bayaq burada idi. Ee... Gedəndə Maltese Falcon haqqında nəsə deyirdi.
+314020103:Bilmirəm. Giuseppe-yə baxsan, necə olar?
+314020110:Hola, dostum! Hə, Joe burada idi. Dedi, Giuseppe ilə nəsə işi var, ora gedir. Bəlkə hələ oradadır.

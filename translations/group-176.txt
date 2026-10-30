@@ -1,0 +1,32 @@
+﻿314010230:Nə istəyirsən?
+314010240:Bruno ilə görüşməliyəm.
+314010250:Pulu gətirmisən?
+314010260:Hələ yox, amma...
+314010270:Gətirəndə qayıt.
+314010280:Hələ pulum çatmır.
+314010290:Əvvəl pulun qalanını tapmalıyam.
+314020011:Joe hələ də evdə deyil. Nəsə qaydasında deyil. Onu tapmalıyam.
+314020012:Joe burada deyil. Harada olduğunu öyrənməliyəm.
+314020281:Bəlkə Joe Falcon-da Eddie-nin yanına gedib.
+314020282:Sonra Giuseppe-yə baxaq. O, hər şeydən xəbər tutur.
+314020030:Joe bu gün bura gəlib? Onunla danışmalıyam, heç yerdə tapa bilmirəm.
+314020040:Yaxşı, sağ ol.
+314020045:Əla, gedib baxaram.
+314020050:Çox sağ ol. Görüşərik.
+314020060:Sağ ol, Charlie. Elə indi ora gedirəm. Görüşərik.
+314020101:Joe? Ən yaxın bara bax...
+314020102:Hə, burada idi, iş soruşurdu, amma ona işim yox idi. Dedi, Giuseppe-dən nəsə götürməlidir.
+314020120:Yox, Joe burada olmayıb. Mən də onunla danışmalıyam. Henry-nin işində əli olub-olmadığını bilmək istəyirəm. Görsən, de, yanıma gəlsin. Yaxşı olar, bu işdə əli olmasın.
+314050760:Vito, məni pis günə qoydular. Deyəsən, həkim lazımdır.
+314050770:Yaxşı, səni El Greco-nun yanına aparaq.
+314060010:Salam. Bruno ilə görüşməliyəm.
+314060020:Pul var?
+314060030:Hə.
+314060040:Onda gir içəri. Bəxtin gətirdi, elə çıxmaq üzrəydik.
+314060100:Ağh... Sinəm. Hər nəfəs alanda... Deyəsən, qabırğalarımı sındırıblar...
+314060110:Sakit ol. El Greco səni düzəldəcək.
+314060120:Hə, əlbəttə. Ah, siktir, hər öskürəndə elə bil sinəmə bıçaq batırırlar.
+314060130:Söykən otur, nə qədər çox şikayət etsən, bir o qədər pis olacaq.
+314060140:Vito, qulaq as. Dalımca gəldiyinə, özünü də az qala ölümə verdiyinə görə sağ ol.
+314060150:Ey, bu işdə birlikdəyik, elə deyil? Həmişəki kimi. İndi söykən otur, şalvarımı qana batırma, yoxsa doğrudan sinənə bıçaq soxaram.
+314060160:Zarafatcıl olmağın əsl vaxtını tapdın.

@@ -1,0 +1,44 @@
+﻿01_01_00_1000:Husky əməliyyatı: 504-cü paraşütçü piyada alayına təyin olunmuşdum.
+01_01_00_1010:İyulun 11-də bizi Siciliyanın cənub sahilinə endirməliydilər, amma zenit atəşinə düşdük və düşmən xəttinin lap arxasına tullanmalı olduq. Cəmi üçümüz sağ qaldıq.
+01_01_00_1020:Yerli müqavimətçilər olmasaydı, heç bir şansımız qalmazdı. Ona görə Mussolininin əsgərləri şəhərə girib hamını yığışdıranda yaxşılıqlarının əvəzini çıxmaq qərarına gəldik.
+01_03_00_0030:f_ Şşşşş.
+01_03_00_0140:f_Bezdim artıq bundan!
+01_03_00_0060:f_Niyə heç kim danışmır? İndi bu adam ölməlidir...
+01_03_00_0065:f_Yox, yox, yalvarıram... ah, ah...
+01_03_00_0070:f_Hə, hə?
+01_04_00_0005:Kapral, kapral, yaxşısan? Tez ol, buradan çıxmalıyıq, gedək, tez ol!
+01_04_00_0006:f_Təmizdir!
+01_04_00_0007:f_Qalanları haradasa burada olmalıdır.
+01_04_00_0001:Kapral, kapral, yaxşısan? Tez ol, buradan çıxmalıyıq, gedək, tez ol! 
+01_04_00_0002:ehh
+01_04_00_0003:ehh
+01_04_00_0004:ehh
+01_04_00_0005:Kapral, kapral, yaxşısan? Tez ol, buradan çıxmalıyıq, gedək, tez ol! 
+01_04_00_0008:ehh, yaxşı...
+01_04_00_0010:f_Gəlin. Başqaları da olmalıdır!
+01_04_00_0020:f_Əsir götürməyin. Sağ adam tapsanız, başına bir güllə vurun.
+01_04_00_0021:f_Əsir götürməyin. Sağ adam tapsanız, başına bir güllə vurun.
+01_04_00_0030:f_Deyirəm axı, bu iş xoşuma gəlmir...
+01_04_00_0040:f_Dediyini elə. Kimi tapsaq, öldürməliyik.
+01_04_00_0050:f_Siz ikiniz nədən danışırsınız?!
+01_04_00_0060:f_Dostuma ehtiyatlı olmağı deyirdim.
+01_04_00_0070:f_Ehtiyatı boş ver, sənə deyiləni elə!
+01_04_00_0080:f_Gəl, o biri otağı yoxlayaq.
+01_04_00_0090:f_Atəş açmayın, uşaqlar! Məni tanıyırsınız. Sizə təklifim var. Müharibə bitdi!
+01_04_00_0095:f_Amerikalılar bizi azad etməyə gəliblər. Onlar bizim dostlarımızdır. Bizi Mussolinidən qurtaracaqlar. 
+01_04_00_0100:f_Axmaqlıq eləməsəniz, bu gün evinizə, ailənizin yanına qayıda bilərsiniz. Təhlükədə deyilsiniz. Buna mən zəmanət verirəm! Bilirsiniz ki, mənə etibar edə bilərsiniz. Nə deyirsiniz?
+01_04_00_0110:f_Hə, uşaqlar. İnanın mənə, düzünü deyirəm. Analarınız, arvadlarınız evdə sizi gözləyirlər. 
+01_04_00_0120:f_Onları evdə tək qoymaq istəməzsiniz axı, birdən başlarına bir iş gəldi? İndiki quldurların nə qədər qəddar olduğunu bilirsiniz.
+01_04_00_0130:n_Bax belə, uşaqlar. Silahları burada qoyub evə gedin! Sizin adınıza sevindim. Nəyəsə ehtiyacınız olsa, məni harada tapacağınızı bilirsiniz.
+01_04_00_0140:n_Bu nə cəhənnəmdir? Bu özünü nə hesab edir?!
+01_04_00_0150:n_Doğrudan da... Don Calodur?
+01_04_00_0160:n_Hə, hə, onu əmioğlumun toyundan xatırlayıram...
+01_04_00_0170:f_Bu kimdir axı? Tanıyırsan onu?!
+01_04_00_0180:f_Onu hamı tanıyır. Don Calo şərəfli adamdır.
+01_04_00_0190:n_Bu, amerikalıların axmaq hiyləsidir, deməyin ki, ona inanırsınız!
+01_04_00_0200:n_Yox, bu, dəqiq Dondur. Siz italyanlar da bir dəfə yerlilərin sözünə qulaq asın. Təslim olaq?
+01_04_00_0210:n_Heç vaxt təslim olmayacağıq! O xainə qulaq asmayın!
+01_04_00_0220:n_Təslim olsanız, elə durduğunuz yerdə güllələyəcəyəm sizi, axmaq siciliyalı kəndçilər!
+01_04_00_0230:f_Alçaq.
+01_04_00_0240:f_Hə. Bunu çoxdan eləməliydik.
+01_04_00_0250:Don Calo, Siciliya mafiyasının başçısı. Həmin gün bütöv bir qarnizon təslim oldu. Niyə? Çünki o, belə demişdi. 

@@ -1,0 +1,12 @@
+﻿303500380:Salam, Charlie.
+303500390:Salam, Vito. Maşına nə olub?
+303500400:Şey... tam əzmişəm. Bir axmaq yolayrıcında qırmızı işıqda keçib düz mənə çırpıldı.
+303500410:Köpəkoğlu... İndi mən neyləyəcəyəm?
+303500420:Bağışla, Charlie, əlimdən bir şey gəlmədi...
+303500430:Lənət olsun, indi tez başqa çıxış yolu tapmalıyam!
+303500440:Bağışla, Charlie.
+303500450:Buyur, Charlie.
+303500470:Bir az əzilib, Vito, ona görə təmir pulunu sənə verəcəyim puldan çıxmalıyam, yaxşı?
+303500480:Səni görən oldu?
+303500490:Çox asan idi. Elə orada kilidsiz dayanmışdı, ətrafda da heç kim yox idi.
+303500500:Haha. Ola bilməz!.. Əladır, indi bircə mən...

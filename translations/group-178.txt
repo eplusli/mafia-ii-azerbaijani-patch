@@ -1,0 +1,26 @@
+﻿314020820:Bu adam kimdir?
+314020830:Joe-nun dostudur. Yəqin müdirin buna da çox sualı olar.
+314020840:Üstünü axtarmısan?
+314020850:Hə. Heç nəyi yoxdur.
+314020860:Bir də əmin olaq.
+314020870:Vay, bu nədir? Yaxşı axtarmamısan. Yaman çox puldur.
+314020880:Lənət, yəqin gözümdən qaçıb.
+314020890:Bu, Frank-ındır. Hələlik məndə qalsın.
+314020900:Dostunun üstündə də bir yığın pul var idi. Niyə bu qədər pul gəzdirirsiniz?
+314020910:Arvadın "yaxşı gördüyüm işə" görə verib. Başa düşürsən də?
+314020920:Nə gülməlidir. Səninlə işimiz bitəndə görərik, kim gülür!
+314020930:Onu yuxarı, səkkizinci mərtəbəyə apar. Pilləkənlə qalxmalısan, lift yenə xarabdır. Frank gələnə qədər düzəltməyə çalışırlar.
+314020940:Lənət, yaman çox pilləkəndir. Lap əla.
+314020950:Ey, Pete, bax, pilləkən mənlik deyil... Artritim var... Bir də astmam. Mən səni burada gözləyərəm.
+314020960:Ah, Allah xatirinə!
+314020990:Yaxşı, tərpən, ay göt!
+314021000:Narahat olma, adamlarımız binadadır. Səndən qaçsa da, gedəsi yeri yoxdur.
+314021010:Yaxşı. Gəl, gijdillaq.
+314021020:Hara deyirəmsə, ora gedirsən, sakit-sakit. Qaçmağa çalışsan, həm sənin, həm də dostunun işi bitəcək. Axmaqlıq etməzdən əvvəl yaxşı düşün.
+314050020:Barbaro necədir?
+314050030:Hələ yuxarıdadır, dözür. Amma işini bitirənə qədər hər şeyi danışacaq.
+314050035:Sonra onunla nə edəcəklər?
+314050041:Yəqin betona basdırarlar. [istehza ilə] Tikinti "riskli işdir" də, bilirsən.
+314050060:Gedim, yuxarıya baxım.
+314050070:Buyur. Pilləkənləri də yamanca çoxdur...
+314050080:Joe əllərindəydi, onu öldürəcəkdilər. Ona kömək etməliydim... Amma ehtiyatlı olmalıydım.

@@ -1,0 +1,135 @@
+﻿901000010:Sabahın xeyir, Eddie.
+901000019:Salam, Vito. Səni biri ilə tanış etmək istəyirəm.
+901000020:Vito, bu, Carlo Falcone'dir.
+901000021:Tanışlığıma şadam, cənab Falcone.
+901000022:Vito.
+901000030:Vito, Alberto Clemente və Luca Gurino barədə nə düşünürsən?
+901000040:Düzünü desəm, cənab Falcone, məncə o alçaqlar məndən beş min dollar qoparmağa çalışdılar, sonra da həbsdə çürüməyə qoydular.
+901000050:Yaxşıdır. Çünki ikisi də bizə qarşı hərəkətə keçməyi planlaşdırır.
+901000051:Deməli, onlar nəsə etməmiş biz etməliyik. Qalanını Eddie deyəcək. Əminəm, məni məyus etməzsən.
+901000060:Sağ olun, cənab Falcone.
+901000061:Tanışlığıma şadam, Vito.
+901000070:Nə baş verir belə?
+901000080:Dünən gecə üç adamımız olan maşın yoxa çıxıb. Şəhərdə deyirlər, Luca'nın bunda əli ola bilər. 
+901000081:Kimlər itib?
+901000082:Harvey Beans və onu qorumalı olan iki adam...
+901000085:Tony Balls və Frankie the Mick. Beans Carlo'nun mühasibidir.
+901000086:Danışsa, hamımız batdıq.
+901000083:Məndən nə istəyirsən?
+901000084:Freddy'nin qarşısında onu gözlə, sonra izlə, gör bu işdə əli varmı.
+901000090:Sonra?
+901000100:Bu işdə əli olduğunu öyrənsən, o alçağı öldür.
+901000101:Bizimkilərdən sağ qalan varsa, qurtarmağa çalış. Ümid edirəm, işimiz barədə hər şeyi danışmamış taparsan.
+901000110:Səncə hara gedər?
+901000120:Heç bilmirəm. Hazırlıqlı get. Sürətli maşının və yaxşı silahların olsun.
+901000125:n_ Hmm.
+901000126:n_ Hm, hə.
+901000130:Yaxşı, problem yoxdur.
+901000140:Oldu. Bitirəndə bura gəl. Vito, bu barədə heç kimə demə.
+901000150:Başa düşdüm.
+09_50_00_0010:Haradasan görəsən, Luca?
+09_50_00_0020:Bax, buradasan!
+09_50_00_0021:Yaxşı, başladıq.
+09_50_00_0030:Bu, Luca'nın maşınıdır...
+09_02_00_0010:Elə bilirsən, narkotikdən xəbərim yoxdur? Pulun haradan gəldiyini bilirəm! Falcone elə bilir yaxşı iş qurub, amma canını qurtara bilməyəcək! De görüm... Amerikaya necə gətirdiniz?
+902000020:Heç nə bilmirəm, mən sadəcə mühasibəm!
+09_02_00_0030:Mənimlə oyun oynama, ay oxumuş köpəkoğlu! 
+09_02_00_0032:Axırının buradakı dostun kimi olmağını istəyirsən? Yaxşı-yaxşı bax. Elə bilirsən, ondan dözümlüsən? 
+902000033:Sizinlə işimiz bitəndə bu maşınların birində sizi çəkib qiymə edəcəyik. Bircə sual var: mərhəmət edib... əvvəlcə sizi öldürəcəyəm, ya yox! 
+902000040:Ah... Bu nə üfunətdir? Ah!... Ah...
+902000050:Hey! Hey, orada kimsə var!
+902000060:Vurun onları!
+902000070:Ay, sən kimsən belə? Ay Allah... Nədir, Kapitan Peyin gəlib hamını xilas etsin?
+902000080:Kəs səsini, Luca!
+902000090:Səni tanıyıram! O axmaq Barbaro ilə gəzən gic sənsən. Elə bilirdim, hələ də həbsdə çürüyürsən. Burada nə sikim edirsən?
+902000100:Falcone göndərib. Cılız sikyalayanların onun adamlarını qiyməyə çevirməyə çalışması xoşuna gəlmir.
+902000110:Deməli, Falcone'ye qoşulmusan, hə? Sənə bir söz deyim. Əslində nə baş verdiyini bilsəydin, həbsdə qalmağın daha yaxşı olduğunu anlayardın. Amma indi bunun fərqi yoxdur... 
+09_02_00_0120:Uşaqlar, həll edin onu!
+903000001:Ah, lənət... Köpək... Bu nə... Alçaq!
+903000002:Özünü çox ağıllı sayır? Çox ağıllısan, hə? Buyur! Sına! Köpəkoğlu, orada nə edir?
+903000010:Aaah, lənət! Aaah, yox! Aaah, ay Allah!
+903000011:Əl çək məndən! Əl çək, ay köpəkoğlu!.. Yox, dayan, yox, yox! Dayan! Aaah...
+903000012:Aaah, uha aaah, eeeh...
+903000020:Gəl bura, ay gədə!
+903000021:İndi sənə necə olduğunu göstərəcəyəm, ay şərəfsiz sikyalayan köpəkoğlu!
+903000030:Luca'nı qiymə eləməmiş bir az onunla əylənəcəyəm. Qoşulmaq istəyirsən?
+903000040:Şey... Dəvətə görə sağ ol, amma mən keçim...
+903000050:Qan görməyə dözmürsən, hə?
+903000060:Yox, Luca'nı görməyə dözmürəm.
+903000070:Hehehe... Başa düşürəm, amma çox şey itirirsən. Deyirəm, o danışdığı elektrik dəyənəyini bir yoxlayım...
+903000080:Hə... Eddie onu şəxsən mənim həll etməyimi istəmişdi...
+903000090:Ondan narahat olma. Belə sadəcə bir az uzun çəkəcək. Bu köpək tez ölməyə layiq deyil.
+903000100:Buna sözüm yoxdur. Yaxşı, mən gedirəm. Ayaqyolu kimi iylənirəm, təmizlənməliyəm.
+903000110:Eddie'ye de, Luca barədə narahat olmasın.
+903000120:Beans! Qapını aç, hər şey bitdi!
+903000130:Sən?.. Hələ sağsan?
+903000140:Hə, nə gözləyirdin? Evə getməmiş buradakı Yatan Gözəllə mənə kömək etmək istəyirsən?
+903000150:Bilirsən, pis fikir deyil...
+904000010:Nə isə... ora bir az gec çatdım, hə? İçəri girdim, ciddi deyirəm... bu qız da, yəni lap qaya kimi bədənli idi, hə?
+904000011:Ona minet eləyir, o da deyir: "Ay Allah, ay Allah, ay Allah, ah"... Ay Allah! Bu sən idin? 
+904000020:Vito? Ay Alla...! Qayıtmazdan qabaq niyə çimməmisən?
+904000030:Dedim, iş bitən kimi qayıdım, sən elə demişdin. Mənim xoşuma gəlir elə bilirsən?
+904000040:Yaxşı, yaxşı, Luca'ya nə oldu?
+904000050:İş bitdi.
+904000060:Yaxşı... Bəs bizimkilər? Tapdın onları?
+904000070:Hə, Luca onları sallaqxanada saxlayırdı. Frankie ölüb, amma Balls ilə Beans yaxşıdır. Çatanda Luca onları... sorğu-sual edirdi.
+904000080:Şahid var? 
+904000081:Hop, hop.
+904000085:Bir az... geri çəkil, yaxşı?
+904000090:Qabağımıza çıxan on-on beş Luca cangüdənindən başqa, heç kim.
+904000091:Çətin idi, Eddie.
+904000100:Hə, deyəsən, vəziyyət lap ağır olub. Amma bacardın, oradan sağ-salamat çıxdın, hə? İndi get təmizlən, hamının iştahını qaçırırsan.
+904000101:Əynindəki o sikilmiş paltarı da yandır... Ay Allah...
+09_05_00_0010:Salam, Vito. Gəldin. 
+09_05_00_0020:Paltarın qəşəngdir.
+09_05_00_0030:Salam, Eddie. 
+09_05_00_0035:Sağ ol. Plan nədir, uşaqlar? Niyə hamı kostyumdadır?
+09_05_00_0040:Vito! Cənab Falcone bu gecə bizi ailəyə qəbul edəcək! Səni də, məni də! Öz adamları olacağıq!
+09_05_00_0050:Doğrudan! Bu gecə?!
+09_05_00_0060:Hə!
+09_05_00_0070:Ciddi? Niyə əvvəl deməmisiniz? Nə etməliyik?
+09_05_00_0080:Biləcəksən. Amma əvvəl səninlə bir az danışmaq istəyən biri var.
+09_05_00_0090:Leo! Səni görməyə şadam! Burada nə edirsən?
+09_05_00_0110:Hehehehe... Salam, bala. Bu gün olacaq iş barədə səninlə danışmaq istəyirəm. Gəl bura, əyləş.
+09_05_00_0120:Yaxşı... Əlbəttə. Bir də məni həbsdən tez çıxartdırmaq üçün nə etmisənsə, bir daha sağ ol.
+09_05_00_0130:İndi də sənə verdiyim ikinci sözü tutdum.
+09_05_00_0140:İkinci sözü?
+09_05_00_0150:Hə, demişdim ki, yenidən üzv qəbul edəndə səni məsləhət görəcəyəm, yadındadır? İndi də oldu.
+09_05_00_0160:Bunda sənin əlin var? Axı sən Frank Vinci üçün işləyirsən...
+09_05_00_0170:Hə, səni öz ailəmizdə görmək istərdim, amma Joe sənin ən yaxın dostundur...
+09_05_00_0180:...birlikdə böyümüsünüz, mənimlə Frank kimi. Sən həbsdə olanda Joe Carlo üçün işləyirdi, ona görə onu qəbul edəndə səni də qəbul etmələrini məsləhət gördüm.
+09_05_00_0190:Sağ ol, Leo. Mən... nə deyəcəyimi bilmirəm...
+09_05_00_0200:Heç nə demək lazım deyil. Nə mənə, nə də başqasına. Bu iş belədir, Vito.
+09_05_00_0210:Hahaha... Hə.
+09_05_00_0220:İndi gedək. Gözlətməyək onları.
+09_05_00_0230:Yaxşı, yuxarıda görüşərik.
+09_05_00_0250:Nədən danışırdınız?
+09_05_00_0260:Ah, heç, elə... köhnə günləri yada salırdıq.
+09_05_00_0270:Qoca Leo'nun sabunu yerə saldığı günü?
+09_05_00_0280:Siktir!
+09_05_00_0290:Yaxşı, yaxşı, bəsdir. Gedək.
+09_05_00_0300:Lap iki məktəbli uşağa oxşayırsınız, vallah.
+09_05_00_0310:Yaxşı, burada gözləyin. Qulaq asın, uşaqlar, bir-bir girəcəksiniz. İçəridə sizə nə deyilsə, onu edin, yaxşı?
+09_05_00_0320:Joe, gəl içəri.
+09_05_00_0330:Uğurlar.
+09_05_00_0340:Yaxşı, növbə sənindir, Vito.
+09_05_00_0350:Cənablar, bu, Vito Scalettadır. 
+09_05_00_0370:Vito, bil ki, bu ailəmiz bir sirdir. Seçilmişlərin cəmiyyətinə daxil olursan. Dünyanın qalan hissəsi üçün mövcud olmayan bir cəmiyyətə.
+09_05_00_0371:Bundan sonra ailəmiz sənin üçün öz ailəndən də, Allahdan da, ölkəndən də əzizdir. Öz qardaşını öldür desəm, bunu etməlisən. Göstər görüm, tətiyi hansı barmağınla çəkərsən?
+09_05_00_0390:Ardımca təkrar et, Vito: Yaşam tərzimizin sirrinə xəyanət etsəm...
+09_05_00_0400:Yaşam tərzimizin sirrinə xəyanət etsəm...
+09_05_00_0410:...Ruhum bu müqəddəs kimi cəhənnəmdə yansın.
+09_05_00_0420:...Ruhum bu müqəddəs kimi cəhənnəmdə yansın.
+09_05_00_0430:Amico nostra. 
+09_05_00_0440:Cənablar, yeni dostumuz Vito Scaletta'nı təqdim edirəm. 
+09_05_00_0450:Bu iki bacarıqlı və dürüst adamın bizə qoşulmasına çox şadam.
+09_05_00_0451:Bunun hörmətli qonaqlarımızın, xüsusilə Don Frank Vinci'nin iştirakı ilə baş tutmasına da sevinirəm.
+09_05_00_0455:n_ Konsilyeri, müdrik Leo Galante də... başqa üzvün arvadına barmaq toxundursanız da eyni cəza keçərlidir.
+09_05_00_0456:Xidmətinizin haqqını Eddie'dən alacaqsınız. Nəsə əlavə etmək istəyirsən, Frank?
+09_05_00_0460:Nə edirsinizsə edin, cənablar, narkotikdən uzaq durun! Narkotik olmaz! Qaydamız budur.
+09_05_00_0461:Çox pul qazana bilərsiniz, amma murdar işdir...
+09_05_00_0462:n_ Özü də çox risklidir. Sələmçilik, fahişəxanalar, himayə pulu, mərc oyunları...
+09_05_00_0470:Az qala yeddi il həbs yatandan sonra niyə yenə belə risk etdiyimi soruşa bilərsiniz.
+09_05_00_0471:Böyüdüyüm yerdə yalnız istədiyini götürməyə cəsarəti çatan adamların hörməti vardı. 
+09_05_00_0480:İllərlə hamının çirkli işlərini görəndən sonra nəhayət kimsə olmaq üçün hər şeyi riskə atmağa hazır idim.
+2000000000:n_

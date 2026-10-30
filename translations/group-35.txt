@@ -1,0 +1,16 @@
+﻿302012000:Budur... Empire Bay. Düzünü de. Darıxmışdın?
+302012010:Hey, ayı meşədə sıçır? Bu yer mənə yaxşılıq etməyib, amma səngərdən hər şey yaxşıdır. Bu nə zibil havadır?
+302012020:Deyirlər, indiyə qədər ən soyuq qışdır. Qəzetlərə görə həftələrlə belə qalacaq. Amma narahat olma, içki tez qızdırar. Neçə vaxtdır birlikdə içmirik, Vito? İki il?
+302012030:Az qala üç. Tony Sachelli-nin qonaqlığı, hə?
+302012040:Eləmə, Vito, eləmə. Sonuncu dəfə atanın dəfnindən sonra, sən getməmiş içmişdik. Yadındadır.
+302012050:Ah, beş dəqiqəyə artıq o fərsiz atamdan danışırıq. Mövzunu dəyişə bilərik?
+302012060:Yaxşı, dostum, bağışla, dəyişək.
+302012070:Yaxşı, hara gedirik?
+302012080:Köhnə günlərin xatirinə Freddy's-ə gedək deyirdim.
+302012090:Hələ də o xarabalığa gedirsən?
+302012100:İndi təzə sahibidir. Gərək oranı görəsən. İndi tamam başqa müştəriləri var. Görəcəksən.
+302012110:Eləmi? Təzə müştərilərin sürdüyün bu maşına dəxli var?
+302012120:Deyək ki, sən olmayanda bir sıra fürsətlər çıxıb. Gözləyirdin, sən gedəndən sonra düz yola keçim?
+302012130:Əlbəttə yox. Amma səni bəladan uzaq tutmağa mən olmayanda qayıdana qədər həbsə düşəcəyini düşünürdüm.
+302012140:Dəlisən? Mən yox, rəis. Bunun üçün bir az artıq ağıllıyam.
+302012150:Ya elədir, ya da götündə nal var, bəxtin gətirir.

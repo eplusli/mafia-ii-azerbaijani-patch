@@ -1,0 +1,21 @@
+﻿302041375:Gəzməyə vaxtım yoxdur. Görməli işim var.
+302050300:Bax, mənə bir Walter kupe lazımdır. Nə istəyirsən, yazım verim sənə? Polisləri də bura gətirmə!
+302050310:Məndən narahat olma. Bura qayıdanda heç kimin dalımca gəlmədiyinə baxaram.
+302050320:Yaxşı, çünki polisləri bura gətirən sonuncu adam presdə qaldı...
+302050330:Hə, bitirəndən sonra mənə başqa işin olar?
+302050340:Hə, baxarıq. İndi get.
+302050020:Barın harada olduğunu bilirsən? 
+302050400:Gəldiyimiz yoldan çıx, əsas magistralla qərbə get. Şəhərin içindən qayıtma.
+302050410:Geri dön, o biri tərəfdir. Belə üç dəfə uzun çəkəcək.
+302050430:Qayıtmaq necə hissdir?
+302050440:Yaxşı. Cibimdə pul olsaydı, daha yaxşı hiss edərdim.
+302050450:Nə tələsirsən? Pul xoşbəxtlik gətirmir, bilirsən...
+302050460:...Siktir get.
+302050470:Zarafat edirəm də... Puldan narahat olma. Bu balaca iş hələ başlanğıcdır. Tezliklə pulun içində üzəcəksən.
+302060064:İndi qaçıb gedə bilmərəm. Görməli işim var.
+302041500:Hə, bu Bruski necə adamdır?
+302041510:Mike tanımağa dəyər. Bir az acıdildir, amma həmişə hansısa fırıldağı var. Əsasən oğurluq maşınlarla işləyir. Bir az həbsdə yatıb, eşitmişəm, əvvəllər yanacaqdoldurma məntəqələrini soyurmuş.
+302041520:Pencəyinin təmizləmə pulunu ona verdirəcəksən?
+302041530:Yox, bu dəfə keçərəm. Onunla çox iş görürəm, üstəlik çox əsəbidir. Bir dəfə yarışda irlandın biri uduş biletinə pivə tökdü. Mike o qədər döydü ki, bir gözü kor oldu. Cəmi on dollara görə... İnanırsan belə şeyə?
+302041540:Deyəsən, bir az alçaq adamdır.
+302041550:Belə adamlarla necə davranmağı bilmək lazımdır. Sən gedəndən tanış olduğum bəzi adamların yanında Mike quzu kimidir. Görərsən.

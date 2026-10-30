@@ -1,0 +1,5 @@
+﻿308080361:n_Lənətəgəlmiş qorxaq alçaqlar!
+308080362:n_Hadi! Bacardığınız budur?
+308080363:n_Haha! Əsl qoçaqlarsınız, hə?
+308080364:n_Hə! Sənə bir az da var!
+308080365:n_İndi elə də qoçaq deyilsən, hə?

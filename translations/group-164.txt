@@ -1,0 +1,56 @@
+﻿312020120:Yaxşı, uşaqlar. Çətin hissə bitdi. İndi alış-verişi edək, vəssalam.
+312020130:Mənə xoşdur...
+312020140:Hara gedirik?
+312020145:Hunters-a. Hər şeyi düzüb-qoşmuşam.
+312020340:Ah, lənət!
+312020350:Bu adamlar kimdir axı?!
+312020360:Yenə gəlirlər!
+312020370:Bir az dayan... Tutdum onu...
+312020380:Tam yerinə.
+312020390:Yaxşıdır, amma hələ də çoxdurlar. Hadi!
+312020399:İkiniz də arxamca gəlin. Gedək!
+312020400:Götünüzü tərpədin!
+312020394:Hara gedirik?
+312020395:Bu cəhənnəmdən çıxırıq!
+312020401:Hadi, uşaqlar! Pilləkənlə qalxın!
+312020396:Hadi, Vito. Bura gəl!
+312020402:İndi qəhrəmanlıq vaxtı deyil, Vito!
+312020391:Bu əclaflar kimdir?
+312020392:Hadi, bu tərəfə!
+312020393:Hadi! Çoxdurlar!
+312020397:İlahi, burada bizi deşik-deşik edəcəklər!
+312020398:Lənət olsun...
+312020420:Hadi, hadi, sizi qoruyuram!
+312020430:Vito, arxamızı qoru!
+312020440:Pəncərələrdən uzaq durun, uşaqlar.
+312020450:Lənət, Vito, başını aşağı sal!
+312020460:Özümü lap atış meydançasında hədəf kimi hiss edirəm.
+312020470:Arxanda!
+312020480:Vay, lənət! Bunlarda qumbara da var!
+312020500:Orada yaxşısan, Henry?
+312020510:Hə, yaxşıyam. Öz dərdini çək!
+312020520:Burada qalmağın mənası yoxdur! Aşağı enək!
+312020540:Ahh, lənət! Yenə gəldilər!
+312020550:Bu, zarafatdır yəqin...
+312020560:Bu zəhrimarın başımıza gəldiyinə inana bilmirəm...
+312020570:Bu da bitdi...
+312020580:Bu əclaflar heç ağıllanmırlar...
+312020581:Qoymayın bura qalxsınlar!
+312020584:Henry, yaxşısan?
+312020091:Ah, lənət, bu yolla geri gedə bilmərik... Qaçın!
+312020092:Tərpənin, lənət olsun!
+312020093:Oradan çıx, Vito!
+312020094:Dəli olmusan, Vito? Sığınacağa keç, Allah xatirinə.
+312020098:Əla, Joe, əla!
+312020160:Öl də artıq, olar?
+312020170:Çıxaq bu cəhənnəmdən. Maşına tərəf! Vito, sən sür!
+312020171:Götünü sürü bura, Vito!
+312020172:Elə dayanma, Vito! Tərpən!
+312020173:Ey, tərpən, Vito! Əbədi gözləyə bilmərik!
+312020174:Gedək, Vito!
+312020175:Arxanı qoruyuram, get!
+312020176:Get! Səni qoruyuram!
+312020177:Vito! Qapını təpiklə aç!
+312020178:Hadi də, təpiklə aç!
+312020179:Ayaqlarına nə olub? Qapını təpiklə aç!
+312020185:Get! Hadi, tərpən, Vito!

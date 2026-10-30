@@ -1,0 +1,50 @@
+﻿305050094:Hamısını vurduq! O lənətə gəlmiş şeyi dayandır, burada kar oluram!
+305050098:Yaxşı, hadi, Vito.
+305050030:Joe-nu qoyub qaça bilmərəm.
+305050031:Qayıdıb işi bitirməliyəm.
+305050032:İndi çıxmaq üçün gecdir, bitirməliyik.
+305050130:Tərpən, Vito! O kök əclaf qaça bilməz!
+305050140:Get! Get! Səni qoruyarıq!
+305050160:Yaxşı, əvvəl sən, Vito! Müharibə qəhrəmanı sənsən, lənət olsun.
+305050170:Buraxın çıxım! Açın bu lənətə gəlmiş qapını!
+305050171:Buraxın çıxım! Hey! Hadi, kömək! Kömək! Buraxın çıxım!
+305050180:Yaxın gəlməyin! Məni rahat buraxın!
+305050190:Dayan! Yerində qal!
+305050200:Kömək! Məni incitmə!
+305050201:Yanın, götlər!
+305050202:Ay sikim, ehtiyatlı ol!
+305050204:O nə sikim idi?!
+305050206:Lənət! İndi bütün bu yer yanıb kül olacaq! İçki heyif oldu!
+305050024:Vito, hadi, hə? Tərpənməliyik.
+305050800:Öl, satqın əclaf!
+305050810:Hadi, bu əclafları öldürüb kökün dalınca gedək!
+305050840:Vito, hadi, elə bilirdim bu işi yaxşı bacarırsan!
+305610400:Hadi, bu əclafları öldürək!
+305050870:Yaxşı, özünü qoru!
+305050207:Lənət, çox istidir!
+305050215:Joe ilə Henry-ni gözləməliyəm.
+305050216:Yaxşı, düyməni bas, Vito.
+305050217:Nədir, karsan?
+305050218:Hadi! Liftlə gedirik!
+305050219:Hey, Vito, gir bura!
+305050220:Nə edirsən axı, Joe?
+305050230:Nə? Susamışam. Yaxşı şeydir - sən də iç.
+305050231:Yaxşı şeydir. Sən də iç.
+305050240:İş üstə içirsən, hə? Nə vaxt irland oldun?
+305050250:Gəlirik, donuz balası!
+305050100:Gəlirlər!
+305050260:Lənət! Lap ordudurlar!
+305050110:Müdiri yuxarı aparın! Biz bunları həll edərik.
+305050300:Lənət, Thompson-ları var!
+305050320:Vito, Joe, bir şey edin! Burada eləcə otura bilmərik!
+305050310:Vito, bax gör yandan keçə bilərsən! Atəşi üstümüzə çəkərik!
+305050270:Sikim belə işi! Lap yaxın idi.
+305050290:Nə etməyimi gözləyirsən, Allah xatirinə, məni güllələyirlər.
+305050280:Vito, bir şey elə! Burada mütəxəssis sənsən.
+305050281:Bu lənətə gəlmiş xarabalıqda ölmək fikrim yoxdur.
+305050251:Səni qoruyarıq, Vito!
+305050252:O lənətə gəlmiş qapını təpiklə aç!
+305050253:Hadi! Donuz balası yuxarıdadır!
+305050254:Hey, Vito, hadi, hə?! Həmişəlik gözləyə bilmərik!
+305600120:Ay Allah. Ay Allah, yox!
+305600130:Ah, yox, yox!

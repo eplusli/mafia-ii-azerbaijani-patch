@@ -1,0 +1,20 @@
+﻿303010060:Ah, salam.
+303010070:Nə olub? Radioda yaxşı şey yoxdur?
+303010080:Öz işinə bax, uşaq...
+303010011:n_Hey! Orada səsi azaldın!
+303010013:n_Adamlar yatmağa çalışır, lənət olsun!
+303010014:n_O zibilin səsini azaltmasanız, polis çağıracağam!
+303010015:n_Hey! Söndür, yoxsa qapını sındırıb özüm söndürəcəyəm!
+303010470:Joe ilə danışmalı işimiz var.
+303010472:Nə etməli olduğunu dedim, indi get elə. Maria-nın yanına get.
+303140980:Joe-nun Zövq Sarayı, danışan Vito-dur...
+303140990:Vito, dünən gecə niyə evə gəlmədin? Narahatlıqdan öldüm.
+303141000:Ana? Joe-nun nömrəsi səndə olduğunu bilmirdim, bu kimin telefonudur?
+303141010:Cənab Papalardo ilə danışdın, iş tapdın?
+303141040:Hə, dedi bu gün gedib görüşüm. Ümid edirəm, mənə işi var.
+303141050:Yaxşı, Vito. Uğurlar, balam.
+303141060:Yaxşı. Sağ ol, ana.
+303141090:Yadıma düşdü, anama söz vermişdim o Papalardo-nu görüm. Limana getsəm yaxşıdır.
+303141130:Onu satırsansa, qaraja qoy. Sonra gəl pulunu götür.
+303141200:Acsansa, soyuducuda yemək var.
+303141210:Acsan, Vito? Soyuducudan nə istəsən götür.

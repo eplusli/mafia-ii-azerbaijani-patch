@@ -1,0 +1,11 @@
+﻿04_01_00_0010:Ah... İlahi.
+04_01_00_0020:.....Ahhhh
+04_01_00_0030:Buna bax. Joe-nun yaza bildiyini də bilmirdim.
+04_01_00_0040:Yenə işimiz var!
+08_01_00_0040:Yenə işimiz var!
+07_07_00_0010:Hey, gör kim bizə qoşulmaq qərarına gəlib!
+07_07_00_0020 :Hey, şəhərin o başından bura gəlmək elə asan deyil, bilirsən? Şəhərdəki hər polisdən cərimə almaq istəmirdim...
+07_07_00_0030:Eləmə, polislər o qədər pis deyil. Lost Heaven-də deyilik ki...
+07_07_00_0100:Yaxşı işdir, uşaqlar. Gəmi çıxana kimi yükləməyə xeyli vaxt var. Alın pulunuzu.
+07_07_00_0060:Sağ ol, Derek.
+07_07_00_0090:Yaxşı. İndi naharıma qayıtmalıyam. Görüşərik.

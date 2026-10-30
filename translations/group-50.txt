@@ -1,0 +1,29 @@
+﻿302100420:Burada nə oyun çıxarırsan?!
+302100430:Borcunu ödəyirsən, canın salamat qalır. Problemin var?
+302100440:Səninlə problemim var. Götünə təpik yeməmiş rədd ol. 
+302100450:Dedim, siktir buradan!
+302100451:Al sikilmiş pulunu.
+302100540:n_Döy onu!
+302100550:n_Öldür onu!
+302100560:n_Kəlləsini sındır!
+302100570:n_O köpəyi öldür!
+302100580:n_Ağzını-burnunu dağıt!
+302100590:n_Hə! Bir dərs ver ona!
+302100600:n_Ehtiyatlı ol!
+302100610:n_Tut onu, tut!
+302100620:n_Ehtiyatlı ol!
+302100630:n_Döy onu!
+302100640:n_Götünü cır!
+302100650:n_Ah, bu yaman ağrıdar!
+302100660:n_Tut onu, tut! Beynini dağıt!
+302100661:n_Balaca götünə təpik vuracağam!
+302100662:n_Peşman olacaqsan, ay köpəkoğlu!
+302100663:n_Hələ də pulunu istəyirsən? Meyitimi tapdalayarsan!
+302100664:n_Siktir!
+302100665:n_Lənət... olsun!
+302100666:n_Hə! Yaxşıdır, hə?
+302100670:Yaxşı, başqa kimin... bu sikilmiş bərbərə pul ödəməklə problemi var?!
+302100680:Lənət. Qayıdaq işə.
+302100690:Yazıq Bill. Heç olmasa etiraz etdi.
+302141110:Bir də, Vito, az qala unutmuşdum.
+302141120:Joe zəng eləmişdi, səninlə Freddy'nin yerində görüşmək istəyir.

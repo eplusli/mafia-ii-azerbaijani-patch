@@ -1,0 +1,25 @@
+﻿309030190:Tez ol, bizi düşür! Nə edirsən? Bu lənətəgəlmiş qarmaqlardan çıxart bizi!
+309030191:Ay Allah... Xahiş edirəm, məni düşürərsən?!
+309030192:Ah... Düşür məni də!
+309030194:Ah... sağ ol. Elə bildim, ölmüşük!
+309030200:Sağ ol, Vito. Sənə borcluyuq. Eddie göndərib?
+309030210:Hə, yoxlamada bir neçə adamın çatmadığını gördü.
+309030220:Lənət... Yazıq Frankie. O köpəkoğlunu öldürəcəyəm.
+309030240:Yaxşı, gedək. Bir adamla ət qarmağı barədə söhbətim var...
+309030250:Beans, burada qal... biz səni götürməyə gələnə qədər çıxma.
+309030260:Yaxşı, yaxşı. Bircə məni unutmayın. Yaxşı, uşaqlar?
+309032012:Uaaaaaaahahaha!
+309032008:Səhv adamlara sataşmısınız, alçaqlar!
+309032009:Gəl, Vito, tutaq onları.
+309032010:Hehehe...
+309032011:Siktir! Mənə dəymədi.
+309032013:Yaxşısan, Vito?
+309032014:Pis deyil, bala. Pis deyil.
+309032015:Yaxşı, Vito. Tutaq o balaca köpəyi!
+309032016:O balaca sikyalayan altını isladacaq!
+309030400:Nə olur, öldülər artıq?!
+309030410:Hə, öldülər. Tap görək növbəti kimdir?!
+309030440:Çoxlu silahı olan çoxlu adam artıq bura gəlir. Səni yenidən o qarmağa keçirməyə səbirsizlənirlər.
+309030490:Lənət, gecdir! Gəlirlər!
+309030500:Onları öldürməliyik!
+309032260:O balaca sikyalayan altını isladacaq!

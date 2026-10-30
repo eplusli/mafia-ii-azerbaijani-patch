@@ -1,0 +1,11 @@
+﻿309031820:n_Hey, Carlo Falcone-nin yerində işləyən o adamı tanıyırsan?
+309031830:n_Hansı adam? Çoxdandır orada olmamışam.
+309031840:n_Sələmçilərlə başı bəlaya girən, indi bir əlində ancaq iki barmağı qalan. Adı nəydi...
+309031850:n_Omar Mickey-ni deyirsən?
+309031860:n_Yox, yox, adı, ee... Mickey... Xərçəng Mickey-dir.
+309031870:n_Hə, Omar Mickey, Xərçəng Mickey - eyni adamdır.
+309031880:n_Ah. Məntiqlidir. Hə, Xərçəng Mickey. Düşünürdüm... görəsən hansı əliylə, ee, kolbasasını döyəcləyir.
+309031890:n_Nə? Bu nə sikim sualdır?
+309031900:n_Hey, elə maraqlandım da.
+309031905:n_Bir lənətə gəlmiş... şikəstin sikini sığallamağıyla? Lap xəstəsən, bilirsən? Sadəcə... sus, bu gün daha mənimlə danışma. İsa Məsih.
+309031910:n_Yaxşı, yaxşı. Gələn dəfə sualın olanda bax gör cavab verirəm.

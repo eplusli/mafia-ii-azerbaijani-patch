@@ -1,0 +1,54 @@
+﻿304020110:Hey, qanmaz, nəyi gözləyirsən?
+304020112:Tərpən, Vito! Burada həmişəlik otura bilmərik!
+304030130:Vito. Bu qapını aç.
+304040010:Nə gözləyirsiniz axı?! Tutun onları, uşaqlar!
+304040020:Brian! Bəs polislər?
+304040030:Sikim polisləri! Zərgərlik malını götürün!
+304040040:Tərpənməyin! Polis! Çıxış yoxdur!
+304040050:Lənət!
+304040051:Buradan rədd olmalıyıq!
+304040060:Lənət! Başqa çıxış olmalıdır.
+304040061:Gəl, çıxaq buradan!
+304040062:Çalışıram!
+304040063:Vito, nə gözləyirsən axı?
+304040064:Hadi, Vito! Getməliyik!
+304040065:Hadi, Vito! Götünü tərpət!
+304040099:Nəyi gözləyirsən? Miladı?
+304040066:Lənət, polislər!
+304040067:Lənət! Başqa yol tapmalıyıq!
+304040068:Qapını açana qədər arxamı qoru!
+304040069:Yaxşı, tez elə, səni qoruyaram.
+304040071:Joe, hadi! Niyə belə uzandı?
+304040072:Açdım! Yaxşı, gəl!
+304040073:Hey, Vito, açdım! Gəl!
+304040074:Bu tərəfə! Küçəyə çıxarmalıdır!
+304040075:Lənət, hələ də dalımızca gəlirlər.
+304040076:Aydındır! Elə ona görə tərpənməliyik, dahi. Hadi!
+304040077:Hadi!
+304040078:Qapını sındırmağa çalışırlar.
+304040079:Nə gözləyirdin axı? Elə ona görə tərpənməliyik!
+304040070:Dama çıxmalıyıq. Arxamı qoru, qapını açmağa çalışım!
+304040080:Al! Silahımı götür, atəşə davam elə!
+304040081:O götləri məndən uzaq saxla!
+304040082:Az qalıb! Bir az da saxla onları!
+304040083:Hadi, zibil parçası, açıl!
+304040084:Bir neçə saniyə də, Vito!
+304040090:Yaxşı. Açdım! Gedirik, Vito! Hadi!
+304040100:Lənət!
+304040110:Geri qayıt! Başqa çıxış tapmalıyıq.
+304040120:Ora olmaz, polislə doludur!
+304040130:Lənət, bu da bağlıdır. Pilləkəni qoru, mən açım!
+304040140:Lənət, yenə dalan!
+304040150:Vito, o çubuqlardan birini götür, qapıya keçir! Bir müddət onları saxlayar!
+304040151:Hadi! Bu lənətə gəlmiş qapını bağlamalıyıq!
+304040152:Boş-boş dayanma, kömək elə!
+304040153:Səfehləməyə nə yaxşı vaxt tapmısan, bilirsən?
+304040160:Bu tərəfə getməliyik. Yeganə şansımızdır!
+304040170:Dəlisən, lənət olsun? Buzla örtülüdür. Bir sürüşsək, öldük!
+304040180:Seçimimiz yoxdur. Həbsə gedən deyiləm!
+304040210:Lənət!
+304040190:Çavuş, qapı ilişib!
+304040200:Onda təpiklə aç, lənət olsun!
+304040990:Get, get, səni qoruyaram!
+304040991:Vito, hadi! Bizi qoru!
+304040310:Henry buna heç inanmayacaq... Axmaq əclaflar. Gedək.

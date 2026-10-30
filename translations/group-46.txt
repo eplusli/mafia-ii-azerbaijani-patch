@@ -1,0 +1,23 @@
+﻿302040864:Burada sola dön.
+302040884:Hey, geri dön, səhv yolla gedirik!
+302070360:Ee, satmaq istədiyim bir maşın olsa...
+302070370:Hə, gətir, bacarsam, əlindən alaram. Vaxtına da dəyər.
+302070380:Bağışla, Vito, amma gətirdiyin bu kupeyə baxmalıyam.
+302070390:Dostun Joe bu gün həmişəkindən səbirsizdir. Yerində olsam, gedərdim.
+302070400:Bağışla, oğlum, indi işim var. Sonra görüşərik.
+302070476:Magistralla getsən yaxşıdır, Vito.
+302070480:Yaxşı, işi korlamadan bacardın. Əla.
+302070490:Hə, amma az qala döyüləcəkdim. Müharibədən sağ çıxmamışam ki, Sand Island-da ölüm.
+302070500:Hey, bu da işin bir hissəsidir, dostum. İstəyirsən götür, istəmirsən get. Bir də, başqa nəyin mütəxəssisisən ki?
+302070510:Ah, deyəsən, haqlısan...
+302070520:Narahat olma. Hamısı çox asan olacaq.
+302041500:Ee, Bruski-nin əhvalatı nədir?
+302041510:Mike-ı tanımaq yaxşıdır. Bir az deyingəndir, amma həmişə bir fırıldağı var. Əsasən oğurluq maşınlarla işləyir. Bir ara həbsdə yatıb, eşitmişəm əvvəllər yanacaqdoldurma yerlərini soyurmuş.
+302041520:Gödəkçənin təmizləmə pulunu ona ödətdirəcəksən?
+302041530:Yox, bunu bağışlayacağam. Çox iş görürük, bir də yaman əsəbidir. Bir dəfə yarışda bir irland onun uduş biletinə pivə tökdü. Mike bir gözü kor olana qədər döydü. Bircə on dollara görə... İnanırsan buna?
+302041540:Bir az alçağa oxşayır.
+302041550:Hey, sadəcə belə adamlarla rəftar etməyi bilməlisən. Sən gedəndən tanış olduğum bəzilərinin yanında Mike balaca pişikdir. Görərsən.
+302140880:Yaxşı, gedək evə, yorulmuşam.
+302140910:Hey, burada maşın saxlamağa təhlükəsiz yer var? Küçədə qoymaq istəmirəm.
+302140920:Hə, elə ona görə qarajda mənim maşınımın yanında saxlayırsan. İndi küçələr cinayətkarla doludur.
+302140930:Hə, məhəllə əvvəlki deyil, hə?

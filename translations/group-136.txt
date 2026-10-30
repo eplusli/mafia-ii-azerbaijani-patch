@@ -1,0 +1,11 @@
+﻿310050300:Yaxşı, Vito, tərpənməliyik. O platformanı tapaq.
+310050310:Tələsmə, gəlirəm...
+310060180:Yox. Yox! Alçaqlar! Yox, belə asan qaça bilməyəcəksiniz! Yox! Bilirəm, oradasınız, bilirəm! Çıxın, çıxın bayıra! Hadi, balaca başınızı çıxarın, uçurdum, alçaqlar!
+310060190:Lənət, biri o axmağı vursun da!
+310060191:Allaha şükür! Yaxşı, yaxşı, maşına! Siktir olub gedək buradan!
+310060200:Ehtiyatlı ol! Yuxarıda!
+310060210:Keçiddəki o alçağı vur!
+310060220:Lənət, bir dənə də! Keçiddə!
+310060230:Vur onu, Vito!
+310060240:Tez ol, Marty orada təkdir!
+310060250:Tez ol, Vito, tərpən! Marty'ye kömək etməliyik!

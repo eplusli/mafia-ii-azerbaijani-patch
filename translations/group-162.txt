@@ -1,0 +1,29 @@
+﻿312010063:Yaxşı, Vito. Sənin maşınınla gedirik.
+312020010:Yaxşı, bura idi. Burada saxla.
+312020011:Yaxşı, deyəsən, bura idi.
+312020012:Henry, görüşəcəyimiz bu adam kimdir?
+312020013:Adı Bruno-dur. Şəhərdə bu boyda borc verə bilən az adamlardan biridir.
+312020014:Bəs verməsə, onda nə edəcəyik?
+312020015:Onda iş alınmayacaq. Amma narahat olma, tanıyıram onu. Pulu verəcək.
+312020016:Bu qədər pulu ala biləcəyimiz başqa adam yoxdur?
+312020023:Tanıdığım daha üç nəfər var. Amma Carlo-dan və ya Frank Vinci-dən otuz beş min istəmək istəyirsənsə, buyur.
+312020024:Hə, yox, sağ ol.
+312020025:Bəs üçüncüsü kimdir?
+312020026:Artıq bu işdə deyil. Kimsə adamlarıyla dolu bir otağı partladıb, sonra da Tommy ilə lap yaxından onun üzünə atəş açıb.
+312020027:Ah. O adam.
+312020028:Hadi. Dedik axı, bunu danışmayacağıq.
+312020029:Yaxşı. Henry, bu adam varlıdır, ya nə?
+312020030:Məncə, pulu şəhərdən kənarda yaşayan, Komissiyada oturan bəzi başçılardan alır.
+312020031:Elə? Ciddi deyirsən!
+312020032:Hə. Ona görə də bu adamın pulunu batıra bilmərik... Həm də bu iş gizli qalmalıdır.
+312020033:Ona etibar edə bilərik?
+312020034:Əlbəttə. Mafiya adamları illərdir ondan borc alır. Pulunu vaxtında qaytarsaq, problemimiz olmaz.
+312020035:Lənət olsun, Vito! Get, indi bizə başqa maşın tap!
+312020037:Nə istəyirsən, qucağında oturum? Get, ikidən çox adamın sığacağı maşın tap!
+312020038:Bu nə zəhrimar zarafatdır? İkidən çox oturacağı olan maşın lazımdır, gicbəsər.
+312020039:Get, indi bizə böyük maşın tap!
+312020047:Bura idi, burada saxla.
+312020041:Vito, hadi. İndi fikrini dəyişmək üçün gecdir.
+312020042:Ey, Vito, gəlirsən, ya nə?
+312020045:Yaxşı, uşaqlar, arxamca gəlin. Danışmağı da mənə buraxın. Bu adam əsl fırıldaqçıdır.
+312020060:Yaxşı, elə burada saxla, Vito.

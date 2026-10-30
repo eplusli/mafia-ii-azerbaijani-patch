@@ -1,0 +1,214 @@
+﻿1450000010:Cənab Angelo?
+1450000020:Şey... Bəli?
+1450000030:Cənab Salieri salam göndərir.
+14_20_00_0010:Vito!
+14_20_00_0011:Gəldiyin üçün sağ ol. Bilirdim, sənə arxalana bilərəm!
+14_20_00_0020:Nə üçün?
+14_20_00_0030:n_ çeynəyir, yeyir
+14_20_00_0031:Frank o biri bosslarla görüş təşkil edir, adamlarımın demək olar hamısını cangüdən götürüb...
+14_20_00_0032:...ona görə bu işi mənim üçün görəcək adam qalmayıb.
+14_20_00_0040:Hey...
+14_20_00_0050:Derek, bunlar hələ də işləmək istəmirlər.
+14_20_00_0060:Nə? Niyə?
+14_20_00_0070:Qovduğun o avaraya görə.
+14_20_00_0080:Lənət... Vito, o biri iş gözləməli olacaq. Əvvəl burada bizə kömək edə bilərsən?
+14_20_00_0090:Nə baş verir?
+14_20_00_0100:O avara düz bir həftə işə gəlmədi. Guya xəstə idi, boş söhbətdir. Mən də qovdum.
+14_20_00_0101:İndi bir neçə dostu inciyib, tətil edəcəklərini deyirlər. Ciddi görkəmli bir neçə adamla qarşılarına çıxmağım bəsdir. 
+14_20_00_0110:Qorxub hər şeyi unudacaqlar. Sənə min dollar verəcəyəm. Razısan?
+14_20_00_0120:Yaxşı, bu qədər pula yox deyən deyiləm.
+14_20_00_0130:Əla! Sadəcə arxamda dayan, zəhmli görün. Düzdür, Steve?
+14_20_00_0140:Görərik.
+1502000010:Nə probleminiz var, uşaqlar?
+1502000020:İstəyirik, Big John'u yenidən işə götürəsən.
+1502000030:Burada kimi işə götürüb kimi qovacağıma mən qərar verirəm. Deyirəm, qovulub.
+1502000040:Bircə onu geri götürməyini istəyirik. Ailəsi var, işə ehtiyacı var.
+1502000050:Qərarımı vermişəm.
+1502000060:Gördünüz?! Demişdim axı!
+1502000070:Sakit ol, Vinnie! Bunu sülhlə həll etmək istəyirik.
+1502000080:Sakit? Bu kök köpək üçün gecə-gündüz canımız çıxır.
+1502000081:Başımıza bir iş gəlsə, John kimi bizi də küçəyə atacaq!
+1502000090:Səsini alçalt, cavan oğlan! O avara barədə bir söz də eşitmək istəmirəm!
+1502000100:Kimə avara deyirsən?! Yazıq adam işləyəndə üstünə yeşik düşüb!
+1502000101:Sənin üçün işləyəndə! Hər iki əli sınıb!
+1502000110:Bu, onun problemidir, mənim yox.
+1502000111:İndi məsləhət görürəm, başqalarının da əli sınmamış işə qayıdasınız!
+1502000120:Ay lənətəgəlmiş alçaq!
+1502000130:Artıq məni lap əsəbiləşdirirsiniz.
+1502000140:Zorakılığa ehtiyac yoxdur. Xahiş edirəm, endirin onu. Bəla istəmirik.
+1502000150:Mənə elə gəlmir! Hazırda böyük bəlanız var, elə deyil?!
+1502000160:İndi təzə iş axtarmağa başlamaq istəmirsinizsə, on dəqiqəyə işinizə qayıdacaqsınız.
+1502000161:Görürsən, Vito? Ancaq deyinib şikayət edirlər.
+1502000170:Vito? Scaletta'nın oğlusan, hə? Atan həmişə səndən danışardı. Lap ona oxşayırsan.
+1502000171:Amma bu alçaq üçün niyə işləyirsən? Atana etdiklərindən sonra?
+1502000180:Kəs o sikilmiş ağzını, indi.
+1502000190:Qulaq asma ona, Vito. Boş-boş danışır... Gedək.
+1502000200:Boş-boş danışıram, hə? O alçaq atanı öldürüb, Vito.
+1502000210:Nə?
+1502000220:Derek?
+1502000230:Sadəcə səni qızışdırmaq istəyirlər.
+1502000231:Silahı mənə tuşlama.
+1502000240:Soruş görüm, atan o gecə necə "boğulub"!
+1502000250:Sus!
+1502000260:Steve'lə gəzməyə getdiyini gördük. Sonra Steve tək qayıtdı, özü də su içində!
+1502000270:Çək o şeyi üstümdən!
+1502000280:Atama nə olub, Derek?
+1502000290:Dəlisən, nədir? Kimə inanacaqsan, mənə, yoxsa artıq işsiz qalmış bu avaralara? Çoxdandır tanışıq, Vito. Bir düşün, nə qədər...
+1502000300:Niyə su içində idin, Steve? Onu qurtarmaq üçün suya atılmışdın?
+1502000310:Çünki suyun altında qalmırdı.
+1502000320:Ağzını bağlı saxla!
+1502000330:Vito, and içmisən! Mən orada idim.
+1502000331:Ailəyə sədaqətimiz öz ailəmizə sədaqətimizdən üstündür.
+1502000340:Bunu anama de...
+1502000350:Nədir, öldürüm onu?
+1502000361:Yox, burada yox... Sonra onunla hesablaşarıq...
+1502000362:Məni məyus edirsən, Vito... Çox məyus edirsən...
+1502000380:Səni məyus etməkdən qat-qat artığını edəcəyəm, Derek...
+1502000400:Atan...
+1502000410:İndi yox. Qaçmamış o köpəyi tutmalıyam.
+1502000490:Vinnie! Onu haradan tapdın?
+1502000500:O kök köpəyə dərs vermək vaxtıdır!
+1502000510:Fərqi yoxdur.
+1401000010:Vito! Yaxşı ki, gəldin! Şey... Nə baş verdiyini eşitmisən?
+1401000020:Nə? Nə baş verir?
+1401000030:Henry ölüb! 
+1401000035:O sikilmiş çinlilər onu günün günorta çağı doğrayıb öldürüblər.
+1401000040:Nə?! 
+1401000045:Niyə?
+1401000050:Yəni heç nə bilmirsən?
+1401000060:Şey... Henry məni bir işə qatmaq istəmişdi, amma mən razılaşmadım. Nə olub?
+1401000070:Hə, Henry axmaqdır, daha doğrusu, axmaq idi. Tonglarla narkotik alveri edirmiş. Bunun qadağan olduğunu bilirdi, tutuldu. Carlo kiçik bir cərimə ilə bağışlayıb dedi, bu söhbəti unudacaq. 
+1401000071:Amma çinlilər Henry'ye kələk gəlib parkın ortasında tikə-tikə doğradılar.
+1401000080:Lənət.
+1401000085:Sarılarla iş görmək olmaz.
+1401000090:Daha pisi də var: Henry tək işləmirmiş. Dünən kimsə Chinatown'da bir sürü çinlini qırıb. İndi düşünürlər, ya biz etmişik, ya da Vinci. 
+1401000091:Artıq Vinci'ni hədələməyə başlayıblar. Bu tez həll olunmasa, hamımız batacağıq. Əminsən, heç nə bilmirsən?
+1401000100:Heç nə, Eddie. And içirəm.
+1401000110:Elə? Bəs Joe?
+1401000120:Joe? Son bir-iki gün Joe mənimlə idi.
+1401000130:Onda bəxtiniz gətirib. Carlo indi şəhərdən kənardadır, amma qayıdanda, heh... yaxşı olmayacaq.
+1401000140:Hə, bilirəm.
+1401000150:Yaxşı olar, məni aldatmayasan, Vito.
+1402000010:Joe evdə yox idi. 
+1402000020:Əvvəl elə bildim, bir az gecikir, mən də gedib yemək yedim.
+1402000030:İki saat sonra Joe hələ evdə yox idi. Qaranlıq düşürdü, narahat olmağa başladım. Gedib onu axtarmalıydım.
+14_55_00_0130:Salam, Giuseppe. Joe Barbaro'nu axtarıram. Bu gün bura gəlib?
+14_55_00_0140:Salam, Vito. Hə, Joe bu gün gəlmişdi.
+14_55_00_0150:Əla. Bütün günü onu axtarıram. Hara getdiyini dedi?
+14_55_00_0160:Yox, demədi. Məncə, özü də bilmirdi.
+14_55_00_0170:Necə yəni?
+14_55_00_0180:İş axtarırdı, amma söhbətimizi bitirməmiş bir neçə adam gəlib onu apardı.
+14_55_00_0190:Nə?! Kim?
+14_55_00_0200:Vinci'nin adamları idi. Dedilər, cənab Vinci onunla danışmaq istəyir.
+14_55_00_0210:Hara gedə biləcəklərini bilirsən?
+14_55_00_0220:Bilmirəm. Bəlkə öz barlarına, Mona Lisa'ya.
+14_55_00_0230:Lənət.
+14_55_00_0240:Nəsə olub?
+14_55_00_0250:Bilmirəm... Deyək ki, bu aralar cənab Vinci ilə münasibətimiz elə də yaxşı deyil.
+14_55_00_0260:Hə, Joe da çox sevinmirdi.
+14_55_00_0270:Ürəyimə pis şeylər gəlir. Gedib nə baş verdiyini öyrənməliyəm.
+14_55_00_0280:Ümid edirəm, ciddi bir şey deyil. Uğurlar, Vito.
+14_05_00_0290:Tərpənmə, bəlkə səni öldürmədim.
+14_05_00_0300:Salam, uşaqlar.
+14_05_00_0310:Bunun cəsarətinə bax.
+14_05_00_0320:Mən də sizi görməyə şadam.
+14_05_00_0330:Bir əzələni də tərpətmə!
+14_05_00_0340:Mehriban barmenin sözünə qulaq as, oyun çıxarma, Vito.
+14_05_00_0350:Əvvəlcə silahlarını yavaşca yerə atmağını xahiş edirəm. Hiylə işlətmə, bu barmenin əli şəhərdə hamıdan tez tətiyə gedir, hə?
+14_05_00_0420:Silahım yoxdur.
+14_05_00_0430:Yaxşı. Burada nə edirsən, Vito? Səni gözləmirdik.
+14_05_00_0440:Joe Barbaro'nu axtarıram. Eşitdim, adamlarınız onu aparıb.
+14_05_00_0450:Ola bilər.
+14_05_00_0460:Nə oyun çıxarırsınız? Joe ilə mən sizə heç nə etməmişik.
+14_05_00_0470:Cənab Vinci belə düşünmür. Bəzi şeyləri izah etməyini istəyirdi, Joe da elə onu edir. Sən də gəlmisən, bəlkə gedib onlara qoşulaq?
+14_05_00_0480:Bəs istəməsəm?
+14_05_00_0490:Bu silahlar deyir, istəyirsən. Amma narahat olma, mənzərəsi əladır.
+1406000010:Ah, bu nə sikilmiş...!
+1406000011:n_...
+1406000012:n_...
+1406000020:Ah, necə də kövrək görüşdür.
+1406000030:Bəs bu kimdir?
+1406000040:Joe'nun dostudur, bir az yumşalt bunu.
+1406000050:Məmnuniyyətlə. Asın oradan.
+1406000060:Lənət... Ah... Salam, Joe, nə var, nə yox?
+1406000070:Frankenstein fasiləyə çıxıb.
+1406000080:Uf... Əla, amma izah edərsən, biz burada nə sikim edirik?
+1406000090:O qoca köpək Vinci burnunun ucunda baş verəni görmür, elə bilir mən izah edə bilərəm. Axmaq.
+1406000100:Ah, xoşbəxt cütlük artıq buradadır. Xoş gəlmisən, Vito.
+1406000110:Nə baş verir? Bizimlə belə davranmağa səbəbiniz yoxdur!
+1406000120:Səbəb yoxdur? Səbəb yoxdur?! Əvvəl Leo məsələsi.
+1406000121:Sonra şəhərdə aləm bir-birinə dəyir, çinlilər dəli olur... Hamı dəli kimi vuruşur! İndi də o sarı alçaqlar məni öldürməklə hədələyirlər! 
+1406000130:Hər şey nəzarətdən çıxıb! 
+1406000140:Mən bu işlərə artıq qocayam, ona görə burada nə baş verdiyini deyəcəksiniz! Buyurun, qulağım sizdədir...
+1406000150:Cənab Vinci! Burada nə baş verdiyini bilmirəm! İnanın mənə. Joe ilə mənim heç bir əlaqəmiz yoxdur.
+1406000160:Eşitmək istədiyim bu deyil.
+1406000170:Onda bu, sənin problemindir... çünki bu barədə bir sikim bilmirik.
+1406000180:Çox pis.
+1406000190:Axır ki! Vaxtımız azdır.
+1406000200:O alçaqlar işəməyə getdilər.
+1406000210:Bir şey etməliyik.
+1406000220:Yaxşı, borunu qırmağa çalışaq. Gəl, kömək et, tək bacarmıram.
+1406000230:Üç deyəndə aşağı dart.
+1406000240:Oldu.
+1406000250:Bir, iki, üç!
+1406000260:Bir, iki, üç! Bir də.
+1406000270:Bir, iki, üç!
+1406000280:Bir dəfə də!
+1406000290:Həmkarlar ittifaqının işçilərinə şükür. Tez ol, aç bunları. Hesablaşmaq vaxtıdır!
+1413000001:Ah... 
+1413000002:n_Uf!
+1413000003:n_Nngh!
+1413000005:n_Eh...
+1413000010:Kömək lazımdır?
+1413000020:Yox... Bacararam.
+1413000030:Pulu neyləyim?
+1413000040:Bruno'ya apar.
+1413000050:Yaxşı, heç olmasa bu iş bitsin.
+1413000060:Axşamınız xeyir, cənablar. Ah, sizə nə olub?
+1413000070:Salam, doktor. Məni yaxşıca döyüblər, qan öskürürəm. 
+1413000080:Bu gün nə baş verir? Sizinkilərdən biri də artıq buradadır.
+1413000090:Kim?
+1413000100:Adı Antonio Balsamodur.
+1413000110:Tony Balls! Ona nə olub?!
+1413000122:Kimsə onu çox pis günə qoyub. Deyəsən, bir də yeriyə bilməyəcək.
+1413000130:Nə?!
+1413000140:Şey... Bu sizi təəccübləndirir? Bütün bu qan, bu ölümlər.
+1413000146:Seçdiyiniz həyat budur.
+1413000147:Bir gün bəxtiniz gətirməyəcək. Gələn dəfə siz ola bilərsiniz.
+1413000142:n_Uf!
+1413000143:n_Mmgh!
+1413000144:n_Oh... Ah...
+1413000145:n_Ah... Eh...
+1413000150:Bəsdir moizə oxudun, doktor. Joe'nu müalicə etməyə vaxtın var?
+1413000160:Bəli, amma Antonio'nun işini qurtarana qədər bir az gözləməlisiniz.
+1413000170:Olar, doktor.
+1413000180:Yaxşı, gəlin içəri.
+1413000190:Bruno ilə hesabı bağla, yaxşı? Bir də, Vito... Sağ ol.
+1413000200:Əlbəttə. Tez sağal.
+1414000010:Axşamın xeyir. Pulumu gətirmisən? Yoxsa vaxtı uzatmaq istəyirsən?
+1414000020:Buyur.
+1414000030:Etiraf edim ki, bir az təəccübləndim! Eşitdim, sizin bəzi... çətinlikləriniz olub.
+1414000040:Hə, oldu.
+1414000050:Henry'nin öldüyünü eşitdim. Buna çox üzüldüm. 
+1414000061:Isaac, say.
+1414000070:Deməli, balaca işiniz uğurlu oldu? 
+1414000080:Pulunu aldın, hə?
+1414000090:Hə, hə. Sadəcə bütün şəhər alt-üst olub. Çinlilər elə bilir, italyanlar onlara hücum edib, ona görə Vinci'nin üstünə gedirlər.
+1414000091:Yaxşı deyil, yaxşı deyil. Bunun bu pulu borc götürməyinizlə bir əlaqəsi var?
+1414000100:Bağışla, Bruno. Bu, sənin işin deyil.
+1414000110:Ah, sağ ol, Isaac. Deyəsən, borc bağlandı... Heç adını da bilmirəm.
+1414000120:Vito.
+1414000130:Vito kim?
+1414000140:Vito Scaletta.
+1414000150:Scaletta? Bir vaxtlar bir Scaletta tanıyırdım. Amma deməliyəm, sən borc qaytarmaqda ondan qat-qat yaxşısan. 
+1414000160:Yazıq arvadı onun əvəzinə ödəməli oldu...
+1414000170:Deməli, atama borc verən sən idin...
+1414000180:Atan? Ah, atasının oğlu... Görürəm, xoşuna gəlmədi. Amma pulu borc götürməyə onu məcbur etməmişdim axı? Səni də məcbur etmədiyim kimi.
+1414000190:Nə vaxt borc lazım olsa, məni harada tapacağını bilirsən.
+1414000200:Hə... Əlbəttə.
+1415000010:Yata bilmirdim... İşlər pis idi, daha da pisləşəcəkdi... 
+1415000020:Həqiqət gec-tez üzə çıxacaqdı. Onda çinlilər və Vinci ilə yanaşı, Falcone də dalımızca düşəcəkdi.
+1415000021:Başlayanda bunu belə təsəvvür etmirdim. Pul, maşınlar, qadınlar, hörmət, azadlıq arzulayırdım... 
+1415000022:Deyəsən, az-çox hamısını əldə etdim, amma onlarla birlikdə həbs, daimi qorxu və dostlarımın qanı da gəldi.
+1415000030:Bacardığım qədər qaçdım, amma axır ki, məni yaxalayırdı. Hər şey zaman məsələsi idi...
+2000000000:n_

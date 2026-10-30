@@ -1,0 +1,28 @@
+﻿305050010:Odur, Vito! Öldür o kök əclafı!
+305050011:Ay lənət!
+305050012:Bu nə silahdır axı!?
+305050013:Kimsə içəri girsin!
+305050014:Yuxarı qalxıb onları öldürməliyik!
+305050020:Ay lənət, qaçdı! Onu tutmalıyıq, yoxsa lap batmışıq. Adamlarını öldürün! Sonra kökün dalınca!
+305050021:Arxamı qoruyun, girirəm!
+305050022:Hadi, uşaqlar, onları tutmalıyıq!
+305050050:İkinci mərtəbədədirlər!
+305050080:Pilləkənlə yuxarı!
+305050060:Ehtiyatlı ol, pulemyotları var, lənət olsun!
+305050070:Budur!
+305050090:Bu qapı!
+305050091:Hey, boş-boş dayanma, gedək!
+305050092:Yaxşı, yaxşı, gəlirəm.
+305050093:Hadi, tərpənək, yoxsa o kök əclaf qaçacaq!
+305050094:Hamısını vurduq! O lənətə gəlmiş şeyi dayandır, burada kar oluram!
+305050095:Hadi, düş aşağı, Vito!
+305050096:Hadi, çıx bura, Vito!
+305050097:Gəl bura, Vito!
+305050098:Yaxşı, hadi, Vito.
+305050099:Buraya. Gedək.
+305050030:Joe-nu qoyub qaça bilmərəm.
+305050031:Qayıdıb işi bitirməliyəm.
+305050032:İndi çıxmaq üçün gecdir, bitirməliyik.
+305050040:Əla! İndi də qaçış maşınını güllələdilər!
+305050140:Get! Get! Səni qoruyarıq!
+305050150:Başqa kim hiss edir ki, işlər bir az əldən çıxır?

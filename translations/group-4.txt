@@ -1,0 +1,24 @@
+﻿303040010:Hadi, tərpən də! Vaxtın gecə yarısına qədərdir.
+303040020:Tez ol! Tik-tak, Vito, tərpən!
+303040030:İndicə nə dedim sənə? Gecə yarısına qədər bunları satmalısan, yoxsa heç nə almayacaqsan.
+303050010:Şey, məndə bir az "artıq" benzin talonu var. Maraqlıdır sənə?
+303050020:Hə, hə, əlbəttə, maraqlıdır.
+303050030:Yaxşı, al. Pulu ver.
+303050040:Əlbəttə, əlbəttə. Pulun budur.
+303050041:Sağ ol, dostum. İndi də məni gördüyünü unut.
+303050050:Şey, benzin talonu almaq istəyirsən?
+303050060:Əlbəttə. Amma aramızda qalsın, yaxşı?
+303050070:Problem yoxdur. Sən də dilini saxla...
+303050080:Əlbəttə. Mən razıyam...
+303050090:Şey, artıq benzin talonları almaq istərdin?
+303050100:Əlbəttə. Haradan tapmısan? Yox, fikirləşdim ki, heç bilmək də istəmirəm.
+303050110:Ağıllı adamsan. Yaxşı, indi pulu ver.
+303050120:Hə, yaxşı. Təki buna görə başım bəlaya girməsin.
+303050121:Narahat olma. Təki ağzını bağlı saxla.
+303050130:Qulaq as, məndə artıq benzin talonları var. İstəsən, sənindir. Ucuz verirəm...
+303050140:Hə, yaxşı. Razıyam.
+303050150:Yaxşı, al. Bu barədə də ağzını bağlı saxla, yaxşı?
+303050160:Əlbəttə, dostum. Aramızda qalacaq.
+303050161:Qalsa yaxşıdır...
+303050200:Lənət olsun. Gecə yarısı keçib. Hə, deyəsən, iş batdı. Joe'nun evinə qayıtmalıyam. 
+303050210:Yaxşı, bu da sonuncusu. Heç olmasa bir az pul qazandım. Joe'nun evinə qayıtmalıyam.

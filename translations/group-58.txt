@@ -1,0 +1,32 @@
+﻿303020320:Yaxşı, gedək. Sükan arxasında da sakit ol, hə? Sizin cavanların necə sürdüyünü görmüşəm.
+303020322:Burada sola dön.
+303020323:Sağa dön.
+303020324:Bir az yavaşlayarsan?
+303020325:Nə edirsən belə!
+303020326:Nə edirsən, ay dəli?!
+303020327:Lap dəlisən, bilirsən?
+303020328:Narkotik çəkmisən?
+303020351:Ağlın gedib?!
+303020329:Yavaşla, tələsmirəm!
+303020332:Yavaşla dedim. Ora sağ-salamat çatmalıyıq, bilirsən?
+303020349:Ay sürət düşkünü, sakit ol! Bacım heç yerə getmir.
+303020333:Dayanıb cəriməni ödəsən yaxşıdır, bala.
+303020334:Gördün? Dəli kimi sürəndə belə olur...
+303020348:Ah, əla... Maşını saxlasan yaxşıdır, bala.
+303020335:Yaxşı, bala... Gecələr oranı bərk bağlayırlar, arxadan girməlisən.
+303020336:Gecələr arxa qapını açıq qoyurlar?
+303020337:Yox, amma zirzəminin pəncərəsi adətən açıq olur, oradan girə bilərsən.
+303020338:Lazım olsa, çıxanda tualetin pəncərəsindən istifadə edə bilərsən.
+303020339:Seyfi axtarırsan, hə?
+303020341:Hə, haradan bildin?
+303020342:Təxmin etdim. Üst mərtəbədədir. Direktorun otağı da oradadır. Açarlar o otaqdadır.
+303020343:Deməli, arxadakı pəncərədən girib yuxarı, direktorun otağına gedirəm, hə?
+303020344:Düzdür. Ehtiyatlı ol, gecələr içəridə mühafizəçilər olur. Səni görməsinlər.
+303020345:Görsələr, lap pis bəlaya düşəcəksən.
+303020346:Yaxşı, bala, məni elə buradakı xəstəxanada düşür.
+303020347:İdarə yolun o tayındadır.
+303020410:Yaxşı, gətirdiyin üçün sağ ol, bala.
+303020420:Sağ ol, Maria, görüşərik.
+303020430:Ay Allah! Nə edirsən belə?
+303020440:İkimizi də öldürəcəksən! Ehtiyatlı ol!
+303020450:İndiki uşaqlar...

@@ -1,0 +1,33 @@
+﻿00_01_00_0001:n_2K GAMES və 2K CZECH
+00_01_00_0002:n_TƏQDİM EDİR
+00_01_00_0003:n_MAFIA II
+00_01_00_0010:Mənim adım Vito Scalettadır.
+00_01_00_0020:1925-ci ildə Siciliyada doğulmuşam.
+00_01_00_0030:O balaca oğlan mənəm. Valideynlərim və bacım Francesca ilə köhnə evimizin qarşısında dayanmışıq.
+00_01_00_0040:Köhnə vətən barədə çox şey yadımda deyil... bircə çox kasıb idik. Sonra bir gün atam qərara gəldi ki, köçmək vaxtıdır. 
+00_01_00_0050:Siciliyadan getmək. Okeanın o tayına, Amerikada yeni həyata başlamaq üçün.
+00_01_00_0060:Ömrümdə Empire Bay qədər möhtəşəm bir yer görməmişdim. Çox gözəl idi.
+00_01_00_0070:Amma təzə mənzilimiz olan o xarabadan çirkli, iyrənc yer də görməmişdim.
+00_01_00_0071:"Amerika arzusu."
+00_01_00_0072:Daha çox kabusa oxşayırdı.
+00_01_00_0080:Siciliyanın kasıb kəndindən Amerikanın çirkli, basabas məhəlləsinə köçmüşdük. 
+00_01_00_0090:Atam limanda, köçməyimizi təşkil edən adam üçün işləməyə başladı.
+00_01_00_0100:Bel sındıran iş idi, qazandığı o az pulun da çoxunu içkiyə verirdi.
+00_01_00_0110:Axırda valideynlərim məni məktəbə göndərdilər. İngilis dilini öyrənməliydim, italyanlarla dolu məhəllədə bunu bacarmazdım.
+00_01_00_0120:Joe ilə orada tanış oldum...
+00_01_00_0130:Vaxt keçdikcə Joe ilə ən yaxın dost olduq. İkimiz də kasıb idik, iş də çox yox idi, ona görə öz balaca işimizi qurduq...
+00_01_00_0140:Tez ol, Vito. Tələs. Bütün gecəni burada qala bilmərik.
+00_01_00_0150:Ağıl məndə idi, güc Joe'da. Birlikdə hər cür bəlaya düşürdük.
+00_01_00_0160:Lənət. Vito! Qaç!
+00_01_00_0170:Vito! Bu tərəfə!
+00_01_00_0171:Tərpənmə! Polis! 
+00_01_00_0172:Dayan!
+00_01_00_0180:Çantanı mənə at! 
+00_01_00_0190:Dayan, yoxsa vuraram!
+00_01_00_0200:Lənət.
+00_01_00_0300:Lənət.
+00_01_00_0210:Yaxşı, ay alçaq, ayaqlarını arala, əllərini hasara qoy!
+00_01_00_0220:Lənət, bağışla, Vito.
+00_01_00_0230:O dəfə işimiz yaxşı alınmadı. 1943-cü il idi. Amerika müharibədə idi, ordu Siciliyaya hücum üçün italyanca danışan oğlanlar axtarırdı.
+00_01_00_0231:On səkkiz yaşım vardı, hər şey həbsdən yaxşı görünürdü. Kim deyir, evə qayıtmaq olmaz?
+2000000000:n_

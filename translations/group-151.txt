@@ -1,0 +1,26 @@
+﻿311041601:Yaxşı, ee, həyat necə gedir?
+311041620:Tanıdığım adamların yarısı öldürülməzdən əvvəl, yoxsa sonra?
+311042020:Oteldəki o işdən bir xəbərin yoxdur ki?
+311041602:Nədən danışdığını heç bilmirəm...
+311042040:Qəribədir, çünki həmin gün dayanacaqda Joe-nun bir dostunu vurdular. Mən də elə bildim, ikinizin də əli var...
+311041603:Joe-nun dostu? Kimi deyirsən?
+311042060:O zəhrimar uşağı deyirəm, həmişə Joe ilə Freddy-nin barına gəlirdi. Adı nə idi, ee, Mikey, ee, Micky... Nə cəhənnəm idisə...
+311041604:Marty-ni deyirsən?
+311042080:Hə, hə, o uşağı. Səsi lap lənətə gəlmiş Minnie Mouse kimidir.
+311041605:Hə, hə, eşitmişəm...
+311042100:Deməli, o gün orada olmadığına əminsən. Tam əmin...
+311041606:Belə deyək: mən və Joe həmin gün müdirimizin bir işini görürdük. Başqa heç nə deməyəcəyəm.
+311042120:Bilirsən nə var? Onsuz da fərqi yoxdur. Amma mənə bir yaxşılıq elə, olar?
+311041607:Hə, əlbəttə.
+311042140:Gələn dəfə o saxta zəhrimar bığdan daha yaxşı maskalanın. Sizi iki gijdillağı bir kilometrdən tanıdım...
+311041608:Bilirsən nə var, bu söhbəti indi etməsək, olar? Ya da bir də heç vaxt.
+311042160:Fikir vermə... Etməli olduğun işi etdin.
+311040675:Heç fikirləşmisən ki, başqa işlə məşğul olsaydın, daha yaxşı olardı?
+311041310:Düzünü desəm, yox.
+311041320:Mən buyam. Bacardığım iş budur.
+311040676:Hə... Həm də yəqin zəhrimar taksi sürməkdən qat-qat çox pul gətirir.
+311041340:Oteldəki işdən sonra şəhərdən getməyi düşünürdüm, amma hara gedim? Nə edim?
+311041350:Elə ona görə sənin yanına gəldim.
+311040677:Deməli, son ümidin mən idim, hə? Sağ ol. Yeri gəlmişkən, niyə Joe-nun yox, mənim yanıma gəldin?
+311041370:Bax, ee... Joe etibarlı adamdır. Amma mənim adımdan danışmağını elə də istəməzdim. Başa düşürsən?
+311040678:Hə... Bu sözdə haqlısan.

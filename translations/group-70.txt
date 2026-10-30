@@ -1,0 +1,31 @@
+﻿305060010:Lənət, elə bu çatmırdı!
+305060020:Ehtiyatlı ol!
+305060030:Belə davam etsən, Henry öləcək!
+305060040:Ay Allah, dəlisən?
+305060050:Hamımızı öldürəcəksən, ay dəli köpək!
+305060060:Polislərdən qurtul.
+305060061:Lənət, polisləri başımızdan elə!
+305060073:Vito, El Greco'ya sür! Vaxtımız azdır!
+305060074:Qaza bas, yoxsa Henry'nin axırıdır. Ölsə, sən basdıracaqsan.
+305060075:Tez ol, Vito! Belə getsə, piyada daha tez çatardıq!
+305060071:Ay Allah, lap nənəm kimi sürürsən.
+305060072:Vito, qaza bas! Henry burada kilsədəki fahişə kimi tər tökür!
+305060110:Uf!
+305060090:Uf! Vito!
+305060100:Ah...
+305060080:Oh...
+305060081:Oh... Oh! Bunu qəsdən elədin, ay köpək!
+305060111:Sağ qalmasam...
+305060112:Elə demə, dostum. Cızıqdır da. Həkim bir neçə tikiş vuracaq, sonra hamımız gedib qeyd edəcəyik.
+305060113:Yox, ciddi deyirəm...
+305060114:Şşş... İndi danışma. Gücün qalar. Bir dəfə kinoda görmüşdüm.
+305060115:Elə? Kinodakı adama nə oldu?
+305060116:Öldü.
+305060117:Ah...
+305060118:Henry, oyaqsan? Məndən ayrılma.
+305060119:Hə...
+305060121:Döz, dostum, bir dəqiqəyə El Greco'dayıq. Souvlaki iyini buradan alıram.
+305060122:Vito, daha tez gedə bilməzsən?! Henry'nin axıtmağa qanı qalmayıb.
+305060123:Bacardığım qədər tez gedirəm, lənət olsun...
+305060120:Yaxşı, çatdıq. Döz.
+305060130:Ah, lənət, ağrıyır...

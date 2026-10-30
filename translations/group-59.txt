@@ -1,0 +1,20 @@
+﻿303050020:Hə, hə, əlbəttə, maraqlanıram.
+303050030:Yaxşı, buyur. Pulu ver.
+303050040:Əlbəttə, əlbəttə. Al pulunu.
+303050041:Sağ ol, dostum. İndi məni gördüyünü unut.
+303050050:Hey, ee, benzin talonu almaq istəyirsən?
+303050060:Əlbəttə. Amma aramızda qalsın, yaxşı?
+303050070:Problem deyil. Sən də elə et...
+303050080:Əlbəttə. Mənə xoşdur...
+303050090:Hey, ee, artıq benzin talonu axtarırsan?
+303050100:Əlbəttə. Haradan tapmısan? Yox, heç bilmək istəmirəm.
+303050110:Ağıllı adamsan. İndi pulu ver.
+303050120:Hə, yaxşı. Təki buna görə başım bəlaya girməsin.
+303050121:Narahat olma. Sadəcə ağzını bağlı saxla.
+303050130:Qulaq as, artıq benzin talonlarım var. İstəsən, sənindir. Ucuza...
+303050140:Hə, yaxşı. Razıyam.
+303050150:Yaxşı, buyur. Bu barədə ağzını bağlı saxla, yaxşı?
+303050160:Əlbəttə, dostum. Sirrimiz olacaq.
+303050161:Elə olsa yaxşıdır...
+303050200:Lənət. Gecə yarısı keçib. Yaxşı, deyəsən, iş batdı. Joe-nun evinə qayıtmalıyam.
+303050210:Yaxşı, sonuncu da getdi. Heç olmasa, bir az pul qazandım. Joe-nun evinə qayıtmalıyam.

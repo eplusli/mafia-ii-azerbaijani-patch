@@ -1,0 +1,51 @@
+﻿313050020:Haradasa burada olmalıdır! Davam edək.
+313050021:Lənət olsun, Joe. Gördün? Elə o zəhrimar qonqu da çalaydın da!
+313110060:Ehtiyatlı ol, yuxarıdan atəş açırlar!
+313110070:Pilləkəndəki adamı vur!
+313110080:Orada, yuxarıdakı pəncərədə!
+313110090:Barın arxasındakı götü vur!
+313110100:Hadi, Vito, irəli gedək.
+313110110:Arxandayam.
+313110120:Ehtiyatlı ol, yenə gəlirlər!
+313110130:Hadi, Vito, tərpən, Allah xatirinə!
+313110140:Hadi, kömək et, yoxsa burada öləcəyik!
+313110150:Ey, bir əl at, olar?
+313110160:Bir az kömək lazımdır, Joe!
+313110170:Bu, Henry-nin əvəziydi, əclaf...
+313110210:Vuhu! Yaxşı vurdun, Vito!
+313110240:Elə belə, Vito. Hamısını öldür. Birini də sağ buraxma.
+313110180:Ey, bu balaca əclaflardan mənə də saxla!
+313110190:Lənət! Yaxşısan?
+313110200:Hə, bir cızıqdır, yaxşıyam.
+313110250:İlahi! Ehtiyatlı ol, Vito!
+313110260:Joe, arxana fikir ver!
+313110270:Lənət, çoxdurlar!
+313110280:Nə edəcəyik?
+313110290:Yaxşı, əvvəl sən get, mən qoruyaram.
+313110300:Necədir, hə?!
+313110310:Elə o çəp gözlərinin arasından...
+313110320:Balaca çinli əclaf...
+313110330:Bu da sənin xüsusi bağlaman...
+313110340:Haha... Tam yerinə...
+313110350:n_ gülür
+313110380:Bu zəhrimarların hamısı haradan çıxır?
+313110390:Yəqin burada haradasa Çinə tunel var...
+313110400:Şşş, sakit ol, Vito.
+313110410:Səs salmamaq nə vaxtdan vecinə olub?
+313110420:Çoxdurlar, bunu səssizcə aradan götür.
+313110425:Əla. Yaxşı, buradan gizlicə keçək.
+313110430:Karsan, ya nə?! Dedim, səssiz olmalıyıq!
+313110440:Liftdə də var!
+313110450:Bu adamlar lap zəhrimar tarakan kimidir...
+313060080:Bunlar kardır, ya nə? Burada müharibə gedir, bunlar da zombi kimi gəzirlər...
+313060090:Ee... Bu, xoşuma gəlmir...
+313080050:Vito, bura gəl, çıxış bu tərəfdə olmalıdır...
+313110460:Deyəsən, bu yer bir müddət açılmayacaq.
+313110470:Vaxtımız olsaydı, yandırıb kül edərdim.
+313110520:Lənət! İndi nə edəcəyik?
+313110510:Dediyim kimi, şahid qalmamalıdır. Hadi...
+313110720:Joe-nun yanına qayıtmalıyam.
+313110730:Joe-nu tək qoya bilmərəm.
+313110740:Hara gedirəm? Yol bu deyil.
+313110101:Gələn dəfə silahı dolduranda sənə salfet də gətirim?
+313110102:Nə mənası var? On dəqiqəyə yenə acacaqsan.

@@ -1,0 +1,45 @@
+﻿312020001:Yaxşı, arxamca gəlin, uşaqlar. Danışmağı da mənə buraxın.
+312020037:Nə istəyirsən, qucağında oturum? Get, ikidən çox adamın sığacağı maşın tap!
+312020038:Bu nə zəhrimar zarafatdır? İkidən çox oturacağı olan maşın lazımdır, gicbəsər.
+312020039:Get, indi bizə böyük maşın tap!
+312020046:Yaxşı, az qalıb.
+312020041:Vito, hadi. İndi fikrini dəyişmək üçün gecdir.
+312020042:Ey, Vito, gəlirsən, ya nə?
+312020008:Yaxşı iş gördün, Henry.
+312020009:Əlbəttə. Dedim axı, pulu verəcək, elə deyil?
+312020020:Henry, sən İncili necə belə yaxşı bilirsən? Oxumusan, ya nə?
+312020006:Bruno həmişə eyni sitatı deyir. Bazar günləri kilsəyə gedirəm, bir dəfə keşişdən soruşdum.
+312020040:Sən kilsəyə gedirsən?!
+312020007:Hə, sənin niyə getmədiyini də başa düşürəm. Çətin sözlər işlədirlər, fahişə yoxdur, yeməkləri də pisdir.
+312020055:Hə, təxminən elədir.
+312020056:Vallah, 45-ci ildən ora getməmişəm.
+312020057:Ananın səni günahlarını etiraf etməyə məcbur etdiyi vaxtdan?
+312020058:Hə, bir qızın götünə baxdığıma görə məni şillələmişdi. Ah, Allah rəhmət eləsin.
+312020059:Bəs sən, Joe? Nə qədər vaxtdır getmirsən?
+312020061:Pasxadan...
+312020062:Ah, elə də pis deyil.
+312020063:...1941-ci ilin.
+312020064:Onda sözümü geri götürürəm. Sən birbaşa cəhənnəmə gedirsən.
+312020065:Bunu indi başa düşdün?
+312020066:Narahat olmayın, ikinizə də yer saxlayaram...
+312020067:Darvazadan keçib həyətə gir.
+312020069:Yaxşı, elə burada, yük maşınının yanında saxla.
+312020070:İndi sadəcə arxamca gəl.
+312020301:Salam. Müdirinizlə işimiz var.
+312020071:Salam, cənab Tomasino.
+312020072:Arxamca gəlin, cənablar. Cənab Wong sizi gözləyir.
+312020079:Yalnız işçilər üçündür. Zəhmət olmasa, gedin.
+312020081:Ey. İndi çıx get. Gvay-loya icazə yoxdur.
+312020082:Cənab, indi çıx get. Bura yalnız işçi üçündür.
+312020167:n_Eh, cənab Wong-u görməyə gəlmisən, yoxsa cənab "Wang"ı?
+312020168:n_Ee... Balaca əjdahanın suyu çıxmalıdır...
+312030054:Yaxşı, darvazaya sür, Vito.
+312030330:Bilirsən, bir dəfə Bruno adlı sələmçi haqqında eşitmişdim. Yəqin həmin adamdır.
+312030340:Elə? Nə eşitmişdin?
+312030350:Yaxşı, Yengəc Micky-ni tanıyırsan da?
+312030360:Nə, Carlo-nun yerində tualeti təmizləyən adamı?
+312030370:Hə, sol əlində ancaq baş barmağıyla bir barmağı qalan adamı. Səncə, necə olub? Eşitmişəm, Southport-dan bir yəhudiyə çox pul borcu varmış. Başa düşürsən?
+312030380:Ah, hə, aydın oldu.
+312030390:Haha, amma narahat olma. Yengəc axmaqdır, bizə belə şey olmaz.
+312030400:Henry və Joe ilə getməliyəm.
+312030410:Əvvəl Henry malı götürməlidir.

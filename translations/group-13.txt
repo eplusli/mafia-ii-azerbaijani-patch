@@ -1,0 +1,160 @@
+﻿1101000010:Salam.
+1101000020:Salam, Vito.
+1101000030:Pulumu gətirmisən?
+1101000040:Həmişə sözümü tuturam, elə deyil? Al. Hamısını bir yerdə xərcləmə.
+1101000050:Sağ ol. Joe haradadır?
+1101000060:Şey... Burada idi, sonra getdi. Hirsli görünürdü. Amma son vaxtlar həmişə hirsli görünür.
+1101000070:Hə. Qınamaq olar onu?
+1101000075:Qulaq as... səninlə bir şey barədə danışmalıyam.
+1101000080:Nə? Vacibdir? İndi Vinci ilə məşğulam. Bizə hücum etməyə hazırlaşır, amma nə necə, nə də niyə olduğunu bilirik. Bu zibili həll etməliyəm.
+1101000090:Hə, amma məncə məni dinləməyə dəyər.
+1101000100:Yaxşı, danış. Amma qısa elə.
+1101000110:Clemente üçün işləyən bir tanışım zəng elədi. Narahatdır. Clemente'nin qalan adamlarının da dalınca düşəcəyik, ya yox, bilmir.
+1101000120:Hehe, yaxşıdır. Bildiyimə görə, boss hələ heç nə planlaşdırmır. Özləri axmaqlıq eləməsələr.
+1101000130:Yaxşı. O adam bir də bizdə işləyə biləcəyini soruşdu.
+1101000140:Elə? Kimdir? Nədir, dostundur?
+1101000150:Clemente üçün onunla bir neçə iş görmüşəm. İşini əla bilir.
+1101000160:Hə...
+1101000170:Yaxşı. De, gəlsin.
+1101000180:Şey... İndi elə buradadır.
+1101000190:Hahaha, buradadır? Yaxşı, get çağır...
+1101000200:Eddie, bu, Henry Tomasinodur. Henry, bu da Eddie Scarpa.
+1101000210:Tanışlığıma şadam, cənab Scarpa.
+1101000220:Mənə cənab Scarpa demə. Dostlarım Eddie deyir. Otur, Henry.
+1101000230:Vito deyir ki, bizə qoşulmaq istəyirsən.
+1101000240:Hə, indi işsizəm, baş verənləri də böyütmək istəmirəm.
+1101000250:Yaxşı fikirdir. Əvvəl bir şey de, Henry: Clemente ilə Vinci təşkilatımıza qarşı nəsə planlaşdırırdı?
+1101000260:Şey... Belə işlərə adətən burnumu soxmuram.
+1101000261:Amma bir dəfə Luca Gurino ilə Leo Galante'nin evində idim. Luca dayanmadan deyirdi ki, Falcone çirkli işlərə qarışıb, buna qarşı nəsə etmək lazımdır.
+1101000262:Məncə, Vinci'ni sizə qarşı qaldırmağa çalışırdı.
+1101000270:O alçaq! Yəqin narkotikdən danışırdı, özü də satdığı halda.
+1101000271:Vinci'nin buna qəti qarşı olduğunu bilir. Hə, qocanı yaxşı aldadıb. Deməli, buna görə üstümüzə gəlmək istəyir... İndi onu qabaqlamalıyıq.
+1101000280:Yenə?!
+1101000290:Biz etməsək, Frank edəcək. Əvvəl Galante'ni aradan götürməliyik. Onsuz Frank batacaq.
+1101000300:Leo'nu?!
+1101000310:Səni qarışdırmaq istəmirdim, amma belə işi bacaracaq başqa adamım yox idi. 
+1101000311:İndi düşünürəm ki, bu, Henry'nin özünü göstərməsi üçün əla fürsətdir.
+1101000320:Nə deyirsən, Henry, hazırsan?
+1101000330:İş bitəndən sonra qəbul olunacağamsa, əlbəttə...
+1101000340:Elədir! Leo'nu həll elə. 
+1101000341:Bəs sən, Vito? Hər şeyin rahat getməsinə baxmaq üçün Henry ilə getsən, daha arxayın olaram.
+1101000342:Demirəm, adamı sən öldür. Sadəcə maşını sür, iş bitənə qədər gözlə, geri gətir. Ürəyinə yatmırsa, başqasından xahiş edərəm. Nə deyirsən?
+1101000343:Bağışla, Eddie. Bunu edə bilmərəm. Leo həbsdə mənə ata kimi olub.
+1101000349:Hə, başa düşürəm. Deyəsən, bunu özün etməli olacaqsan, Henry. İstəsən, köməkçi tut, amma elə et ki, bizdən şübhələnməsinlər. Leo Highbrook'da yaşayır.
+1101000350:Başa düşdüm. Narahat olma. Bu gün həll olunacaq.
+1101000360:Yaxşı, onda get. 
+1101000370:Görüşərik, Eddie. 
+1101000380:Yaxşı ki, onu bura gətirmisən. İşi batırsa belə, biz olduğumuzu bilməyəcəklər.
+1101000390:Məncə, Henry işi batırmaz.
+1101000400:Yaxşıdır. Vito, bu gün sənə başqa işim yoxdur, amma sabah gəl, yaxşı?
+1101000410:Hə. Görüşərik, Eddie.
+1101000415:Görüşərik.
+1103000010:Leo! Leo, buradasan?!
+1103000020:Bura necə girmisən?! Rədd ol, yoxsa bu silahı götünə soxaram!
+1103000030:Leo, Leo, silahı endir. Mənəm, Vito!
+1103000040:Vito? Burada nə işin var? Əvvəl zəng edə bilərdin...
+1103000050:Leo, danışmağa vaxt yoxdur, tez buradan çıxmalısan, səni öldürməyə gəlirlər!
+1103000060:Nə? Yuxarı gəl, Vito, ayaqlarım üşüyür. İçmək istəyirsən?
+1103000065:İçmək istəyirəm? Sənə nə olub axı?
+1103000070:Yaxşı, nə baş verir?
+1103000080:Bax, Falcone sənin ölümünü istəyir. Adamlar yoldadır. Buradan çıxmalısan!
+1103000090:Nə? Niyə belə şey edim?
+1103000100:Bax, Clemente yalandan deyib ki, Falcone narkotik işi görür. Vinci'nin buna görə üstünə gələcəyini Falcone eşidib.
+1103000110:Yalandan?! Vito, Carlo Falcone narkotik işi görür! Bunu hamı bilir.
+1103000111:Clemente zorla bu işə girmək istədi, Falcone də onu aradan götürdü. İndi bizi də götürmək istəyir... biz onun üstünə getməmiş.
+1103000120:Bunları haradan bilirsən?
+1103000130:Mənbələrim var. Bura niyə gəlmişdin?
+1103000140:Niyə?! Nədir, ağlın gedir? Çünki səni öldürəcəklər! Allah xatirinə, danışma, geyin, gedək.
+1103000150:Carlo kimi göndəribsə, niyə elə onu öldürməyək? Üstünlük bizdədir. Onları gözlədiyimizi bilmirlər.
+1103000160:Bunu edə bilmərəm. Adamı tanıyıram... Əslində, işi ona mən düzəltmişəm.
+1103000170:Nə? Dostunu məni öldürməyə sən tutmusan?
+1103000180:Yox, tam elə deyil. İzah etməyə vaxt yoxdur. Hər an gələ bilər!
+1103000190:Yaxşı. Burada gözlə, geyinim. 
+1103000200:Lənət, gecdir, gəldilər.
+1103000210:Ah, lənət... Henry məni burada görməməlidir! Gizlənməliyik, tez, yuxarı çıxmamış.
+1104000010:Vito?! Burada nə işin var?!
+1104000020:Sakit ol, Henry. Silahı endir, adamları da yola sal. Hər şeyi izah edəcəyəm.
+1104000030:Uşaqlar! Çöldə gözləyin!
+1104000035:Bir neçə dəqiqəyə çıxmasam, dalımca gəlin.
+1104000040:Gir içəri.
+1110000010:Əyləş.
+1110000020:Burada nə cəhənnəm baş verir?
+1110000030:Bax, Henry, Leo mənim dostumdur. Həbsdə mənə kömək edib, demək olar, həyatımı qurtarıb... Ailəyə qəbul olmağımın səbəbi də odur.
+1110000031:Eddie'nin onu öldürmək tapşırığı verəcəyini bilmirdim. Xəbərdar etməliydim, başa düş!
+1110000040:Hə, amma sən də başa düş, bunu batıra bilmərəm. Leo'nu buraxsam, Falcone elə biləcək, qəsdən ona kələk gəlmişəm, məni öldürtdürəcək.
+1110000050:Lənət olsun, Henry, mən sənin dostunam! Sən olsaydın da eyni şeyi edərdim, bilirsən bunu!
+1110000060:Bunun dostluqla əlaqəsi yoxdur, Vito. Bu, işdir. Batırsam, axırım çatacaq. Onu buraxa bilmərəm. Sifariş götürmüşəm, bitirməliyəm.
+1110000065:Baxmaq istəmirsənsə, gedə bilərsən. Məndən narahat olma. Burada olduğunu heç kimə demərəm.
+1110000070:Leo dedi, bunların hamısı Falcone'nin narkotik işinə görədir! Qaydaları pozur, bunu bilən hər kəsi aradan götürmək istəyir!
+1110000080:Nə olsun? O qaydaları pozmayan tək adamlar Frank Vinci ilə buradakı Leo'dur. Pulumu verən onlar deyil.
+1110000090:Vito... Hər şeyə görə sağ ol, amma indi get. Uzun, yaxşı ömür sürmüşəm. Qocaya bir neçə il də qazandırmaq üçün canını riskə atmağa dəyməz.
+1110000100:Yox, Leo! Bir yol olmalıdır... 
+1110000110:Vito... Get.
+1110000120:Bağışla, Vito. Burada olduğunu heç kimə demərəm. Çıxanda da səni görən olmasın.
+1110000130:Buna görə mənə böyük borcun var, dostum.
+1110000140:Nə?
+1110000150:Salam, bala. 
+1110000155:İçmək istəyirsən?
+1110000160:Leo?!
+1110000165:Nə oldu belə?
+1110000170:Dostunla razılığa gəldik. Mən yoxa çıxacağam. Arvadım öləndən sonra bu şəhərdə məni saxlayan heç nə yoxdur. Onsuz da təqaüdə çıxıb isti bir yerə köçmək istəyirdim.
+1106000010:Bu, dünyanın ən köhnə hiyləsi olar.
+1106000011:Tez, tez! Çarpayının altına gir.
+1106000020:Kinolarda həmişə işə yarayır. Tez ol.
+1106000030:Lənət, Henry, niyə hər yeri belə diqqətlə axtarırsan?
+1106000040:Bu nədir?! Vito?! Çıx oradan görüm!
+1106000050:Kinolarda həmişə işə yarayır, hə?
+1107000010:Nə, ikimiz də? Mən gey deyiləm, başqa kişi ilə şkafa girən deyiləm.
+1107000020:Ay Məryəm... Gir içəri, Leo, vaxtımız yoxdur!
+1107000030:Elə yaxın dayanma.
+1107000031:Sən çəkil!
+1107000032:Yox, sən çəkil.
+11_07_00_0035:Sus!
+11_09_00_0001:n_...
+11_09_00_0002:n_...
+11_09_00_0003:n_...
+1107000040:Şş! Sus!
+1107000044:Hey... Ümid edirəm, o, silahındır...
+1107000050:Bu nədir?! Vito?
+1107000060:Şey... Salam, Henry.
+1107000061:Bu, sənin dostundur?
+1107000062:Yox, sadəcə pencəyini asmaq istəyir.
+1107000065:Yaxşı, tez olun, çıxın oradan. Şkafdan çıxmağınızın vaxtı çoxdan çatmışdı...
+1108000010:Bu, dəlilikdir.
+1108000020:Daha yaxşısını fikirləş, qoca.
+1108000030:Bu nədir?! ... Vito? ... Ah. Siktir!
+1109000010:Yaxşı, başlayaq, tez... Bunu möhkəm bağla... Uf...
+1109000020:Yaxşı... Buyur, Leo.
+1109000021:Şş! Leo... Sakit ol da. Tez ol, lap arxandayam. Gedək.
+1109000030:Lənət olsun! Belə şeylərə çox qocayam. Bu adam öldürməsə, sən öz dəli fikirlərinlə öldürəcəksən.
+1109000040:Uf! İndi nə edəcəksən?
+1109000051:Əvvəlcə buradan çıxaq.
+1109000080:Razıyam.
+1109000100:Lənətəgəlmiş zibil.
+1111050010:Frankie, burada nə edirsən?
+1111050020:Vito, nə edəcəyimi bilmirəm. Evə qayıda bilmirəm. Bir də onu görmək istəmirəm.
+1111050040:Dayan, nə olub? Kimi görmək istəmirsən?
+1111050050:Eric'i!
+1111050060:Ərini? Niyə?
+1111050070:Həmişə içir, kef məclislərində gəzir... Özü də...
+1111050080:Dayan, dayan... Səni vurur?
+1111050090:Yox, amma başqası ilə görüşür... Bilirəm.
+1111050100:Səni vurur?
+1111050110:Bəzən...
+1111050120:Köpəkoğlu, öldürəcəyəm onu!
+1111050130:Yox, Vito! Xahiş edirəm, ona xəsarət yetirmə. Sadəcə düşündüm ki, onunla danışarsan. Sənin sözünə qulaq asar!
+1111050150:Haradadır?
+1111050160:Bilmirəm. River Street'də yaşayan bir dostu var. Adətən orada olur.
+1111050170:Yaxşı, yaxşı, hər şey düzələcək. Qulaq as, özünü yaxşı hiss edəndə evə get. Eric'lə danışacağam. 
+1111050190:O alçaq bu gün qayıdıb üzr istəməsə, mənə zəng et. Amma narahat olma. Məncə, qayıdar.
+1111050200:Yaxşı, Vito, amma yalvarıram, ona xəsarət yetirmə... 
+1111050220:Narahat olma. Gedib ağlını başına gətirərəm, yaxşı?
+1112000010:Bunu xəbərdarlıq say. Bacıma bir də toxunsan, səni öldürəcəyəm! Aydın oldu?
+1112000011:Bundan sonra evdə oturacaqsan, narkotiki atacaqsan, içkini tərgidəcəksən, bacımı da xoşbəxt edəcəksən. Bir də eşitsəm ki, bədbəxtdir, səni tapıb bu işi bitirəcəyəm. Başa düşdün?
+1112000020:Hə...
+1112000025:Eh, hə.
+1112000030:Yaxşı, hamı eşitsin, məclis bitdi! Bu adamla bir də heç vaxt məclis qurmayacaqsınız! Qayıdıb sizin də payınızı verməyimi istəmirsinizsə, başa düşdünüz?!
+11_50_00_0240:Yandırın buranı! Eləyin, indi!
+11_50_00_0250:Hahahahaha! Hahahahaha!
+11_50_00_0260:Yan, ay italyan qancığı. Yan! Hahahahaha!
+2000000000:n_

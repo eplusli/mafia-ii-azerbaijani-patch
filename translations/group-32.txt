@@ -1,0 +1,17 @@
+﻿301030880:f_Hə, ay xainlər!
+301030890:f_Elə bildiniz, bizimlə oyun oynaya bilərsiniz!
+301030900:f_Bizə xəyanət edə bilərsiniz!
+301030910:f_Elə bildiniz, amerikalılar sizi qurtarmağa gəlir?
+301030920:f_Səhv düşünmüsünüz!
+301030930:f_Xainlərlə necə davrandığımızı göstərəcəyik!
+301030940:f_Amma əvvəlcə bildiyiniz hər şeyi deyəcəksiniz!
+301030950:f_O müqavimət dəstənizdə başqa kim var idi?!
+301030960:f_Sən, de görüm! Kim?!
+301030970:f_Özünü elə aparma ki, məni başa düşmürsən!
+301030980:f_Sizə kim kömək edirdi?!
+301030990:f_Bildiyin hər şeyi mənə deyəcəksən! 
+301031000:f_Eşidirsiniz, ay murdar alçaqlar?!?!
+301031020:f_Cavab ver! Bu kənddə müqavimət dəstəsindən başqa kim var?!
+301031040:f_Silahlarınızı harada gizlətmisiniz?!
+301031060:f_Amerikalılarla əlaqəniz var?!
+301031070:f_Cavab verin, alçaqlar, yoxsa bu lənətəgəlmiş şəhəri yerlə-yeksan yandırtdıraram!

@@ -1,0 +1,260 @@
+﻿201000010:Bir neçə il sonra nasistlər məni güllələdilər. Bir müddət xəstəxanada qaldım, sonra evə qayıtmaq üçün bir aylıq məzuniyyət verdilər... heç olmasa, bir azlığına.
+201000020:Vito! Buradayam!
+201000030:Joe!
+201000040:He, heh, hey! Xoş gəlmisən, dostum!
+201000050:Haradan bildin?
+201000060:Öz mənbələrim var. Gəl, bir dövrə vuraq.
+201000070:Qəşəng maşındır.
+201000080:İşin üstünlüklərindəndir.
+201000090:Bilirəm, evə getməyə tələsirsən, amma əvvəl bir pivə içək.
+201000100:Hə, əlbəttə.
+201000232:Sağlığımıza, yüz il yaşayasan.
+201000235:Sağ ol!
+201000241:Nə əcəb qayıtmısan? Yaxşı davranışına görə tez buraxıblar?
+201000250:Yox, bir-iki ay əvvəl güllə dəydi, bir müddət xəstəxanada yatdım, indi məzuniyyətdəyəm.
+201000260:Dayan, b-b-bir dəqiqə... deməli, geri qayıtmalısan?
+201000270:Hehe, bəs nə bilirdin? Müharibə hələ qurtarmayıb.
+201000280:Qayıtmaq istəmirsən, hə?
+201000290:Əlbəttə istəmirəm, amma nə edə bilərəm?
+201000300:Bir dəqiqə! Burada gözlə...
+201000301:Hey, Giuseppe, Joe-dur. Keçən həftə yadındadır, bilirsən də...
+201000302:...o adam, adamın adı Vito Scaletta-dır...
+201000305:Sağ ol, Giuseppe. Yaxşı, sonra görüşərik.
+201000310:Yaxşı, qulaq as. Sən demə, yaran əvvəl göründüyündən çox daha "ciddi" imiş, həkimlər deyir ki, daha döyüşə bilməzsən.
+201000320:Nə!? Oho, dayan, dayan - Sən indicə...!?
+201000330:Dedim axı, tanışlarım var. Bütün rəsmi sənədləri sabah alacaqsan. Lazımi möhürlərlə imzalara gələndə, hər şey pula baxır...
+201000340:Zarafat edirsən, hə? Bir az riskli deyil? Axırda zindana düşən mən olaram, bilirsən. Bir də, pulunu necə verəcəyəm?
+201000350:Pulunu mən həll etmişəm. Evə qayıdış hədiyyəsi say. Narahat olma. Sənədlər tərtəmiz olacaq. İnan mənə.
+201000360:Yaxşı... sağ ol...
+201000370:Dəyməz. Come un frate, sən mənə qardaş kimisən...
+201000380:İndi bundan sonra nə edəcəyini düşünə bilərsən.
+201000390:Əlbəttə, amma əvvəl evə getməliyəm.
+201000400:Yaxşı. Aparım səni?
+201000410:Yox, sağ ol. Bir az gəzmək istəyirəm, görüm mən olmayanda nə dəyişib.
+201000420:Problem yoxdur. Bacına məndən salam de. Sabah yanıma gəl. Danışacağımız çox şey var.
+201000430:Məni əsgərlikdən qurtardığına inana bilmirəm. Bir də sağ ol.
+201000440:Dəyməz.
+201000445:Sabah görüşərik.
+202000010:Salam, ana. Qayıtdım.
+202000020:Vito! Vito, oğlum! Oğlum evə qayıdıb!
+202000025:Elə bilirdim səni bir də görməyəcəyəm! Francesca ilə səni gözləyə-gözləyə qalmışdıq!
+202000030:Salam, bacı, necəsən? Gəl bura...
+202000040:Vito! Ah, nə yaxşı ki, axır evə qayıtdın!
+202000050:Otur, otur, yəqin acsan, Vito. Francesca sənə xüsusi yemək bişirib. Toyuq şorbası... Sənə xeyirdir.
+02_02_00_0060:Oho, yaxşı görünür, Frankie...
+202000061:Heyif, atan bunu görəcək qədər yaşamadı. Səninlə elə fəxr edərdi, Vito.
+202000070:Hə, əlbəttə...
+202000080:Vito! Belə eləmək olmaz.
+202000081:Bağışla, ana, bağışla...
+202000110:Ya Rəbb, bizə və Sənin səxavətindən qəbul edəcəyimiz bu nemətlərə xeyir-dua ver. Rəbbimiz Məsihin adıyla. Amin.
+202000111:n_ Ya Rəbb, bizə və Sənin səxavətindən qəbul edəcəyimiz bu nemətlərə xeyir-dua ver. Rəbbimiz Məsihin adıyla. Amin.
+202000112:n_ Ya Rəbb, bizə və Sənin səxavətindən qəbul edəcəyimiz bu nemətlərə xeyir-dua ver. Rəbbimiz Məsihin adıyla. Amin.
+202000130:Amin.
+202000320:Deməli, tezliklə geri qayıtmalısan?
+202000330:Əslində, ee, deyəsən, qayıtmayacağam.
+202000340:Doğrudan!? Niyə?
+202000350:Ee, Joe mənim üçün həll edir.
+202000360:JOE! Yenə başını bəlaya salmaq istəyirsən?
+202000370:Ana, geri qayıdıb yenə güllələnməyimi istəyirsən?
+202000380:Yox, yox...
+202000390:Elədir də. Joe yəqin həyatımı xilas edib.
+202000400:Bəs indi nə edəcəksən?
+202000410:Bilmirəm. Yəqin bir ev tapıb işə düzələrəm.
+202000420:Söz ver ki, o Joe ilə bir də başını bəlaya salmayacaqsan.
+202000421:Bilirsən, atan limanda Papalardo adlı bir adamın yanında işləyirdi. Həmkarlar ittifaqındadır. Onunla danışa bilərsən, atan kimi zəhmətlə işləyərsən.
+202000422:Onunla danış. Xahiş edirəm, söz ver ki, bu gün gedib danışacaqsan.
+202000430:Yaxşı, ana, yaxşı. Söz verirəm.
+202000440:Allaha şükür!
+202001000:...heç vecimə də deyil.
+202001010:Bağışlayın.
+202001011:Pulu tapacağıq, söz verirəm.
+202001020:Nəyin var, hamısını satmalı olsan da vecimə deyil -
+202001030:n_Hey, hey!
+202001031:Burada nə sikim baş verir?!
+202001080:Öz işinə bax, göt!
+202001090:Eləmi?
+202001100:Vito.
+202001101:Yox!
+202001110:Hə?
+202001120:Uff!
+202001200:Sikim belə işi!
+202001210:Hə, düz elə, sikdir get buradan!
+202001230:İkiniz də peşman olacaqsınız!
+202001250:Bu nə məsələ idi axı?
+202001260:Bağışla, Vito. Səni bununla narahat etmək istəmirdik.
+202001270:Narahat etmək? Nəylə narahat etmək? De görüm burada nə baş verir, Frankie!
+202001280:Ölməzdən bir az əvvəl atam bir sələmçidən pul alıb - çoxlu pul. Düşünüb ki, daha yaxşı iş tapıb qaytarar. Sən müharibəyə gedəndən sonra xəbər tutduq.
+202001290:Nə qədər?
+202001300:İki min dollar.
+202001310:Nə? Lənət...
+202001320:Ən pisi odur ki, bu adam həftənin axırına qədər hamısını istəyir, yoxsa... borc yenə artır.
+202001330:Limanda işləməklə o qədər pul qazana bilmərəm. Bu adam kimdir?
+202001340:Bilmirəm, ana mənə demir. Eybi yox, Vito. Bir yolunu taparıq.
+202001350:Narahat olma. Mən həll edəcəyəm... söz verirəm.
+202001355:Sağ ol, Vito. Özündən muğayat ol.
+202001356:Tez iki min tapmalıyam... Yəqin Joe mənə kömək edə bilər.
+203000010:Deyəsən, pis vaxta düşdüm?
+203000020:Haha, nə danışırsan, yox, heç də yox!
+02_03_00_0021:Mağazadan qayıdanda bu qızları götürdüm. Səni gözləyirdim.
+203000030:Gəl içəri. Danışaq.
+203000031:Uf... İyrənc donuz.
+203000040:Yaxşı, qızlar, bu günlük bəsdir. İşim var.
+203000050:Sabah gəlin, yaxşı? Qaldığımız yerdən davam edərik. Cəld olun.
+203000060:Eləmə, Joey! Hamımız əylənə bilərik, niyə dayanaq?
+02_03_00_0070:Əyləncə bitdi, körpəm. Sonra dedim. Vito ilə çoxdandır görüşmürük. Danışacağımız çox şey var.
+02_03_00_0080:Deyəsən, kefin kökdür, Joey.
+203000090:Pis deyil. Deyim sənə, o balaca ispaniyalı qız lap vəhşidir, lənət olsun.
+02_03_00_0100:Evdə necə keçdi?
+02_03_00_0110:Yaxşı. Amma adını çəkəndə anamın xoşu gəlmədi. Bilirsən də necədir. İstəyir düz-əməlli işim olsun.
+02_03_00_0120:Axtaracaqsan?
+203000130:Bilmirəm, amma atamın səhvini təkrarlayan deyiləm. Borclarını ödəməliyəm, sonra ayağa qalxıb özümə ev tutmalıyam.
+203000131:Əməlli pul qazanmalıyam, hər gün işə gedib-gəlməklə alınmaz.
+203000140:Hey, nə qədər lazımdırsa, məndə qala bilərsən. Özünü öldürmədən yaxşı pul qazana biləcəyin bir iş taparıq, yaxşı?
+203000150:Bax, bu xoşuma gəldi. İndi dövlətin həftədə verdiyi iyirmi dollarla dolanıram.
+203000160:Hehehe, necə deyərlər, "riskli" işlərə yaxşı pul verən çox adam tanıyıram... Ən köhnə dostuma nəsə düzəldərəm. Maaşa işləyən adam axmaqdır, bu dəqiqdir.
+203000170:Düz deyirsən.
+203000180:Yaxşı, ilk iş - səni Giuseppe ilə tanış etməliyəm, tərxis sənədlərini götürək. Gedək.
+204000050:Hey, gör kim gəlib.
+204000060:Hey, Mikey, nə var, nə yox?
+204000070:Lənət, Mike! Arabir əlini yusan olmaz? İndi mən çimməli olacağam, sikim belə işi!
+204000080:Hey, işləyirdim. İşləyən adamın üst-başı bəzən çirklənir, bilirsən. Bir də, indicə silmişəm.
+204000090:Nəylə? Ayaqyolunu sildiyin həmin lənətə gəlmiş əsgiylə, murdar əclaf?
+204000100:Səsini kəs. Nədir, səhiyyə idarəsindən gəlmisən, yoxsa iş görmək istəyirsən?
+204000110:Əlbəttə, iş. Bu dostum Vito-dur. Vito, bu da Mike Bruski-dir; amma əlini sıxma, evdə o qədər sabunum yoxdur.
+204000120:Tanış olduğumuza şadam, Vito.
+204000130:Ee, Vito ilə lap çoxdandır dostuq. Təzəcə xaricdən qayıdıb, pula ehtiyacı var. Düşündüm ki, sənin o "təchizat probleminə" kömək edə bilər. Ona zaminəm.
+204000140:Aha. Yaxşı. Joe sənə əlavə işimizdən danışıb, düzdür?
+204000150:Hə.
+204000160:Mənə adi maşınlar lazımdır, dəbdəbəli bir şey yox. Hər maşından payını alırsan. Bacardığım qədərini götürürəm.
+204000161:Bir də, dalınca polis gətirmə, yaxşı? Bura qədər izləsələr, səni heç tanımıram. Anladın?
+02_04_00_0170:Anladım.
+204000180:Lənətə gələsən, Mike! O çirkli pəncəni paltoma vurdun! Buna bir ətək pul vermişəm!
+204000190:Yaxşı, sakit ol, yoxsa onları götünə soxaram, nazlı bala.
+204000200:Bilirsən bu günlərdə kimyəvi təmizləmə neçəyədir?
+204000201:Çox bahadır, bir də kim bilir bu çirki çıxara biləcəklər, ya yox.
+204000210:İlahi.
+204000211:Səsini kəsərsən?!
+02_04_00_0218:Vito, qulaq as - bu gün mənə Walter kupe lazımdır. Ehtiyat hissəsi istəyən bir neçə adam var, amma maşın tapa bilmirəm.
+204000220:...Çünki harada axtarmağı bilmirsən! Hunters-dən hər keçəndə oradakı barın yanında birini görürəm. Deyəsən, yerin adı The Lone Star-dır.
+02_04_00_0230:Ora zənci məhəlləsi deyil? Orada lap gözə batacağam.
+204000240:Yaxşı, bax, ona üç yüz əlli dollar verərəm. Riskə dəyər, hə?
+02_04_00_0250:Dörd yüz.
+204000260:Haha. Yaxşı... Razılaşdıq.
+204000270:Yaxşı, Vito, gəl, gedək. Andiamo.
+204000280:Bu arada, paltomun təmizləmə hesabını sənə göndərəcəyəm!
+02_04_00_0285:Hə, mən də ünvanımı dəyişərəm, siçovul oğlu.
+204000350:Yaxşı, qulaq as, bu sənin ilk səfərindir, necə deyərlər. Çalış, zibilini çıxarma, hə?
+205000010:Oradakı krem rəngli qəşəng maşındır. Ehtiyatlı ol. Tez elə, çıx get oradan. Lazım olsa, şüşəni qır, sür get. Mike-ın yanında gözləyəcəyəm.
+205000020:Problem çıxsa, necə?
+205000030:Özün həll edərsən. Bax, bunu sınaq say. Bacarmasan, eşitmişəm fabrikə işçi yığırlar.
+205000040:Yaxşı. Elə soruşdum.
+205000050:Uğurlar, dostum. Mike-ın yanında görüşərik.
+205000073:Hey! Hey, nə edirsən, anasını sikdiyim!
+206000010:Hey! Tapşırıq yerinə yetirildi! Necə keçdi?
+02_06_00_0020:Çox asan, maşının bir dəstə zənciyə məxsus olmağını, sən gedən kimi də məni öldürməyə çalışmaqlarını saymasaq!
+206000030:Eh, yəqin Bombers idi. Hunters onların məhəlləsidir. Belələrindən narahat olma. Küçədə boş-boş danışır, oğurluq edir, narkotik çəkirlər.
+206000040:Görək nə gətirmisən...
+206000047:O alçaq bunun pulunu haradan tapıb? Yəqin özü də oğurlayıb. Amma yaxşı maşındır.
+206000043:Hmm, yaxşıdır. Ləkə yoxdur. Təmizdir.
+206000050:Buna nə qədər verəcəyimi demişdim?
+02_06_00_0060:Altı yüz.
+206000070:Hahahoho! Dostun xoşuma gəldi, Joe! Al dörd yüz dollarını.
+206000080:Yenə gəl, yaxşı? Bir az da iş görərik.
+02_06_00_0090:Hə, mütləq, Mike.
+206000100:Görüşərik, Mike, lap tezliklə yenə gələcəyəm.
+206000110:Mən də.
+206000120:Yaxşı, uşaqlar. Görüşərik.
+206000130:Al üç yüzünü. Vasitəçi kimi payımı götürürəm. Gələn dəfə özün edərsən.
+02_06_00_0140:Yaxşı! Sağ ol, Joe.
+207000510:Hey, Giuseppe! Sənə təzə müştəri gətirmişəm.
+207000520:Salam, Joe.
+207000521:Etibarlı adamdır, hə?
+207000530:Bəli, tamamilə. Bu Vito-dur, ən köhnə dostum.
+207000531:Bu da Giuseppe-dir, Empire Bay-in ən yaxşı seyf açanı.
+207000540:Təqaüddə olan, zəhmət olmasa.
+207000541:Necəsən? Sənədlər sənindir?
+207000550:Hə, mənimdir. Artıq hazırdır?
+207000560:Əziyyətli oldu, amma hə, hazırdır.
+207000570:Yaxşı, sağ ol. Bu həqiqətən işə yarayacaq?
+207000580:Ordudan heç kim səni bir də narahat etməyəcək, inan mənə.
+207000590:Gördün? Nə dedim sənə? Al pulunu. Sənədlərini götür, Vito.
+211000010:n_ ...yemək çeynəyir...
+211000011:Oho, qapını ört, yel gəlir! Nə istəyirsən?
+211000020:Ee, hə, cənab Papalardo-nu axtarıram.
+211000030:Eləmi? Niyə?
+211000040:Adım Vito Scaletta-dır. Atam onun yanında işləyirdi, mən də iş axtarıram, ona görə gəldim.
+211000050:Yaxşı... Düz gəlmisən, oğlum. Federico Papalardo qulluğunda hazırdır. Mənə Derek deyə bilərsən. Deyəsən, atanı xatırlayıram.
+211000055:Yaxşı adam idi, amma su yerinə içki içirdi. Bu aralar nə edir?
+211000060:Ölüb.
+211000070:Ah... Nə deyək, hamımız bir gün gedəcəyik, elə deyil, Steve?
+211000075:Əlbəttə, Derek.
+211000080:Deməli, iş lazımdır, hə? Bəxtin gətirib. Təzə yük gəlib, boşaltmaq lazımdır. Steve sənə göstərər. İndi çıx get, steykim soyuyur.
+211000090:Hey, qurtardın?
+212000020:Hə, qurtardım. On dollarını da özünə saxla! Mən iş istəyirəm deyəndə qul əməyi nəzərdə tutmurdum.
+212000030:Nə istəyirsən elə. Onda rədd ol buradan. Bir də gözümə görünmə.
+212000040:Hə, narahat olma. Barbaro şirkətində yüz qat artıq qazanaram.
+212000050:Dayan!... Barbaro dedin? Joe Barbaro?
+212000060:Hə. Nə olsun?
+212000070:Lənət! Joe ilə işləyən heç kim on dollara yeşik daşımaz! Sən nə edirsən axı?
+212000080:Gəl mənimlə.
+212000090:İndi nə var?
+212000100:Bu, əl əməyini xoşlamır.
+212000110:Bu nə sikimdir!
+212000120:Deyir Joe Barbaro ilə işləyir.
+212000130:Cəfəngiyyatdır. Joe ilə işləyən adam niyə yeşik daşısın?
+212000140:Bunu mənə başa salmalısan, oğlum. Nə məsələdir?
+212000150:Ee, anam istəyirdi gəlib səninlə halal iş barədə danışım, amma m-mənə əməlli pul lazımdır, bu işlə alınmaz.
+212000160:Hehehe, lənətə gəlmiş arvadlar! Hamısı eynidir. Düzdür, Steve?!
+212000170:Əlbəttə, Derek.
+212000180:Joe ilə gəzməyini istəmir, hə? Hehehe. Anam da elə idi, bax gör mən nə oldum! Həmkarlar ittifaqının başçısı! Bütün bu lənətə gəlmiş liman ovcumun içindədir.
+212000181:Joe necədir?
+212000190:Deyəsən, yaxşıdır.
+212000200:Onunla necə tanış olmusan?
+212000210:Ee, köhnə məhəllədən dostuq. Təzəcə xaricdən qayıtmışam, ayağa qalxana kimi məni evində saxlayır.
+212000220:Qulaq as, başa düşməlisən, mənim mövqeyimdə olan adam ehtiyatlı olmalıdır.
+212000230:Əlbəttə.
+212000240:Deməli, Joe-ya zəng eləsəm, etiraz etməzsən?
+212000245:Yox, buyur.
+212000250:Nömrəsini hara qoymuşdum... Ah! Buradadır.
+212000260:Bəlkə evdə olmaz...
+212000261:Bu yaxşı olmaz.
+212000270:Salam, Joe! Hey, Derek-dir... Qulaq as, burada bir oğlan var...
+212000275:Ee, adın nə idi?
+212000280:Vito.
+212000290:Vito. İş axtarır, deyir dostundur. Yaxın dostun. Əvvəl səndən dəqiqləşdirmək istədim...
+212000295:Aha.
+212000300:Əlbəttə. Müharibə qəhrəmanı, filan-fəsməkan... Yaxşı, yaxşı, sağ ol onda. Sonra danışarıq.
+212000310:Bağışla, dostum, səni yoxlamalıydım. Joe deyir İtaliyadan təzəcə qayıtmısan. Yəqin özünü qorumağı bacarırsan. Bir az artıq pul istəyirsənsə, sənlik işim var.
+212000315:Burada limandakı adamlar bərbərə aylıq haqq verməlidir, amma yarısı heç vaxt ödəmir. Onları bir az tərpədəcək adam lazımdır... Hər adamdan on dollar.
+212000320:Saç kəsdirməyə ehtiyacları yoxdursa, necə?
+212000330:Onda sən onları əksinə inandırmalısan.
+212000340:Aydındır. Kimsə hay-küy salsa, necə?
+212000350:Onda əzişdirərsən onu!
+212000360:Yəni, elə dərs ver ki, işə gəlməyə mane olmasın, anladın? Steve elə buna görə bu işi görmür. Düzdür, Steve?
+212000370:Düzdür, müdir.
+212000380:Ən az yüz əlli dollar yığ, sənə əlli verəcəyəm. Eləcə gəzib, dəniz havası alıb, təzə adamlarla tanış olmağa görə. Asan puldur, hə? Nə deyirsən?
+03_55_00_0060:Hey, dostum. Derek bərbər haqqını ödəməyini istəyir.
+03_55_00_0490:Bax, göt, kefim yoxdur. Döyülməmiş rədd ol gözümdən!
+03_55_00_0500:Alınmaz, dostum. Derek pulunu istəyir.
+03_55_00_0510:Derek gəlsin götümü öpsün! O kök əclaf nə edəcək? Məni öldürtdürəcək?
+03_55_00_0520:Hey, bunu sən dedin, mən demədim.
+03_55_00_0530:Onda yoxla görək, göt!
+213000010:Al pulunu, müdir.
+213000020:Yaxşı işdir. Bu da sənin payın.
+213000030:Bill-i necə yola gətirdiyini gördüm. Yaxşı idin. Steve bunu sınayanda az qalmışdı özünü döysünlər, düzdür, Steve?
+213000040:Hə. Düzdür, Derek.
+213000050:Bu da onu yola gətirdiyinə görə əlavə haqq.
+213000051:O adam lap zəhləmizi tökürdü.
+213000060:Sağ ol.
+213000070:İndi get, oğlum. İşimə qayıtmalıyam. Anana da məndən salam de! De ki, yeni köməkçim kimi iş tapmısan!
+213000080:Hə, deyərəm. Görüşərik.
+201000331:Dedim axı, tanışlarım var. Bütün rəsmi sənədləri sabah alacaqsan. Lazımi möhürlərlə imzalara gələndə, hər şey pula baxır...
+201000421:Problem yoxdur. Bacına məndən salam de. Sabah yanıma gəl. Danışacağımız çox şey var.
+202000051:Otur, otur, yəqin acsan, Vito. Francesca sənə xüsusi yemək bişirib. Toyuq şorbası... Sənə xeyirdir.
+02_03_00_0022:Mağazadan qayıdanda bu qızları götürdüm. Səni gözləyirdim.
+2000000000:n_
+02_04_00_1180:Al, Vito, bunu götür. Hər ehtimala qarşı...
+02_04_00_1190:Hey... yaxşıdır.
+02_04_00_1195:Hey, Mike! Bunu burada yoxlasam olar?
+02_04_00_1200:Əlbəttə, ürəyin istədiyi qədər.
+02_04_00_1201:Al, o köhnə maşın xarabasını nişan al.

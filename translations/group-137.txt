@@ -1,0 +1,51 @@
+﻿310051236:Yaxşı, indi Clemente-ni tutaq!
+310070010:Hə? Elə bilirsiniz bitdi?! Səhvdir, götlər!
+310070030:Qazı bas, Vito!
+310070040:Daha sürətli!
+310070050:Yaxınlaşdır məni!
+310070060:Qaçırlar! Tez!
+310070070:Tutdum səni, əclaf!
+310070080:Əlvida, göt!
+310070090:Sürücünü öldür!
+310070100:Vurdum!
+310070110:Ehtiyatlı ol! Lənət!
+310070120:Lənət, Vito, hara getdiyinə bax!
+310070130:Lənət, az qalmışdı!
+310070140:Lənət, Joe, ehtiyatlı ol!
+310070150:Lənət, Vito! Dəlisən?!
+310070160:Oho!
+310070170:Əla, Vito, əla!
+310070180:Hadi, götlər!
+310070190:Tutun, Joe!
+310070200:Yoldan çəkil! Ay lənət!
+310070210:Bir şey elə, Vito!
+310070220:Bu adamlar bizi öldürəcək!
+310070230:Vur onları, Joe!
+310070240:Hadi! Öldür daha!
+310070250:Joe, bu maşın gülləkeçirməz deyil!
+310070260:Bu Sherman tankı deyil, Joe. Hadi, öldür bu adamları.
+310070270:Polisdən qurtul, Vito!
+310070280:Polislə bağlı bir şey elə, Vito!
+310070290:Təkərlərini vur!
+310070300:Nə edirsən! Bunları yox, Clemente-ni izlə!
+310070310:İnan mənə!
+310070320:Ancaq bu yolla gedə bilərdi. Buraları tanıyıram.
+310070330:Yaxşı, ikidirlər. Ayrılsalar, o birini yox, Clemente-ni izlə.
+310070340:Sürməyi bilirəm, yaxşı? Sən silahla hazır ol!
+310070350:Onu fikirləşmə. Sadəcə Clemente-ni izlə. Qara limuzindədir!
+310070360:Hey, Joe, mənim də gözüm var, bilirsən...
+310070370:Ah, lənət, elə bu çatışmırdı!
+310070380:Sikim polisi... Clemente-dən ayrılma. Marty boşuna ölməyəcək...
+310070390:Lənətə gəlmiş polislər! Daha yaxşı işləri yoxdur!?
+310070400:Yaxınlaşdır bizi!
+310070410:Çalışıram, Joe!
+310070420:Biri getdi!
+310070430:Yaxşı işdir.
+310070440:Növbəti Clemente-dir!
+310070450:Lənət, bu şey partlayacaq!
+310070460:Ehtiyatlı ol, Vito!!!
+310070470:Daha yaxınlaşa bilmirəm, Joe. Öldür daha!
+310070480:Çalışıram, lənət olsun!
+310070490:Təkərlərini vurmağa çalış!
+310070500:Sikim təkərlərini, başını nişan alıram!
+310070600:Lənət, az qala Clemente-nin lənətə gəlmiş iqamətgahına çatmışıq. Onu İNDİ tutmalıyıq, Vito!

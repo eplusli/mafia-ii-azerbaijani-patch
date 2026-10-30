@@ -1,0 +1,19 @@
+﻿303030600:n_Qulaq as, onu hələ həll etməmişəm. Yəqin üstündə düymələr olan bir qutu lazımdır ki, ekrandakı adamı idarə etsin. Bir düymə onu yeridər, o biri atəş açdırar, biri də bəlkə...
+303030610:n_Hə, dahi fikrin budur? Maraqlı səslənir, amma heç vaxt olmayacaq.
+303030620:n_Elə? Əminəm, bir gün kimsə yolunu tapacaq. Bu sözümü yadında saxla!
+303030630:n_Hə, əlbəttə, Aya adam göndərəndən dərhal sonra! Hehe.
+303030640:n_Hə, hə... Yaxşı, mən qayıdım krossvorduma.
+303030650:n_Yaxşı, o 2 nömrəli karandaşla özünü yaralama.
+303030720:Tərpənmə! Əllərini qaldır, vallah, vuraram səni!
+303030730:Əllərini qaldır, yerə uzan, indi!
+303030810:Nə olub? Niyə belə sakitdir? Bayaq ağzını bağlamaq olmurdu!..
+303030820:Bu, gülməli deyil. Bir söz de!
+303030830:Ora gəlirəm. Yenə axmaq zarafatlarındandırsa, vallah, qulaqlarını qopararam.
+303030840:Lənətəgəlmiş uşaq yəqin gizlənib məni qorxutmaq istəyir. Keçən dəfə az qala ürəyim dayanmışdı.
+303030900:Bura direktorun otağıdır. Açar burada olmalıdır.
+303030910:Hə, direktorun otağı budur. Maria açarın burada olduğunu demişdi...
+303030915:Yaxşı, açar buradadır... indi seyfə çatmalıyam.
+303030920:Ah, bax belə... Əla tapıntıdır.
+303030925:Yaxşı, buradan çıxmaq vaxtıdır...
+303030930:Lənət, açmaq üçün açar lazımdır. Maria direktorun otağında olduğunu demişdi...
+303030960:Empire Bay Polis İdarəsidir! Mühasirədəsiniz! Əllərinizi qaldırıb çıxın! Dərhal təslim olmasanız, atəş açacağıq.

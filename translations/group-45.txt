@@ -1,0 +1,33 @@
+﻿302060010:Nəyə baxırsan, ağ oğlan? Görmürsən, məşğuluq?
+302060020:Deyəsən, kimsə şəhərin səhv yerinə gəlib.
+302060030:Karsan? Bura bizim ərazidir, sənə yer yoxdur. Rədd ol, italyan.
+302060040:Bizə ilişməyə davam etsən, Bombers-lə işin olacaq.
+302060050:Yaxşı, indi özün istədin, anasını sikdiyim!
+302060060:İndi o ağappaq götünü döyəcəyik!
+302060061:Maşınsız gedə bilmərəm.
+302060062:O maşını götürməliyəm. Bu işi korlaya bilmərəm.
+302060063:Buradan piyada yox, o maşınla getməliyəm.
+302060064:İndi qaça bilmərəm. Görüləsi işim var.
+302060070:Anasını sikdiyim! O göt maşınımı oğurlayır! Bu zibilə inanırsan?
+302060071:Çəkil maşınımdan!
+302060072:O dəli ağ oğlan şüşəmi qırdı!
+302060073:Hey! Hey, nə edirsən, anasını sikdiyim!
+302060074:Səhv zəncilərə ilişdin, oğlan.
+302060080:İndi o ağappaq götünü döyəcəyik.
+302060081:Yo! Maşınımla nə etdiyini sanırsan!?
+302060082:Dayanın, dayanın, sakit, uşaqlar. Ee... Deyəsən, maşını səhv salmışam.
+302060083:Düz tapdın, səhv salmısan!
+302060120:Nə var? Maşın haradadır?
+302060150:Hey, Vito, maşınsız qayıtma.
+302060160:Maşın haradadır?
+302060200:Getsəm yaxşıdır. Joe məni gözləyir.
+302060210:Sonra gəzərəm. Əvvəl pul qazanmalıyam.
+302141260:Hey, burada nə sikim edirsən?
+302141270:Hey, dostum. Burada sənə yer yoxdur. Yaxşısı... get.
+302141280:Hey, orada nə sikim edirsən?
+302141290:Ah, lənət.
+302141300:Bu əclafa dərs verək!
+302141310:Hey, burada nə baş verir?!
+302141320:Öldürün o anasını sikdiyimi!
+302140850:Başladıq.
+302140870:Lənət. Buradan getsəm yaxşıdır.

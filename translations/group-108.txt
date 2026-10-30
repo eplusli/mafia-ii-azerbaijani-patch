@@ -1,0 +1,29 @@
+﻿308510270:Vito, çıxmağa hazırsan?
+308510280:Salam, Carmine. Hə, gedək.
+308510281:Hə, necə olmusan, Vito?
+308510282:Eh, bilirsən də. Həmişəki kimi.
+308510283:Hə... Joe necədir?
+308510284:Həmişəki kimi...
+308510285:Hehe, axırıncı dəfə görəndə onu ancaq yanındakı iki fahişə ayaqda saxlayırdı.
+308510286:Joe budur da.
+308510290:Onlardır!
+308510300:Uşaqlar, buna baxın! Nədir, bu alçaqlar gəlmədən adam öz məhəlləsində bir parç pivə də içə bilmir? Pizza çatdırmağa gəlmisiniz, alçaqlar?
+308510310:Alçaqlardan düz danışırsan, amma bu, bizim məhəlləmizdir.
+308510320:Götümdən öp, italyan köpək. Siz gicbəsərlər səsinizi kəsib qaçsanız yaxşıdır, yoxsa çəkməmi götünüzə soxaram, vallah!
+308510330:Birincisi, nə sikim dediyini heç başa düşmədim. İkincisi, get özünü sik!
+308510340:O balaca köpəyinə ağızlıq taxsan yaxşıdır, yoxsa mən taxaram.
+
+308510350:Elə? Sına görək, sik sifət.
+308510360:Sizi sağ qoymağımızın bir səbəbi var: qalan italyanlara deyin ki, gələn dəfə belə yumşaq davranmayacağıq.
+308510370:Bu, sadəcə xəbərdarlıqdır! Sizi bir də burada görsəm, meyit torbasında gedəcəksiniz.
+308510380:Hə, necə keçdi? Ağıllarını başlarına gətirdiniz?
+308510390:Əlbəttə. Doğma anaları da tanımayacaq.
+308510395:Deyək ki, bir də kimisə narahat edəcəklərini düşünmürəm.
+308510400:Hahahaha, bilirdim, məni məyus etməzsən, Vito. Pulun budur.
+
+308510410:Vay, sağ ol, Derek. Bu qədər gözləmirdim.
+
+308510420:Yaxşı işə görə balaca mükafatdır. Haqq etmisən.
+308510430:Bağışla, Derek, çox idilər. Həddən artıq çox. Gələn dəfə daha çox adam göndərməlisən.
+308510440:Lap əla oldu! Bilirsən, bu, ürəyimin yanmasına kömək etmir, Vito. Yaxşı, bir az məni tək qoy, düşünməliyəm.
+308510445:Əvvəl Derek'in işini bitirməliyəm.

@@ -1,0 +1,30 @@
+﻿302030100:n_Düzəldi?
+302030110:n_On saniyə əvvəl soruşduğun kimi qalıb.
+302030120:n_Ah, bezdim daha...
+302030130:n_İndi sənə nə olub axı?
+302030140:n_Bir əsrdir düzəldirsən, mən də donuram.
+302030150:n_Donursansa, otur o lənətə gəlmiş maşında.
+302030160:n_Maşında da soyuqdur! Tələs, bu xarabanı düzəlt.
+302030170:n_Deyinməyi kəsib kömək etsən, çoxdan qurtarardı.
+302030180:n_Mən deyinmirəm!
+302030190:n_Hə... eləmi? Dilin işlədiyi qədər açarla da işləyə bilsəydin, bu lənətə gəlmiş şey çoxdan düzələrdi.
+302030200:n_Uf! Nə yararsızsan... Təəccüblü deyil ki, ordu səni götürmədi.
+302030210:n_Uf! Yenə bunu deməliydin, hə!
+302030220:n_Ethel-in əri Frank qırıcı təyyarəçidir. Margaret-in əri Charlie sualtı qayıq sürür...
+302030230:n_Xəbərdarlıq edirəm...
+302030240:n_Mənim ərim? Ah, yararsızdır. Ərzaq dükanında işləyir.
+302030250:n_Uf, bilirsən nə var? Özün düzəlt onda, zəhlətökən qancıq!
+302030260:Hey, kömək lazımdır?
+302030270:Əlbəttə. Ümid edirəm, bu işdə o fərsiz ərimdən yaxşısan.
+302030280:Buyur, hazırdır. Sadəcə bir-iki şeyi bərkitmək lazım idi.
+302030290:Doğrudan? Çox sağ ol, yaraşıqlı.
+302030300:Dəyməz.
+302030310:Hey, qoçaq, nəyə baxırsan, hə? Öz işinə bax - yoluna davam elə!
+302030320:Qulağına zibil dolub? Rədd ol buradan!
+302030330:Ah, qəhrəmanımız var, hə? Gəl görək!
+302030340:Pis seçimdir, göt.
+302030420:Joe-nun yanına getməliyəm.
+302030430:Joe-nun evinə getsəm yaxşıdır.
+302030440:Joe-nu görməliyəm. Nə edəcəyimi o bilər.
+302030010:Bağışlayın, xanım? Ee, Joe Barbaro-nun harada yaşadığını bilirsiniz?
+302030020:Pilləkənin sağında. De ki, dünən gecəki hay-küyə son qoysun. Xoşuna gəlmirsə, başqa ev tapsın.

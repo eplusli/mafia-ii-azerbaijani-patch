@@ -1,0 +1,18 @@
+﻿310050001:Burada nə sikim edirsən? Rədd ol!
+310050002:Rədd ol dedim! Buranı sonra təmizləyərsən.
+310050003:Lənət! Silahları var!
+310050004:Öldürün onları!
+310050005:Gəl, Vito, tamaşa başlayır.
+310050006:Onları buradan vura bilərik. Tez ol, vaxtımız azdır!
+310050010:Yuxarıda nə baş verir? Güllə səsinə oxşa... ah, lənət!
+310050240:Ah, lənət!
+310050250:Yaxşı, Vito, başladıq!
+310050260:Lənət! Öldürün onları!
+310050270:Yaxşı... Bu da həll olundu.
+310050280:Ümid edirəm, burada bizi eşidən olmadı.
+310050290:Yox, belə binaların pəncərələri səs keçirmir. Elə hündürük ki, küçədə də heç kim eşitməzdi. Gəl, pəncərəsilən platformasına gedək.
+310050320:Ehtiyatlı ol, bu alçaqlardan yenə çıxa bilər...
+310050330:Görəsən, niyə... Cəmi ölüləri oyadacaq qədər səs salmışıq.
+310050340:Diqqət, gəlirlər!
+310033650:Ehtiyatlı ol, başqaları da ola bilər.
+310033670:Gəlirlər!

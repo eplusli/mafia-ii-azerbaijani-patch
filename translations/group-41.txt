@@ -1,0 +1,38 @@
+﻿302040330:İndi nə edəcəyini düşünmüsən?
+302040350:Yox, yox... Gələcəyini deyirəm. Orada olanda qayıtdıqdan sonra nə edəcəyini düşünmürdün?
+302040360:Elə yox... yəni... adi şeylərdən başqa. Yaxşı bir qız tapmaq, ev-eşik qurmaq...
+302040370:Hop... O şeylərə sonra çox vaxt olar. İndi bir az yaşamağını təmin edəcəyəm.
+302040371:Haha, hə... Yaxşı səslənir.
+302040380:Buyur, isti su çoxdur.
+302040390:Ay Allah, bura lap saraydır.
+302040400:Hehehe, bəyəndiyinə şadam. İstədiyin qədər qala bilərsən, dostum.
+302040410:Vay! Bu çarpayıya bax!
+302040420:Hey, hey! Orduda işləriniz necə idi, bilmirəm, amma burada hər çarpayıya bir kişi düşür, aydındır?
+302040430:Zarafat edirsən? Bayaq çıxan o iki arvadı görəndən sonra pul versən də buna əl vurmam...
+302040440:Hey, şəkildəki bu arıq oğlan kimdir?
+302040450:Hehehe... 41-ci ildə çəkilib.
+302040460:Ah, heç dəyişməmisən. Yəni üzün.
+302040470:Hehehe, siktir. Yaxşı həyat adamı bu günə qoyur.
+302040480:O vaxt çox axmaqlıq eləmişdik, hə?
+302040490:Hə, sən gedəndən hər şey dəyişdi.
+302040500:Mənim üçün də asan deyildi, bilirsən.
+302040510:Hə, inanaram. Amma indi qayıtmısan, hər şey dəyişəcək.
+302040520:Buna bax! Öz telefonun var?!
+302040530:Hə, indi sənin də var. Bu günlərdə onsuz iş görmək olmur.
+302040540:Mənzildən çıxmadan zəng edə bilmək yaxşı şeydir yəqin.
+302040550:Elədir, amma bu lənətəgəlmiş gecəyarısı oyadanda heç xoş olmur. Təsəvvür elə, bütün günü bunu yanında gəzdirməli olasan? Dəli olardım.
+302040560:Mən burada yatacağam?
+302040570:Hə, sənindir.
+302040580:Sonra dincələrəm.
+302040590:İndi yatmaq vaxtı deyil.
+302040861:Yaxşı, indi sola dön.
+302040864:Qabaqda sola dön.
+302040869:Elə burada sola dön.
+302040876:Sağa dön.
+302040879:Burada sağa dön.
+302040881:Qabaqda sağa dön.
+302040884:Hey, geri dön, səhv yoldayıq!
+302041350:Bilirsən, zarafat etmirmişsən. Orada sənə sürməyi yaxşı öyrədiblər. Heç olmasa bir xeyri dəyib.
+302041360:Sükan arxasında elə də pis deyildin. Amma bir az məşq lazımdır.
+302041370:Ay Allah. Bura sağ-salamat çatmağımız bəxtdir... 
+302140290:Demişdin, məni o Giuseppe ilə tanış edəcəksən.

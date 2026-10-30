@@ -1,0 +1,45 @@
+﻿306070050:Salam, necə gedir?
+306070060:Necəsən, Vito? Adım Saldır. Rinqdə yaxşı iş gördün.
+306070070:Sağ ol... Yeri gəlmişkən, sparrinq etmək istəyirsən?
+306070080:Uf... İncimə, amma başımı sındırmaqdansa yaxşı işlərim var. Al'dan soruş, onun döyülməyə ehtiyacı var.
+306070090:Yaxşı, sağ ol.
+306070100:Səni bura nə gətirib, Sal?
+306070110:Ağırlıq qaldırmaq istədim, ağırlıqlar da buradadır.
+306070120:Yox, yox, demək istəyirəm... Həbsə necə düşmüsən?
+306070130:Çox sual verən birini öldürmüşəm.
+306070140:Yaxşı, onda görüşərik.
+306070150:Ah... Qulaq as, hörmətsizlik olmasın, məşqimi bitirməliyəm, yaxşı?
+306070160:Problem yoxdur.
+306070170:Sonra gəl.
+306070180:İndi yox, Vito.
+306070190:İşarəni başa düşmürsən?
+306070200:Salam, necəsən? Adım Vitodur.
+306070210:Hə, bilirəm. Mən Al'am. Tanışlığıma şadam.
+306070220:Şey, sparrinq etmək istəyirsən?
+306070230:Hə, niyə də yox?
+306070240:Bir neçə raund da gedək?
+306070250:Həmişə hazıram, bala.
+306070260:Yaxşı, başlayaq.
+306070270:Oldu, amma yavaş vur, yaxşı? Sənin, ya Pepé kimi peşəkar deyiləm.
+306070280:Bilirsən nə var? Bəlkə sonra.
+306070290:Əlbəttə. Burada olacağam.
+306070300:Yaxşı, başlayaq.
+306070310:Davam etmək istəyirsən?
+306070320:Bilirsən nə var? Hələlik bəsdir.
+306070330:Yaxşı, özün bilərsən.
+306070340:Necə gedir? Mən Vito'yam.
+306070350:Chris. Necə kömək edim?
+306070360:Bir neçə raund döyüşmək istəyirəm. Maraqlıdır sənə?
+306070370:Dostum, məşğulam. Oradakı Al'dan soruş.
+306070380:Dedim axı, məşğulam.
+306070390:Başa düşməmisənsə, siktir get, dostum.
+306070400:Salam. Necəsən? Adım Vitodur.
+306070410:Sam. Necəsən?
+306070420:Sparrinq etmək istəyirsən?
+306070430:Elə yox. Bağışla.
+306070440:Bağışla, bir az məşğulam, yaxşı?
+306070450:İndi yox, yaxşı?
+306070460:Çıx get də.
+306070470:Vito, bu günlük bitirdik, yaxşı? Dincəlməliyəm, hə?
+306070480:Nəsə lazım olsa, cənab Galante'nin yanına get.
+306070490:Vito, nəsə lazım olsa, cənab Galante ilə danış.

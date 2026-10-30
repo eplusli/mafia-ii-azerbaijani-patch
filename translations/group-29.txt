@@ -1,0 +1,4 @@
+﻿314020550:Sakitcə. Maşının yanına get.
+314020560:Yaxşı, dayan.
+314020570:Hara gedirsən? Dedim, maşının yanına get!
+314020580:Oyun çıxarma, maşının yanında dayan!

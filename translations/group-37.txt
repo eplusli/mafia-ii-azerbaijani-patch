@@ -1,0 +1,32 @@
+﻿302011051:Salam, nə xəbər var?
+302011052:Necəsən, əsgər?
+302011053:Evə qayıtmışam, indi xeyli yaxşıyam.
+302011054:Məzuniyyətdəsən, yoxsa həmişəlik qayıtmısan?
+302011055:O... məxfi məlumatdır.
+302011056:Buralarda nə var, nə yox?
+302011057:Düzünü desəm, elə bir şey yoxdur. Hamı müharibənin bitməyini istəyir, deyirlər, tarixdə ən soyuq qışdır. Kaş sənə yaxşı xəbərim olaydı.
+302011058:Hə, kaş. Yaxşı, görüşərik.
+302011059:Görüşərik, dostum.
+302011060:Vito?! Sənsən?
+302011070:Vito, məni xatırlamırsan?
+302011080:Vito... Vito, sənsən? Vito, sənsən? 
+302011090:Şey, salam, xanım...
+302011100:Vito? Özüsən! Bu formada necə yaraşıqlısan. Anan səninlə fəxr edir yəqin.
+302011110:Şey...
+302011120:Bəs yazıq Salvatore Montemaggiore necədir? Yazıq anası onu bir həftə əvvəl gözləyirdi.
+302011130:Hə, Sal donanmaya yazılıb... Mən quru qoşunlarındayam. Fərqlidir.
+302011140:İçəri girib mənimlə çay içməzsən, Vito? Hər şeyi danışarsan!
+302011150:Sağ olun, amma bir az tələsirəm. İndicə qayıtmışam, anamla Frankie'ni görməyə can atıram.
+302011160:Francesca nə gözəl qızdır. Təəccüblüdür, hələ ərə getməyib. Anana məndən salam de, Vito.
+302011390:Vito, kimlər qayıdıb! Yenicə vurulmuş adama görə yaxşı görünürsən.
+302011400:Salam, Lisa! Necəsən?
+302011410:Francesca qayıdacağını demişdi. Axır ki, yaxşı bir xəbər, hə!
+302011420:Hə, elədir. Qayıtmaq yaxşıdır.
+302011430:Bilirsən, sağ-salamat olduğuna çox şadam. Sənsiz məhəllə əvvəlki kimi deyildi.
+302011440:Məncə, burada hər şey əvvəlki kimidir, sən də həmçinin. Hə, sonra nə edirsən?
+302011450:Həmişəki kimi, Tony ilə uşaqlara şam yeməyi bişirirəm.
+302011470:Ərə getmisən? Vaxt itirməmisən, hə?
+302011475:Vito, iyirmi bir yaşım var! Əlbəttə, ərdə olmalıyam, iki uşağım da var.
+302011479:Hə, səni görmək çox xoş oldu. Anana da məndən salam de, yaxşı?
+302011480:n_Ümid edirəm, bunlar bizimkilərdir...
+302011490:n_Əlbəttə, bizimkilərdir! 

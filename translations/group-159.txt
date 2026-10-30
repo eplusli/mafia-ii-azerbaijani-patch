@@ -1,0 +1,17 @@
+﻿311041701:Əvvəlcə dostun fikrini dəyişməmiş buradan çıxaq.
+311041700:Frank-a nə olduğunu deyəcəksən?
+311041730:Əlbəttə, amma narahat olma, sənin adını çəkməyəcəyəm. Onsuz da başında kifayət qədər dərd olacaq.
+311041740:Sağ ol, Leo. Bilirsən, bu iş lap tez qəlizləşdi. Başa düşürsən?
+311041750:Əlbəttə, Vito... Nə gözləyirdin? And içirsən, qəşəng kostyum geyinirsən, sonra da ancaq kef çəkirsən?
+311041760:Carlo həmişə şübhəli əclaf olub, hətta bu işin adamlarının gözündə də. İllərdir Frank-a onun haqqında xəbərdarlıq edirəm.
+311041770:Bəs indi nə edəcəksən?
+311041780:Aradan çıxacağam, qoy işlər öz axarı ilə getsin. Lost Heaven-ə gedən ilk qatara minəcəyəm. Bir neçə zəng edib işlərimi yoluna qoyacağam. Sonra hava limanına gedib isti bir yerə uçacağam. Sabah bu vaxt hardasa çimərlikdə oturub üstündə çətir olan meyvəli içkilərdən içəcəyəm.
+311041790:Bir şey dəqiqdir: Carlo ölümümü istəyirsə, burada qalmaq birbaşa morqa bilet almaqdır.
+311041800:Bir az həddindən artıq deyil?
+311041810:Yox, onsuz da bu işdən çəkilmək istəyirdim. Mənim yaşıma çatanda, Vito, bu çəkişmələr adama mənasız gəlir. Frank heç vaxt dəyişməyəcək, davakardır. İndi ancaq o cavan, qızğınbaş uşaqlara qulaq asır, çünki ona eşitmək istədiyini deyirlər. Özünü mafiyanın şerifi sayıb Carlo-nun dalına düşmək istəyirsə, mənsiz də edə bilər. Heyif ki, səni də bu işə saldım.
+311041820:Öz seçimim idi, Leo. Sən sadəcə işi bir az sürətləndirdin. Onsuz da başqa nə edəcəkdim? Atam kimi limanda işləyəcəkdim?
+311041830:Eh, mənə deyirsən, uşaq? Özüm bunları yaxşı bilirəm...
+311041860:Oldu, qoca.
+311041861:Yaxşı, Vito, zəhmət olmasa, indi məni vağzala apar. Bu şəhərdə yaxşı günlərim olub, amma indi vidalaşmaq vaxtıdır.
+311042200:Oraya pijamada gedəcəksən?
+311042201:Əlbəttə. Üçlük kostyumda ölməkdənsə, pijamada sağ qalmaq yaxşıdır.

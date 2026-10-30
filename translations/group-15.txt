@@ -1,0 +1,74 @@
+﻿1300000010:Mənə heç bəxşiş də verməyəcəksən?
+1300000020:Bəxşiş istəyirsən? Bir məsləhət verim. Çıxanda qapı götünə dəyməsin.
+1300000030:Həmişə centlmensən, hə, Joey?
+1300000040:Hahaha, rədd ol buradan daha.
+1300000050:Hey, Gina! Mənə qoşulmaq istəyirsən?
+1300000051:Hey! Ümid edirəm, orada üç nəfərlik yer var.
+1300000052:Oooh, bir az le-le-lezbiyan...
+1300000053:Əla! Lezbiyanlar... Yaxşıdır.
+1300000054:Oh! Vannada bir az sürtüşmə, hə?
+1301000070:n_ Ah, ah, sikim, ah! Ah, lənətə gəlmiş göt, ah! Ah, ah, ah, ah, ah, sikim səni! Çəkil üstümdən! Sikim səni!
+1301000080:Nə sikim baş verir!?
+1301000090:Lənət, o Henry-dir!
+1301000100:Onu nəylə vururlar, lənət olsun?!
+1301000120:Çəpgöz anasını sikdiklərim!
+1302000004:Lənət! Bunu kim edər, Vito? O adamlar lap xəstədir!
+1302000005:Buna bax, Vito. İnana bilirsən?
+1302000010:Lənət! Bunu kim edər axı?!
+1302000013:Lənət! Bunu kim edər axı?!
+1302000020:Səncə kim?
+1302000030:Lənət olsun!
+1302000031:Lənət olsun!
+1302000011:Lənət, Henry!
+1302000040:Pul da yoxdur.
+1302000041:Pul da yoxdur.
+1302000052:Öldürdülər onu, Vito. Öldürdülər.
+1302000060:Joe, gəl... Buradan çıxmalıyıq. Henry ilə polis məşğul olar.
+1302000070:Hey, hey! O, bizə mal satan qocadır! Wong!
+1302000080:Lənətə gəlmiş çinlilər... Gəl, gedək! Mənim maşınımla!
+1303000010:İndi harada tapacağımızı bilirik.
+1303000020:Gedək içəri, pulu götürüb yox olmamış öldürək onu.
+1303000030:Dayan, əvvəl güclü silahlar lazımdır.
+1303000040:Ya Harry-nin yanına gedərik, ya da bu əclafları elə indi öldürərik. Bir sözünə baxır.
+1304000010:Bağışlayın, cənablar, bura ancaq üzvlər üçündür.
+1304000020:Al, bu da üzvlük haqqın, lənətə gəlmiş.
+1304000030:Lənət, Joe! Bir dəfə də məni dinləyə bilməzsən?
+1304000040:Yox, bilmərəm! Henry-yə nə etdiklərini gördün.
+1305000020:Öldün, çəpgöz əclaf!
+1305000030:Nə istəyirsiniz?
+1305000040:Səncə nə istəyirik, lənət olsun?!
+1305000050:Dostumuzu niyə öldürtdüyünü bilmək istəyirik. Ondan aldığın pulu da istəyirik.
+1305000060:Başqa yolum yox idi. Dostunuz hökumətə xəbərçilik edirdi.
+1305000070:Nə sikim danışırsan?!
+1305000080:Nə?!
+1305000090:Federal Narkotiklər Bürosundakı əlaqəm dedi ki, Henry Tomasino sövdələşməmiz barədə onlara məlumat verib.
+1305000100:Yalandır, sikim səni!
+1305000110:Dayan, dayan, dayan - deyirsən Henry satqın idi?
+1305000120:Bəli, amma daha deyil.
+1305000130:Cəfəngiyyatdır! Məntiqsizdir. Yəqin səninlə razılaşandan sonrakı o soyğundan da xəbərin yox idi, hə?
+1305000140:Elə axmaq riskə gedərdik? Öz fabrikimizi dağıdardıq? Bu da sizi aradan götürmək üçün bir səbəb idi. Əvvəldən sizinlə problemimiz vardı.
+1305000150:Eləmi? Bütün problemlərin indi bitir, dostum. Pulumuz haradadır?
+1305000160:Daha burada deyil.
+1305000170:Nə?!
+1305000180:Bəs haradadır, lənət olsun?
+1305000190:Deyə bilmərəm.
+1305000200:Deməsən, o sarı beynini bütün bu lənətə gəlmiş otağa səpələyəcəyəm.
+1305000210:Desəm də, onsuz da öləcəyəm.
+1305000220:Yaxşı, özün seçdin.
+1305000225:n_ təngnəfəs səsləri
+1305000230:Dəlisən?
+1305000240:Nə etmək istəyirdin, buraxaq getsin?!
+1305000250:Ondan daha çox şey öyrənə bilərdik!
+1305000260:Sikim belə işi! Heç nə deməzdi. Bu əclaflar dözümlüdür.
+1305000310:Polis gəlməmiş rədd olaq buradan.
+1306000010:Bu sövdələşmə tam bir fəlakət oldu, lənət.
+1306000020:Elə mənə de.
+1306000030:Henry ölüb, Bruno-nun pulu yoxdur, Tongların yarısını öldürdük... Carlo-nun göndərdiyini düşünsələr, müharibə olacaq.
+1306000031:Pff, batdıq.
+1306000040:Hə... Carlo onu bu zibilə saldığımızı bilsə...
+1306000050:Bəlkə Henry həqiqətən satqın idi?
+1306000060:Heç cür. Heç demə belə. Bax, əvvəl Bruno-nun pulunu tapaq. Heç olmasa bir problem həll olar. Amma bu günlük bəsimdir. İçki lazımdır, səhər zəng edərəm, bu zibili həll edərik.
+1306000070:Yaxşı.
+1306000080:Yaxşı, görüşərik. Vito, ehtiyatlı ol.
+1301000072:Henry bu aralar dəyişib, adam lap... Bu nə sikimdir?
+2000000000:n_

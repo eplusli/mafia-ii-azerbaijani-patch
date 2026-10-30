@@ -1,0 +1,38 @@
+﻿306080290:Qoca Leo arxamı qoruyanda buradan sağ çıxmaq şansım birdən xeyli yaxşı göründü...
+306080300:Amma həyatımdakı hər şey kimi... bunun da qiyməti vardı...
+306080310:Gedək, Scaletta. İşə gecikmisən.
+306080320:Hey, qulaq as, cənab Galante-nin sayəsində bu gün Vito-nun istirahət günüdür.
+306080330:Anladım. Öyrəşmə, Scaletta.
+306080340:Yaxşı, mənimlə gəl, Vito.
+306080350:Nədir, yenə məşq edəcəyik?
+306080360:Bir növ. Görəcəksən.
+306080370:Sabahın xeyir, oğlum.
+306080380:Sabahınız xeyir, cənab Galante. Bu gün məşq yoxdur?
+306080390:Tam elə deyil... Qaralardan çağırış var, O'Neill-lə böyük döyüşdən əvvəl Pepé-nin əzilməsini istəmirəm.
+306080400:Ona görə bunu sənin götürməyini istəyirəm. Yaxşı məşq olar.
+306080410:Gəl.
+306080420:Döyüşəcəyin adam güclü əclafdır, amma çox ağıllı deyil. Başıyla yox, ürəyiylə döyüşür.
+306080430:Əsəbiləşdirsən, müdafiəsini açacaq... Elə o vaxt ver payını.
+306080440:Oooh, buna bax. Bu arıq ağ oğlana dərs verəcəyəm.
+306080450:Elə vuracağam, anasının anası da hiss edəcək.
+306080460:Yaxşı, başladıq. Məni qürurlandır, oğlum.
+306080470:n_İndi, Vito! Tut onu, işini bitir!
+306080480:n_Yaxşı, oğlum, indi söndür işığını!
+306080490:n_Fürsətindir, oğlum! Elə vur, gələn həftə ayılsın!
+306080500:n_Vaxtlama, oğlum! Vaxtlama hər şeydir!
+306080510:n_Lənət, az qalmışdı!
+306080520:n_Yo, o nə sikim idi?
+306080530:n_A kişi, bu lap zibil oldu!
+306080540:n_Nə sikim oldu indicə, yo?
+306080550:n_A kişi, bu qardaşa döyüşməyi kim öyrədib...
+306080560:n_Ah, eləmə, nənəm məni bundan bərk vururdu!
+306080570:n_Bilirsiniz nə var, italyanlar? Yenə də gedin özünüzü sikin!
+306080580:n_Necədir, uşaqlar?
+306080590:n_Vuhu! Əla, Vito! Əla!
+306080600:n_Ohoho! Biri bu axmağa naşatır gətirsin!
+306080950:Yo, gözətçilərdən biri gəlir!
+306080960:Bu nədir axı, hamılıqla kef edirsiniz?
+306080970:Yaxşı, gəl, Scaletta. Qonağın var.
+306080980:Hey, nəyi gözləyirsən, Scaletta?
+306080990:Qonağını görmək istəyirsən, yoxsa döyülmək?
+306081000:Gəl bura, Scaletta, indi!

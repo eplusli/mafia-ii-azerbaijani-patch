@@ -1,0 +1,58 @@
+﻿310032160:Bağışlayın, cənab, otelin qonağısınız?
+310032170:Şey... Kömək edə bilərəm, cənab?
+310032180:Dostum. Yol göstərmək lazımdır?
+310032190:Sizə nədə kömək edə bilərəm, cənab?
+310032200:Bura ancaq işçilər üçündür, dostum.
+310032210:Azmısan, dostum?
+310032220:Yol göstərmək lazımdır?
+310032230:Arxada nə edirsən?
+310032240:Təzə oğlan kimdir?
+310032250:Bura təzə gəlmisən?
+310032260:Sən burada olmamalısan.
+310032270:Sizə nədə kömək edə bilərəm, cənab?!
+310032280:Cənab, köməyə ehtiyacınız var?
+310032290:Cənab! Qonaqsınız?
+310032300:Məncə, siz burada olmamalısınız.
+310032310:Ay Allah, yenə odur!
+310032320:Cənab! Sizə nədə kömək edə bilərəm?
+310032330:Hələ də azmısan?
+310032340:Ciddi deyirəm, arxada nə edirsən?
+310032350:Burada niyə gizlincə gəzirsən?
+310032360:Sən işçi deyilsən, hə?
+310032370:Hey! Ora girə bilməzsən!
+310032380:Dayan! Sən burada olmamalısan!
+310032390:Hara getdiyini düşünürsən?!
+310032400:Hey, dayan! 
+310032410:Dostum, burada nə edirsən?!
+310032420:Hara gedirsən?! Sən burada olmamalısan!
+310032430:Boss, burada qonağımız var!
+310032440:Hey! Sənə sual verdim! Boss!
+310032450:Boss, burada bir adam var!
+310032460:Elə orada dayan!
+310032561:Hey, hey, xeyrini istəyirsənsə, səsini alçalt.
+310032562:Öz işinə bax, dostum.
+310032563:Narahat olmağa yetəcək pul alırsan? Onda ağzını yum.
+310032564:Narahat olma, öz işinə bax.
+310032565:Sən işçisən, yoxsa sikilmiş gözətçi it?
+310032566:Məndən narahat olma. Nə edirdinsə, davam elə.
+310032567:Burada baxılası heç nə yoxdur, dostum. 
+310032568:Sadəcə keçirdim.
+310030420:n_Hey.
+310030430:n_Hə?
+310030440:n_Ting Lao'nu görmüsən?
+310030450:n_Hə.
+310030460:n_Bəs haradadır?
+310030470:n_Siqaret fasiləsinə gedib.
+310030480:n_Qrrr... Həmişə siqaret fasiləsindədir.
+310030490:n_Hə.
+310030500:n_Dəlidir.
+310030510:n_Hə.
+310030520:n_İndi onun paltarlarını da biz yumalıyıq!
+310030530:n_Bu, boş şeydir!
+310030535:n_Hə.
+310030580:n_Hey.
+310030590:n_Hə?
+310030600:n_Bu yerdən bezmişəm.
+310030610:n_Mən də.
+310030630:n_Hmm, bəlkə Huang əmi ilə mogwai yetişdirək!
+310030640:n_Hə! Nə pis ola bilər ki?

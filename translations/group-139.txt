@@ -1,0 +1,23 @@
+﻿310032000:Ah, lənət, bağlıdır! O axmaq bizim üçün açıq qoymalıydı!
+310032010:İndi gözləyib ümid etməliyik ki, o göt gələr. Lənət!
+310032020:Başqa yolla girə bilmərik?
+310032030:Yoxlaya bilərsən, mən bir az burada gözləyəcəyəm, birdən o qanmaz gələr... tənbəl zibil parçası!
+310032040:Yaxşı, içəri biletimiz gəldi.
+310032050:Hey. Hər şey hazırdır?
+310032060:Elə istədiyin kimi.
+310032070:Yaxşı, buyur. İndi rədd ol buradan.
+310032080:Səninlə iş görmək xoşdur.
+310032081:Gördün? Hamısı nəzarətdədir. Gəl, formalarımızı götürək.
+310032090:Hadi, axmaq...
+310032100:Haradasan, lənət olsun?!
+310032110:Bu adamı öldürəcəyəm, and olsun...
+310033120:Bir dəqiqə də geciksəydin, öz dəfninə gecikəcəkdin.
+310033170:Hey, hara sikdirib gedirsən?!
+310033180:Qayıt bura, Vito!
+310033190:Hoqqanı kəs!
+310030250:Hey, köməyim lazım olsa, de, Vito!
+310030260:Hər şeyə hazıram!
+310030270:Hehe, narahat olma, mənə güvənə bilərsən, dostum!
+310030280:Ah, artıq bitdi?
+310030285:Hələ yox, gözlə.
+310030290:Gələn dəfə də gələ bilərəm?

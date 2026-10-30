@@ -1,0 +1,15 @@
+﻿310020110:Empire Arms otelinə gedirik. Yeraltı dayanacaqda saxla, arxa girişdən gir.
+310020120:Ee, uşaqlar, hadi, deyin də! Oteldə nə baş verir, hə?! Hadi...
+310020130:Nədir, kitab yazırsan? Bilməli olduğun hər şeyi demişəm!
+310020140:Hey, m-mən... Bilirsiniz, sadəcə maraqlanıram. Hehe... Bu qədər gizlilik...
+310020150:Marty, bu gizlilik vacibdir. Nə qədər az bilsən, o qədər yaxşıdır.
+310020160:Sual verməyə davam etsən, gələn dəfə bizi sürməyə başqasını tapmalı olacağam.
+310020170:Yaxşı, yaxşı! Daha sual yoxdur. Əlbəttə, nə desəniz...
+310020180:Deməli, oteli göyə sovuracaqsınız, hə?!
+310020190:Marty!
+310020200:Bağışla, bağışla.
+310020210:Bir kəlmə də desən...
+310020220:Yaxşı, bağışla! Daha bir söz də yox... ürəyimin üstünə and!
+310020230:Vito, nə sikim edirsən?! Bu partlasa, hamımız öldük!
+310020240:Bağışla, bir də olmaz.
+310020250:Lənət, Vito, ehtiyatlı ol! Bir də belə silkələnsək, bizi səkidən qaşıyıb yığacaqlar!

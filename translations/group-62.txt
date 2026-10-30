@@ -1,0 +1,9 @@
+﻿304020110:Hey, qanmaz, nəyi gözləyirsən?
+304020111:Hadi, Vito. Tələs. Bütün gecəni burada keçirə bilmərik.
+304020112:Tərpən, Vito! Burada həmişəlik otura bilmərik!
+304020120:Yaxşı, indi elektriki kəs.
+304020130:Lənət, Joe, çox naqil var. "Asan" dediyini sikim.
+304020490:Ay lənət, doğrudan işlədi! İşıq söndü!
+304020500:Hə, yəqin düşündüyümdən də asan imiş.
+304020510:Gijdıllaq. Gəl, gedək.
+304030030:Buna vaxt yoxdur. Görüləsi işimiz var!

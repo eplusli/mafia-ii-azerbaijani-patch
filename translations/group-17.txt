@@ -1,0 +1,42 @@
+﻿1501002110:Hə, alo.
+1501002120:Vito. Hə, Eddie-dir. Ee, qulaq as, səndən -
+1501002130:Qoy təxmin edim. Dərhal gəlməliyəm, silah da gətirməliyəm.
+1501002140:Bu dəfə elə deyil, heh. Hə, Carlo səni planetariumda görmək istəyir.
+1501002150:Nə barədə olduğunu dedi?
+1501002160:Yox. Amma indi getsən yaxşıdır. Adamı gözlətmək olmaz, heh. Hə, görüşərik, Vito.
+1504002010:Cənab Scaletta, zəhmət olmasa, minərsiniz?
+1504002020:Vito. Min maşına.
+1504002030:Hey, qoca! Niyə qayıtmısan?
+1504002040:Min bu lənətə gəlmiş maşına. İndi.
+1504002050:Siz də...
+1504002060:Bu, dostumuz cənab Chu-dur.
+1504002070:Yaxşı... Nə baş verir axı, Leo? Bu nədir?
+1504002080:Söhbət səndən gedir.
+1504002090:İşi lap korladın, hə?
+1504002100:Lənətə gəlmiş müharibə başlatdın.
+1504002110:Nədən danışdığını bilmirəm.
+1504002120:Mənimlə oynama, oğlum. Bu iş barədə sənin öyrənəcəyindən çoxunu yəqin mən unutmuşam.
+1504002130:Adamlarımızın yarısı, cənab Chu-nun adamlarının yarısı ölüb, indi də sənin üzündən federallar hamının yaxasındadır.
+1504002140:Leo, qulaq as -
+1504002150:Sən qulaq as - mən olmasaydım, çoxdan işini bitirərdilər. Ona görə dediyimi dinləyəcəksən, yaxşı da dinləyəcəksən.
+1504002160:Çin məhəlləsində etdiklərin - o sik yalayan Henry-yə görəydi, hə? Öləndə kimə işlədiyini bilirsən?
+1504002170:Doğranıb öldürüləndə deyirsən?
+1504002180:Mənimlə, Joe ilə Carlo-ya işləyirdi.
+1504002190:Federallara işləyirdi. Lənətə gəlmiş satqın idi. Cənab Chu-nun adamları buna görə etdiklərini etdilər. Federallar da buna görə indi Carlo-nun dalıncadır.
+1504002200:İllərdir narkotik satır. Onlarla razılaşsa, hamımızı da özüylə batıracaq. Lap zibilə düşmüşük.
+1504002210:Ona görə Komissiya Carlo ilə əsas adamlarının aradan götürülməsini istəyir.
+1504002220:Amma dostlarımı unutmuram, Vito. Sən mənim üçün etdin, mən də sənin üçün. Bir-iki xahiş elədim, bunu düzəltmək üçün sənə bir şans aldım.
+1504002230:Nə şans?
+1504002231:Yaxşı. Dinləyirəm.
+1504002232:Yaxşı. Diqqətim səndədir.
+1504002240:Carlo-nu aradan götürəcəksən, hamımıza yaxşılıq edəcəksən.
+1504002250:Rədd etsəm?
+1504002251:Yox desəm, necə?
+1504002260:Ölərsən. Frank-la Komissiyanın qalanı ölümünü istəyir. Cənab Chu da. Üstəlik, satqına zamin olmusan. Carlo-nun bunu bağışlayacağını düşünürsən? Sən gəzən ölüsən.
+1504002270:Nə vaxt?
+1504002280:İndi. Gözlədiyimiz hər dəqiqə federallara verdiyimiz əlavə dəqiqədir.
+1504002290:Öz rəsədxanasında gizlənib. Bir şey olduğunu bilir. Carlo Falcone hər şey ola bilər, amma axmaq deyil.
+1504002300:Yaxşı. Maşını saxla.
+1504002301:Unutma, oğlum - bu son şansındır.
+1504002302:Nə etməli olduğunu bilirsən.
+2000000000:n_

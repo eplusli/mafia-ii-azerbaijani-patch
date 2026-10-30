@@ -1,0 +1,30 @@
+﻿302021140:Necəsən, balam? Çox dəhşətli olub yəqin. Elə qorxurdum. Hər gün sənin üçün dua edirdim.
+302021150:Yaxşıyam, ana. Çox vaxt cip sürürdüm... Bəzən döyüşməli olurdum.
+302021240:Bəs siz necə olmusunuz? Franny, sən nə iş görürsən?
+302021250:Hələ anamla yaşayıram. Yaxşı bir ofis işim var. Xərcləri ödəyir, atamın bəzi borclarını da qaytarmağa başlamışam.
+302021260:Francesca, indi bundan danışmayaq...
+302021270:Hə, sevgilin var?
+302021280:Hələ yox.
+302021290:Nə tələsirik? İndiki məhəllə oğlanları elə də yaxşı deyil. Bir gün özünə layiq adam tapar.
+302020100:Görəsən, kimdir?
+302020110:Gedim baxım.
+302020120:Vay, ana, burada hər şey olduğu kimi qalıb!
+302020150:Ah... xeyli yaxşıdır. Necə görünürəm, ana?
+302020160:Rahat, amma o qədər də qəşəng deyil. İş tapanda özünə yaxşı bir kostyum alarsan, hə?
+302020280:Belə olmaz, qalmağa yer tapmalıyam.
+302020500:n_Gəl, balaca, sənə dərs verəcəyəm!
+302020510:n_Vito, xahiş edirəm, vəziyyəti daha da pisləşdirirsən.
+302020520:n_Ah, qoçaq, qadını qorxudursan, hə?! Gəl, görüm nə bacarırsan!
+302020530:n_Kimə sataşdığını bilirsən, ay gic?
+302020540:n_Hə... Götünə təpik yeyəcək adama!
+302020011:Frankie, çox dadlı idi. İndi yaxşıca yatardım.
+302020021:Hə, Vito, yorğun görünürsən. Get yat. Otağın qoyduğun kimi qalıb.
+302020022:Səhər görüşərik.
+302020023:Rahat yat, balam.
+302020024:Gecən xeyrə, Vito.
+302020501:n_Dayan, dayan, yalvarıram. Vito, nə edirsən?
+302020502:n_Xahiş edirəm, Vito, bu, sənin problemin deyil.
+302020503:n_Yenə başını bəlaya salacaqsan, Vito.
+302140250:Get yat. Otağın qoyduğun kimi qalıb.
+302140260:Səhər görüşərik.
+302140270:Rahat yat, balam.

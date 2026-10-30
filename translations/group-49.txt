@@ -1,0 +1,30 @@
+﻿302071300:Sağ ol. Elə indi yoxlaya bilərsən. Al bu kilidi. Sadəcə aləti kilidə salıb bütün milləri qaldırmalısan. Açarla milləri bir-bir saxlayırsan. Hamısı yerinə oturanda açarı çevirirsən, kilid açılır. Asandır.
+302071310:Asandır, hə?
+302071320:Narahat olma, öyrəşərsən. Açarı maşında unudanda həmişə edirəm.
+302080460:Yaxşı, ana dedi limanda Derek Papalardo-nu görüm. Ora getsəm yaxşıdır.
+302140500:Yaxşı, hələ də o maşını götürmək istəyirsən?
+302140510:Zarafat edirsən? Əlbəttə.
+302140520:Bax, fürsətin budur.
+302140521:Bəlkə bir sınaq sürüşünə çıxasan.
+302140530:Lənət, polislər. Tez, tez, min.
+302140540:Qazı bas!
+302140550:Allah xatirinə, sür, sür!
+302140560:Ay sikim, az qalmışdı.
+302140570:Hə, hələ bitməyib!
+302140580:Tez qurtul onlardan!
+302140590:Qurtul, bir yerdə gizlənək!
+302140600:Ah, lənət, dedim axı, qazı bas!
+302140610:Yaxşı. Deyəsən, qurtulduq.
+302140620:Maşını bəyəndin?
+302140630:Pis deyil. Deyəsən, saxlayacağam.
+302140640:Yaxşı, bir təmirxana tapaq. Bizə lazım olan xidmətləri göstərirlər.
+302140641:Hey, bu ucuz səslənmir.
+302140642:Narahat olma. Mən həll edəcəyəm.
+302140650:Yaxşı, haradadır?
+302140690:İstənilən təmirxananı tap. İşlədən adamı tanıyıram.
+302140700:Burada, qaraj qapısının qabağında saxla.
+302140710:Yaxşı, indi siqnal ver.
+302140720:Ah, lənət, polis səni artıq tanıyıb.
+302140730:Aldatmağın bir yolu paltarını dəyişməkdir.
+302140740:Bir paltar dükanı tapaq, sənə təzə paltar alaq.
+302140750:Paltarını dəyişəndən sonra polis tanımayacaq.

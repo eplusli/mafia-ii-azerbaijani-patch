@@ -1,0 +1,32 @@
+﻿313010000:Alo?
+313010010:Vito, Henry-dir. Problemimiz var.
+313010020:Nə problemi?
+313010030:Eddie yanıma gəlmişdi. Carlo işdən xəbər tutub, Eddie-ni payını almağa göndərib.
+313010040:Uff... Nə qədər?
+313010050:Altmış min.
+313010060:Siktir, bu qədər?! Nə edəcəyik?
+313010070:Bilmirəm, qalan pul heç Bruno-ya da çatmır. Parkda görüşək, bunu telefonda danışmaq istəmirəm.
+313010080:Yaxşı, indi gəlirəm.
+313010081:Hamınızı bir-bir öldürəcəyəm!
+313010082:Gəlin bura, sarı əclaflar!
+313010083:İşinizi bitirəndən sonra sizi tikə-tikə doğrayacağam, xəstə əclaflar!
+313010005:Barbaro-nun əxlaqsızlıq evi. Səndə pul var, bizdə qızlar.
+313010090:Joe. Getməliyik.
+313010100:Nə? Niyə?
+313010110:İndi, Joe. Yolda deyərəm.
+313010120:Yaxşı. Qızlar, çıxanda qapını kilidləyin. Mən və Vito-nun işi var.
+313010130:Nə baş verir axı?
+313010140:Zəng edən Henry idi. Carlo işdən xəbər tutub.
+313010150:Ahhh, lənəəət! Bizim də əlimiz olduğunu bilir?
+313010160:Deyəsən, yox. Maşında danışarıq.
+313010170:Hara gedirik?
+313010180:Lincoln Park-a.
+313010190:Henry ilə orada görüşürük?
+313010200:Hə.
+313010210:Yaxşı, Henry telefonda nə dedi? Yaxşıdır?
+313010220:Səsindən yaxşı görünürdü. Amma Carlo qazancdan payını götürüb.
+313010230:Siktir... Henry demişdi axı, xəbər tutsa, belə edəcək.
+313010240:Hə, amma indi problem budur ki, Bruno-nun pulunu da qaytara bilmirik.
+313010250:Ah, lənət! Nə cəhənnəm edəcəyik?
+313010260:Bilmirəm. Parka çatanda fikirləşərik.
+313010270:Hə. Henry nə edəcəyimizi bilər.

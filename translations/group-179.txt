@@ -1,0 +1,28 @@
+﻿314040010:n_Nə sikim?... Uşaqlar, niyə gedirsiniz? Əyləncə təzə başlayır!
+314040020:n_Lənət! Açıblar özlərini!
+314040030:Düz deyirsən. Əsl əyləncə təzə başlayır.
+314040040:n_Gəl, ay göt!
+314050580:n_Nə sikim?! O kimdir?! Ey! Barbaro qaçır!
+314050590:n_Lənət! Diqqətli olun, uşaqlar! Barbaro qaçır!
+314050600:n_Ey! Barbaro qaçır!
+314050610:n_O əclaf qaçır! Tutun onu!
+314050620:n_Lənət, Barbaro qaçmağa çalışır! Kömək lazımdır!
+314050630:n_Hara getdiyini sanırsan?! Ey, uşaqlar! Barbaro qaçır!
+314050628:Əclaf, siktir... İyrənc əclaf... Hadi, hadi, əclaf!
+314050629:Ohhhh. İlahi... Özümü yarıölü hiss edirəm.
+314050631:Şükür elə. Görünüşündən lap tam ölmüsən.
+314050632:Sağ ol, Vito. Əsl dostsan ha.
+314050633:Bizi bu zəhrimar binanın bünövrəsinə basdırmamış buradan çıxmalıyıq.
+314050634:O qoca əclaf Vinci-ni görsəm, başını partladacağam.
+314050635:Hara gedirik axı?
+314050636:Bilmirəm... Bəlkə aşağı? Sənə uyğundur?
+314050637:Uff... Görürəm, hər şeyi yaxşı planlaşdırmısan.
+314050638:Ey, Marco Polo. Aşağı yol bu tərəfdədir! Boş-boş iş görmə.
+314050639:Bu tərəfə, Vito.
+314050640:Vay, lənət, şəhərdəki bütün götlər niyə buradadır?
+314050611:Ey, bu atışma nədir?
+314050612:Ah, lənət, Barbaro ilə onun zəhrimar sevgilisidir! Tez... Bura gəlin!
+314050613:Ey, o şey yanandır!
+314050614:Qoymayın o sikyeyənlər qaçsın!
+314050615:Hamınız indi bura gəlin!
+314050616:Ey, elə bilirdim, tək Barbaro-dur? O arıq gijdillaq kimdir?

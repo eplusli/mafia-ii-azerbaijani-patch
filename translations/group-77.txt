@@ -1,0 +1,30 @@
+﻿306090010:Gedək, Scaletta. O ayaqyolları öz-özünə təmizlənməyəcək.
+306090020:Gedək, Scaletta. Görüləsi işin var.
+306090030:Döyülmək istəyirsən? Gedək!
+306090040:Hadi, işi yarımçıq görmə.
+306090050:Fevralda bəkməzdən də ləngsən, bilirsən?
+306090060:Gedək daha, sürətini artır!
+306090070:Daha səsini eşitmək istəmirəm. Xoşuna gəlmirsə, yenə ayaqyolu təmizləyə bilərsən.
+306090080:Deməli, təzə təmizlikçi arvad sənsən, hə? Arxamca gəl.
+306090090:Buyur. Parıldat, tez elə.
+306090100:Nə olub? Təmizləməyə davam elə, yoxsa...
+306090110:Hey, deyəsən, bu hələ çirklidir. Yenə təmizlə.
+306090120:Karsan? O işəklik yeri təmizlə, indi!
+306090130:Karsan? O ayaqyolunu təmizlə, İNDİ!
+306090140:Təcridxanada bir az da qalmaq istəyirsən? Onda başla təmizləməyə!
+306090150:Bax belə daha yaxşıdır. Yaxşı təmizlə.
+306090160:Yaxşı, bəsdir. İndi duşda o biri heyvanlara qoşulacaqsan. Tərpən.
+306090170:Hey. Hey! Təcili tibbi yardıma ehtiyacım var. Biri gəlib məni dərhal xəstəxanaya aparsın.
+306090180:A kişi, səsini kəsməlisən. O ağ götünə heç nə olmayıb. Amma deyim - belə bağırmağa davam etsən, olacaq.
+306090190:Hey, buna bax. O təzə oğlandır. Nə dava idi, a kişi! Əyləncəyə görə sağ ol. Gələn dəfə bilet satın.
+306090210:Hey, dostum, bəsdir?
+306090220:Yo, o zibili başqa yerdə məşq elə.
+306090230:Hadi, a kişi, bizi öldürürsən.
+306090240:İlahi... Oxumağın burada başıma gələn ikinci ən pis şeydir.
+306090250:Hey, İNDİ səsinizi kəsin, HAMINIZ!
+306090260:Sakit olun, uşaqlar. Sadəcə səsimi məşq etdirirəm.
+306090270:Belə getsə, sifətini məşq etdirəcəyəm, anladın?
+306090280:Yaxşı, yaxşı. İlahi, heç mədəniyyətiniz yoxdur.
+306090290:Yaxşı, Scaletta, zəhmət olmasa soyun, yuyun.
+306090380:n_Heheheh... Əyləncə vaxtıdır... Gəl rəqs edək, şirinim...
+306090390:Nə - hey, hey! Dayanın, nə baş verir axı! Frank haradadır?
